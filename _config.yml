@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 email: andrewhemans@gmail.com
-description: ''
-baseurl: ''
+description: 
+baseurl: 
 url: http://placeholdermagazine.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
