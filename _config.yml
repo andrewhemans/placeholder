@@ -1,0 +1,17 @@
+---
+title: Placeholder!
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: andrewhemans@gmail.com
+description: 
+baseurl: 
+url: http://placeholdermagazine.com
+twitter_username: PlaceholderMag
+github_username: andrewhemans
+markdown: kramdown
