@@ -1,24 +1,25 @@
 ---
-id: 685
 title: Volume 2 is here!
-date: 2015-06-08T18:46:27+00:00
+date: 2015-06-08 18:46:27 Z
+permalink: "/2015/06/08/volume-2-is-here/"
+categories:
+- Culture
+- Uncategorized
+- Writing
+tags:
+- culture
+- magazine
+- placeholder
+- Stockton
+- volume 2
+id: 685
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=685
-permalink: /2015/06/08/volume-2-is-here/
 videourl:
-  - ""
-categories:
-  - Culture
-  - Uncategorized
-  - Writing
-tags:
-  - culture
-  - magazine
-  - placeholder
-  - Stockton
-  - volume 2
+- ''
 ---
+
 &nbsp;
 
 [<img class="size-full wp-image-695 aligncenter" src="http://localhost:8888/wordpress/wp-content/uploads/2015/06/vol21.jpg" alt="vol2" width="960" height="960" srcset="http://localhost:8888/wordpress/wp-content/uploads/2015/06/vol21.jpg 960w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/vol21-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/vol21-300x300.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/vol21-768x768.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/vol21-100x100.jpg 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](http://localhost:8888/wordpress/wp-content/uploads/2015/06/vol21.jpg)

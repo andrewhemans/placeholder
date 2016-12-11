@@ -1,17 +1,18 @@
 ---
-id: 558
 title: Written and Directed by Danny Sperry
-date: 2014-10-15T00:20:13+00:00
+date: 2014-10-15 00:20:13 Z
+permalink: "/2014/10/15/written-and-directed-by-danny-sperry/"
+categories:
+- Uncategorized
+- Writing
+id: 558
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=558
-permalink: /2014/10/15/written-and-directed-by-danny-sperry/
 videourl:
-  - ""
-categories:
-  - Uncategorized
-  - Writing
+- ''
 ---
+
 <p style="text-align: center;">
   <strong>Brine Leak</strong>
 </p>

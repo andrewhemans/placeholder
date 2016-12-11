@@ -1,17 +1,18 @@
 ---
-id: 790
 title: 'Harmonizing with the People&#8217;s Voice : COP21 Blog'
-date: 2016-06-02T21:48:02+00:00
+date: 2016-06-02 21:48:02 Z
+permalink: "/2016/06/02/harmonizing-with-the-peoples-voice-cop21-blog/"
+categories:
+- Climate
+- Uncategorized
+id: 790
 author: Ryan Camero
 layout: post
 guid: http://www.placeholdermagazine.com/?p=790
-permalink: /2016/06/02/harmonizing-with-the-peoples-voice-cop21-blog/
 videourl:
-  - ""
-categories:
-  - Climate
-  - Uncategorized
+- ''
 ---
+
 _This post is the fourth installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](http://www.placeholdermagazine.com/climate/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/), [2](http://www.placeholdermagazine.com/climate/a-determined-delegation/), and [3](http://www.placeholdermagazine.com/climate/the-leap-manifesto-from-canada-to-californias-climate-cop21-blog/) here._
 
 <span style="font-weight: 400;">POST-PARIS &#8211; I’m of the opinion that it is through our pleasures that we build the ability to live through our pain. One of my favorite and healing pastimes is singing, which I largely owe to growing up with a karaoke machine and a goofy, loving family that pulled it out every holiday. </span>

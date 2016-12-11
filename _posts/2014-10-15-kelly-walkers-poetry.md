@@ -1,22 +1,23 @@
 ---
+title: Kelly Walker&#8217;s Poetry
+date: 2014-10-15 00:20:29 Z
+permalink: "/2014/10/15/kelly-walkers-poetry/"
+categories:
+- Poetry
+- Uncategorized
+tags:
+- kelly walker
+- poems
+- poetry
 id: 551
-title: 'Kelly Walker&#8217;s Poetry'
-date: 2014-10-15T00:20:29+00:00
 author: Featured Contributor
 layout: post
 guid: http://www.placeholdermagazine.com/?p=551
-permalink: /2014/10/15/kelly-walkers-poetry/
 videourl:
-  - ""
+- ''
 image: uploads/2014/09/kelly_walker.jpg
-categories:
-  - Poetry
-  - Uncategorized
-tags:
-  - kelly walker
-  - poems
-  - poetry
 ---
+
 The following poems and photos were submitted by Kelly Walker for the first issue of Placeholder Magazine. We did not have the space but still wish to showcase her talent.
 
 <!--more-->

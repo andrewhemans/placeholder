@@ -1,19 +1,20 @@
 ---
+title: "#weouthere by Eliana Cetto"
+date: 2014-10-15 00:19:45 Z
+permalink: "/2014/10/15/weouthere-by-eliana-cetto/"
+categories:
+- Art
+- Photography
+- Uncategorized
 id: 562
-title: '#weouthere by Eliana Cetto'
-date: 2014-10-15T00:19:45+00:00
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=562
-permalink: /2014/10/15/weouthere-by-eliana-cetto/
 videourl:
-  - ""
-categories:
-  - Art
-  - Photography
-  - Uncategorized
+- ''
 format: gallery
 ---
+
 The following works are from a series titled &#8220;#weouthere&#8221; by Eliana Cetto, printed on <span style="color: #444444;">8&#8243; x 9&#8243; Photopolymer print and text in 2013. Eliana describes her work.</span>
 
 <div id='gallery-1' class='gallery galleryid-562 gallery-columns-2 gallery-size-thumbnail'>

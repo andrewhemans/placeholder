@@ -1,17 +1,18 @@
 ---
-id: 709
 title: 'A Child of the San Joaquin River at the Paris Climate Conference : COP21 Blog'
-date: 2015-12-08T19:07:24+00:00
+date: 2015-12-08 19:07:24 Z
+permalink: "/2015/12/08/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/"
+categories:
+- Climate
+- Uncategorized
+id: 709
 author: Ryan Camero
 layout: post
 guid: http://www.placeholdermagazine.com/?p=709
-permalink: /2015/12/08/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/
 videourl:
-  - ""
-categories:
-  - Climate
-  - Uncategorized
+- ''
 ---
+
 _This post originally appeared on [Restore the Delta](http://restorethedelta.org/blog/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/)&#8216;s blog, and is the first installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [2](http://www.placeholdermagazine.com/climate/a-determined-delegation/), [3](http://www.placeholdermagazine.com/climate/the-leap-manifesto-from-canada-to-californias-climate-cop21-blog/), and [4](http://www.placeholdermagazine.com/climate/harmonizing-with-the-peoples-voice-cop21-blog/) here._<figure id="attachment_712" style="width: 676px" class="wp-caption aligncenter">
 
 [<img class="wp-image-712 size-large" src="http://www.placeholdermagazine.com/wp-content/uploads/2016/01/22840063714_0694293c8f_o-1024x678.jpg" alt="22840063714_0694293c8f_o" width="676" height="447" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/22840063714_0694293c8f_o-e1452971363172.jpg)<figcaption class="wp-caption-text">Zero carbon emissions by 2050 action, in solidarity with the most vulnerable countries to climate change. Photo by [SustainUS](https://www.flickr.com/photos/sustainus/22840063714/).</figcaption></figure> 

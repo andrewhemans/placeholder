@@ -1,17 +1,18 @@
 ---
-id: 556
 title: Words from Nicholas Grgurevic
-date: 2014-10-15T00:19:58+00:00
+date: 2014-10-15 00:19:58 Z
+permalink: "/2014/10/15/words-from-nicholas-grgurevic/"
+categories:
+- Poetry
+- Uncategorized
+id: 556
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=556
-permalink: /2014/10/15/words-from-nicholas-grgurevic/
 videourl:
-  - ""
-categories:
-  - Poetry
-  - Uncategorized
+- ''
 ---
+
 The following poems were submitted by Nicholas Grgurevic but did not make it to the first issue of Placeholder Magazine, though we think they deserve to be read.
 
 <!--more-->

@@ -1,24 +1,26 @@
 ---
+title: Old hotel in Sacramento slated for destruction is given a final, refreshing
+  breath by over 60 artists
+date: 2016-02-09 07:38:33 Z
+permalink: "/2016/02/09/sacramento-hotel-slated-for-destruction/"
+categories:
+- Art
+- Culture
+- Photography
+- Uncategorized
+tags:
+- ArtHotel
+- Installation
+- M5
+- Sacramento
 id: 757
-title: Old hotel in Sacramento slated for destruction is given a final, refreshing breath by over 60 artists
-date: 2016-02-09T07:38:33+00:00
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=757
-permalink: /2016/02/09/sacramento-hotel-slated-for-destruction/
 videourl:
-  - ""
-categories:
-  - Art
-  - Culture
-  - Photography
-  - Uncategorized
-tags:
-  - ArtHotel
-  - Installation
-  - M5
-  - Sacramento
+- ''
 ---
+
 &nbsp;
 
 _[<img class="aligncenter wp-image-771" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/purplegril-1024x682.jpg" alt="purplegril" width="800" height="533" />](http://localhost:8888/wordpress/wp-content/uploads/2016/02/purplegril.jpg)Photography by Dana Al-Hindi_

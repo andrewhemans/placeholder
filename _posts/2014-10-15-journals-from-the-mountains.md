@@ -1,18 +1,19 @@
 ---
-id: 628
 title: Journals from the Mountains
-date: 2014-10-15T02:47:17+00:00
+date: 2014-10-15 02:47:17 Z
+permalink: "/2014/10/15/journals-from-the-mountains/"
+categories:
+- Art
+- Uncategorized
+id: 628
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=628
-permalink: /2014/10/15/journals-from-the-mountains/
 videourl:
-  - ""
+- ''
 image: uploads/2014/10/Vernacular-Typography_Composition-Notebook_031.jpg
-categories:
-  - Art
-  - Uncategorized
 ---
+
 Meet Cedric Cunningham, a [California Conservation Corps](https://www.facebook.com/pages/California-Conservation-Corps/103974782970944?directed_target_id=0) member, and a [NOLS Patagonia](https://www.facebook.com/pages/NOLS-Patagonia/273559846082457?directed_target_id=0) National Outdoor Leadership School graduate. For the last three years Cedric has worked in the [Great Smoky Mountains National Park](https://www.facebook.com/GreatSmokyMountainsNPS?directed_target_id=0), trained in outdoor education in Chile, and is currently spending his second summer working with a trail crew at [Sequoia and Kings Canyon National Parks](https://www.facebook.com/pages/Sequoia-and-Kings-Canyon-National-Parks/145808212106571?directed_target_id=0). While working with his crew Cedric draws inspiration from the mountains and nature, continuing his passions for drawing, making comics, and writing poetry/ short stories.
 
 <!--more-->
