@@ -12,7 +12,6 @@ guid: http://www.placeholdermagazine.com/?p=635
 videourl:
 - ''
 image: uploads/2014/10/tumblr_mlz8oyDXXP1rbbb43o1_1280.jpg
-
 ---
 
 <span class="il">Brandon</span> Getty was born and raised in Stockton, California. In his photography, he strives for honesty without compromising respect. He has maintained &#8220;[Maps to Stockton](http://mapstostockton.tumblr.com/)&#8220;, a blog about the city&#8217;s residential and urban space, since 2012.
