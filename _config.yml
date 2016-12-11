@@ -17,9 +17,9 @@ defaults:
     image: ''
     featured: ''
 email: andrewhemans@gmail.com
-description:
-baseurl:
-url:
+description: 
+baseurl: 
+url: 
 twitter_username: PlaceholderMag
 github_username: andrewhemans
 markdown: kramdown
