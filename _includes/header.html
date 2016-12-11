@@ -1,25 +1,24 @@
 <header class="site-header">
 
   <div class="intro-container">
+    {% for posts in site.posts limit:1 %}
     <div class="intro-logo">
-      <img src="images/logo.svg" />
+      <img src="/images/logo.svg" />
     </div>
     <div class="feature">
       <div class="feature-title">
-        <p>Brandon Getty's Maps To Stockton Vol. 1 Release</p>
+        <p>{{ post.title }}</p>
       </div>
       <div class="feature-subtitle">
-        <p>Photography | November 24 | By Ryan Camero</p>
+        <p>{{ post.date | date: '%B %d, %Y' }} | {{ post.author }}</p>
       </div>
       <div class="feature-blurb">
       </div>
     </div>
-
+    {% endfor %}
   </div>
 
   <div class="parallax-background" id="1">
-
-
   </div>
 
 </header>
