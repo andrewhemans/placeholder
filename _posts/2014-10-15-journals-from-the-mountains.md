@@ -1,13 +1,8 @@
 ---
-id: 628
 title: Journals from the Mountains
 date: 2014-10-15T02:47:17+00:00
 author: Javier padilla reyes
 layout: post
-guid: http://www.placeholdermagazine.com/?p=628
-permalink: /2014/10/15/journals-from-the-mountains/
-videourl:
-  - ""
 image: uploads/2014/10/Vernacular-Typography_Composition-Notebook_031.jpg
 categories:
   - Art

@@ -1,13 +1,8 @@
 ---
-id: 721
 title: 'A Determined Delegation &#8211; Stories from SustainUS : COP21 Blog'
 date: 2016-01-03T19:26:36+00:00
 author: Ryan Camero
 layout: post
-guid: http://www.placeholdermagazine.com/?p=721
-permalink: /2016/01/03/a-determined-delegation/
-videourl:
-  - ""
 categories:
   - Climate
   - Uncategorized
@@ -20,11 +15,11 @@ As a newcomer being welcomed into a space that had delegates preparing months be
 
 I hold a deep love for this year’s dreamy heart breaker delegation of 21 (22 including me as the black sheep delegate!), not all pictured here:<figure id="attachment_723" style="width: 676px" class="wp-caption aligncenter">
 
-[<img class="wp-image-723 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/12314302_2750843965315_7135540346971485937_o-1024x664.jpg" alt="12314302_2750843965315_7135540346971485937_o" width="676" height="438" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/12314302_2750843965315_7135540346971485937_o.jpg)<figcaption class="wp-caption-text">Official [SustainUS](https://www.flickr.com/photos/sustainus/) delegation group photo.</figcaption></figure> 
+[<img class="wp-image-723 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/12314302_2750843965315_7135540346971485937_o-1024x664.jpg" alt="12314302_2750843965315_7135540346971485937_o" width="676" height="438" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/12314302_2750843965315_7135540346971485937_o.jpg)<figcaption class="wp-caption-text">Official [SustainUS](https://www.flickr.com/photos/sustainus/) delegation group photo.</figcaption></figure>
 
 A typical meeting for our delegation involved us huddled up together in the corner of our hostel, taking turns offering our viewpoints and planning our individual and collective actions for the day. As time passed, I began to see the immense and shared passion that centered us as a team – and the very diverse skillsets and experiences inspired in me an understanding that I was in the presence of a <a href="http://sustainus.org/cop21/delegation/" target="_blank">supergroup of resilient youth representing the U.S.</a> I was astounded at the team’s ability to produce a maelstrom of news pieces across major media, spanning <a href="http://www.buzzfeed.com/climatejourney/19-ways-you-can-work-for-climate-justice-1z3qx" target="_blank">BuzzFeed</a>, <a href="http://thoughtcatalog.com/leehi-yona/2015/12/love-the-world-till-it-hurts/" target="_blank">Thought Catalog</a>, the<a href="http://www.thetakeaway.org/story/next-generation-and-cop21/" target="_blank">Takeaway on NPR</a>, the <a href="http://www.huffingtonpost.com/raquel-rosenberg/a-future-under-negotiatio_b_8684612.html" target="_blank">Huffington Post</a>, and others.<figure id="attachment_724" style="width: 676px" class="wp-caption aligncenter">
 
-[<img class="wp-image-724 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-1024x768.jpg" alt="image" width="676" height="507" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-1024x768.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-300x225.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-768x576.jpg 768w" sizes="(max-width: 676px) 100vw, 676px" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/image.jpg)<figcaption class="wp-caption-text">One of our full delegation (full-del) morning meetings. Photo by Ryan Camero.</figcaption></figure> 
+[<img class="wp-image-724 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-1024x768.jpg" alt="image" width="676" height="507" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-1024x768.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-300x225.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/image-768x576.jpg 768w" sizes="(max-width: 676px) 100vw, 676px" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/image.jpg)<figcaption class="wp-caption-text">One of our full delegation (full-del) morning meetings. Photo by Ryan Camero.</figcaption></figure>
 
 <p dir="ltr">
   There were the fearless and adventurous <a href="http://mashable.com/2015/12/06/paris-climate-summit-youth/#U_DzD3FP_OqL" target="_blank">Morgan Curtis</a> and <a href="http://thoughtcatalog.com/garrett-blad/2015/12/our-patronus-moment/" target="_blank">Garrett Blad</a>, a duo who went on a five-month bicycling/listening tour called <a href="http://climatejourney.org/" target="_blank">Climate Journey</a> in pursuit of understanding this crisis from personal stories, having traveled through three states, two provinces, and nine countries to get to Paris.
@@ -54,26 +49,26 @@ A typical meeting for our delegation involved us huddled up together in the corn
   These thoughts propel energy for the changes we need to see- the ones that reach not just some of us, but all of us. And it’s with these moments that I am feeling, more than ever, that our shared awareness is unearthing a undeniable movement of movements.
 </p><figure id="attachment_725" style="width: 676px" class="wp-caption aligncenter">
 
-[<img class="wp-image-725 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-1024x768.jpg" alt="23594629422_63e608952f_o" width="676" height="507" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-1024x768.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-300x225.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-768x576.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o.jpg 1600w" sizes="(max-width: 676px) 100vw, 676px" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o.jpg)<figcaption class="wp-caption-text">In the streets at the D12 (December 12th) protest, where thousands gathered. Photo by [Joel Lukhovi](https://www.flickr.com/photos/paris-climate-conference/23594629422/in/album-72157661621205229/).</figcaption></figure> 
+[<img class="wp-image-725 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-1024x768.jpg" alt="23594629422_63e608952f_o" width="676" height="507" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-1024x768.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-300x225.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o-768x576.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o.jpg 1600w" sizes="(max-width: 676px) 100vw, 676px" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/23594629422_63e608952f_o.jpg)<figcaption class="wp-caption-text">In the streets at the D12 (December 12th) protest, where thousands gathered. Photo by [Joel Lukhovi](https://www.flickr.com/photos/paris-climate-conference/23594629422/in/album-72157661621205229/).</figcaption></figure>
 
 Movement is a beautiful, multi-faceted concept. There is an absolutely inspiring and incredible video called <a href="https://vimeo.com/76129556" target="_blank">Orgesticulanismus, by Belgian animator Mathieu Labaye</a> that I deeply encourage anyone to watch. Labaye made this <a href="https://vimeo.com/76129556" target="_blank">nine-minute animation</a> in tribute to his father Benoit, who suffered from a multiple sclerosis that turned him paraplegic. His work celebrates his father’s intimate understanding of the human importance of movement, physically and metaphorically. I find so much beauty in these words, an interview with Benoit, spoken in the video:
 
 > <p dir="ltr">
 >   “I think it’s by the movement you appropriate your own life. By the freedom to come and go, to have gestures of love, tenderness, anger, whatever. When you are deprived of movements, as I am and as a lot of other people are, I think if you want to survive, you must reinvent the movement differently. And so what happens inside my head isn’t purely brain, purely intellectual. It’s a way of recreating an inner space which is also my freedom.
 > </p>
-> 
+>
 > <p dir="ltr">
 >   When you live a severe handicap, when you live absolutely still, dependent, you live, in fact, something that can’t be shared, that can’t be easily expressed, which you can’t easily talk about. Because when two people talk, to be able to understand each other, they need to have a minimum of common experience between them, to speak of something they both know from some form of experience.”
 > </p>
 
 &nbsp;<figure id="attachment_726" style="width: 676px" class="wp-caption aligncenter">
 
-[<img class="wp-image-726 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-1024x682.jpg" alt="0ejf" width="676" height="450" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-1024x682.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-300x200.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-768x512.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf.jpg 1600w" sizes="(max-width: 676px) 100vw, 676px" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf.jpg)<figcaption class="wp-caption-text">The many movements of Orgesticulanismus, the animation by Belgian artist [Mathieu Labaye](http://www.camera-etc.be/home/contact/staff/mathieu-labaye/).</figcaption></figure> 
+[<img class="wp-image-726 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-1024x682.jpg" alt="0ejf" width="676" height="450" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-1024x682.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-300x200.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf-768x512.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf.jpg 1600w" sizes="(max-width: 676px) 100vw, 676px" />](http://localhost:8888/wordpress/wp-content/uploads/2016/01/0ejf.jpg)<figcaption class="wp-caption-text">The many movements of Orgesticulanismus, the animation by Belgian artist [Mathieu Labaye](http://www.camera-etc.be/home/contact/staff/mathieu-labaye/).</figcaption></figure>
 
 > <p dir="ltr">
 >   “Sure, the stillness, the handicap, brings you to the conclusion and to the gradual acceptance that there’s a certain number of things that you can’t do. But conversely I think it opens a whole bunch of new possibilities, notably with inner freedom, inner space, but also with the way you can come in contact, in relation with others.
 > </p>
-> 
+>
 > <p dir="ltr">
 >   I think there is in the handicap, in the disease, a lot of potentiality. Human beings have endless supplies of desire, of energy, of inner strength. And it’s something you discover with maybe more urge, more intensity, when you’re deprived of movement.”
 > </p>

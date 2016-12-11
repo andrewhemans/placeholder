@@ -1,13 +1,8 @@
 ---
-id: 757
 title: Old hotel in Sacramento slated for destruction is given a final, refreshing breath by over 60 artists
 date: 2016-02-09T07:38:33+00:00
 author: Javier padilla reyes
 layout: post
-guid: http://www.placeholdermagazine.com/?p=757
-permalink: /2016/02/09/sacramento-hotel-slated-for-destruction/
-videourl:
-  - ""
 categories:
   - Art
   - Culture
@@ -34,28 +29,28 @@ For times and more information, visit <http://www.m5arts.com/> or check out the 
 [<img class="alignnone size-large wp-image-777" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/arthotel-1024x682.jpg" alt="arthotel" width="676" height="450" />](http://localhost:8888/wordpress/wp-content/uploads/2016/02/arthotel.jpg)
 
 <div id='gallery-5' class='gallery galleryid-757 gallery-columns-2 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
+  <figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2016/02/09/sacramento-hotel-slated-for-destruction/pink/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/pink-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/pink-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/pink-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2016/02/09/sacramento-hotel-slated-for-destruction/ladysteps/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/ladysteps-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/ladysteps-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/ladysteps-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2016/02/09/sacramento-hotel-slated-for-destruction/quick-brown/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/Quick-Brown-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/Quick-Brown-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/Quick-Brown-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2016/02/09/sacramento-hotel-slated-for-destruction/carved/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/carved-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/carved-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/carved-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2016/02/09/sacramento-hotel-slated-for-destruction/birds-nest/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/birds-nest-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/birds-nest-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/birds-nest-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2016/02/09/sacramento-hotel-slated-for-destruction/hangedhangers/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/hangedhangers-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/hangedhangers-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/hangedhangers-100x100.jpg 100w" sizes="100vw" /></a>
   </div></figure>

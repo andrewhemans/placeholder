@@ -4,11 +4,8 @@ title: A City With No Center
 date: 2014-09-03T21:38:21+00:00
 author: Featured Contributor
 layout: post
-guid: http://www.placeholdermagazine.com/?p=534
-permalink: /2014/09/03/a-city-with-no-center/
-videourl:
-  - ""
 image: uploads/2014/09/brigde.jpg
+featured: true
 categories:
   - Culture
   - Uncategorized
@@ -16,7 +13,6 @@ tags:
   - Freeway
   - Lang
   - Stockton
-format: image
 ---
 #### Featured Contributor: Lange Luntao
 

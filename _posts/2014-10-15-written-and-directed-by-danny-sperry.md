@@ -1,13 +1,8 @@
 ---
-id: 558
 title: Written and Directed by Danny Sperry
 date: 2014-10-15T00:20:13+00:00
 author: Javier padilla reyes
 layout: post
-guid: http://www.placeholdermagazine.com/?p=558
-permalink: /2014/10/15/written-and-directed-by-danny-sperry/
-videourl:
-  - ""
 categories:
   - Uncategorized
   - Writing
@@ -25,7 +20,7 @@ categories:
 <!--more-->
 
 
-  
+
 Walden charges into the office where he finds his brother Wayne face down at the desk.  He appears infected or possibly even dead.
 
 &nbsp;

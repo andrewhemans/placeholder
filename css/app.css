@@ -233,6 +233,16 @@ right: 0%;
 
 }
 
+/*Post Content*/
+.post-content {
+  max-width: 800px;
+  position: relative;
+  padding: 50px;
+  font-size: 20px;
+	margin: 0 auto;
+}
+
+
 
 /*Featured Video*/
 

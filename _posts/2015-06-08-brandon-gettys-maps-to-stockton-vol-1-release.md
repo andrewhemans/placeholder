@@ -1,13 +1,8 @@
 ---
-id: 678
 title: 'Brandon Getty&#8217;s Maps to Stockton Vol. 1 Release'
 date: 2015-06-08T18:37:23+00:00
 author: Ryan Camero
 layout: post
-guid: http://www.placeholdermagazine.com/?p=678
-permalink: /2015/06/08/brandon-gettys-maps-to-stockton-vol-1-release/
-videourl:
-  - ""
 categories:
   - Culture
   - Photography

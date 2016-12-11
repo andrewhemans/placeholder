@@ -1,13 +1,8 @@
 ---
-id: 562
 title: '#weouthere by Eliana Cetto'
 date: 2014-10-15T00:19:45+00:00
 author: Javier padilla reyes
 layout: post
-guid: http://www.placeholdermagazine.com/?p=562
-permalink: /2014/10/15/weouthere-by-eliana-cetto/
-videourl:
-  - ""
 categories:
   - Art
   - Photography
@@ -17,24 +12,24 @@ format: gallery
 The following works are from a series titled &#8220;#weouthere&#8221; by Eliana Cetto, printed on <span style="color: #444444;">8&#8243; x 9&#8243; Photopolymer print and text in 2013. Eliana describes her work.</span>
 
 <div id='gallery-1' class='gallery galleryid-562 gallery-columns-2 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
+  <figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2014/10/15/weouthere-by-eliana-cetto/weouthere_23/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_23-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_23-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_23-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2014/10/15/weouthere-by-eliana-cetto/weouthere_08/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_08-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_08-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_08-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2014/10/15/weouthere-by-eliana-cetto/weouthere_18/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_18-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_18-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_18-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2014/10/15/weouthere-by-eliana-cetto/weouthere_24/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_24-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_24-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_24-100x100.jpg 100w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2014/10/15/weouthere-by-eliana-cetto/weouthere_07/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_07-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_07-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2014/10/WeOutHere_07-100x100.jpg 100w" sizes="100vw" /></a>
   </div></figure>

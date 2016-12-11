@@ -1,13 +1,8 @@
 ---
-id: 685
 title: Volume 2 is here!
 date: 2015-06-08T18:46:27+00:00
 author: Javier padilla reyes
 layout: post
-guid: http://www.placeholdermagazine.com/?p=685
-permalink: /2015/06/08/volume-2-is-here/
-videourl:
-  - ""
 categories:
   - Culture
   - Uncategorized
@@ -38,24 +33,24 @@ We&#8217;ve secured funding with the help of awesome local businesses and brewer
 We&#8217;ve partnered up with multi-talented Andrew Hemmans, of Jerk Indie, multiple local bands, designer, and that guy that worked at Don&#8217;s Allstar Appliance Repair, to create this wonderful website. Bringing you the magazine and extra content to fill in the gap between issues (btw, we&#8217;re looking for writers).
 
 <div id='gallery-4' class='gallery galleryid-685 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
+  <figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2015/06/08/volume-2-is-here/1604579_336494823181559_4670770160439098544_n/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2015/06/1604579_336494823181559_4670770160439098544_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-690" srcset="http://localhost:8888/wordpress/wp-content/uploads/2015/06/1604579_336494823181559_4670770160439098544_n-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/1604579_336494823181559_4670770160439098544_n-300x300.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/1604579_336494823181559_4670770160439098544_n-768x768.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/1604579_336494823181559_4670770160439098544_n-100x100.jpg 100w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/1604579_336494823181559_4670770160439098544_n.jpg 960w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-690'> Drinking for art&#8217;s sake </figcaption></figure><figure class='gallery-item'> 
-  
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-690'> Drinking for art&#8217;s sake </figcaption></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2015/06/08/volume-2-is-here/11304201_968785169832646_781155450_n/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2015/06/11304201_968785169832646_781155450_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-691" srcset="http://localhost:8888/wordpress/wp-content/uploads/2015/06/11304201_968785169832646_781155450_n-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/11304201_968785169832646_781155450_n-100x100.jpg 100w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-691'> Previous cover of Placeholder Mag Vol. 2 </figcaption></figure><figure class='gallery-item'> 
-  
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-691'> Previous cover of Placeholder Mag Vol. 2 </figcaption></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2015/06/08/volume-2-is-here/16090_342151495949225_3195427594391844699_n/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2015/06/16090_342151495949225_3195427594391844699_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-688" srcset="http://localhost:8888/wordpress/wp-content/uploads/2015/06/16090_342151495949225_3195427594391844699_n-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/16090_342151495949225_3195427594391844699_n-100x100.jpg 100w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-688'> Our many meetings through oovoo </figcaption></figure><figure class='gallery-item'> 
-  
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-688'> Our many meetings through oovoo </figcaption></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='http://localhost:8888/wordpress/2015/06/08/volume-2-is-here/community/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2015/06/community-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-693" srcset="http://localhost:8888/wordpress/wp-content/uploads/2015/06/community-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/community-300x300.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/community-100x100.jpg 100w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/community.jpg 480w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-693'> P.Holder team working with S.T.A.N.D. (Stocktonians Taking Action to Neutralize Drugs) to hang festive lights </figcaption></figure><figure class='gallery-item'> 
-  
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-693'> P.Holder team working with S.T.A.N.D. (Stocktonians Taking Action to Neutralize Drugs) to hang festive lights </figcaption></figure><figure class='gallery-item'>
+
   <div class='gallery-icon portrait'>
     <a href='http://localhost:8888/wordpress/2015/06/08/volume-2-is-here/11421456_968785166499313_1397478135_n/'><img width="150" height="150" src="http://localhost:8888/wordpress/wp-content/uploads/2015/06/11421456_968785166499313_1397478135_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-692" srcset="http://localhost:8888/wordpress/wp-content/uploads/2015/06/11421456_968785166499313_1397478135_n-150x150.jpg 150w, http://localhost:8888/wordpress/wp-content/uploads/2015/06/11421456_968785166499313_1397478135_n-100x100.jpg 100w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-692'> Fun shows. </figcaption></figure>

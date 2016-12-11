@@ -1,14 +1,8 @@
 ---
-id: 577
 title: A word with Giulio Cetto
 date: 2014-10-15T00:29:59+00:00
 author: Ryan Camero
-excerpt: It’s the spark of drumsticks alive in their rhythm, the casual flick of bass and guitar strings and the mellow wail of a saxophone that catches the attention of the crowd on a Monday night. The space is dim, spotlight shining front and center on-stage as the band proceeds on its next number, a fervent cover of Antonio Carlos Jobim’s ‘Corcovado’ that strips all silence of the room. It’s a magical piece, but only one from the many the house band performs on their scheduled nights at the Take Five Jazz Club. The experience of seeing the energy here, in these devoted performers, is a welcome happening and a source of great times in Stockton, California.
 layout: post
-guid: http://www.placeholdermagazine.com/?p=577
-permalink: /2014/10/15/a-word-with-giulio-cetto/
-videourl:
-  - ""
 categories:
   - Music
   - Uncategorized
@@ -32,7 +26,7 @@ Giulio Cetto’s experience and prowess as a musician is apparent. Having played
 &nbsp;
 
 **What was your start music-wise?**
-  
+
 I started as a singer, got on violin at about six or seven. Played the piano shortly after and eventually switched to bass in the summer of eighth grade.
 
 My parents are both musicians, so music’s always been around. My father is a choir teacher/director and has a doctorate in music. And my mother went to the Boston Conservatory as a pianist. I was exposed to music at an early age, so for me there’s nothing else I’d wanna be.
@@ -40,7 +34,7 @@ My parents are both musicians, so music’s always been around. My father is a c
 &nbsp;
 
 **What do you like about the jazz genre?**
-  
+
 Definitely the improvisation aspect of it. You can be creative and on-the-spot, it’s nice to be open and free to everyone’s input and suggestions- that’s what sets it apart from rock and roll. Jazz is a communicative “playground,” you kinda get to participate in a discussion in songs and you’re in a relationship with your band, so to speak.
 
 Improvising is strange though. Living in the now is a weird place to be- it’s like you’re running across the river when you’re jumping between rocks. You’re not prepared, but the moment is just coming at you, so you have to just go for it.
@@ -48,7 +42,7 @@ Improvising is strange though. Living in the now is a weird place to be- it’s 
 &nbsp;
 
 **Tell us about your experience organizing these Monday Night jazz jams and the effect its had on the community.**
-  
+
 Running the jam session for four or five years now, you really see people grow as musicians and get inspired. Some guys have had their first times singing with us, and its nice to see people learning from us and finding new appreciations for the genre. In a lot of ways, it’s really opened up the gaps with the young people finding an interest in older music (so to speak) and the older folks finding energy in the enthusiasm our group has to play. It’s a stepping stone for people to realize that you can go farther with music, that you can aspire to do more than just play.
 
 &nbsp;
@@ -58,7 +52,7 @@ The jam’s been all sorts of places. It started at the Blackwater Café, but th
 &nbsp;
 
 **Major influences?**
-  
+
 John Coltrane. Jaco Pastorius is the best electric bass player around. As far as acoustic influences, I’d say Ron Carter and Christian McBride.
 
 &nbsp;

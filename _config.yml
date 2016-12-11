@@ -14,7 +14,9 @@ baseurl:
 url: http://placeholdermagazine.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
+gems: [jekyll-paginate]
 markdown: kramdown
+paginate: 12
 defaults:
   -
     scope:
