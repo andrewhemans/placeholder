@@ -1,24 +1,23 @@
 <header class="site-header">
-
-  <div class="intro-container">
-    {% for posts in site.posts limit:1 %}
-    <div class="intro-logo">
-      <img src="/images/logo.svg" />
-    </div>
-    <div class="feature">
-      <div class="feature-title">
-        <p>{{ post.title }}</p>
+  {% for post in site.posts limit:1 %}
+    {% if post.featured == true %}
+      <div class="intro-container">
+        <div class="intro-logo">
+          <img src="/images/logo.svg" />
+        </div>
+        <div class="feature">
+          <div class="feature-title">
+            <p>{{ post.title }}</p>
+          </div>
+          <div class="feature-subtitle">
+            <p>{{ post.date | date: '%B %d, %Y' }} | {{ post.author }}</p>
+          </div>
+          <div class="feature-blurb">
+          </div>
+        </div>
       </div>
-      <div class="feature-subtitle">
-        <p>{{ post.date | date: '%B %d, %Y' }} | {{ post.author }}</p>
+      <div class="parallax-background" id="1" style="background-image: url({{ post.image }});">
       </div>
-      <div class="feature-blurb">
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-
-  <div class="parallax-background" id="1">
-  </div>
-
+    {% endif %}
+  {% endfor %}
 </header>
