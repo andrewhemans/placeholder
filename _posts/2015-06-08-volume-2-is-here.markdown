@@ -7,7 +7,9 @@ featured: true
 layout: post
 ---
 
-Sure, we did take a long time, in fact, about a year and five months, but we finally will be releasing the second volume of Placeholder Magazine. We had a lot of struggles, from securing funding, last minute contributors, internal struggles, figuring out the meaning of life, our magazine, and everything as well as discovering that Murphy’s Law really does work.
+Sure, we did take a long time, in fact, about a year and five months, but we finally will be releasing the second volume of [Placeholder Magazine](http://placeholdermagazine.com). We had a lot of struggles, from securing funding, last minute contributors, internal struggles, figuring out the meaning of life, our magazine, and everything as well as discovering that Murphy’s Law really does work.
+
+[placeholdermagazine.com](http://placeholdermagazine.com)
 
 As design went forward, we stumbled on multiple technical issues, once printed the test copy in January, we realized that the magazine didn’t have enough content to create the perfect weight and binding we needed, the cover had to be changed, and other general issues (no pun intended). After countless tele-meetings, we had to make a tough choice of delaying it, once again, for the sake of consistency and quality. Meanwhile, we tried our best to stay active in the community, supporting local shows, partying hard, and putting in a lot of work.
 
