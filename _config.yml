@@ -8,6 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    author: ''
+    image: ''
 email: andrewhemans@gmail.com
 description: 
 baseurl: 
