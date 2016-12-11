@@ -1,19 +1,20 @@
 ---
-id: 544
 title: The Path to a Better Stockton
-date: 2014-09-16T20:58:18+00:00
+date: 2014-09-16 20:58:18 Z
+permalink: "/2014/09/16/the-path-to-a-better-stockton/"
+categories:
+- Culture
+- Uncategorized
+tags:
+- Stockton
+id: 544
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=544
-permalink: /2014/09/16/the-path-to-a-better-stockton/
 videourl:
-  - ""
-categories:
-  - Culture
-  - Uncategorized
-tags:
-  - Stockton
+- ''
 ---
+
 The fresh breeze of the Central Valley air cools my face as I ride down Quail Lakes Dr. at an average of 20 miles per hour. I ride to my English class in Delta College. Eight minutes later, I park my bike in a premium spot, closer to my classroom than any car space in the lot; this is my morning routine. Due to stoplights, stop signs, and the tedious search for a parking spot, cycling is the fastest way to get to campus; it is also more efficient. Throughout the world, people are switching licenses for helmets, fuel for food, and four wheels for two. The cause for the switch is the overwhelming evidence that bicycling promotes a more connected, healthy, and profitable community.
 
 <!--more-->

@@ -1,17 +1,18 @@
 ---
+title: "&#8220;I can’t shake away the feeling&#8221; by Anonymous"
+date: 2014-10-15 00:26:52 Z
+permalink: "/2014/10/15/i-cant-shake-away-the-feeling-by-anonymous/"
+categories:
+- Uncategorized
+- Writing
 id: 573
-title: '&#8220;I can’t shake away the feeling&#8221; by Anonymous'
-date: 2014-10-15T00:26:52+00:00
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=573
-permalink: /2014/10/15/i-cant-shake-away-the-feeling-by-anonymous/
 videourl:
-  - ""
-categories:
-  - Uncategorized
-  - Writing
+- ''
 ---
+
 **By anonymous**
 
 &nbsp;

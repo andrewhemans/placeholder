@@ -1,18 +1,19 @@
 ---
+title: Brandon Getty&#8217;s Maps to Stockton
+date: 2014-10-15 02:53:09 Z
+permalink: "/2014/10/15/brandon-gettys-maps-to-stockton/"
+categories:
+- Photography
+- Uncategorized
 id: 635
-title: 'Brandon Getty&#8217;s Maps to Stockton'
-date: 2014-10-15T02:53:09+00:00
 author: Javier padilla reyes
 layout: post
 guid: http://www.placeholdermagazine.com/?p=635
-permalink: /2014/10/15/brandon-gettys-maps-to-stockton/
 videourl:
-  - ""
+- ''
 image: uploads/2014/10/tumblr_mlz8oyDXXP1rbbb43o1_1280.jpg
-categories:
-  - Photography
-  - Uncategorized
 ---
+
 <span class="il">Brandon</span> Getty was born and raised in Stockton, California. In his photography, he strives for honesty without compromising respect. He has maintained &#8220;[Maps to Stockton](http://mapstostockton.tumblr.com/)&#8220;, a blog about the city&#8217;s residential and urban space, since 2012.
 
 <!--more-->

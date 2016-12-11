@@ -1,17 +1,18 @@
 ---
-id: 732
 title: 'The Leap Manifesto &#8211; From Canada to California’s Climate : COP21 Blog'
-date: 2016-01-19T20:13:09+00:00
+date: 2016-01-19 20:13:09 Z
+permalink: "/2016/01/19/the-leap-manifesto-from-canada-to-californias-climate-cop21-blog/"
+categories:
+- Climate
+- Uncategorized
+id: 732
 author: Ryan Camero
 layout: post
 guid: http://www.placeholdermagazine.com/?p=732
-permalink: /2016/01/19/the-leap-manifesto-from-canada-to-californias-climate-cop21-blog/
 videourl:
-  - ""
-categories:
-  - Climate
-  - Uncategorized
+- ''
 ---
+
 _This post is the third installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](http://www.placeholdermagazine.com/uncategorized/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/), [2](http://www.placeholdermagazine.com/uncategorized/a-determined-delegation/), and [4](http://www.placeholdermagazine.com/climate/harmonizing-with-the-peoples-voice-cop21-blog/) here._
 
 <span style="font-weight: 400;">PARIS &#8211; On Wednesday, December 2nd, 2015, I attended a workshop in Paris for the 2015 climate talks called, “The Leap Manifesto: A Justice-Based Energy Transition,” an event hosted by Naomi Klein and countless other forces for change in Canada- spanning tribal, political, and labor identities. The speakers included: Maude Barlow from the Council of Canadians; Hassan Yussuff from Canadian Labor Congress; Crystal Lameman from the Beaver Lake Cree Nation; and Christian Poll, a Member of Danish Parliament for the Alternative. The manifesto poses to completely (and radically) re-imagine and envision a new future for Canada.</span>

@@ -1,17 +1,18 @@
 ---
-id: 721
 title: 'A Determined Delegation &#8211; Stories from SustainUS : COP21 Blog'
-date: 2016-01-03T19:26:36+00:00
+date: 2016-01-03 19:26:36 Z
+permalink: "/2016/01/03/a-determined-delegation/"
+categories:
+- Climate
+- Uncategorized
+id: 721
 author: Ryan Camero
 layout: post
 guid: http://www.placeholdermagazine.com/?p=721
-permalink: /2016/01/03/a-determined-delegation/
 videourl:
-  - ""
-categories:
-  - Climate
-  - Uncategorized
+- ''
 ---
+
 _This post originally appeared both on the [SustainUS](http://sustainus.org/2015/12/a-determined-delegation/) and [California Student Sustainability Coalition](http://www.sustainabilitycoalition.org/a-determined-delegation-cop21-blog/)&#8216;s blogs, and is the second installment of an on-going, inter-organizational series of reflections by activist Ryan Camero.  See parts [1](http://www.placeholdermagazine.com/climate/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/), [3](http://www.placeholdermagazine.com/climate/the-leap-manifesto-from-canada-to-californias-climate-cop21-blog/), and [4](http://www.placeholdermagazine.com/climate/harmonizing-with-the-peoples-voice-cop21-blog/) here._
 
 PARIS &#8211; I came to Paris representing the [California Student Sustainability Coalition](http://www.sustainabilitycoalition.org/), in this rare and crucial point in time to decide a global agreement on collective action against the climate crisis. Because unexpected circumstances many groups, including ours, did not receive their requests for badges (they are expectedly difficult to obtain), I was very grateful to be taken into the arms of [SustainUS](http://sustainus.org/), a United States-based organization that enable youth climate leaders across the country to attend the actual negotiating talks. With my heart trying to hold everyone back home in my head, I dove into the unfamiliar.

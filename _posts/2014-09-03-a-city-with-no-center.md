@@ -1,23 +1,24 @@
 ---
-id: 534
 title: A City With No Center
-date: 2014-09-03T21:38:21+00:00
+date: 2014-09-03 21:38:21 Z
+permalink: "/2014/09/03/a-city-with-no-center/"
+categories:
+- Culture
+- Uncategorized
+tags:
+- Freeway
+- Lang
+- Stockton
+id: 534
 author: Featured Contributor
 layout: post
 guid: http://www.placeholdermagazine.com/?p=534
-permalink: /2014/09/03/a-city-with-no-center/
 videourl:
-  - ""
+- ''
 image: uploads/2014/09/brigde.jpg
-categories:
-  - Culture
-  - Uncategorized
-tags:
-  - Freeway
-  - Lang
-  - Stockton
 format: image
 ---
+
 #### Featured Contributor: Lange Luntao
 
 “Analyze the urban form of your hometown,”
