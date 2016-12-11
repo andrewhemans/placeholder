@@ -10,6 +10,7 @@ videourl:
   - ""
 image: uploads/2014/10/tumblr_mlz8oyDXXP1rbbb43o1_1280.jpg
 categories:
+  - Feature
   - Photography
   - Uncategorized
 ---
