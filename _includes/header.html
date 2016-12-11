@@ -7,7 +7,7 @@
         </div>
         <div class="feature">
           <div class="feature-title">
-            <p>{{ post.title }}</p>
+            <a href="{{ post.url }}">{{ post.title }}</a>
           </div>
           <div class="feature-subtitle">
             <p>{{ post.date | date: '%B %d, %Y' }} | {{ post.author }}</p>
