@@ -15,6 +15,8 @@ defaults:
   values:
     author: ''
     image: ''
+    featured: ''
+    layout: post
 email: andrewhemans@gmail.com
 description: 
 baseurl: 

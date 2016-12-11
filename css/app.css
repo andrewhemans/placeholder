@@ -40,7 +40,19 @@ h2 {
 /*header*/
 
 .parallax-background {
-  background-image: url("../images/bg.jpg");
+  background-color: #c488c4;
+	height: 100vh;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	background-size: cover;
+	position: fixed;
+	width: 100%;
+}
+
+.parallax-background-post {
+  background-color: #c488c4;
 	height: 100vh;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -220,6 +232,10 @@ right: 0%;
   border: none;
 }
 
+.pagination {
+	margin: 0 auto;
+}
+
 @media screen and (min-width: 40em) {
 	.content {
 		padding: 25px 10px 10px 10px;
@@ -232,6 +248,16 @@ right: 0%;
 	}
 
 }
+
+/*Post Content*/
+.post-content {
+  max-width: 800px;
+  position: relative;
+  padding: 50px;
+  font-size: 20px;
+	margin: 0 auto;
+}
+
 
 
 /*Featured Video*/
