@@ -229,6 +229,7 @@ right: 0%;
   position: relative;
   padding: 50px;
   font-size: 20px;
+
 }
 
 .main-title {
@@ -272,33 +273,6 @@ right: 0%;
 	padding-bottom: 50px;
 }
 
-.post-content > a {
-	display: inline-block;
-  position: relative;
-}
-
-.post-content > a::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  display: inline-block;
-  height: 1em;
-  width: 100%;
-  border-bottom: 1px solid #b366b3;
-  margin-top: 5px;
-}
-
-.post-content > a:hover:after {
-  content: '';
-  position: absolute;
-  left: 0;
-  display: inline-block;
-  height: 1em;
-  width: 100%;
-  border-bottom: 1px solid #c488c4;
-  margin-top: 5px;
-}
-
 .description > a {
 	display: inline-block;
   position: relative;
@@ -331,7 +305,7 @@ right: 0%;
 
 @media screen and (min-width: 40em) {
 	.content {
-		padding: 25px 10px 10px 10px;
+		padding: 80px 10px 10px 10px;
 	}
 }
 
@@ -346,12 +320,39 @@ right: 0%;
 .post-content {
   max-width: 800px;
   position: relative;
-  padding: 50px;
+  padding: 80px 50px 50px 50px;
   font-size: 20px;
 	margin: 0 auto;
 }
 
+.post-content > p > a {
+	display: inline-block;
+  position: relative;
+	color: #000;
+}
 
+
+.post-content > p > a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 100%;
+  border-bottom: 1px solid #b366b3;
+  margin-top: 5px;
+}
+
+.post-content > p > a:hover:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 100%;
+  border-bottom: 1px solid #c488c4;
+  margin-top: 5px;
+}
 
 /*Featured Video*/
 
