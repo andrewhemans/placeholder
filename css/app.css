@@ -36,6 +36,9 @@ h2 {
   font-size: 1rem;
 }
 
+a {
+	transition: color 0.25s ease-out;
+}
 
 /*header*/
 
