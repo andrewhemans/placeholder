@@ -17,7 +17,7 @@ This past year, we’ve reached a lot of goals, too. We are officially a 501c3 n
 
 We’ve secured funding with the help of awesome local businesses and breweries (Ten Space, Ruhstaller Brewing, Dust Bowl Brewing Co., Highwater Brewing Co.) and so many of you lovely folks at our Beer fundraiser! It was a blast and all of the donations helped pay for this new Volume. Moreover, we are now a licensed fictitious business, meaning we’re able to have an official debit card for the magazine’s expenses.
 
-We’ve partnered up with multi-talented Andrew Hemmans, of Jerk Indie, multiple local bands, designer, and that guy that worked at Don’s Allstar Appliance Repair, to create this wonderful website. Bringing you the magazine and extra content to fill in the gap between issues (btw, we’re looking for writers).
+We’ve partnered up with multi-talented Andrew Hemans, of Jerk Indie, multiple local bands, designer, and that guy that worked at Don’s Allstar Appliance Repair, to create this wonderful website. Bringing you the magazine and extra content to fill in the gap between issues (btw, we’re looking for writers).
 
 Needless to say, a lot has changed in the community this past year and a half. We’ve seen the rise of multiple art-centric events, the use of previously vacant spaces and some retro-fitted restaurants into awesome music venues (the 207, the reuse of the old Plea for Peace, Asia Palace, D. Thrift). Up and coming venues for artisans and makers (Stockmarket), and much much more. It’s an exciting place to be.
 

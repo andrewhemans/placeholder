@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Placeholder
 permalink: "/about/"
 layout: page
 ---
