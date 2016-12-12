@@ -9,7 +9,7 @@ Placeholder Magazine is the independent critical voice covering contemporary art
 
 Placeholder Magazine began in the summer of 2013 with a handful of friends who tried to recognize the diversity and talent of Stockton’s contemporary art scene. The organization is all-volunteer run and is deeply rooted with the identity of the Central Valley. Our range of contributors varies greatly and emphasizes intergenerationality, varying forms of craft and experience, and differing identities, lifestyles and perspectives.
 
-# **Accomplishments/Projects History**
+## **Accomplishments/Projects History**
 
 * Crowdfunded the first and second issue of Placeholder
 
@@ -21,7 +21,7 @@ Placeholder Magazine began in the summer of 2013 with a handful of friends who t
 
 * List of art shows
 
-# **Partners**
+## **Partners**
 
 * Court Group
 
