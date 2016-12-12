@@ -1,11 +1,12 @@
 ---
 title: Kelly Walker's Poetry
-date: 2014-10-15T00:20:29+00:00
+date: 2014-10-15 00:20:29 Z
 author: Featured Contributor
 image: "/uploads/bridge.jpg"
 featured: true
 layout: post
 ---
+
 The following poems and photos were submitted by Kelly Walker for the first issue of Placeholder Magazine. We did not have the space but still wish to showcase her talent.
 
 ## Smoke

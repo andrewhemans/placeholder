@@ -1,11 +1,12 @@
 ---
 title: A City With No Center
-date: 2014-09-03T21:38:21+00:00
+date: 2014-09-03 21:38:21 Z
 author: Featured Contributor
 image: "/uploads/bridge.jpg"
 featured: true
 layout: post
 ---
+
 #### Featured Contributor: Lange Luntao
 
 “Analyze the urban form of your hometown,”

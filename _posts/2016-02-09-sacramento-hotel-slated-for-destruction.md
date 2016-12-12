@@ -1,12 +1,11 @@
 ---
 title: Sacramento hotel turned into artists mecca
-date: 2016-02-09T07:38:33+00:00
+date: 2016-02-09 07:38:33 Z
 author: Javier Padilla Reyes
 image: "/uploads/purplegirl.jpg"
 featured: true
 layout: post
 ---
-
 
 Art under the impetus of dynamite rejuvenates the tired soul of the hotel before its final exhale scheduled later this week. A line of people outside an otherwise grim facade was a clear marker for the building. We were told to head into the Ruhstaller Brewery next door to get a sticker; it was a yellow label with the logo, date, and scheduled time of entry. As we walked in, strands of white plastic were hanging from the ceiling, hazing and isolating, cleansing us, the visitor, in preparation. Welcome to the ArtHotel.
 

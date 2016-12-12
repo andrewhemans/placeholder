@@ -1,11 +1,12 @@
 ---
 title: A word with Giulio Cetto
-date: 2014-10-15T00:29:59+00:00
+date: 2014-10-15 00:29:59 Z
 author: Ryan Camero
 image: "/uploads/bridge.jpg"
 featured: true
 layout: post
 ---
+
 _Interview by Ryan Camero _
 
 It’s the spark of drumsticks alive in their rhythm, the casual flick of bass and guitar strings and the mellow wail of a saxophone that catches the attention of the crowd on a Monday night. The space is dim, spotlight shining front and center on-stage as the band proceeds on its next number, a fervent cover of Antonio Carlos Jobim’s ‘Corcovado’ that strips all silence of the room. It’s a magical piece, but only one from the many the house band performs on their scheduled nights at the Take Five Jazz Club. The experience of seeing the energy here, in these devoted performers, is a welcome happening and a source of great times in Stockton, California.

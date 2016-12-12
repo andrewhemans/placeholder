@@ -1,12 +1,12 @@
 ---
 title: The Path to a Better Stockton
-date: 2014-09-16T20:58:18+00:00
+date: 2014-09-16 20:58:18 Z
 author: Javier padilla reyes
 image: "/uploads/bridge.jpg"
 featured: true
 layout: post
-
 ---
+
 The fresh breeze of the Central Valley air cools my face as I ride down Quail Lakes Dr. at an average of 20 miles per hour. I ride to my English class in Delta College. Eight minutes later, I park my bike in a premium spot, closer to my classroom than any car space in the lot; this is my morning routine. Due to stoplights, stop signs, and the tedious search for a parking spot, cycling is the fastest way to get to campus; it is also more efficient. Throughout the world, people are switching licenses for helmets, fuel for food, and four wheels for two. The cause for the switch is the overwhelming evidence that bicycling promotes a more connected, healthy, and profitable community.
 
 I am fortunate enough to have bicycle lanes in my neighborhood of Quail Lakes, which encourage me daily to bike rather than drive. In Stockton, how­ever, the required bicycling infrastructure is scarce. By marginalizing such a won­derful activity, Stockton has effectively turned its back to a possible solution to many problems the city faces. While some believe that it is a trivial pursuit, I trust that the benefits of such imple­mentation can positively impact the city and its many ailments.
