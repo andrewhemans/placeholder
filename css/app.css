@@ -77,6 +77,14 @@ h2 {
 	margin: 0 auto;
 }
 
+.feature-blurb > a {
+	color: #fff;
+}
+
+.feature-blurb > a:hover {
+	color: rgba(255, 255, 255, 0.8);
+}
+
 /*Feature*/
 
 .feature-title {
