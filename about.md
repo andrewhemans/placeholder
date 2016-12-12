@@ -1,6 +1,7 @@
 ---
 title: About Placeholder
 permalink: "/about/"
+image: "/uploads/bg.jpg"
 layout: page
 ---
 
