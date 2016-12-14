@@ -150,11 +150,13 @@ a {
 
 @media screen and (max-width: 39.9375em) {
 	.feature-title > p {
-		font-family: 'Frank Ruhl Libre', sans-serif;
 		font-weight: 700;
 		font-size: 2rem;
-		line-height: 1.25;
-		text-transform: capitalize;
+	}
+
+	.feature-title > a {
+		font-size: 2rem;
+		font-weight: 700;
 	}
 
 	.feature-title {
