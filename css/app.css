@@ -217,9 +217,9 @@ a {
   display: inline-block;
   height: 1em;
   width: 100%;
-  border-bottom: 4px solid #e6e6e6;
-	border-left: 2px solid #e6e6e6;
-	border-right: 2px solid #e6e6e6;
+  border-bottom: 5px solid #e6e6e6;
+	border-left: 5px solid #e6e6e6;
+	border-right: 5px solid #e6e6e6;
   margin-top: 5px;
 }
 
@@ -316,6 +316,7 @@ right: 0%;
 	font-weight: 900;
   font-size: 1.75em;
 	color: #000;
+	line-height: 1.2;
 }
 
 .description > a:hover {
@@ -465,6 +466,7 @@ right: 0%;
   font-weight: 300;
   color: #fff;
   font-family: 'proxima-nova', sans-serif;
+	font-size: 1.1rem;
 }
 
 .footer a {
@@ -487,6 +489,7 @@ right: 0%;
 	background-color: #000;
 	width: 100%;
 	margin-top: 2em;
+	padding: 0 .3em;
 }
 
 .bottom-left {
@@ -497,7 +500,7 @@ right: 0%;
 }
 
 .bottom-left-child {
-	padding-top: 10px;
+	padding-top: 12px;
 	text-align: left;
 }
 
@@ -509,7 +512,7 @@ right: 0%;
 }
 
 .bottom-right-child {
-	padding-top: 10px;
+	padding-top: 12px;
 	text-align: right;
 }
 

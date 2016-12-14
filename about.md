@@ -20,23 +20,3 @@ Placeholder Magazine began in the summer of 2013 with a handful of friends who t
 * Professional development incubated at Placeholder has created opportunities for our staff in professional settings.
 
 * List of art shows
-
-## **Partners**
-
-* Court Group
-
-* Cafe Coop
-
-* Restore the Delta
-
-* Downtown Stockton
-
-* Rock, Paper, Scissors Collective
-
-* Tuleburg Press
-
-* 1850 Collective
-
-* Beehive Design Collective
-
-* Ten Space
