@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <div class="large-6 columns article end">
     <a href="{{ post.url }}"><div class="article-image" style="background-image: url({{ post.image }});">
     </div></a>
