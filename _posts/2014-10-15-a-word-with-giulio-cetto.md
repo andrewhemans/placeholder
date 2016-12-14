@@ -3,7 +3,7 @@ title: A word with Giulio Cetto
 date: 2014-10-15 00:29:59 Z
 author: Ryan Camero
 image: "/uploads/bridge.jpg"
-featured: true
+featured: false
 layout: post
 ---
 

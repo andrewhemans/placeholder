@@ -3,7 +3,7 @@ title: "&#8220;I can’t shake away the feeling&#8221; by Anonymous"
 date: 2014-10-15 00:26:52 Z
 author: Javier padilla reyes
 image: "/uploads/bridge.jpg"
-featured: true
+featured: false
 layout: post
 ---
 

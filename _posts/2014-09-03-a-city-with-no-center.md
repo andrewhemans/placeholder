@@ -3,7 +3,7 @@ title: A City With No Center
 date: 2014-09-03 21:38:21 Z
 author: Featured Contributor
 image: "/uploads/bridge.jpg"
-featured: true
+featured: false
 layout: post
 ---
 
