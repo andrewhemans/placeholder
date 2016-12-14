@@ -1,6 +1,6 @@
 ---
 title: Kelly Walker's Poetry
-date: 2014-10-15 00:20:29 Z
+date: 2014-10-14 17:20:29 -07:00
 author: Featured Contributor
 image: "/uploads/bridge.jpg"
 featured: false

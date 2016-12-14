@@ -1,6 +1,6 @@
 ---
 title: Volume 2 is here!
-date: 2015-06-08 05:50:00 Z
+date: 2015-06-07 22:50:00 -07:00
 author: Javier Padilla Reyes
 image: "/uploads/vol21.jpg"
 featured: false
