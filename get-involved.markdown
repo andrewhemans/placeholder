@@ -1,6 +1,7 @@
 ---
 title: Get Involved
 date: 2016-12-15 00:17:00 -08:00
+layout: page
 ---
 
 To get involved in the content creation of Placeholder, you may submit your work, become an intern, or join the team.
