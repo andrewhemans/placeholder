@@ -2,6 +2,7 @@
 title: Get Involved
 date: 2016-12-15 00:17:00 -08:00
 permalink: "/get-involved/"
+image: "/uploads/bg.jpg"
 layout: page
 ---
 
