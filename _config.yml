@@ -17,9 +17,15 @@ defaults:
     image: ''
     featured: ''
     layout: post
+- scope:
+    path: ''
+    type: pages
+  values:
+    image: ''
+    layout: page
 email: andrewhemans@gmail.com
-description: 
-baseurl: 
+description:
+baseurl:
 url: www.placeholdermagazine.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
