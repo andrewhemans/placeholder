@@ -1,7 +1,7 @@
 ---
 title: Get Involved
-permalink: "/get-involved/"
 date: 2016-12-15 00:17:00 -08:00
+permalink: "/get-involved/"
 layout: page
 ---
 
