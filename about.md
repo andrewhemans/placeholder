@@ -11,12 +11,7 @@ Placeholder began in the summer of 2013 with a handful of friends who were in th
 
 ## **Accomplishments/Projects History**
 
-* Crowdfunded the first and second issue of Placeholder
-
-* Partnered with Rock, Paper, Scissors in Oakland to promote artists in Stockton
-
-* Partnered local artists with businesses to help revitalize downtown Stockton
-
+* Crowdfunded the first and second issue of Placeholder.
+* Partnered with Rock, Paper, Scissors in Oakland to promote artists in Stockton.
+* Partnered local artists with businesses to help revitalize downtown Stockton.
 * Professional development incubated at Placeholder has created opportunities for our staff in professional settings.
-
-* List of art shows
