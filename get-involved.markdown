@@ -1,5 +1,6 @@
 ---
 title: Get Involved
+permalink: "/get-involved/"
 date: 2016-12-15 00:17:00 -08:00
 layout: page
 ---
@@ -50,4 +51,4 @@ If you are taken on as an intern and would like to continue working for Placehol
 Our organization consists of unique individuals who are dedicated to their craft. Placeholder team members have worked with Al-Jazeera Plus, City and County of San Francisco, Lodi Sentinel, Sacramento Bee, Sutter Health, Sencha, and more!
 
 
-If you are interested in becoming a long-term addition Placeholder’s staff, please submit your résumé to (…) with subject line Staff Application. Please include a short bio about yourself and why you would like to work for Placeholder, along with samples of your work. We will forward your work to the appropriate circle, and they will get back to you. 
+If you are interested in becoming a long-term addition Placeholder’s staff, please submit your résumé to (…) with subject line Staff Application. Please include a short bio about yourself and why you would like to work for Placeholder, along with samples of your work. We will forward your work to the appropriate circle, and they will get back to you.
