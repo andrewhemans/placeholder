@@ -7,7 +7,7 @@ To get involved in the content creation of Placeholder, you may submit your work
 
 ## Submit Your Work
 
-Outside Submissions Guidelines
+**Outside Submissions Guidelines**
 
 Are you a writer, artist, graphic designer, illustrator, photographer, or all of the above? Placeholder features work from established and emerging creative talent. While Stockton and the surrounding Central Valley is our home base, we welcome art, literature, and culture from around the world.
 
