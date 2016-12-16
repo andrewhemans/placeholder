@@ -5,7 +5,6 @@ categories:
 - Culture
 author: Javier Padilla Reyes
 image: "/uploads/IMG_1019.jpg"
-featured: false
 layout: post
 author-image: 
 author-bio: 

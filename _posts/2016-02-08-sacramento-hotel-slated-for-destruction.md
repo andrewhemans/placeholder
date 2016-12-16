@@ -5,7 +5,6 @@ tags:
 - featured
 image: "/uploads/purplegirl.jpg"
 author: Javier Padilla Reyes
-featured: true
 layout: post
 author-image: 
 author-bio: 
