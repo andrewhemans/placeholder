@@ -6,7 +6,7 @@ image: "/uploads/bg.jpg"
 layout: page
 ---
 
-To get involved in the content creation of Placeholder, you may submit your work, become an intern, or join the team.
+To get involved in the content creation of Placeholder, you may [submit your work](#submit), [become an intern](#intern), or [join the team](#join-team).
 
 ## Submit Your Work
 
