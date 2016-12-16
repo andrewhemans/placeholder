@@ -10,7 +10,7 @@ To get involved in the content creation of Placeholder, you may [submit your wor
 
 ## Submit Your Work
 
-**Outside Submissions Guidelines**
+<h2 id="submit">Outside Submissions Guidelines</h2>
 
 Are you a writer, artist, graphic designer, illustrator, photographer, or all of the above? Placeholder features work from established and emerging creative talent. While Stockton and the surrounding Central Valley is our home base, we welcome art, literature, and culture from around the world.
 
@@ -37,7 +37,7 @@ Placeholder is open to all narrative styles and forms. Send us your masterpiece.
 
 Art and Photography must be sent as .jpeg files (quality of 300 DPI)
 
-## Become an Intern
+<h2 id="intern">Become an Intern<h2>
 
 Placeholder offers non-paid internships that are approximately three months long. There are opportunities for writers, copy-editors, photographers, videographers, graphic designers, community organizers, and finance positions.
 
@@ -47,7 +47,7 @@ We accept interns based on the needs of the organization. If we are considering 
 
 If you are taken on as an intern and would like to continue working for Placeholder after three months, that is also an option and will be decided based on the quality of the work you have produced during your internship.
 
-## Join the Team
+<h2 id="join-team">Join the Team<h2>
 
 Our organization consists of unique individuals who are dedicated to their craft. Placeholder team members have worked with Al-Jazeera Plus, City and County of San Francisco, Lodi Sentinel, Sacramento Bee, Sutter Health, Sencha, and more!
 
