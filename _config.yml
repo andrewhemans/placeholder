@@ -13,10 +13,12 @@ defaults:
     path: ''
     type: posts
   values:
-    author: ''
     image: ''
-    featured: ''
     layout: post
+    author: ''
+    author-block: 'false'
+    author-image: ''
+    author-bio: ''
 - scope:
     path: ''
     type: pages

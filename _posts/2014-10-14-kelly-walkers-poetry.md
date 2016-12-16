@@ -2,7 +2,7 @@
 title: Kelly Walker's Poetry
 date: 2014-10-14 17:20:00 -07:00
 author: 'Featured Contributor: Kelly Walker'
-image: "/uploads/smoke.jpg"
+image: "/uploads/kelly_walker.jpg"
 featured: false
 author-image: "/uploads/KellyWalker.jpg"
 author-bio: Kelly Walker was born in Stockton and lived there until she went to study
@@ -12,6 +12,7 @@ author-bio: Kelly Walker was born in Stockton and lived there until she went to 
   to one day return to Stockton as an elementary school teacher in order to help the
   next generation find the passion for writing and arts that she found as a citizen.
 layout: post
+author-block: true
 ---
 
 The following poems and photos were submitted by Kelly Walker for the first issue of Placeholder Magazine. We did not have the space but still wish to showcase her talent.
@@ -117,4 +118,3 @@ full as I could make them with intentions
 how I wish I could stitch you
 
 piece to broken piece of me)
-
