@@ -2,7 +2,7 @@
 title: Kelly Walker's Poetry
 date: 2014-10-14 17:20:00 -07:00
 author: 'Featured Contributor: Kelly Walker'
-image: "/uploads/bridge.jpg"
+image: "/uploads/smoke.jpg"
 featured: false
 layout: post
 ---
