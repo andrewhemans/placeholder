@@ -1,7 +1,7 @@
 ---
 title: The Path to a Better Stockton
 date: 2014-09-16 13:58:00 -07:00
-author: Javier padilla reyes
+author: Javier Padilla Reyes
 image: "/uploads/bridge.jpg"
 featured: false
 layout: post
