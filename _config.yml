@@ -13,10 +13,12 @@ defaults:
     path: ''
     type: posts
   values:
-    author: ''
     image: ''
-    featured: ''
     layout: post
+    author: ''
+    author-block: 'false'
+    author-image: ''
+    author-bio: ''
 - scope:
     path: ''
     type: pages
@@ -24,8 +26,8 @@ defaults:
     image: ''
     layout: page
 email: andrewhemans@gmail.com
-description: 
-baseurl: 
+description:
+baseurl:
 url: www.placeholdermagazine.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
