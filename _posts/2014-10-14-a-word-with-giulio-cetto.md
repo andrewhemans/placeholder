@@ -1,8 +1,8 @@
 ---
-title: A word with Giulio Cetto
-date: 2014-10-14 17:29:59 -07:00
-author: Ryan Camero
+title: A Word with Giulio Cetto
+date: 2014-10-14 17:29:00 -07:00
 image: "/uploads/bridge.jpg"
+author: Ryan Camero
 featured: false
 layout: post
 ---
