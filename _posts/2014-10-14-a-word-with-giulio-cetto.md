@@ -4,8 +4,8 @@ date: 2014-10-14 17:29:00 -07:00
 image: "/uploads/bridge.jpg"
 author: Ryan Camero
 layout: post
-author-image:
-author-bio:
+author-image: 
+author-bio: 
 author-block: false
 ---
 
