@@ -7,9 +7,12 @@ image: "/uploads/purplegirl.jpg"
 author: Javier Padilla Reyes
 featured: true
 layout: post
+author-image: 
+author-bio: 
+author-block: false
 ---
 
-Some believe creation and destruction are two sides of the same coin; there is evidence for this, it's in Sacramento. A group of artists that go by the name [M5 Arts](http://www.m5arts.com/), in collaboration with over 50 artists under the impetus of dynamite rejuvenated the tired soul of the an old hotel before its final exhale scheduled later this week. 
+Some believe creation and destruction are two sides of the same coin; there is evidence for this, it's in Sacramento. A group of artists that go by the name [M5 Arts](http://www.m5arts.com/), in collaboration with over 50 artists under the impetus of dynamite rejuvenated the tired soul of the an old hotel before its final exhale scheduled later this week.
 
 A line of people outside an otherwise grim facade was a clear marker for the building. We were told to head into the Ruhstaller Brewery next door to get a sticker; it was a yellow label with the logo, date, and scheduled time of entry. As we walked in, strands of white plastic were hanging from the ceiling, hazing and isolating, cleansing us, the visitor, in preparation. Welcome to the ArtHotel.
 

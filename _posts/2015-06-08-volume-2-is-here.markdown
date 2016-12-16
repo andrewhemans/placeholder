@@ -5,6 +5,9 @@ image: "/uploads/vol21.jpg"
 author: Javier Padilla Reyes
 featured: false
 layout: post
+author-image: 
+author-bio: 
+author-block: false
 ---
 
 Sure, we did take a long time, in fact, about a year and five months, but we finally will be releasing the second volume of [Placeholder Magazine](http://placeholdermagazine.com). We had a lot of struggles, from securing funding, last minute contributors, internal struggles, figuring out the meaning of life, our magazine, and everything as well as discovering that Murphy’s Law really does work.

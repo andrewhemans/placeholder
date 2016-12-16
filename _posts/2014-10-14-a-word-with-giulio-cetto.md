@@ -5,6 +5,9 @@ image: "/uploads/bridge.jpg"
 author: Ryan Camero
 featured: false
 layout: post
+author-image: 
+author-bio: 
+author-block: false
 ---
 
 _Interview by Ryan Camero _

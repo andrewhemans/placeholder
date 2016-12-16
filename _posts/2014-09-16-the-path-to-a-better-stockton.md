@@ -7,6 +7,9 @@ author: Javier Padilla Reyes
 image: "/uploads/IMG_1019.jpg"
 featured: false
 layout: post
+author-image: 
+author-bio: 
+author-block: false
 ---
 
 The fresh breeze of the Central Valley air cools my face as I ride down Quail Lakes Dr. at an average of 20 miles per hour. I ride to my English class in Delta College. Eight minutes later, I park my bike in a premium spot, closer to my classroom than any car space in the lot; this is my morning routine. Due to stoplights, stop signs, and the tedious search for a parking spot, cycling is the fastest way to get to campus; it is also more efficient. Throughout the world, people are switching licenses for helmets, fuel for food, and four wheels for two. The cause for the switch is the overwhelming evidence that bicycling promotes a more connected, healthy, and profitable community.
