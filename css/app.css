@@ -699,3 +699,43 @@ blockquote, blockquote p {
 		padding: 0;
 	}
 }
+
+.error {
+	height: 100vh;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.error-content {
+	color: #fff;
+	text-align: center;
+}
+
+.error-content > h2 {
+	font-family: 'Frank Ruhl Libre', sans-serif;
+	font-weight: 900;
+	font-size: 2em;
+}
+
+.error-content img {
+	max-width: 500px;
+	margin-bottom: 100px;
+}
+
+.error-content p {
+	font-weight: 300;
+	color: #fff;
+	font-family: 'proxima-nova', sans-serif;
+	font-size: 1.1rem;
+}
+
+.error-content a {
+	color: #fff;
+	font-family: 'proxima-nova', sans-serif;
+	font-weight: 700;
+}
+
+.error-content a:hover {
+	color: rgba(255, 255, 255, 0.8);
+}
