@@ -17,6 +17,24 @@ h2 {
 	word-wrap: break-word;
 }
 
+h3 {
+	font-family: 'Frank Ruhl Libre', sans-serif;
+}
+
+h4 {
+	font-family: 'Frank Ruhl Libre', sans-serif;
+}
+
+h5 {
+	font-family: 'Frank Ruhl Libre', sans-serif;
+}
+
+h6 {
+	font-family: 'Frank Ruhl Libre', sans-serif;
+}
+
+
+
 @media screen and (min-width: 40em) {
   h1 {
     font-size: 3rem; }
@@ -468,37 +486,32 @@ right: 0%;
 	.post-content {
 		padding: 30px 24px;
 	}
-
 }
 
-/*.post-content > p > a {
-	display: inline-block;
-  position: relative;
-	color: #000;
-}*/
+blockquote {
+    margin: 0 0 1rem 10rem;
+    padding: 1rem;
+    border: 8px solid;
+}
+
+blockquote p {
+	margin-bottom: 0;
+}
 
 
-/*.post-content > p > a::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  display: inline-block;
-  height: 1em;
-  width: 100%;
-  border-bottom: 1px solid #b366b3;
-  margin-top: 5px;
-}*/
+blockquote, blockquote p {
+    line-height: 1.1;
+    color: #000;
+		font-weight: 900;
+		font-size: 1.5em;
+}
 
-/*.post-content > p > a:hover:after {
-  content: '';
-  position: absolute;
-  left: 0;
-  display: inline-block;
-  height: 1em;
-  width: 100%;
-  border-bottom: 1px solid #c488c4;
-  margin-top: 5px;
-}*/
+@media screen and (max-width: 39.9375em) {
+	blockquote {
+			margin: 0 0 1rem 0;
+	}
+}
+
 
 /*Featured Video*/
 

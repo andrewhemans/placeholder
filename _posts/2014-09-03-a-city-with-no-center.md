@@ -1,13 +1,11 @@
 ---
 title: A City With No Center
-date: 2014-09-03 14:38:21 -07:00
-author: Featured Contributor
+date: 2014-09-03 14:38:00 -07:00
+author: 'Featured Contributor:  Lange Luntao'
 image: "/uploads/bridge.jpg"
 featured: false
 layout: post
 ---
-
-#### Featured Contributor: Lange Luntao
 
 “Analyze the urban form of your hometown,”
 
@@ -19,7 +17,7 @@ It is rare to meet someone on the East Coast who knows much about Stockton. It�
 
 The reactions are different when meeting another Californian.
 
-> “You’re from Stockton? I think I drove through there once. Yeah… my sister played at a soccer tournament in Stockton when I was, like, 6. Our car windows were smashed in.”
+> “You’re from Stockton? I think I drove through there once.”
 
 “You’re from Stockton? I think I drove through there once. Yeah… my sister played at a soccer tournament in Stockton when I was, like, 6. Our car windows were smashed in.” For the past 30 years, our city has been an integral waypoint on both Interstate 5 and Highway 99, the main paths between the northern and southern parts of California. Within a state that is defined by its car culture, this strategic location has brought many benefits (mostly economic); Stockton’s inland port remains busy despite the flagging economy, and our county’s agricultural prod­ucts easily find their way into supermarkets around the world. It also means that, if you’re one of the 38 million residents of Cali­fornia (or one of the 25 million annual passengers on I-5), chances are good that you will have to drive through Stockton at one point or another.
 
