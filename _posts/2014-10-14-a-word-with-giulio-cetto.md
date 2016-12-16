@@ -5,8 +5,8 @@ image: "/uploads/bridge.jpg"
 author: Ryan Camero
 featured: false
 layout: post
-author-image:
-author-bio:
+author-image: 
+author-bio: 
 author-block: false
 ---
 

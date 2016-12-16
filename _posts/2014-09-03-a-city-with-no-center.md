@@ -7,8 +7,8 @@ author: 'Featured Contributor:  Lange Luntao'
 image: "/uploads/bridge.jpg"
 featured: false
 layout: post
-author-image:
-author-bio:
+author-image: 
+author-bio: 
 author-block: false
 ---
 
