@@ -663,3 +663,26 @@ blockquote, blockquote p {
 }
 .footer-links li {
   margin-top
+}
+
+.author-image{
+	width: 200px;
+	height: 200px;
+	background-position: center;
+	background-size: cover;
+	border-radius: 50%;
+}
+
+.author-image-outer {
+	/*width: 100%;*/
+	display: flex;
+  align-items: center;
+  justify-content: center;
+	padding: 30px 0;
+}
+
+.author {
+	background-color: #f5f5f5;
+	margin-bottom: 30px;
+	padding: 20px;
+}
