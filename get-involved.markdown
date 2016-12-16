@@ -16,7 +16,7 @@ Are you a writer, artist, graphic designer, illustrator, photographer, or all of
 
 By opening our organization up to outside submissions, we hope to not only widen the breadth of our content, but also to provide a space in which local writers and artists can gain exposure. By sending your work to Placeholder, you are representing yourself—if you are published, your work represents itself, and does not have to adhere to the views of Placeholder.
 
-To submit your work, please email us at (….) Please include the type of submission in the subject line (Example: Opinion Submission, Photo Submission, Satire Submission, etc.)
+To submit your work, please email us at [submissions@placeholdermag.com](mailto:submissions@placeholdermag.com) Please include the type of submission in the subject line (Example: Opinion Submission, Photo Submission, Satire Submission, etc.)
 
 We accept submissions for:
 Visual media
@@ -41,7 +41,7 @@ Art and Photography must be sent as .jpeg files (quality of 300 DPI)
 
 Placeholder offers non-paid internships that are approximately three months long. There are opportunities for writers, copy-editors, photographers, videographers, graphic designers, community organizers, and finance positions.
 
-You may apply to be an intern at (….) with subject line “Intern Application”. Please include a paragraph about yourself and what you’d like to do, why you would like to intern with Placeholder, as well as samples of your work or links to samples of your work in the email. Resumé is optional.
+You may apply to be an intern at [intern@placeholdermag.com](mailto:intern@placeholdermag.com) with subject line “Intern Application”. Please include a paragraph about yourself and what you’d like to do, why you would like to intern with Placeholder, as well as samples of your work or links to samples of your work in the email. Resumé is optional.
 
 We accept interns based on the needs of the organization. If we are considering you, your application will be forwarded to the appropriate circle in which you’re applying to intern, i.e., writing interns will be forwarded to a member of the editorial staff, and they will decide whether or not they can take you on, and will give you details on what exactly you will be doing if you are accepted.
 
@@ -52,4 +52,4 @@ If you are taken on as an intern and would like to continue working for Placehol
 Our organization consists of unique individuals who are dedicated to their craft. Placeholder team members have worked with Al-Jazeera Plus, City and County of San Francisco, Lodi Sentinel, Sacramento Bee, Sutter Health, Sencha, and more!
 
 
-If you are interested in becoming a long-term addition Placeholder’s staff, please submit your résumé to (…) with subject line Staff Application. Please include a short bio about yourself and why you would like to work for Placeholder, along with samples of your work. We will forward your work to the appropriate circle, and they will get back to you.
+If you are interested in becoming a long-term addition Placeholder’s staff, please submit your résumé to [join@placeholdermag.com](mailto:join@placeholdermag.com) with subject line Staff Application. Please include a short bio about yourself and why you would like to work for Placeholder, along with samples of your work. We will forward your work to the appropriate circle, and they will get back to you.
