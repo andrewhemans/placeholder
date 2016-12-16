@@ -1,7 +1,7 @@
 ---
 title: Kelly Walker's Poetry
-date: 2014-10-14 17:20:29 -07:00
-author: Featured Contributor
+date: 2014-10-14 17:20:00 -07:00
+author: 'Featured Contributor: Kelly Walker'
 image: "/uploads/bridge.jpg"
 featured: false
 layout: post
@@ -69,15 +69,13 @@ put my lips around you
 
 suck you in
 
-(inhale)
+\(inhale)
 
 I think thoughts of the moon
 
 and the dogs howl,
 
 thinking of you.
-
-
 
 ## Grammar
 
@@ -107,12 +105,11 @@ Instead I asked tiny questions,
 
 full as I could make them with intentions
 
-(but empty still
+\(but empty still
 
 how I wish I could stitch you
 
 piece to broken piece of me)
 
-
-
-> Kelly Walker was born in Stockton and lived there until she went to study politics at UC Santa Cruz. She now lives in Washington DC where she works in specialty coffee. Writing has always been a vital part of her life, and the support and inspiration she found in Stockton was an invaluable part of her creative development. She hopes to one day return to Stockton as an elementary school teacher in order to help the next generation find the passion for writing and arts that she found as a citizen.
+## Kelly Walker 
+was born in Stockton and lived there until she went to study politics at UC Santa Cruz. She now lives in Washington DC where she works in specialty coffee. Writing has always been a vital part of her life, and the support and inspiration she found in Stockton was an invaluable part of her creative development. She hopes to one day return to Stockton as an elementary school teacher in order to help the next generation find the passion for writing and arts that she found as a citizen.
