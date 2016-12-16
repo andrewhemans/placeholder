@@ -5,6 +5,7 @@ author: Javier Padilla Reyes
 image: "/uploads/purplegirl.jpg"
 featured: true
 layout: post
+tag: featured 
 ---
 
 Some believe creation and destruction are two sides of the same coin; there is evidence for this, it's in Sacramento. A group of artists that go by the name [M5 Arts](http://www.m5arts.com/), in collaboration with over 50 artists under the impetus of dynamite rejuvenated the tired soul of the an old hotel before its final exhale scheduled later this week. 
