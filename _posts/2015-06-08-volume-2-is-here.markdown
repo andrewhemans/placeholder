@@ -4,8 +4,8 @@ date: 2015-06-07 22:50:00 -07:00
 image: "/uploads/vol21.jpg"
 author: Javier Padilla Reyes
 layout: post
-author-image:
-author-bio:
+author-image: 
+author-bio: 
 author-block: false
 ---
 

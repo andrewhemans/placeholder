@@ -4,8 +4,8 @@ date: 2014-10-14 17:26:00 -07:00
 image: "/uploads/bridge.jpg"
 author: Anonymous
 layout: post
-author-image:
-author-bio:
+author-image: 
+author-bio: 
 author-block: false
 ---
 

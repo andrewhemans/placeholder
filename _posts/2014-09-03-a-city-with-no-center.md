@@ -6,8 +6,8 @@ tags:
 author: 'Featured Contributor:  Lange Luntao'
 image: "/uploads/bridge.jpg"
 layout: post
-author-image:
-author-bio:
+author-image: 
+author-bio: 
 author-block: false
 ---
 

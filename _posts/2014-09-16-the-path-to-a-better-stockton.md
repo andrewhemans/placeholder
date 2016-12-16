@@ -6,8 +6,8 @@ categories:
 author: Javier Padilla Reyes
 image: "/uploads/IMG_1019.jpg"
 layout: post
-author-image:
-author-bio:
+author-image: 
+author-bio: 
 author-block: false
 ---
 
