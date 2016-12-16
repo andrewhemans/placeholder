@@ -37,7 +37,7 @@ Placeholder is open to all narrative styles and forms. Send us your masterpiece.
 
 Art and Photography must be sent as .jpeg files (quality of 300 DPI)
 
-<h2 id="intern">Become an Intern<h2>
+<h2 id="intern">Become an Intern</h2>
 
 Placeholder offers non-paid internships that are approximately three months long. There are opportunities for writers, copy-editors, photographers, videographers, graphic designers, community organizers, and finance positions.
 
