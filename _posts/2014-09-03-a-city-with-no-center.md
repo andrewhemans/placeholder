@@ -5,6 +5,7 @@ author: 'Featured Contributor:  Lange Luntao'
 image: "/uploads/bridge.jpg"
 featured: false
 layout: post
+tag: featured 
 ---
 
 “Analyze the urban form of your hometown,”

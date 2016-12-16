@@ -1,6 +1,6 @@
 <header class="site-header">
-  {% for post in site.posts limit:1 %}
-    {% if post.featured == true %}
+  {% for post in site.tags.featured limit:1 %}
+
       <div class="intro-container">
         <div class="intro-logo">
           <img src="/images/logo-white.svg" />
@@ -19,6 +19,6 @@
       </div>
       <div class="parallax-background" id="1" style="background-image: url({{ post.image }});">
       </div>
-    {% endif %}
+    
   {% endfor %}
 </header>

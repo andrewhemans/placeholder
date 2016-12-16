@@ -2,9 +2,6 @@
 title: Placeholder!
 timezone: America/Los_Angeles
 collections:
-  featured:
-    title: Featured
-    output: true
   posts:
     title: Posts
     output: true
@@ -29,9 +26,14 @@ defaults:
   values:
     image: ''
     layout: page
+  - scope:
+      path: ''
+      type: featured
+    values:
+      layout: post
 email: andrewhemans@gmail.com
-description: 
-baseurl: 
+description:
+baseurl:
 url: www.placeholdermagazine.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
