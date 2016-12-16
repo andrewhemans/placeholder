@@ -3,7 +3,6 @@ title: "“I can’t shake away the feeling”"
 date: 2014-10-14 17:26:00 -07:00
 image: "/uploads/bridge.jpg"
 author: Anonymous
-featured: false
 layout: post
 author-image:
 author-bio:

@@ -3,7 +3,6 @@ title: Volume Two Is Here!
 date: 2015-06-07 22:50:00 -07:00
 image: "/uploads/vol21.jpg"
 author: Javier Padilla Reyes
-featured: false
 layout: post
 author-image:
 author-bio:
