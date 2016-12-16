@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  new:
+    title: new
+    output: true
 defaults:
 - scope:
     path: ''
