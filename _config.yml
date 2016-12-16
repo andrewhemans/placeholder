@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  new:
-    title: new
-    output: true
 defaults:
 - scope:
     path: ''
@@ -26,14 +23,9 @@ defaults:
   values:
     image: ''
     layout: page
-  - scope:
-      path: ''
-      type: featured
-    values:
-      layout: post
 email: andrewhemans@gmail.com
-description:
-baseurl:
+description: 
+baseurl: 
 url: www.placeholdermagazine.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
