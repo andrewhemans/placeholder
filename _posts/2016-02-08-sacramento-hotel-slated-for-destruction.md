@@ -1,10 +1,10 @@
 ---
-title: Sacramento hotel turned into artists mecca
+title: Sacramento Hotel Turned Into Artists Mecca
 date: 2016-02-08 23:38:00 -08:00
 tags:
 - featured
-author: Javier Padilla Reyes
 image: "/uploads/purplegirl.jpg"
+author: Javier Padilla Reyes
 featured: true
 layout: post
 ---
