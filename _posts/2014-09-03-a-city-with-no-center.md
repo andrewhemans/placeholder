@@ -11,7 +11,9 @@ author-block: false
 layout: post
 ---
 
+
 “Analyze the urban form of your hometown,”
+
 the paper assignment read.
 
 I was in the last semester of college on the opposite side of the country, enrolled in a course called Designing the American City. In my four years as a student, I hadn’t spent much time back in Stockton—between study abroad programs and summer internships, there were too many other places to live. Yet just before it was to launch me, diploma in hand, toward an entirely new terrain, my liberal arts education first chose to rein me in, back to the city that raised me (and I assume many of you, too).
