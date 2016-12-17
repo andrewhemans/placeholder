@@ -1,14 +1,12 @@
 ---
-title: Sacramento Hotel Turned Into Artists Mecca
+title: Sacramento Hotel Turned Into Artists' Mecca
 date: 2016-02-08 23:38:00 -08:00
 tags:
 - featured
 image: "/uploads/purplegirl.jpg"
 author: Javier Padilla Reyes
-layout: post
-author-image: 
-author-bio: 
 author-block: false
+layout: post
 ---
 
 Some believe creation and destruction are two sides of the same coin; there is evidence for this, it's in Sacramento. A group of artists that go by the name [M5 Arts](http://www.m5arts.com/), in collaboration with over 50 artists under the impetus of dynamite rejuvenated the tired soul of the an old hotel before its final exhale scheduled later this week.
