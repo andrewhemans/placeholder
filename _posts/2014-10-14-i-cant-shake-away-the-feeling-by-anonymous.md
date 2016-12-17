@@ -1,12 +1,10 @@
 ---
 title: "“I can’t shake away the feeling”"
 date: 2014-10-14 17:26:00 -07:00
-image: "/uploads/bridge.jpg"
+image: "/uploads/onetree.jpg"
 author: Anonymous
-layout: post
-author-image: 
-author-bio: 
 author-block: false
+layout: post
 ---
 
 I can’t shake away the feeling of finding one of my brothers on a suicide attempt. Overdose. They had to pump his stomach at the hospital. This was my oldest brother, who became addicted to crack that eventually poisoned his mind into thinking voices were in his head. Sedated into feeling like a zombie, my brother became restless of the constant over medication. When he got worse, they put him in a rehabilitation home in pill-induced routine until he couldn’t take it anymore. He ran away a couple of weeks ago and none of us have heard from him since.
