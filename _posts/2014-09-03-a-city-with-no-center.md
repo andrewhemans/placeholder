@@ -1,6 +1,8 @@
 ---
 title: A City With No Center
 date: 2014-09-03 14:38:00 -07:00
+categories:
+- Culture
 tags:
 - featured
 image: "/uploads/bridge.jpg"
@@ -22,7 +24,8 @@ The reactions are different when meeting another Californian.
 For the past 30 years, our city has been an integral waypoint on both Interstate 5 and Highway 99, the main paths between the northern and southern parts of California. Within a state that is defined by its car culture, this strategic location has brought many benefits (mostly economic); Stockton’s inland port remains busy despite the flagging economy, and our county’s agricultural products easily find their way into supermarkets around the world. It also means that, if you’re one of the 38 million residents of California (or one of the 25 million annual passengers on I-5), chances are good that you will have to drive through Stockton at one point or another.
 
 In a compendium of essays describing each of the 50 states, the novelist William T. Vollman (a Sacramento transplant) is given a few thousand words to describe California. The “California dream,” he writes, first of “an island of Amazons,” then of a golden promised land, and most recently of a tropical, self-sufficient paradise, has always been in tension with the mundane reality of life here. But this is most visible from our roads:
-Drive on; so much more of California than I can tell you is about driving nowadays! You can roll from Los Angeles north to Sacramento on Interstate 5 (which, as a matter of fact, runs all the way from Mexico to Canada), seeing not much else but dry mountains, flat fields, and urban sprawl, glittering monster trucks and shining four-doors rolling down wide ways between narrow green strips. This route exaggerates the ruination of my home state. From the freeway it is especially easy to believe that, say, Stockton stretches hideously east and west like the worst of Los Angeles. 
+
+> Drive on; so much more of California than I can tell you is about driving nowadays! You can roll from Los Angeles north to Sacramento on Interstate 5 (which, as a matter of fact, runs all the way from Mexico to Canada), seeing not much else but dry mountains, flat fields, and urban sprawl, glittering monster trucks and shining four-doors rolling down wide ways between narrow green strips. This route exaggerates the ruination of my home state. From the freeway it is especially easy to believe that, say, Stockton stretches hideously east and west like the worst of Los Angeles. 
 
 Vollman’s take on Stockton is clear: it is a place on the path to bigger and more beautiful points, a symbol of post-industrial sprawl. Rather than beckoning visitors with a pastoral landscape, the view repels passers-by. Stockton, for him, is an eyesore that is impossible to ignore.
 
