@@ -27,6 +27,8 @@ Definitely the improvisation aspect of it. You can be creative and on-the-spot, 
 
 Improvising is strange though. Living in the now is a weird place to be- it’s like you’re running across the river when you’re jumping between rocks. You’re not prepared, but the moment is just coming at you, so you have to just go for it.
 
+![guilio_micheli.jpg](/uploads/guilio_micheli.jpg)
+
 **Tell us about your experience organizing these Monday Night jazz jams and the effect its had on the community.**
 
 Running the jam session for four or five years now, you really see people grow as musicians and get inspired. Some guys have had their first times singing with us, and its nice to see people learning from us and finding new appreciations for the genre. In a lot of ways, it’s really opened up the gaps with the young people finding an interest in older music (so to speak) and the older folks finding energy in the enthusiasm our group has to play. It’s a stepping stone for people to realize that you can go farther with music, that you can aspire to do more than just play.
