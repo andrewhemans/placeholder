@@ -2,7 +2,7 @@
 title: About Placeholder
 permalink: "/about/"
 image: "/uploads/bg.jpg"
-layout: page
+layout: about
 ---
 
 Placeholder Magazine is an independent critical voice covering contemporary arts, culture, and literature. We are a Central Valley based non-profit arts organization led entirely by volunteers. Through print and digital mediums, we provide an accessible forum for diverse voices as well as energize and activate young leaders through artistic practice, collaborative and collective decision making, and community-based projects locally and beyond.

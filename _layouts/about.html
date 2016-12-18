@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 ---
 
 <!DOCTYPE html>
@@ -12,15 +12,12 @@ layout: post
   <header class="site-header">
 
     <div class="intro-container">
-      <!-- <div class="intro-logo">
-        <img src="/images/logo.svg" />
-      </div> -->
+      <div class="intro-logo">
+        <img src="/images/logo-white.svg" />
+      </div>
       <div class="feature">
         <div class="feature-title">
           <p>{{ page.title }}</p>
-        </div>
-        <div class="feature-subtitle">
-          <p>{{ page.date | date: '%B %d, %Y' }} | {{ page.author }}</p>
         </div>
         <div class="feature-blurb">
           <a href="#page"><p>&#8595</p></a>
@@ -38,10 +35,10 @@ layout: post
       <div class="post-content">
         {{ content }}
       </div>
+
+      <!-- {% include team.html %} -->
+
     </div>
-    {% if page.author-block == true %}
-      {% include author.html %}
-    {% endif %}
   {% include footer.html %}
   </div>
 </body>
