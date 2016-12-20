@@ -17,6 +17,8 @@ The first floor greets you with a pendulum penetrating each floor from a top flo
 
 Next to fine art and potty jokes, on the corner of political satire and schizophrenic ramblings, and around the racket of love, beauty, and foul, you will find the ArtHotel to be a menagerie of emotions.  Bring some water, put away the watch, and explore the short breath of the Art Hotel before its planned demolition.
 
+*All Images by Dana Al-Hindi*
 
+[IMG_5963.JPG](/uploads/IMG_5963.JPG)![Quick Brown.jpg](/uploads/Quick%20Brown.jpg)[IMG_5975.JPG](/uploads/IMG_5975.JPG)![arthotel-a8c6bd.jpg](/uploads/arthotel-a8c6bd.jpg)
 
-For times and more information, visit <http://www.m5arts.com/> or check out the Facebook event page: <https://www.facebook.com/events/1658650591082277/>
+For times and more information, visit [http://www.m5arts.com/](http://www.m5arts.com/) or check out the Facebook event page: [https://www.facebook.com/events/1658650591082277/](https://www.facebook.com/events/1658650591082277/)
