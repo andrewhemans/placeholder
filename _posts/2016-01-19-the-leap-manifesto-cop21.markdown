@@ -1,6 +1,8 @@
 ---
 title: The Leap Manifesto (COP21)
-date: 2016-12-21 15:37:00 -08:00
+date: 2016-01-19 15:37:00 -08:00
+image: "/uploads/leap_emmacassidy.jpg"
+author: Ryan Camero
 ---
 
 *This post is the third installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts 1, 2, and 4 here.*
