@@ -1,6 +1,6 @@
 ---
 title: A Determined Delegation
-date: 2016-12-21 12:34:00 -08:00
+date: 2016-01-03 12:34:00 -08:00
 image: "/uploads/climatejustice_joellukhovi.jpg"
 author: Ryan Camero
 ---
