@@ -1,6 +1,12 @@
 ---
 title: From the San Joaquin to the Seine
 date: 2015-12-08 12:13:00 -08:00
+categories:
+- Culture
+tags:
+- COP21
+- Delta
+- Paris Climate
 image: "/uploads/climatevulnerableforum.jpg"
 author: Ryan Camero
 ---
