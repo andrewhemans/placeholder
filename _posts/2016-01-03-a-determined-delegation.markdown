@@ -1,5 +1,5 @@
 ---
-title: A Determined Delegation
+title: A Determined Delegation (COP21)
 date: 2016-01-03 12:34:00 -08:00
 image: "/uploads/climatejustice_joellukhovi.jpg"
 author: Ryan Camero
