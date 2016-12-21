@@ -24,7 +24,7 @@ this pain will be useful
 
 tonight,
 
-I stand in windowframes
+I stand in window frames
 
 as tall as I am, feet planted,
 
