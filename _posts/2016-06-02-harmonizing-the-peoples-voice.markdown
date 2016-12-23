@@ -3,7 +3,7 @@ title: Harmonizing the People's Voice
 date: 2016-06-02 16:10:00 -07:00
 categories:
 - Culture
-image: "/uploads/asamblea.jpg"
+image: "/uploads/waterislife_beehive.jpg"
 author: Ryan Camero
 ---
 
@@ -20,6 +20,8 @@ We must have sang and passed around this piece (peace) of mind several times ove
 Some were rosy and light. Others were deep and hardened. Voices whispered in melody, while some belted out their feelings in full force. At times, I found myself amazed at the layered harmonies that gave way to a song so beautiful (unable to exist without its collective pieces) and it sent tingles up my spine. But while these voices were so unbelievably different, every single one met in this shared song– in a way that built an understanding not even words could express.
 
 There’s a scene in the Mesoamérica Resiste! graphic of the Beehive Design Collective, one of the groups I work with, that looks like this:
+
+![asamblea.jpg](/uploads/asamblea.jpg)
 
 *The spiral in the center is the swirling of many volutas, an ancient Mayan glyph. When a voluta swirls upward, it means you are speaking; downward means you are listening. In this spiral, species from fauna to flora, predator to prey, insect to mammal, all gather to share their own stories—their volutas—of struggle. In sharing their own stories and hearing that of others, they find healing and build solutions together.*
 
