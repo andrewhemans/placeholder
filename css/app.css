@@ -380,7 +380,9 @@ right: 0%;
 
 .main-title {
   margin: 0 auto;
-  width: 100px;
+  width: 100%;
+	text-align: center;
+	padding-bottom: 20px;
 }
 
 .description > h2 {
