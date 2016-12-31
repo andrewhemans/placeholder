@@ -27,7 +27,7 @@ Definitely the improvisation aspect of it. You can be creative and on-the-spot, 
 
 Improvising is strange though. Living in the now is a weird place to be—it’s like you’re running across the river when you’re jumping between rocks. You’re not prepared, but the moment is just coming at you, so you have to just go for it.
 
-![guilio_micheli.jpg](/uploads/guilio_micheli.jpg)
+![Photo by Nicholas Micheli](/uploads/guilio_micheli.jpg)
 
 **Tell us about your experience organizing these Monday Night jazz jams and the effect its had on the community.**
 
