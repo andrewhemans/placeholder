@@ -30,10 +30,10 @@ In 2009, Kraken Exchange founder, Jesse Powell, started Verge Center for the Art
 
 Last year Verge partnered with the new Jan Shrem and Maria Manetti Museum at UC Davis. The contemporary art museum defines itself through its connection to the art history of UC Davis [i.e. Wayne Thiebaud, Robert Arneson, Bruce Nauman, Sol Lewitt, etc.] It also features a private collection of more than 5,000 objects, and its programming seems fresh, culturally diverse, and current.
 
-### Warehouse Art Utopia
+## Warehouse Art Utopia
 A few dozen artists have found a home in the Warehouse Artists Lofts (WAL), a new housing development in the Historical R Street District. WAL included affordable income housing for artists and opened its live/work studios in 2014. It now has a waiting list of three years. WAL has it all—the concrete walls, the art community, the giant industrial windows.-- and aside from over 100 (occupied) apartments, WAL also showcases a marketplace of local crafters/vendors to sell their products. The development includes a small gallery called "1810" which showcases local artists' work. Stockton’s very own developers DFA Development and Ten Space are catching up by revamping the Medico-Dental Building on the corner of Sutter and Minor Streets and making it host 40 artist loft units, 30 of which will be affordable housing. The project is going to cost 11 million, 2.2 which are from the federal affordable housing funds approved by the City Council. 
   
-### The Diamond and the Punks
+## The Diamond and the Punks
 The last insight into the arts of the Central Valley art scene is the epitome of the dualism of Sacramento divided between the new city’s expensive acquisition, Koons’ “Coloring book,” and a crumbling hotel turned into an art phenomenon.    
 
 The acquisition of an eight million dollar sculpture by Jeff Koons was approved by the city council early last year. The sculpture, is to be showcased at the new Golden 1 Arena. It seems understandable that this purchase for the downtown arena caused a stir in the local community because of its price. Sacramento’s “homelessness problem” is commonly mentioned as an alternative and better use of city money, also there were numerous premature complains about the lack of support for local artists before people were informed about the rest of the public commissions. Marcy Friedman, an artist and philanthropist, donated 1.5 million dollars for regional artists' public commissions; the main commission was awarded to Gale Hart. 
