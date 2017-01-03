@@ -492,9 +492,9 @@ right: 0%;
 }
 
 blockquote {
-    margin: 0 0 1rem 10rem;
+    /*margin: 0 0 1rem 10rem;*/
     padding: 1rem;
-    border: 8px solid;
+    border-left: 8px solid;
 }
 
 blockquote p {
@@ -503,10 +503,10 @@ blockquote p {
 
 
 blockquote, blockquote p {
-    line-height: 1.1;
+    line-height: 1.25;
     color: #000;
 		font-weight: 900;
-		font-size: 1.5em;
+		font-size: 1.25em;
 }
 
 @media screen and (max-width: 39.9375em) {
