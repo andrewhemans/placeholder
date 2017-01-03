@@ -740,7 +740,7 @@ blockquote, blockquote p {
 }
 
 .team-content h3 {
-	font-size: 1.35em;
+	font-size: 1.25em;
 }
 
 .team-content i {
@@ -770,4 +770,10 @@ blockquote, blockquote p {
 .fb-share-button {
 	display: inline-block;
 	top: -9px;
+}
+
+@media screen and (max-width: 39.9375em) {
+	.fb-share-button {
+		top: -19px;
+	}
 }
