@@ -26,7 +26,7 @@ defaults:
     image: ''
     layout: page
 email: andrewhemans@gmail.com
-description:
+description: 
 baseurl: www.placeholdermag.com
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
