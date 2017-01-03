@@ -24,4 +24,9 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+  <meta property="og:url"                content="http://www.placeholdermag.com{{ page.url }}" />
+  <meta property="og:type"               content="article" />
+  <meta property="og:title"              content="{{ page.title }}" />
+  <meta property="og:description"        content="{{ page.description }}" />
+  <meta property="og:image"              content="http://www.placeholdermag.com{{ page.image }}" />
 </head>
