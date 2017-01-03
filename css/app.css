@@ -762,16 +762,12 @@ blockquote, blockquote p {
 }
 
 /*Social Sharing */
-.social-sharing {
-
+.twitter-share {
+	display: inline-block;
+	margin: 10px;
 }
 
 .fb-share-button {
 	display: inline-block;
 	top: -9px;
-}
-
-.twitter-share {
-	display: inline-block;
-	margin: 10px;
 }
