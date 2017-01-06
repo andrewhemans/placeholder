@@ -21,10 +21,8 @@ author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contribut
   for Placeholder Magazine. She is a Mexican artist exploring the concepts of identity
   and feminism in relationship to her experience of geographical and cultural-misplacement
   as an immigrant in the United States. Lizalde was born and raised in Mexico until
-  age 15, when her family immigrated to Stockton, California. Although currently attending
-  University of California, Davis and living in Davis, CA, Lizalde graduated high
-  school and attended community college in Stockton and has a strong connection to
-  the young Stockton arts scene.
+  age 15, when her family immigrated to Stockton, California. She currently attends
+  the University of California, Davis.
 ---
 
 
