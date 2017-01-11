@@ -1,6 +1,6 @@
 ---
 title: Stockton Contemporaries
-date: 2017-01-05 17:13:00 -08:00
+date: 2017-01-13 17:13:00 -08:00
 categories:
 - Culture
 tags:
