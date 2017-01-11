@@ -40,6 +40,6 @@ Garrett's speech at the ceremony was impromptu, it seemed like he had his own ve
 ![SC_zachary_ogren-min.jpg](/uploads/SC_zachary_ogren-min.jpg)
 *Photo by Zachary Ogren*
 
-There is much more to say about the lack of support for young emerging artists, as well as the relationship between the patron (and developer) and artists everywhere. In Stockton this relationships have layers, including the DIY scene, Placeholder, the Arts Commission, Ten| Space, etc. One of the most crucial parts of the revitalization of Stockton is the creative community, but for us creatives there is a concern about how to address artists being able to ensure that they'll have access to resources, funding, support.
+There is much more to say about the lack of support for young emerging artists, as well as the relationship between the patron (and developer) and artists everywhere. In Stockton this relationships have layers, including the DIY scene, Placeholder, the Arts Commission, Ten|Space, etc. One of the most crucial parts of the revitalization of Stockton is the creative community, but for us creatives there is a concern about how to address artists being able to ensure that they'll have access to resources, funding, support.
 
 It is important for Stockton to continue to notice and recognize its own artists and organizers, and to hold conversations about the issues concerning the arts and its entanglement in everything else happening in the city. Let us keep having these conversations.
