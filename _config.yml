@@ -16,6 +16,7 @@ defaults:
     image: ''
     layout: post
     author: ''
+    description: ''
     author-block: 'false'
     author-image: ''
     author-bio: ''
@@ -26,8 +27,8 @@ defaults:
     image: ''
     layout: page
 email: andrewhemans@gmail.com
-description: 
-baseurl: 
+description:
+baseurl:
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
