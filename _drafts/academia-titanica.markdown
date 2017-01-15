@@ -15,24 +15,19 @@ description: A college student’s conclusions on the useless Bachelor’s degre
 author-image: "/uploads/Allie.jpg"
 ---
 
-When I first arrived at the four-year university, I was shaken. I was fully prepared to be the most behind, the least experienced, and the only one to have no solid plan for my future. This was because I was both a transfer student and a literature major. I’d spent way too many years at San Joaquin Delta College—the true Stocktonian way—and I’d picked a major that caused the most cases of chronic eye-rolling in people who enjoy asking about that sort of thing.
+When I first arrived at the four-year university, I was shaken. I was fully prepared to be the most behind, the least experienced, and the only one to have no solid plan for my future. This was because I was both a transfer student and a literature major. I’d spent way too many years at San Joaquin Delta College—the true Stocktonian way—and I’d picked a major that causes the most cases of chronic eye-rolling in people who enjoy asking about that sort of thing.
 
 When I finally crossed the threshold of my tiny three-person dorm room, however, I was surprised—and alarmed—to see how wrong I was. 
 
 Many of the people I met, mostly transfers, also had no plan. It was apparent that some of them had absolutely no clue what they were doing there at all, as if they’d just wandered onto campus and set up camp in an available dorm room. 
 
-It blew me away how many people had spent two-plus years killing themselves in order to get into a UC, and yet had no idea why they were doing it, other than it’s what people told them they should do. Not that anyone ever admitted that directly—but it was certainly implied.
+It blew me away how many people had spent two-plus years killing themselves in order to get into a UC, and yet had no idea why they were doing it, other than it’s what people told them they should do. Not that anyone ever admitted that directly, but it was certainly implied:
  
 “I don’t really know what field I want to go in.”
-
 “Internships? For Bio? Why?”
- 
 “What’s the career center? We have one of those?”
-
 “I’ll figure it out when I’m a senior.”
-
 “I’ll figure it out after I graduate.” 
-
 “I figure I’ll live with my mom for a while.”
 	
 Jesus H. Christ. What were we doing here? To pay 40K for a glorified piece of paper? Were we here to check “go to college” off our to-do list, along with doing dishes and taking out the garbage?
@@ -41,15 +36,29 @@ In my fear of failure, I was actually one of the few who were ahead of the game.
  
 As a full-time student, I didn’t have much time for contemplation of societal problems, but the situation that surrounded me was noted. Eventually, I realized that our society had sold us a story: 
 
-“There’s a door, kids—a giant door. Behind this door is success. You get to this door by going to a magical place called college…”
+*“There’s a door, kids—a giant door. Behind this door is success. You get to this door by going to a magical place called college…”*
 
 And if I could tell you how many times I’ve seen a young person with a bachelor’s  degree working at a restaurant for tips, I would. If I had a dollar for each of them, I’d probably be able to pay off their student loans.  
 
-But probably not, because, let's be honest, those things are astronomical. 
+(Or maybe not, because, let's be honest, those things are astronomical.) 
 
 Society sold us the dream of success, told us how we could get there, but failed to give us the key. You could even say society made sure we’d never have it. 
 
-The university has historically been deemed as the path to success. But why is this?
+Now, I'm no math major, so bear with me. The following equations are what appear to me to be the current state of things. 
+
+The Fallacy:
+Money + Time = University
+University + Time = Career
+Career x Time = Success
+
+The Reality: 
+Money + Time = University
+University + Time = Degree + Debt
+Degree + Debt + (Desperation x Job Market) = Retail Job(2)
+
+I know the latter "reality" may not be the case for everyone, but I'll be damned if it hasn't been the case for enough people to be considered a problem. 
+
+Despite this unfortunate reality, the University is hailed as the path to success. But why is this?
  
 The university itself has always pushed its image as a creator of higher intelligence, long before there was any logic behind the notion. I’m referring back to when Harvard was a place for priests-in-training—when intelligence was based on how well one could recite scriptures from a book about a mythical being that birthed a son who could stand on water and/or turn it into fermented grape juice. 
 
