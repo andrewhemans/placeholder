@@ -11,6 +11,10 @@ author: Alexandra Krueger
 description: Rumination on UFO sightings in the Central Valley. A local speculates
   on the possibility of a government conspiracy to cloak spaceships and web content.
 author-image: "/uploads/Allie.jpg"
+author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
+  Placeholder Magazine. She grew up in both Stockton and Linden, California, and is
+  currently attending UC Santa Cruz where she is working toward her Bachelor''s in
+  Creative Writing. Allie loves coffee, journaling, and the oxford comma. '
 ---
 
 What would you do if you saw a spaceship floating over your city? What would you do if you saw the shadow of one?
