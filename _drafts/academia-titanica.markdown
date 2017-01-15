@@ -30,9 +30,7 @@ It blew me away how many people had spent two-plus years killing themselves in o
 “I’ll figure it out after I graduate.”   
 “I figure I’ll live with my mom for a while.”  
 	
-Jesus H. Christ. What were we doing here? To pay 40K for a glorified piece of paper? Were we here to check “go to college” off our to-do list, along with doing dishes and taking out the garbage?
-
-In my fear of failure, I was actually one of the few who were ahead of the game. I was seriously concerned with getting internships and experience, only because the eye-rollers had made me well aware of the loftiness of my major, and the severe issues most students like me have in finding jobs after graduation. 
+Jesus H. Christ. What were we doing here? To pay 40K for a glorified piece of paper? Were we here to check “go to college” off our to-do list, along with doing dishes and taking out the garbage? 
  
 As a full-time student, I didn’t have much time for contemplation of societal problems, but the situation that surrounded me was noted. Eventually, I realized that our society had sold us a story: 
 
@@ -58,13 +56,9 @@ Degree + Debt + (Desperation x Job Market) = Retail Job(2)
 
 I know the latter "reality" may not be the case for everyone, but I'll be damned if it hasn't been the case for enough people to be considered a problem. 
 
-Despite this unfortunate reality, the University is still hailed as the path to success. But why is this?
+Despite this unfortunate reality, the University is still hailed as the path to intelligence, success, and career security. But why is this?
  
-The university itself has always pushed its image as a creator of higher intelligence, long before there was any logic behind the notion. I’m referring back to when Harvard was a place for priests-in-training—when intelligence was based on how well one could recite scriptures from a book about a mythical being that birthed a son who could stand on water and/or turn it into fermented grape juice. 
-
-Since then, media has perpetuated this image of the universities creating intelligence as well, and the masses accept this image and in turn, purport it themselves. Businesses and fields of all kinds accept and further advocate this image by requiring the attendance of a university in their prospective employees. And it makes sense—who doesn’t want their workers to be smart? Thus the idea of intelligence has been linked with material success. And as long as the university system claims to be the path to success, most careers will require a degree of some sort. 
-
-And don’t get me wrong—you do have to be smart in order to receive a degree in any field. College is difficult, and overcoming that difficulty used to guarantee the student a place in their field after graduation. But this is no longer the case. 
+Ignoring the complicated answers of "media" and "preconceptions of modern society", one could say it's probably because businesses and fields of all kinds accept and further advocate this idea, simply by requiring their prospective hires to have a degree. Who doesn’t want their employees to be smart? Thus the idea of intelligence has been linked with material success. And as long as the university system claims to be the path to intelligence, most careers will require a degree of some sort. Thus, people will continue to have to put themselves through four-plus years of college and accumulate massive student debt, even though it won't guarantee them anything.
 
 The crucial point that has not been acknowledged in most of society is this: 
 
@@ -72,13 +66,13 @@ The crucial point that has not been acknowledged in most of society is this:
 	
 When applying for any job, whether it’s minimum wage bussing or a high-level editorial position at a magazine, there’s always one requirement that causes the most anxiety in applicants: experience. 
 
-College may be a step to success, but going to college does not guarantee success, as so many baby boomers and high school counselors love to preach. It is up to you, as an individual human being, to create your own success by seeking and exploring experience. It may seem obvious, but too many students don’t realize this until it’s too late.
+College may be a step to certain kinds of success, but going to college does not guarantee that success. It is up to you, as an individual human being, to ensure your own success by seeking and exploring experience. It may seem obvious, but too many students don’t realize this until it’s too late.
 
 And it’s really not the student’s fault. You can’t blame them anymore than I can blame a latte for being terrible—it didn't steam itself. Granted, a coffee can’t make it’s own decisions. But what I'm saying is that young people have had their capacity to make their own meaningful decisions all but carved out of them. 
 
-Let me explain: The people of our generation have been taught all our lives how to operate effectively in a rigid, time-structured, highly organized, standardized system (Common Core, SAT, General Ed., etc.). And, while the world does not operate in the same way a graded system does, students are being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college—a titanic illusion, to say the least. And from what I’ve seen in my past year at a UC, students are buying it.
+How, you ask? Well, for starters, we've been taught all our lives how to operate effectively in a rigid, time-structured, highly organized, standardized system (Common Core, SAT, General Ed., etc.). And, while the world does not operate in the same way a graded system does, we're being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college—a titanic illusion, to say the least. And from what I’ve seen in my past year at a UC, students are buying it.
 
-Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die. Obviously, in order to truly succeed in the world, gold stars aren’t enough. Praise from parents and teachers isn’t enough. Grades and degrees aren’t enough. *College is not enough.*
+Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die. Obviously, in order to truly succeed in the world, grades and degrees aren’t enough. *College is not enough.*
 
 To navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
 
