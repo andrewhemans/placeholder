@@ -8,7 +8,7 @@ tags:
 - Film
 - Sacramento
 author: Dana Al-Hindi
-image: "/uploads/expiremental8-min.jpg"
+image: "/uploads/expirementa2-min.jpg"
 description: A photographer experiments with shooting with expired film and strange
   cameras found in an cabinet. Photographer Dana Al-Hindi shares her photos and observations
   on personality of film.
