@@ -58,7 +58,7 @@ I know the latter "reality" may not be the case for everyone, but I'll be damned
 
 Despite this unfortunate reality, the University is still hailed as the path to intelligence, success, and career security. But why is this?
  
-Ignoring the complicated answers of "media" and "preconceptions of modern society", one could say it's probably because businesses and fields of all kinds accept and further advocate this idea, simply by requiring their prospective hires to have a degree. Who doesn’t want their employees to be smart? Thus the idea of intelligence has been linked with material success. And as long as the university system claims to be the path to intelligence, most careers will require a degree of some sort. Thus, people will continue to have to put themselves through four-plus years of college and accumulate massive student debt, even though it won't guarantee them anything.
+Ignoring the complicated answers of "media" and "preconceptions of modern society", one could say it's probably because businesses and fields of all kinds accept and further advocate this idea, simply by requiring their prospective hires to have a degree. Who doesn’t want their employees to be smart? Thus the idea of intelligence has been linked with material success. And as long as the university system claims to be the path to superior intelligence, most careers will require a degree of some sort. Thus, people will continue to have to put themselves through four-plus years of college and accumulate massive student debt, even though it won't guarantee them anything.
 
 The crucial point that has not been acknowledged in most of society is this: 
 
@@ -72,19 +72,17 @@ And it’s really not the student’s fault. You can’t blame them anymore than
 
 How, you ask? Well, for starters, we've been taught all our lives how to operate effectively in a rigid, time-structured, highly organized, standardized system (Common Core, SAT, General Ed., etc.). And, while the world does not operate in the same way a graded system does, we're being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college—a titanic illusion, to say the least. And from what I’ve seen in my past year at a UC, students are buying it.
 
-Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die. Obviously, in order to truly succeed in the world, grades and degrees aren’t enough. *College is not enough.*
+Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die. 
 
 To navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
 
-It's a giant hypocrisy. After rewarding children for that passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle. 
+It's a giant hypocrisy: After rewarding children for that passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle. 
 
 Don’t get me wrong—I’m not saying one can’t succeed in life by going to college; there are many respectable majors from which graduates secure lucrative positions in their careers. For example, plutonium engineering: you get a bachelor’s degree in that major, and recruiters will be waiting in line at your graduation ceremony, clutching a program and salivating all over your full name on its polished pages. 
 
 However, for other majors, such as psychology, sociology, literature (any humanities major, really), and even majors like environmental science and biology, you need to have experience before you can even hope to enter into a decent career. You need to seek that experience out; no one is going to tell you exactly how to do it, and no one is going to do it for you.
 
-Some students realize this and put in the required effort, but from what I’ve seen, most never face this reality. Even if they do know they need things like internships, most are overwhelmed by the prospect of finding one and don’t know where to look. Colleges have resources like the career center, but many students spend their whole four years in college and never make use of it. There are campus organizations and clubs, but many students see them as totally secondary activities that take away from studying time. 
-
-We now live in a world where a degree is not enough. Competition is severe. That being said, I truly believe studying should come secondary to experience in one’s field. But because people don’t see the world as being changed in this way, because they still believe the illusion that society is reflecting, students still prioritize the majority of their time focusing on grades. The rest of their time is spent perfecting their beer pong skills or binge watching Game of Thrones, because they think they’ve done enough for their futures that week.
+Some students realize this and put in the required effort, but from what I’ve seen, most never face this reality. Many students still prioritize the majority of their time focusing on grades. The rest of their time is spent perfecting their beer pong skills or binge watching Game of Thrones, because they think they’ve done enough for their futures that week.
  
 In reality, all they’ve done is propel themselves toward a degree that guarantees pretty much nothing but a shiny robe and hat. And you get the honor of buying those yourself. 
 
@@ -96,4 +94,4 @@ But I do know this: internships are the new college. Experience is the new colle
 
 And don't get me wrong, my frustration is not with students—it’s not even with the university system. It’s with the society that taught us how to be passive, how to receive gold stars and good grades, and then expected us to realize that we were riding a Titanic of systems: told that it couldn’t sink, but set on a course to do just that. 
 
-You don’t get grades in life after college. And that life after college won’t respond to the grades you’ve gotten. You have to do more for yourself and your future, even though there’s no course list, no four-year plan, no WikiHow page that will explain exactly how to do it. The best thing student can do for themselves is to realize this, and make sure they don’t go down with the ship. 
+You don’t get grades in life after college, and life after college won’t respond to the grades you’ve gotten. You have to do more for yourself and your future, even though there’s no course list, no four-year plan, no WikiHow page that will explain exactly how to do it. The best thing student can do for themselves is to realize this, and make sure they don’t go down with the ship. 
