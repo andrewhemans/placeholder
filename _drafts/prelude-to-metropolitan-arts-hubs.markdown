@@ -13,6 +13,12 @@ description: Why Sacramento is the becoming the new San Francisco in being an �
   mecca”—but better. A look at artist living spaces, the Art Hotel, Jeff Koons and
   more.
 author-image: "/uploads/Aida.jpg"
+author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contributor
+  for Placeholder Magazine. She is a Mexican artist exploring the concepts of identity
+  and feminism in relationship to her experience of geographical and cultural-misplacement
+  as an immigrant in the United States. Lizalde was born and raised in Mexico until
+  age 15, when her family immigrated to Stockton, California. She currently attends
+  the University of California, Davis.
 ---
 
 While the Bay area seems to be pushing its artists out, other regions are trying to make their way into the ranks of internationally known art hub cities like Los Angeles. Sacramento has been sparked by grassroots art projects like Art Hotel which became a once-in-a-lifetime cultural phenomenon, the new Golden 1 arena’s acquisition of a multi-million dollar public work by Jeff Koons, and the city funding artist-focused subsidised living/working spaces like Warehouse Artists Lofts (WAL). Southeast of the capitol Stockton has seen the emergence of art collectives and the recent Medico-Dental building’s restoration to become the city’s own artist affordable housing unit and commercial space inviting art galleries, and local businesses in.
