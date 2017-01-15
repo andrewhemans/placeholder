@@ -31,18 +31,18 @@ No, this was peak traffic time, and this section of Waterloo was particularly bu
 
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics:
 
-**"So we hop up in the whip and flee with the quick  
+->**"So we hop up in the whip and flee with the quick  
 but the shadows make us swerve and we on the strip  
 did you see the shit? (Ye I saw the shit)  
 did you see the shit? (Ye I saw the shit)  
 all agree that a shadow was crossin the street  
-then immediately vanished and we need a hit"**  
+then immediately vanished and we need a hit"**<- 
 
 As oddly relevant as the lyrics were (the song is literally called “Shadows on the Road”) they were pretty useless.
 
 Finally, I found an article on a conspiracy website that gave an account of one of these shadows. The article also took the time to explain modern “cloaking” and “active camouflage," which gave reasons as to how there could be a shadow on the road while thing creating said shadow was invisible to the naked eye.
 
-But this article was obviously pro-conspiracies and aliens. It was written by "Agent K" for christ's sake. I wanted to find accounts from "normal" people who'd seen these shadows. But, other than that one article, there were absolutely no other reports of anyone seeing them, not even a tweet or a Yahoo Answers entry.
+But this article was obnoxiously pro-conspiracy and aliens. It was written by "Agent K" for christ's sake. I wanted to find accounts from "normal" people who'd seen these shadows. But, other than that one article, there were absolutely no other reports of anyone seeing them, not even a tweet or a Yahoo Answers entry.
 
 I eventually concluded that the experience was an anomaly—if the internet didn’t have pages upon pages of information on it, I’d probably never see anything like that again, right?
 
