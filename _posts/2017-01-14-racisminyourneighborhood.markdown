@@ -61,7 +61,6 @@ A report on a redlined community in La Jolla, CA reads: “This area is known as
  
 [![Sacramento-hi-min.jpg](/uploads/Sacramento-hi-min.jpg)](https://joshbegley.com/redlining/maps/Sacramento-hi.jpg)
 
-
 Many of the Sacramento’s West End neighborhood were redlined due to “subversive racial elements” where one section’s “particular hazard is 'racial'; 30% of the population is foreign, including Orientals, Mexicans, and low-class Italians.”
  
 These classifications drastically affected the ability of property owners to finance maintenance and repairs to their property, severely reducing the value in these areas. From 1938 to 1949, property in Sacramento experienced a 46 percent increase in value, while redlined neighborhoods decrease in value by 30 percent.
@@ -71,3 +70,5 @@ The story is the same in many cities; redlining steadily decreased property valu
 I know I said I love maps, but I wish some were never made.
  
 Take a look at your city, your community, have things changed or have they remained the same since these maps were created?
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
