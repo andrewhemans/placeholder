@@ -52,7 +52,7 @@ Now, I’d like to note for all you normal folks who have better things to think
 
 The third time I saw a shadow was about six months later. This time the shadow was much further in front of my car, and it wasn’t crossing the road.
 
-It was in the shape of a circle, but it was much smaller. As I drove toward it, I realized that the shadow was growing larger, and not just because I was getting closer—the shape was wobbling and enlarging, as if a circular object was plummeting to the ground. When it reached its largest size—AKA, was closest to the ground—it wobbled twice and then became very small again until it disappeared. In my mind's eye I pictured an some poor extraterrestrial pilot losing control of its UFO and, at the very last second, pulling up on the lever before it made my Toyota a metal pancake.
+It was in the shape of a circle, but it was much smaller. As I drove toward it, I realized that the shadow was growing larger, and not just because I was getting closer—the shape was wobbling and enlarging, as if a circular object was plummeting to the ground. When it reached its largest size—AKA, was closest to the ground—it wobbled twice and then became very small again until it disappeared. In my mind's eye I pictured an some poor extraterrestrial pilot losing control of its UFO and, at the very last second, pulling up on the lever before it made a silver pancake of my Toyota.
 
 The fourth time I saw a shadow—yup, the fourth time. How was no one else seeing this?—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
 
