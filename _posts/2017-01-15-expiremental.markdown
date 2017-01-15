@@ -7,13 +7,16 @@ tags:
 - Photography
 - Film
 - Sacramento
-image: "/uploads/Expiremental%20Cover%20Photo.jpg"
+image: "/uploads/expirementa2-min.jpg"
 author: Dana Al-Hindi
 description: Experiments with expired film and strange cameras found in an cabinet.
   Photographer Dana Al-Hindi shares her photos and observations on personality of
   film.
 author-block: false
 author-image: "/uploads/15179439327_b5e2e19be0_o.jpg"
+author-bio: 'Dana Al-Hindi was born and raised in Stockton, CA. She currently resides
+  in Sacramento, where she is studying to become a biological anthropologist. Though
+  she loves '
 ---
 
 Alright, so get this: I’ve been working in the curation department of Sacramento State’s Archaeology Research Center for over a year now, and, like most people who work in close proximity of one another, I got to know my coworkers very well. I was hired on to be lab’s photographer, so I thought it was obvious to everyone that I enjoyed photography. If my application for the position wasn’t clear enough, the monthly sharing of my recently developed film photos had to be, right?
