@@ -54,24 +54,24 @@ The third time I saw a shadow was about six months later. This time the shadow w
 
 It was in the shape of a circle, but it was much smaller. As I drove toward it, I realized that the shadow was growing larger, and not just because I was getting closer—the shape was wobbling and enlarging, as if a circular object was plummeting to the ground. When it reached its largest size—AKA, was closest to the ground—it wobbled twice and then became very small again until it disappeared. In my mind's eye I pictured an some poor extraterrestrial pilot losing control of its UFO and, at the very last second, pulling up on the lever before it made a silver pancake of my Toyota.
 
-The fourth time I saw a shadow—yup, the fourth time. How was no one else seeing this?—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
+The fourth time I saw a shadow—yup, the fourth time. *How was no one else seeing this??*—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
 
 But this wasn't like the shadows I'd seen on Waterloo. Oh no. 
 
-This shadow was monolithic. It looked to be about 30 feet wide and circular in shape. It ambled along, slowly flying over the bare, beige hills, not across traffic, but parallel to it. It seemed to be just drifting along, in no hurry at all—nevermind its total visibility to us mortals on our way home from the Bay Area.
+This shadow was monolithic. Looking to be about 30 feet wide and 30 across, the damn thing was just slowly floating along over the bare, beige hills, not across traffic, but parallel to it. It seemed to be in no hurry at all—and totally visible to the mortals on their way home from the Bay Area.
 
 The sheer *arrogance* of this particular move struck me. At this point, I was literally flipping off the sky, cursing and yelling, “I CAN SEE YOU!” 
 
 You know, just so they knew they weren’t getting away with it.
 
-Still, did I get out of my car and yell at passing cars, asking—as Tech N9ne so eloquently did—if they, too, “saw the shit?” No, I did not. I had places to be, things to do. We all did. The commute was bad enough as it was without me pulling over and causing a scene.
+Still, did I roll down my windows and yell at passing cars, asking—as Tech N9ne so eloquently did—if they, too, “saw the shit?” No, I did not. I had places to be, things to do. We all did. The commute was bad enough as it was without me causing a scene.
 
 And that, my friends, is why this stuff will keep happening, and with greater frequency. Whether it’s an alien race planning to invade, a shady government-funded military operation or something else entirely, the ominous “they” aren’t even trying that hard to hide anymore. At least not physically.
 
-As far as the internet goes, however, I’m pretty curious as to why nothing about these circular shadows shows up on Google, save for that one, super-hard-to-find article. One could find information on any of the most obscure topics one's brain could come up with on the World Wide Web, and yet of these shadows, there is nothing.
+As far as the internet goes, however, I’m pretty curious as to why, when information on the most obscure topics can be found on the World Wide Web, I couldn't find more than a single mention of these shadows.
 
-Still, I know that if I’ve seen four of these mysterious shadows (and my sister has also seen one) there have to be other people in this world who have also borne witness to this phenomenon—Is it possible that the ominous “they” employing some sort of search engine spider that eats up information peppered with certain keywords?
+I know that if I’ve seen four of these mysterious shadows (and my sister has also seen one) there have to be other people in this world who have also borne witness to this phenomenon. Is it possible that the ominous “they” employing some sort of search engine spider that eats up information peppered with certain keywords? 
 
 If there are people out there who've seen these shadows or had any other similar experience in the Central Valley, you can email your experiences—or even better, evidence—to stocktonshadows@gmail.com. Google searches might be filtered, but that inbox isn't.
 
-Either way, I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t… Honestly, what would we do if we saw a spaceship floating over our city?
+Either way, I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t… Honestly, what would we do if we saw a spaceship floating over our city? Would we do anything at all?
