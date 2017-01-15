@@ -71,4 +71,6 @@ I know I said I love maps, but I wish some were never made.
  
 Take a look at your city, your community, have things changed or have they remained the same since these maps were created?
 
-*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.
+
+Cover image by Wesley Allard and Javier Padilla*
