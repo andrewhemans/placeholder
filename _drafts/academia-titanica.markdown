@@ -21,6 +21,8 @@ When I finally crossed the threshold of my tiny three-person dorm room, however,
 
 Many of the people I met, mostly transfers, also had no plan. It was apparent that some of them had absolutely no clue what they were doing there at all, as if they’d just wandered onto campus and set up camp in an available dorm room. 
 
+.### And if I could tell you how many times I’ve seen a young person with a bachelor’s  degree working at a restaurant for tips, I would. If I had a dollar for each of them, I’d probably be able to pay off their student loans. 
+
 It blew me away how many people had spent two-plus years killing themselves in order to get into a UC, and yet had no idea why they were doing it, other than it’s what people told them they should do. Not that anyone ever admitted that directly, but it was certainly implied:
  
 “I don’t really know what field I want to go in.”
