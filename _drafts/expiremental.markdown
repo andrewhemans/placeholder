@@ -41,8 +41,8 @@ So here I give you photos taken by the camera that started it all - the Ricoh. I
 
 ![expiremental3-min.jpg](/uploads/expiremental3-min.jpg)
 
-![expiremental1-min.jpg](/uploads/expiremental1-min.jpg)
-
 ![expiremental4-min.jpg](/uploads/expiremental4-min.jpg)
 
-I hope you enjoy these pictures from the Ricoh, and I’ll report back soon about my first date with the Honeywell Pentax.
+![expiremental1-min.jpg](/uploads/expiremental1-min.jpg)
+
+I hope you enjoy these pictures from the Ricoh, and I’ll report back soon about my first date with the Honeywell Pentax!
