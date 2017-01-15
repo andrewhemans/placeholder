@@ -13,6 +13,10 @@ description: A college student’s conclusions on the useless Bachelor’s degre
   the necessity of internships and experience. Blame the society that values grades
   and gold stars.
 author-image: "/uploads/Allie.jpg"
+author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
+  Placeholder Magazine. She grew up in both Stockton and Linden, California, and is
+  currently attending UC Santa Cruz where she is working toward her Bachelor''s in
+  Creative Writing. Allie loves coffee, journaling, and the em-dash. '
 ---
 
 When I first arrived at the four-year university, I was shaken. I was fully prepared to be the most behind, the least experienced, and the only one to have no solid plan for my future. This was because I was both a transfer student and a literature major. I’d spent way too many years at San Joaquin Delta College—the true Stocktonian way—and I’d picked a major that causes the most cases of chronic eye-rolling in people who enjoy asking about that sort of thing.
