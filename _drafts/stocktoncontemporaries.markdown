@@ -26,7 +26,7 @@ author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contribut
   the University of California, Davis.
 ---
 
-I often brag about a group of young people in Stockton who are trying to make things happen. I talk about how a few of them have been involved with environmental justice and community organizing while struggling with the normal stuff other millennials are going through—the rise of social media, environmental catastrophes, social activism, catching up to poststructuralist gender identity issues, existential crisis to adulthood in a post-reaganomics era of bankruptcy, etc.—all the while still caring about the revitalization of their hometown and its arts scene.
+I often brag about a group of young people in Stockton who are trying to make things happen. I talk about how a few of them have been involved with environmental justice and community organizing while struggling with the normal stuff other millennials are going through—the rise of social media, environmental catastrophes, social activism, catching up to poststructuralist gender identity issues, existential crisis to adulthood in a post-Reaganomics era of bankruptcy, etc.—all the while still caring about the revitalization of their hometown and its arts scene.
 
 ![sc_garret_daniells-min.jpg](/uploads/sc_garret_daniells-min.jpg)
 *Photo by Garrett C. Daniells*
@@ -43,3 +43,5 @@ Garrett's speech at the ceremony was impromptu, it seemed like he had his own ve
 There is much more to say about the lack of support for young emerging artists, as well as the relationship between the patron (and developer) and artists everywhere. In Stockton this relationships have layers, including the DIY scene, Placeholder, the Arts Commission, TenSpace, etc. One of the most crucial parts of the revitalization of Stockton is the creative community, but for us creatives there is a concern about how to address artists being able to ensure that they'll have access to resources, funding, support.
 
 It is important for Stockton to continue to notice and recognize its own artists and organizers, and to hold conversations about the issues concerning the arts and its entanglement in everything else happening in the city. Let us keep having these conversations.
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
