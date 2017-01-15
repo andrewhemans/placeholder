@@ -19,18 +19,16 @@ When I first arrived at the four-year university, I was shaken. I was fully prep
 
 When I finally crossed the threshold of my tiny three-person dorm room, however, I was surprised—and alarmed—to see how wrong I was. 
 
-Many of the people I met, mostly transfers, also had no plan. It was apparent that some of them had absolutely no clue what they were doing there at all, as if they’d just wandered onto campus and set up camp in an available dorm room. 
-
-.### And if I could tell you how many times I’ve seen a young person with a bachelor’s  degree working at a restaurant for tips, I would. If I had a dollar for each of them, I’d probably be able to pay off their student loans. 
+Many of the people I met, mostly transfers, also had no plan. It was apparent that some of them had absolutely no clue what they were doing there at all, as if they’d just wandered onto campus and set up camp in an available dorm room.  
 
 It blew me away how many people had spent two-plus years killing themselves in order to get into a UC, and yet had no idea why they were doing it, other than it’s what people told them they should do. Not that anyone ever admitted that directly, but it was certainly implied:
  
-“I don’t really know what field I want to go in.”
-“Internships? For Bio? Why?”
-“What’s the career center? We have one of those?”
-“I’ll figure it out when I’m a senior.”
-“I’ll figure it out after I graduate.” 
-“I figure I’ll live with my mom for a while.”
+“I don’t really know what field I want to go in.”  
+“Internships? For Bio? Why?”  
+“What’s the career center? We have one of those?”  
+“I’ll figure it out when I’m a senior.”  
+“I’ll figure it out after I graduate.”   
+“I figure I’ll live with my mom for a while.”  
 	
 Jesus H. Christ. What were we doing here? To pay 40K for a glorified piece of paper? Were we here to check “go to college” off our to-do list, along with doing dishes and taking out the garbage?
 
@@ -48,15 +46,15 @@ Society sold us the dream of success, told us how we could get there, but failed
 
 Now, I'm no math major, so bear with me. The following equations are what appear to me to be the current state of things. 
 
-The Fallacy:
-Money + Time = University
-University + Time = Career
-Career x Time = Success
+The Fallacy:  
+Money + Time = University  
+University + Time = Career  
+Career x Time = Success  
 
-The Reality: 
-Money + Time = University
-University + Time = Degree + Debt
-Degree + Debt + (Desperation x Job Market) = Retail Job(2)
+The Reality:   
+Money + Time = University  
+University + Time = Degree + Debt  
+Degree + Debt + (Desperation x Job Market) = Retail Job(2)  
 
 I know the latter "reality" may not be the case for everyone, but I'll be damned if it hasn't been the case for enough people to be considered a problem. 
 
