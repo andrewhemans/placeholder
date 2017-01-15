@@ -58,7 +58,7 @@ Degree + Debt + (Desperation x Job Market) = Retail Job(2)
 
 I know the latter "reality" may not be the case for everyone, but I'll be damned if it hasn't been the case for enough people to be considered a problem. 
 
-Despite this unfortunate reality, the University is hailed as the path to success. But why is this?
+Despite this unfortunate reality, the University is still hailed as the path to success. But why is this?
  
 The university itself has always pushed its image as a creator of higher intelligence, long before there was any logic behind the notion. I’m referring back to when Harvard was a place for priests-in-training—when intelligence was based on how well one could recite scriptures from a book about a mythical being that birthed a son who could stand on water and/or turn it into fermented grape juice. 
 
@@ -68,21 +68,19 @@ And don’t get me wrong—you do have to be smart in order to receive a degree 
 
 The crucial point that has not been acknowledged in most of society is this: 
 
-	A degree is not going be enough. 
+**A degree is not going be enough.** 
 	
 When applying for any job, whether it’s minimum wage bussing or a high-level editorial position at a magazine, there’s always one requirement that causes the most anxiety in applicants: experience. 
 
 College may be a step to success, but going to college does not guarantee success, as so many baby boomers and high school counselors love to preach. It is up to you, as an individual human being, to create your own success by seeking and exploring experience. It may seem obvious, but too many students don’t realize this until it’s too late.
 
-And it’s really not the student’s fault. You can’t blame them anymore than I can blame a latte for being terrible—it didn't steam itself. Granted, a coffee can’t make it’s own decisions. But young people have had their capacity to make their own meaningful decisions all but carved out of them. 
+And it’s really not the student’s fault. You can’t blame them anymore than I can blame a latte for being terrible—it didn't steam itself. Granted, a coffee can’t make it’s own decisions. But what I'm saying is that young people have had their capacity to make their own meaningful decisions all but carved out of them. 
 
-Let me explain: The people of our generation have been taught all our lives how to operate effectively in a rigid, time-structured, highly organized, standardized system. And, while the world does not operate in the same way a graded system does, students are being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college—a titanic illusion, to say the least. And from what I’ve seen in my past year at a UC, students are buying it.
+Let me explain: The people of our generation have been taught all our lives how to operate effectively in a rigid, time-structured, highly organized, standardized system (Common Core, SAT, General Ed., etc.). And, while the world does not operate in the same way a graded system does, students are being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college—a titanic illusion, to say the least. And from what I’ve seen in my past year at a UC, students are buying it.
 
-From the start, we’ve been told that if we stayed in the lines of the system, we’d be rewarded: gold stars in kindergarten, grades in middle and high school, and now success after college … All but the latter actually deliver. Equating attending college with success is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die.
+Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die. Obviously, in order to truly succeed in the world, gold stars aren’t enough. Praise from parents and teachers isn’t enough. Grades and degrees aren’t enough. *College is not enough.*
 
-Obviously, in order to truly succeed in the world, gold stars aren’t enough. Praise from parents and teachers isn’t enough. Grades and degrees aren’t enough. *College is not enough.*
-
-To navigate through and succeed in the real world, you need independence, drive and creativity. As luck would have it, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
+To navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
 
 It's a giant hypocrisy. After rewarding children for that passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle. 
 
