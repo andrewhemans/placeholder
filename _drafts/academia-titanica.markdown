@@ -8,6 +8,7 @@ tags:
 - Internships
 - Society
 - Bachelor's Degree
+image: "/uploads/Academia%20Photo2.jpg"
 author: Alexandra Krueger
 description: A college student’s conclusions on the useless Bachelor’s degree and
   the necessity of internships and experience. Blame the society that values grades
