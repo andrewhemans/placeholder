@@ -13,6 +13,7 @@ description: A photographer experiments with shooting with expired film and stra
   cameras found in an cabinet. Photographer Dana Al-Hindi shares her photos and observations
   on personality of film.
 author-block: false
+author-image: "/uploads/15179439327_b5e2e19be0_o.jpg"
 ---
 
 Alright, so get this: I’ve been working in the curation department of Sacramento State’s Archaeology Research Center for over a year now, and, like most people who work in close proximity of one another, I got to know my coworkers very well. I was hired on to be lab’s photographer, so I thought it was obvious to everyone that I enjoyed photography. If my application for the position wasn’t clear enough, the monthly sharing of my recently developed film photos had to be, right?
