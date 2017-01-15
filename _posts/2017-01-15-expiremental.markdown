@@ -52,3 +52,5 @@ So here I give you photos taken by the camera that started it all - the Ricoh. I
 ![expiremental1-min.jpg](/uploads/expiremental1-min.jpg)
 
 I hope you enjoy these pictures from the Ricoh, and I’ll report back soon about my first date with the Honeywell Pentax!
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
