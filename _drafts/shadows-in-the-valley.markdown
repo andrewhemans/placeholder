@@ -31,7 +31,7 @@ No, this was peak traffic time, and this section of Waterloo was particularly bu
 
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics:
 
-->**"So we hop up in the whip and flee with the quick  
+->**"So we hop up in the whip and flee with the quick<-  
 but the shadows make us swerve and we on the strip  
 did you see the shit? (Ye I saw the shit)  
 did you see the shit? (Ye I saw the shit)  
