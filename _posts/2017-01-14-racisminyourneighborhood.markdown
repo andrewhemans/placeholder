@@ -1,6 +1,6 @@
 ---
 title: Racism in Your Neighborhood
-date: 2017-01-08 00:00:00 -08:00
+date: 2017-01-14 00:00:00 -08:00
 categories:
 - Culture
 tags:
