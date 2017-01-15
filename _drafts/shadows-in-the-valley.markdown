@@ -23,7 +23,7 @@ At first I thought some sort of helicopter must have passed overhead, way too lo
 	
 I was surprised, and a bit confused. But it wasn’t like anything amazing had happened. Even if it was something interesting, like a UFO, what was I supposed to do? Pull over? Get out of my Camry, yelling at passing cars, “DID YOU SEE THAT?” 
 
-No, this was peak traffic time, and this section of Waterloo was particularly busy. You’d spend years of your life trying to make a left-hand turn. In the midst of all this chaos, there was no way anyone else saw that.
+No, this was peak traffic time, and this section of Waterloo was particularly busy. You’d spend years of your life trying to make a left-hand turn. In the midst of all this chaos, there was *no way* anyone else saw that.
 	
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics: 
 
