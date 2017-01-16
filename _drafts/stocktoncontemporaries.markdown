@@ -16,6 +16,9 @@ tags:
 - Millenials
 image: "/uploads/SC_zachary_ogren-min.jpg"
 author: Aida Lizalde
+description: In light of Ghostship, gentrification, and homicide, the need for art
+  and DIY is great. Alas, disconnect between artists and the arts establishment goes
+  deeper than age-difference.
 author-block: true
 author-image: "/uploads/Aida.jpg"
 author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contributor
