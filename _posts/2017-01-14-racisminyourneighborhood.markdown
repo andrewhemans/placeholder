@@ -45,7 +45,7 @@ In the early 1930s, long before the Civil Rights Movement or the construction I-
  
 From 1932 to 1964, the FHA with the assistance of HOLC helped hundreds of thousands of people become new homeowners, financing over $120 billion of new housing. However, less than 2% of this real estate was available to people of color. This government-led discrimination institutionalized segregation and destroyed the possibility of investment wherever people of color lived, especially in the urban cores, where most minorities resided.
  
-The FHA explicitly practiced a policy of redlining--methodologically denying or limiting financial services to communities of color solely based on their racial or ethnic composition. The term redlining comes from using red lines on a map to delineate areas where financial institutions should not invest. By 1938, HOLC had surveyed and “graded” neighborhoods in California’s major cities: Oakland, Sacramento, San Francisco, Stockton, Fresno, San Jose, San Diego, and Los Angeles. These classifications were deeply racist. Grade “A”, in green, were typically homogeneously white, suburban enclaves; hotspots for investments. The lowest ranking, “D”, were neighborhoods highlighted in red based on pollution, proximity to industrial zones, and infiltration of “Mexicans, negroes, and orientals.”
+The FHA explicitly practiced a policy of redlining--methodologically denying or limiting financial services to communities of color solely based on their racial or ethnic composition. The term redlining comes from using red lines on a map to delineate areas where financial institutions should not invest. By 1938, HOLC had surveyed and “graded” neighborhoods in California’s major cities: Oakland, Sacramento, San Francisco, Stockton, Fresno, San Jose, San Diego, and Los Angeles. These classifications were deeply racist. Grade “A”, in green, were typically homogeneously white, suburban enclaves—hotspots for investments. The lowest ranking, “D”, were neighborhoods highlighted in red based on pollution, proximity to industrial zones, and infiltration of “Mexicans, negroes, and orientals.”
  
 ![HOLCranking.jpg](/uploads/HOLCranking.jpg)
  
@@ -63,7 +63,7 @@ A report on a redlined community in La Jolla, CA reads: “This area is known as
 
 Many of the Sacramento’s West End neighborhood were redlined due to “subversive racial elements” where one section’s “particular hazard is 'racial'; 30% of the population is foreign, including Orientals, Mexicans, and low-class Italians.”
  
-These classifications drastically affected the ability of property owners to finance maintenance and repairs to their property, severely reducing the value in these areas. From 1938 to 1949, property in Sacramento experienced a 46 percent increase in value, while redlined neighborhoods decrease in value by 30 percent.
+These classifications drastically affected the ability of property owners to finance maintenance and repairs to their property, severely reducing the value in these areas. From 1938 to 1949, property in Sacramento experienced a 46 percent increase in value, while redlined neighborhoods decreased in value by 30 percent.
  
 The story is the same in many cities; redlining steadily decreased property values of the urban core while suburbs and businesses expanded to the outer rings. Eventually, the construction of highways that connected these “homogeneous” enclaves and the subsequent “urban renewal projects” led to a forced exodus of entire non-white communities from the urban cores [(such as the destruction of Little Manila in downtown Stockton.)](http://www.placeholdermag.com/culture/2014/09/03/a-city-with-no-center.html)
  
@@ -71,6 +71,6 @@ I know I said I love maps, but I wish some were never made.
  
 Take a look at your city, your community, have things changed or have they remained the same since these maps were created?
 
-*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
 
-Cover image by Wesley Allard and Javier Padilla*
+*Cover image by Wesley Allard and Javier Padilla*
