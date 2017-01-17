@@ -12,9 +12,9 @@ tags:
 - Stockmarket
 image: "/uploads/Garrett.jpg"
 author: Garrett C. Daniells
-description: A miserable city, a mural project, and the legacy of one great man. In
+description: A miserable city, a mural project, and the legacy of a great man. In
   the wake of a tragedy that shook Stockton's arts community to its core, an artist
-  and organizer's experience in realizing Tim Egkan's dream.
+  and organizer tries to keep the Momentum going.
 author-bio: Garrett C. Daniells is a Stockton born and bred artist, activist, and
   community organizer. Daniells mostly works in organizing community-based art projects
   by collaborating in part with the arts establishment to help create space for emerging
@@ -22,13 +22,13 @@ author-bio: Garrett C. Daniells is a Stockton born and bred artist, activist, an
   and duality through self-reflection.
 ---
 
-One June afternoon in 2015 we stood staring at that huge brick wall, and none of us realized what was going to occur in the upcoming autumn that would inevitably drive many folks to feel a need to create and further impact our city’s creative climate. I think a lot of times as artists, we create visuals to push back against the harsh realities of everyday life. I think in Stockton especially, a creative stew has been cooking up for a very long time due to some pretty fucking depressing conditions. In our city of about 300,000 people, in 2012 alone, 71 people were murdered and our city was the largest city at the time to file for Bankruptcy. People constantly lose folks that are close to them. Holding carwash fundraisers and such to just cover the burial costs of a dead homie. Seeing friends mourn loss and attempts to cope. 
+One June afternoon in 2015 we stood staring at that huge brick wall, and none of us realized what was going to occur in the upcoming autumn that would inevitably drive many folks to feel a need to create and further impact our city’s creative climate. I think a lot of times as artists, we create visuals to push back against the harsh realities of everyday life. I think in Stockton especially, a creative stew has been cooking up for a very long time due to some pretty fucking depressing conditions. In our city of about 300,000 people, in [2012 alone](http://www.recordnet.com/article/20141227/News/141229799), 71 people were murdered and our city was the largest city at the time to file for Bankruptcy. People constantly lose folks that are close to them. Holding carwash fundraisers and such to just cover the burial costs of a dead homie. Seeing friends mourn loss and attempts to cope. 
 
 It never necessarily hit me directly.
 
 And then it happened. 
 
-On September 13th, 2015, at 2:08 in the morning, Timothy J. Egkan was pronounced dead on the scene due to an apparent stab wound to the abdomen. I remember the phone call from someone around 8:00 that morning. 
+On September 13th, 2015, at 2:08 in the morning, Timothy J. Egkan was pronounced dead on the scene due to an apparent stab wound [to the abdomen](http://www.recordnet.com/article/20151003/NEWS/151009878). I remember the phone call from someone around 8:00 that morning. 
 
 “I don’t know how to tell you this...but Tim’s dead”. 
 
@@ -50,9 +50,9 @@ It’s been just over a year now, and I can proudly say at least the gouging dis
 
 In December of 2013, our first issue of Placeholder Magazine dropped. I still remember how I felt that night when Tim, who was obviously toasted (Perhaps it was the look of hyper-confidence. The lack of filter. Or maybe that was just him), grabbed the Mic from Placeholder’s Creative Director Ryan Camero, and Insisted, “This is what Stockton needs...This…”  
 
-Tim proceeded to say that the development company he was partners in would fund our second issue. I thought to myself, Who does this guy think he is? This is OUR art scene... We did this... Who the hell are you?! I think a few of my contemporaries shared my sentiments. He was a brash dude, and I think that’s the way he initially rubbed off on many folks. However, in the following months, I softened up to the idea and ended up working with him on some side jobs, including finishing work on the original Huddle CoWork space, and the remodel of The Plea for Peace Center, which has since been renamed the Sycamore. 
+Tim proceeded to say that the development company he was partners in would fund our second issue. I thought to myself, Who does this guy think he is? This is OUR art scene... We did this... Who the hell are you?! I think a few of my contemporaries shared my sentiments. He was a brash dude, and I think that’s the way he initially rubbed off on many folks. However, in the following months, I softened up to the idea and ended up working with him on some side jobs, including finishing work on the original [Huddle CoWork](http://huddlecowork.com) space, and the remodel of The Plea for Peace Center, which has since been renamed the [Sycamore](https://www.facebook.com/thesycamoredowntown/). 
 
-Sometime between working on Huddle and the first Stockmarket event (before it was even officially called Stockmarket), in 2014, I convinced Tim to let me utilize one of his company’s vacant spaces in an abandoned building to throw art and music shows. This would become The 207, a 600 sq.ft. former ‘Narcoticos Anonimos’ space with a borrowed sound-system that would host about 15-20 music shows over its six month lifespan. 
+Sometime between working on Huddle and the first [Stockmarket](http://www.stockmarketca.com) event (before it was even officially called Stockmarket), in 2014, I convinced Tim to let me utilize one of his company’s vacant spaces in an abandoned building to throw art and music shows. This would become The 207, a 600 sq.ft. former ‘Narcoticos Anonimos’ space with a borrowed sound-system that would host about 15-20 music shows over its six month lifespan. 
 
 I’ve still yet to receive a bad review about this place. 
 
@@ -70,7 +70,7 @@ Now I don’t say any of this to prove anything except the fact that in the shor
 
 If I had an older brother, I’d want him to be like Tim.
 
-In the weeks following Tim’s passing, many of us that were close to him found ourselves attempting to pick up the pieces. In retrospect, it’s really magnificent how much that man did: I think the last number I heard was thirteen—Tim was managing thirteen projects simultaneously solely for the benefit of the downtown Stockton at the time of his passing. The development company had to hire something like four people to do everything he was doing, which honestly may not have even been enough. Although I was never officially offered a job from Tim’s company after his passing (I was, and probably still am, too much of a liability for a semi-professional real estate development company), one of his partners in the company approached me with a project proposal I couldn’t refuse. The conversation went something like, 
+In the weeks following Tim’s passing, many of us that were close to him found ourselves attempting to pick up the pieces. In retrospect, it’s really magnificent how much that man did: I think the last number I heard was thirteen—Tim was managing thirteen projects simultaneously solely for the benefit of the downtown Stockton at the time of his passing. The [development company](http://tenspacedev.com) had to hire something like four people to do everything he was doing, which honestly may not have even been enough. Although I was never officially offered a job from Tim’s company after his passing (I was, and probably still am, too much of a liability for a semi-professional real estate development company), one of his partners in the company approached me with a project proposal I couldn’t refuse. The conversation went something like, 
 
 “So, Tim and I were working on this grant from the Stockton Arts Commission to do some murals, and we have the framework for it, but I don’t know any artists or how to proceed. Garrett, can you help?”
 
@@ -80,7 +80,7 @@ I choked down my emotions. “Absolutely.”
 
 We set up a meeting for the following week for what would become “MOMENTUM”.
 
-The name didn’t come at the time, because we were still on some working title shit and didn’t even really know what we were doing. We knew we wanted to have a festival-esque event along the lines of Pow!Wow! Long Beach and Murals in East Market. Multiple artists, multiple walls, in a very short period of time. I guess the principle idea is that there are all of these other cities around the country and the world that have these wild art festivals that most likely started as a grassroots thing with just a few people and eventually grew into crazy events, like Art Basel in Miami.
+The name didn’t come at the time, because we were still on some working title shit and didn’t even really know what we were doing. We knew we wanted to have a festival-esque event along the lines of [Pow!Wow! Long Beach](http://www.powwowlongbeach.com) and [Murals in the Market](http://www.muralsinthemarket.com). Multiple artists, multiple walls, in a very short period of time. I guess the principle idea is that there are all of these other cities around the country and the world that have these wild art festivals that most likely started as a grassroots thing with just a few people and eventually grew into crazy events, like [Art Basel](https://www.artbasel.com) in Miami.
 
 So we wrote the grant in the most vague terms possible. And guess what?
 
@@ -94,7 +94,7 @@ So we hit the drawing board. We needed a name... What about this? What about tha
 
 I was with a friend who was visiting from England in a funky little hotel near the outskirts of Yosemite in early December. I got on the phone with the Alex Suelto who was helping to reach out to other artists and the graphic designer, Jay Martinez. I’m slightly buzzed at the time—ok, I’m hammered—we talk and talk, maybe an hour or two. We talk through the concept of the project itself, why we’re doing it, what has happened since/during its existence, and how we should avoid the ‘end-all-be-all’ attitude that has sometimes existed in the past here in Stockton (i.e. The downtown theatre and the Stockton Arena and Ballpark which led to our bankruptcy). 
 
-No ... This is just the beginning. And we’re drawing inspiration from all of the movements of the past that have existed in our city: The silo’s. The great community arts events that happened at un-permitted venues, and the projects that happened before, and even touching back on the article in Juxtapoz Magazine http://www.juxtapoz.com/news/preview-may-2012-public-art-special-issue-on-newsstands-now/ that was written to a former mayor in an attempt to embrace street art.
+No ... This is just the beginning. And we’re drawing inspiration from all of the movements of the past that have existed in our city: The silo’s. The great community arts events that happened at un-permitted venues, and the projects that happened before, and even touching back on the [article](http://www.juxtapoz.com/news/preview-may-2012-public-art-special-issue-on-newsstands-now/) in Juxtapoz Magazine that was written to a former mayor in an attempt to embrace street art.
 
 I can’t remember which one of them said it, but It sort of came all at once. 
 
@@ -128,7 +128,7 @@ The last day of the event synced up with The Stockmarket on Saturday the 23rd. I
 
 But it ended on a flat note.
 
-I really don’t know how we did it. In August 2016 (post-Momentum) I participated in the Sacramento Mural Festival as an artist’s assistant for international artist Andrew Schoultz. The festival was organized by LeBasse Projects, an arts consultancy firm that plans projects like these world wide. Needless to say, they have a bit of experience. I know they had a significantly larger budget as well, thanks to Sacramento’s patrons of the arts. By contrast, it’s wild to see what we did with almost nothing and a rag-tag team. 
+I really don’t know how we did it. In August 2016 (post-Momentum) I participated in the Sacramento Mural Festival as an artist’s assistant for international artist [Andrew Schoultz](http://www.andrewschoultz.com). The festival was organized by [LeBasse Projects](http://www.lebasseprojects.com), an arts consultancy firm that plans projects like these world wide. Needless to say, they have a bit of experience. I know they had a significantly larger budget as well, thanks to Sacramento’s patrons of the arts. By contrast, it’s wild to see what we did with almost nothing and a rag-tag team. 
 
 I think that’s the beauty of what we accomplished with Momentum, and I think how Tim would’ve really done it and wanted it done. 
 
