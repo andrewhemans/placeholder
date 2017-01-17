@@ -13,9 +13,9 @@ tags:
 - Archaeology Research Center
 image: "/uploads/expirementa2-min.jpg"
 author: Dana Al-Hindi
-description: A locked cabinet, strange cameras, and expired film? Photographer Dana
+description: 'A locked cabinet, strange cameras, and expired film: Photographer Dana
   Al-Hindi ventures into territories unknown, sharing her photos and observations
-  on the personality of film.
+  on the personality of film.'
 author-block: false
 author-image: "/uploads/15179439327_b5e2e19be0_o.jpg"
 author-bio: 'Dana Al-Hindi was born and raised in Stockton, CA. She currently resides
