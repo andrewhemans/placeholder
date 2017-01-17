@@ -7,11 +7,15 @@ tags:
 - Photography
 - Film
 - Sacramento
+- Expired
+- Stockton
+- Sacramento State
+- Archaeology Research Center
 image: "/uploads/expirementa2-min.jpg"
 author: Dana Al-Hindi
-description: Experiments with expired film and strange cameras found in an cabinet.
-  Photographer Dana Al-Hindi shares her photos and observations on personality of
-  film.
+description: A locked cabinet, strange cameras, and expired film? Photographer Dana
+  Al-Hindi ventures into territories unknown, sharing her photos and observations
+  on the personality of film.
 author-block: false
 author-image: "/uploads/15179439327_b5e2e19be0_o.jpg"
 author-bio: 'Dana Al-Hindi was born and raised in Stockton, CA. She currently resides
