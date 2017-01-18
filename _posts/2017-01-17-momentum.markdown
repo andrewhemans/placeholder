@@ -10,11 +10,12 @@ tags:
 - Tim Egkan
 - Huddle
 - Stockmarket
-image: "/uploads/Garrett.jpg"
+image: "/uploads/12321535_524210074410032_3202912271872310402_n.jpg"
 author: Garrett C. Daniells
 description: A miserable city, a mural project, and the legacy of a great man. In
   the wake of a tragedy that shook Stockton's arts community to its core, an artist
   and organizer tries to keep the Momentum going.
+author-image: "/uploads/Garrett.jpg"
 author-bio: Garrett C. Daniells is a Stockton born and bred artist, activist, and
   community organizer. Daniells mostly works in organizing community-based art projects
   by collaborating in part with the arts establishment to help create space for emerging
