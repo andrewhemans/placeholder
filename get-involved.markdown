@@ -8,6 +8,9 @@ layout: page
 
 To get involved in the content creation of Placeholder, you may [submit your work](#submit), [become an intern](#intern), or [join the team](#join-team).
 
+Donate now:
+<a href="https://www.fracturedatlas.org/site/fiscal/profile?id=11328" target="_top"><img src="https://www.fracturedatlas.org/site/images/contribute/donate_button2.gif" width="120" height="40" border="0" alt="Donate now!"/></a>
+
 <h2 id="submit">Submit Your Work</h2>
 
 **Outside Submissions Guidelines**
