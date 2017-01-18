@@ -16,7 +16,7 @@ author: Dana Al-Hindi
 description: 'A locked cabinet, strange cameras, and expired film: Photographer Dana
   Al-Hindi ventures into territories unknown, sharing her photos and observations
   on the personality of film.'
-author-block: false
+author-block: true
 author-image: "/uploads/15179439327_b5e2e19be0_o.jpg"
 author-bio: 'Dana Al-Hindi was born and raised in Stockton, CA. She currently resides
   in Sacramento, where she is studying to become a biological anthropologist. Though
