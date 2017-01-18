@@ -10,6 +10,7 @@ tags:
 - Stockton
 - History
 - Sacramento
+- featured
 image: "/uploads/Redlining_cover-min-eade89.jpg"
 author: Javier Padilla
 description: A new interactive map uncovers the dark history of America’s past. These
