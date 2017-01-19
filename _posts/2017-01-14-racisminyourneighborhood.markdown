@@ -24,7 +24,7 @@ author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockto
   climbing outside.
 ---
 
-The typical follow-up question I get when I mention my field of study is, “You look at rocks all day or what?” That's Geology, not Geography, and I'll tell them as much. ”Oh, so, you learn about capitals,” they'll say, which is not incorrect, but does show a lack of understanding of the full spectrum of the subject. I'll respond by telling them just how much I love memorizing those, hoping they'll at least understand the full spectrum of sarcasm. 
+The typical follow-up question I get when I mention my field of study is, “You look at rocks all day or what?” That's Geology, not Geography, and I'll tell them as much. "Oh, so, you learn about capitals," they'll say, which is not incorrect, but does show a lack of understanding of the full spectrum of the subject. I'll respond by telling them just how much I love memorizing those, hoping they'll at least understand the full spectrum of sarcasm. 
 
 Some people do get Geography, though, and they'll ask me, “You like maps, don’t you?” Fuck yes, I do.
  
@@ -42,7 +42,7 @@ But, before many of those visible lines, there were other lines that separated c
 
 ## The Red Lines
 
-In the early 1930s, long before the Civil Rights Movement or the construction I-5, Congress established the Home Owners’ Loan Corporation (HOLC) and the Federal Housing Administration (FHA), to counteract the urban foreclosures during the Great Depression. The program was a tremendous success, but only for some.
+In the early 1930s, long before the Civil Rights Movement or the construction of I-5, Congress established the Home Owners’ Loan Corporation (HOLC) and the Federal Housing Administration (FHA), to counteract the urban foreclosures during the Great Depression. The program was a tremendous success, but only for some.
  
 From 1932 to 1964, the FHA with the assistance of HOLC helped hundreds of thousands of people become new homeowners, financing over $120 billion of new housing. However, less than 2% of this real estate was available to people of color. This government-led discrimination institutionalized segregation and destroyed the possibility of investment wherever people of color lived, especially in the urban cores, where most minorities resided.
  
@@ -50,15 +50,15 @@ The FHA explicitly practiced a policy of redlining--methodologically denying or 
  
 ![HOLCranking.jpg](/uploads/HOLCranking.jpg)
  
-Recently, a team of scholars from four universities put together an interactive map titled “Mapping Inequality” which digitized over 150 HOLC’s maps and descriptions in high-resolution. The project, which was hosted by the University of Richmond, overlays these historic maps with a current map of US streets and symbols. 
+Recently, a team of scholars from four universities put together an interactive map titled “Mapping Inequality” which digitized over 150 HOLC’s maps and descriptions in high-resolution. The project, which is hosted by the University of Richmond, overlays these historic maps with a current map of US streets and symbols. 
 
-[You can find the interactive maps here.](https://dsl.richmond.edu/panorama/redlining/#loc=8/38.163/-122.426&opacity=0.95)
+[You can click here to find the interactive maps here.](https://dsl.richmond.edu/panorama/redlining/#loc=8/38.163/-122.426&opacity=0.95)
  
 When looking at the site, you can select a city to reveal its historic maps, the rankings, and the reasons why neighborhoods were graded a particular way.
  
 “There is a concentration of Mexican residents in the area, as well as many negroes and orientals. The best that can be hoped for this area is that it will develop into a business or industrial section. The area is graded low red.” This is a summary for a D-grade Stockton, CA neighborhood.
  
-A report on a redlined community in La Jolla, CA reads: “This area is known as the servants’ quarters of La Jolla, being populated with the serving class of whites, negroes and Mexicans,” whose neighborhood was ”set aside by common consent for the colored populations.”
+A report on a redlined community in La Jolla, CA reads: “This area is known as the servants’ quarters of La Jolla, being populated with the serving class of whites, negroes and Mexicans,” whose neighborhood was "set aside by common consent for the colored populations."
  
 [![Sacramento-hi-min.jpg](/uploads/Sacramento-hi-min.jpg)](https://joshbegley.com/redlining/maps/Sacramento-hi.jpg)
 
