@@ -7,6 +7,7 @@ tags:
 - Shadows
 - Aliens
 - Government Conspiracy
+image: "/uploads/CrisShadows_covr-min.png"
 author: Alexandra Krueger
 description: Rumination on UFO sightings in the Central Valley. A local speculates
   on the possibility of a government conspiracy to cloak spaceships and web content.
@@ -79,3 +80,7 @@ I know that if I’ve seen four of these mysterious shadows (and my sister has a
 If there are people out there who've seen these shadows or had any other similar experience in the Central Valley, you can email your experiences—or even better, evidence—to stocktonshadows@gmail.com. Google searches might be filtered, but that inbox isn't.
 
 If I had to guess, I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t… Honestly, what would we do if we saw a spaceship floating over our city? Would we do anything at all?
+
+![Shadows_cris-min.png](/uploads/Shadows_cris-min.png)
+
+*Cover art by Cristobal Rojas*
