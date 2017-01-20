@@ -34,11 +34,11 @@ I was on my way home from class, passing through the fast food-topia, deep in th
 
 At first I thought some sort of helicopter must have passed overhead, way too low to the ground, but when I craned my neck to look at the sky from behind my driver’s side window, there was nothing. Not cloud nor a passing bird. I looked toward the direction in which the shadow was headed. Nothing. Clear blue skies for as far as the eye could see.
 
+>Whether it’s an alien race planning to invade, a shady government-funded military operation or something else entirely, the ominous “they” aren’t even trying that hard to hide anymore.
+
 I was surprised, and a bit confused. But it wasn’t like anything amazing had happened. Even if it was something interesting, like a UFO, what was I supposed to do? Pull over? Get out of my Camry, yelling at passing cars, “DID YOU SEE THAT?”
 
 No, this was peak traffic time, and this section of Waterloo was particularly busy. You’d spend years of your life trying to make a left-hand turn. In the midst of all this chaos, there was no way anyone else saw that.
-
->I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t…
 
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics:
 
@@ -60,6 +60,8 @@ I eventually concluded that the experience was an anomaly—if the internet didn
 Wrong. Not two months later, I saw a second shadow. Again on Waterloo Road, during peak traffic times.
 
 Now, I’d like to note for all you normal folks who have better things to think about than conspiracy theories, it’s important that this section of the road is always busy as hell when this happens. Think about it: if a shadow like this occurred over an open country road with moderate traffic, or a city street with pedestrians on sidewalks, it'd have a good chance of being seen. But if it crosses an extremely busy street with no sidewalks, what chance does a cloaked craft’s shadow have of being spotted? Especially if it’s crossing the road at high speed?
+
+>I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t…
 
 ![Shadows_cris-min.png](/uploads/Shadows_cris-min.png)The third time I saw a shadow was about six months later. This time the shadow was much further in front of my car, and it wasn’t crossing the road.
 
