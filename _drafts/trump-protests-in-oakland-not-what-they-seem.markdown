@@ -12,7 +12,7 @@ tags:
 - President
 - False news
 - social media
-image: "/uploads/Protests2-min.png"
+image: "/uploads/Protests%20Cover-min.jpg"
 author: Summer Migliori
 description: Oakland is a city known for its protests and political activism. Trump’s
   Presidency and campaign has brought an outslaught of outcry from American citizens.
@@ -31,7 +31,7 @@ There has never been a presidential election quite like the election of 2016. On
 The day following the election was a somber one. Cities were still and faces were long. That is, until darkness descended onto metropolises across the country. When the workday finished, thousands of people around the US drove, marched, and rushed to city centers, settling in for a few nights of protest that would purportedly turn violent.
 
 [](https://www.youtube.com/watch?v=2fFnp80Rpqs)
-[CC Licensed](https://creativecommons.org/licenses/by/3.0/deed.en) [Video courtesy of Steve Crayons on YouTube](https://www.youtube.com/watch?v=2fFnp80Rpqs)
+[CC BY Licensed](https://creativecommons.org/licenses/by/3.0/legalcode) [Video courtesy of Steve Crayons on YouTube](https://www.youtube.com/watch?v=2fFnp80Rpqs)
 
 Oakland, California, is one city that faced the consequences of the election. Protesters flooded Frank H. Ogawa Plaza while shouts of “Not My President” echoed through the streets. However, Oakland was not the only site of active political participation. Social media sites, such as Twitter, Periscope, and Facebook were ablaze with protest news and updates, proliferating the media waves with false information.
 
@@ -74,7 +74,9 @@ Protests stir varying emotions in the people who read about or watch them. For p
 
 Unfortunately, the tactics of a select few were what the media focused on, but people came together to combat the framing, false information, and began to organize with social media by taking to the streets and posting raw footage and commentary of events as they unfolded. A large and diverse group is necessary for a successful movement, and [“this is particularly true if people who are not ordinarily activists begin to participate.”](https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/21/people-are-in-the-streets-protesting-donald-trump-but-when-does-protest-actually-work/?utm_term=.025fd7979985) Digital media, like phones and computers, can be the catalyst to recruit people and inform others, as opposed to breeding grounds for false information.
 
-\
+
 While at the protest, I saw locals pulling over to put out fires, strangers linking arms in solidarity, and citizens clearing debris from sidewalks. People were not just fighting for their rights, but they were helping one another in their community. News framing and social media often depict Oakland as a shadowy, violent place, but there is also light to be found within the city, sparked from online organization and fanned in the hope that media’s effects will ignite civil discourse and political mobilization.
 
 \*names have been changed
+
+*Cover Photo ["Oakland 2010"](https://www.flickr.com/photos/thomashawk/14301558461/in/photolist-nMMe5a-7HxmFG-r6MbBY-oFoUqr-p6WjAy-oXHgkm-tCQxUo-s7459G-pkrRox-s92xsM-pNfsv8-sokxMD-p6Wj39-qZ4oxf-rgNmNF-pdP9Uw-oWoi4n-pyVx3h-pkAyq8-aBkKYF-pWEMQm-qg1Rh2-si6S5e-pLAN4h-qCMgNV-FSrMrz-oihvij-qbaoV8-pA2e7T-qRmEcb-pfnLzC-pAY94g-q5P6gV-pza8wX-q9z4su-qQFPYE-pAW7Ub-pMzSQn-qMt5r5-qM2dEL-pBjzJ3-pjKkvW-sj4Nq9-oWNtwk-pTVBr6-nPEXsp-oRmFmQ-qWmWUA-oXHUyM-qPn6uW) courtesy of Thomas Hawk [licensed by Creative Commons](https://creativecommons.org/licenses/by-nc/2.0/legalcode).
