@@ -38,6 +38,8 @@ I was surprised, and a bit confused. But it wasn’t like anything amazing had h
 
 No, this was peak traffic time, and this section of Waterloo was particularly busy. You’d spend years of your life trying to make a left-hand turn. In the midst of all this chaos, there was no way anyone else saw that.
 
+>I think “they” are fully aware that we’re all >chained to our agendas, glued to our smartphones, >bound to our preconceptions about what the world is >and isn’t…
+
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics:
 
 **["So we hop up in the whip and flee with the quick  
