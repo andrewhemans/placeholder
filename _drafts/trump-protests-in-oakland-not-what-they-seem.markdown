@@ -30,9 +30,15 @@ There has never been a presidential election quite like the election of 2016. On
 
 The day following the election was a somber one. Cities were still and faces were long. That is, until darkness descended onto metropolises across the country. When the workday finished, thousands of people around the US drove, marched, and rushed to city centers, settling in for a few nights of protest that would purportedly turn violent.
 
+[](https://www.youtube.com/watch?v=2fFnp80Rpqs)
+[CC Licensed](https://creativecommons.org/licenses/by/3.0/deed.en) [Video courtesy of Steve Crayons on YouTube](https://www.youtube.com/watch?v=2fFnp80Rpqs)
+
 Oakland, California, is one city that faced the consequences of the election. Protesters flooded Frank H. Ogawa Plaza while shouts of “Not My President” echoed through the streets. However, Oakland was not the only site of active political participation. Social media sites, such as Twitter, Periscope, and Facebook were ablaze with protest news and updates, proliferating the media waves with false information.
 
 Overwhelmed by the diversity of information, I took it upon myself to travel to the Downtown Oakland protest to discover the impact of digital media on political participation and audience consumption, and to explore how individuals come to negatively perceive political activism through framing.
+
+![Protests7-min.jpg](/uploads/Protests7-min.jpg)
+[CC Image courtesy of C64-92 on Flickr](https://www.flickr.com/photos/84938919@N08/8031280221/in/photolist-deGpND-o8v6b7-bPeKGk-8SvSp6-5Y2AkG-na25k6-Nedxv-dwCict-qCTvYf-dD7fkM-abaSCY-mzF8Zf-boLx2D-4vdkxx-NefBt-6tnHWb-cSccyY-7CfSDh-aEmbKs-mmqwXh-jwvecJ-6tivTF-jwwRms-jwvAZS-7Xj2kt-bUXcRq-jzoHG4-dFog1h-jzngP6-6gqPJ-9hWi2A-mfoVRe-qtNyZu-6tiz8T-mupXdA-dD6Ya6-mzDQHT-dDcmTG-dDcmDQ-54fJRy-72rcJw-6tizcv-dDcmmj-6tnHMC-6tizgM-3dYUAo-myX7Rh-dDcmZo-qyVxvJ-NeeyD/)
 
 I raced toward Downtown Oakland, devouring French fries in lieu of a real meal. My appetite for political activism outweighed the hunger I felt in my stomach, and I was not alone. People snapped photos and videos of police cars zipping by, and the roar of the crowd reached a crescendo as cops’ stun grenades snapped at the crowd. Looking at my phone and the swarm of people in front of me, I realized the battle against racism, bigotry, and President-elect Donald Trump was being fought on two fronts: online and in the streets.
 
@@ -44,12 +50,13 @@ Framing of the Oakland protests had divisive effects on the public. I interviewe
 
 ![Protests4-min.png](/uploads/Protests4-min.png)
 
-\
+
 The proliferation of social media in everyday lives also plays a part in the way people perceive protests. In Texas, one Tweet by a man with around forty followers gained attention around the country. The man, Eric Tucker wrote, “Anti-Trump protestors in Austin today are not as organic as they seem. Here are the busses they came in. #fakeprotests #trump2016 #austin.” Photos of buses a few miles from a Trump protest accompanied the Tweet. By the time it was [confirmed that the busses were for a software conference](https://www.nytimes.com/2016/11/20/business/media/how-fake-news-spreads.html?_r=2) and not for paid protestors being bussed to different sites, the false information had spread like wildfire, making headlines and having been shared more than 300,000 times.  When fake news merges with real news, audiences may find it difficult to separate fact and fiction, especially when tensions are running high and people feel as though their lives are at stake.
 
 Social media platforms like Twitter can bring people together with hashtags like #NotMyPresident, #FuckTrump, and #OaklandProtest, while the ability to share posts and events on sites like Facebook allows people’s beliefs and activities to reach a broader audience. However, when anyone can post anything on the Internet and call it news, it can undermine the actions of those involved in protests.
 
 ![Protests3-min.jpg](/uploads/Protests3-min.jpg)
+[CC Image courtesy of Fibonacci Blue on Flickr](https://www.flickr.com/photos/fibonacciblue/29099724245/in/album-72157672695015345/) 
 
 Streams of information had flooded Twitter and Facebook the night of November 9th; some called people to participate in the movement by joining event pages or tweeting locations, while others made posts to counteract the protests. News of the protests had split people apart, even making them afraid to leave their homes.
 
