@@ -376,7 +376,7 @@ right: 0%;
 
 .description {
   padding: 20px;
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
   text-align: center;
 	min-height: 220px;
 }
