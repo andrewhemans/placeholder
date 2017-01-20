@@ -30,8 +30,7 @@ There has never been a presidential election quite like the election of 2016. On
 
 The day following the election was a somber one. Cities were still and faces were long. That is, until darkness descended onto metropolises across the country. When the workday finished, thousands of people around the US drove, marched, and rushed to city centers, settling in for a few nights of protest that would purportedly turn violent.
 
-[](https://www.youtube.com/watch?v=2fFnp80Rpqs)
-[CC BY Licensed](https://creativecommons.org/licenses/by/3.0/legalcode) [Video courtesy of Steve Crayons on YouTube](https://www.youtube.com/watch?v=2fFnp80Rpqs)
+>“whenever \[the media\] show videos, they try to get the worst thing that will happen during the protest, like fire or broken glass.”
 
 Oakland, California, is one city that faced the consequences of the election. Protesters flooded Frank H. Ogawa Plaza while shouts of “Not My President” echoed through the streets. However, Oakland was not the only site of active political participation. Social media sites, such as Twitter, Periscope, and Facebook were ablaze with protest news and updates, proliferating the media waves with false information.
 
