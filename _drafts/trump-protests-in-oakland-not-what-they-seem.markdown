@@ -30,8 +30,6 @@ There has never been a presidential election quite like the election of 2016. On
 
 The day following the election was a somber one. Cities were still and faces were long. That is, until darkness descended onto metropolises across the country. When the workday finished, thousands of people around the US drove, marched, and rushed to city centers, settling in for a few nights of protest that would purportedly turn violent.
 
->“whenever \[the media\] show videos, they try to get the worst thing that will happen during the protest, like fire or broken glass.”
-
 Oakland, California, is one city that faced the consequences of the election. Protesters flooded Frank H. Ogawa Plaza while shouts of “Not My President” echoed through the streets. However, Oakland was not the only site of active political participation. Social media sites, such as Twitter, Periscope, and Facebook were ablaze with protest news and updates, proliferating the media waves with false information.
 
 Overwhelmed by the diversity of information, I took it upon myself to travel to the Downtown Oakland protest to discover the impact of digital media on political participation and audience consumption, and to explore how individuals come to negatively perceive political activism through framing.
@@ -44,6 +42,8 @@ I raced toward Downtown Oakland, devouring French fries in lieu of a real meal. 
 In many cases it seemed as though it was the press versus the people due to news outlets’ framing of the protests as riots, causing the public and journalists to think of the protests as violent events. The San Francisco Gate [emphasized the destruction](http://www.sfgate.com/bayarea/article/Anti-Trump-protests-in-Oakland-turn-violent-10605621.php) and fires that consumed the city, while protesters defied the instructions of officers. The Daily Mail in the United Kingdom identified the protestors as “angry mobs” that “attacked police,” calling Oakland’s protest a “violent rally,” then a “riot” in the [same article](http://www.dailymail.co.uk/news/article-3922098/The-backlash-begins-Disgruntled-anti-Trump-protesters-refuse-accept-election-result-gather-New-York-cities-country.html).
 
 Articles like these are framed in a way that began to alter audiences’ perceptions of the protests. When journalists frame a story, they are pointing out parts of the story they want audiences to focus on, while often omitting points that don't fit with the writer's intended message. 
+
+"When fake news merges with real news, audiences may find it difficult to separate fact and fiction..."
 
 Framing of the Oakland protests had divisive effects on the public. I interviewed Oakland local, Anthony Mendoza\*, who stated that “whenever \[the media\] show videos, they try to get the worst thing that will happen during the protest, like fire or broken glass.” As someone who was at the Oakland protest on November 9th, Mendoza asserted that the news images were not accurate portrayals. “People marching peacefully,” he added. “That’s what you don’t get to see.”
 
