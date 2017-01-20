@@ -82,3 +82,5 @@ If there are people out there who've seen these shadows or had any other similar
 If I had to guess, I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t… Honestly, what would we do if we saw a spaceship floating over our city? Would we do anything at all?
 
 *Cover art by Cristobal Rojas*
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
