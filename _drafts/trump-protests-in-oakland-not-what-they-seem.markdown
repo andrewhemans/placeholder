@@ -48,7 +48,7 @@ In many cases it seemed as though it was the press versus the people due to news
 
 Articles like these are framed in a way that began to alter audiences’ perceptions of the protests. When journalists frame a story, they are pointing out parts of the story they want audiences to focus on, while often omitting points that don't fit with the writer's intended message. 
 
->"When fake news merges with real news, audiences may find it difficult to separate fact and fiction..."
+>"When fake news merges with real news, audiences may find it difficult to separate fact and fiction"
 
 Framing of the Oakland protests had divisive effects on the public. I interviewed Oakland local, Anthony Mendoza\*, who stated that “whenever \[the media\] show videos, they try to get the worst thing that will happen during the protest, like fire or broken glass.” As someone who was at the Oakland protest on November 9th, Mendoza asserted that the news images were not accurate portrayals. “People marching peacefully,” he added. “That’s what you don’t get to see.”
 
