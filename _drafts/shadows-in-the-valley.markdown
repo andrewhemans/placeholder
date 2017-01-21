@@ -84,7 +84,7 @@ But this wasn't like the shadows I'd seen on Waterloo. Oh no.
 This thing was monolithic. Looking to be about 30 feet wide and 30 across, the huge shadow was slowly floating along over the bare, beige hills, not across traffic, but parallel to it. It seemed to be in no hurry at all—totally visible to all of us mortals on our way home from the Bay.
 
 ![Shadows7-min.jpg](/uploads/Shadows7-min.jpg)
-[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode) [courtesy of AK Rockefeller](https://www.flickr.com/photos/akrockefeller/10401709234/in/photolist-gRatLo-7EvZpE-ah8dSg-dkBP6K-7Mmymp-78cMbX-3LfyD-dkBvW6-hv13Lq-eyh9MY-a7DJWf-2krL5w-dkBPk6-7KqLeM-7362ss-dkBRRv-GwjJoo-dkBPWr-7fDe8G-7Q4NfR-86k988-7mNtmC-biMAh8-7psVxd-9SrpAA-i6HfxA-iRVAfR-baKyE-4UXCSp-ei3Hy-nH84u-eSGv2D-afvYSX-55fy3y-8j4x2-qHL1Vy-4r1PTj-6cZ2Gs-erZkRJ-a7ASan-bfskTM-shGAB-5e2NFQ-MtvMw-5w8cP5-pAuNgH-5kXZWU-NeDeX5-84zCmJ-omLD2c)
+[*CC Image*](https://creativecommons.org/licenses/by-sa/2.0/legalcode) [*courtesy of AK Rockefeller*](https://www.flickr.com/photos/akrockefeller/10401709234/in/photolist-gRatLo-7EvZpE-ah8dSg-dkBP6K-7Mmymp-78cMbX-3LfyD-dkBvW6-hv13Lq-eyh9MY-a7DJWf-2krL5w-dkBPk6-7KqLeM-7362ss-dkBRRv-GwjJoo-dkBPWr-7fDe8G-7Q4NfR-86k988-7mNtmC-biMAh8-7psVxd-9SrpAA-i6HfxA-iRVAfR-baKyE-4UXCSp-ei3Hy-nH84u-eSGv2D-afvYSX-55fy3y-8j4x2-qHL1Vy-4r1PTj-6cZ2Gs-erZkRJ-a7ASan-bfskTM-shGAB-5e2NFQ-MtvMw-5w8cP5-pAuNgH-5kXZWU-NeDeX5-84zCmJ-omLD2c)
 
 The sheer *arrogance* of this particular move struck me. At this point, I was literally flipping off the empty sky, cursing and yelling, “I CAN *SEE* YOU!”
 
