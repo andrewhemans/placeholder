@@ -28,6 +28,8 @@ Would you stop what you were doing, take out your phone, and post the evidence t
 
 I was on Waterloo Road when I saw my first shadow. I don’t claim to know what caused the mysterious, fleeting darkness; I can only relay what happened, and let the people of Stockton come to their own conclusions.
 
+![Shadows5-min.jpg](/uploads/Shadows5-min.jpg)
+
 For those Stocktonians who happen to live on the eastern outskirts of the city toward Linden, Waterloo Road is pretty familiar. It runs from Wilson Way toward the 99, ascending over the freeway, then descending through a myriad of fast food joints and gas stations, and onward into the boonies.
 
 I was on my way home from class, passing through the fast food-topia, deep in thought and zoned in on the road when suddenly a huge, oval-shaped shadow the size of a car crossed the road directly in front of me. It happened so fast—if I hadn’t been staring directly at that spot, I’d have missed it.
@@ -53,6 +55,8 @@ As oddly relevant as the lyrics were (the song is literally called “Shadows on
 
 Finally, I found an [article](http://theobjectreport.blogspot.com/2015/06/an-account-of-one-of-my-personal.html) on a conspiracy website that gave an account of one of these shadows. The article also took the time to explain modern “cloaking” and “active camouflage," which gave reasons as to how there could be a shadow on the road while thing creating said shadow could stay invisible to the naked eye.
 
+![Shadows1-min.jpg](/uploads/Shadows1-min.jpg)
+
 But this article was obnoxiously pro-conspiracy and aliens. It was written by "Agent K" for christ's sake. I wanted to find accounts from "normal" people who'd seen these shadows. Unfortunately, other than that one article, there were absolutely no other reports of anyone seeing them, not even a tweet or a Yahoo Answers entry.
 
 I eventually concluded that the experience was an anomaly—if the internet didn’t have pages upon pages of information on it, I’d probably never see anything like that again, right?
@@ -67,7 +71,7 @@ The third time I saw a shadow was about six months later. This time the shadow w
 
 It was in the shape of a circle, but it was much smaller. As I drove toward it, I realized that the shadow was growing larger, and not just because I was getting closer—the shape was wobbling and enlarging, as if a circular object was plummeting to the ground. When it reached its largest size (i.e., was closest to the ground) it wobbled twice and then became very small again until it disappeared. In my mind's eye I pictured an some poor extraterrestrial pilot losing control of its UFO and, at the very last second, pulling up on the lever before it made a silver pancake of my Toyota.
 
-![Shadows_cris-min.png](/uploads/Shadows_cris-min.png)
+![Shadows6-min.jpg](/uploads/Shadows6-min.jpg)
 
 The fourth time I saw a shadow—yup, the fourth time. *How was no one else seeing this??*—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
 
@@ -78,6 +82,8 @@ This thing was monolithic. Looking to be about 30 feet wide and 30 across, the h
 The sheer *arrogance* of this particular move struck me like a slap in the face. At this point, I was literally flipping off the empty sky, cursing and yelling, “I CAN *SEE* YOU!”
 
 You know, just so they knew they weren’t getting away with it.
+
+![Shadows2-min.jpg](/uploads/Shadows2-min.jpg)
 
 As offended for humanity as I was, did I roll down my windows and yell at passing cars, asking—as Tech N9ne so eloquently did—if they, too, “saw the shit?” No, I did not. I had places to be, things to do. We all did. The commute was bad enough as it was without me causing a scene.
 
