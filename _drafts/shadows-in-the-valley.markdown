@@ -38,9 +38,9 @@ At first I thought some sort of helicopter must have passed overhead, way too lo
 
 I was surprised, and a bit confused. But it wasn’t like anything amazing had happened. Even if it was something interesting, like a UFO, what was I supposed to do? Pull over? Get out of my Camry, yelling at passing cars, “DID YOU SEE THAT?”
 
-![Shadows2-min.jpg](/uploads/Shadows2-min.jpg)
-
 No, this was peak traffic time, and this section of Waterloo was particularly busy. You’d spend years of your life trying to make a left-hand turn. In the midst of all this chaos, there was no way anyone else saw that.
+
+![Shadows1-min.jpg](/uploads/Shadows1-min.jpg)
 
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics:
 
@@ -79,11 +79,11 @@ But this wasn't like the shadows I'd seen on Waterloo. Oh no.
 
 This thing was monolithic. Looking to be about 30 feet wide and 30 across, the huge shadow was slowly floating along over the bare, beige hills, not across traffic, but parallel to it. It seemed to be in no hurry at all—totally visible to all of us mortals on our way home from the Bay.
 
+![Shadows7-min.jpg](/uploads/Shadows7-min.jpg)
+
 The sheer *arrogance* of this particular move struck me. At this point, I was literally flipping off the empty sky, cursing and yelling, “I CAN *SEE* YOU!”
 
 You know, just so they knew they weren’t getting away with it.
-
-![Shadows7-min.jpg](/uploads/Shadows7-min.jpg)
 
 As offended for humanity as I was, did I roll down my windows and yell at passing cars, asking—as Tech N9ne so eloquently did—if they, too, “saw the shit?” No, I did not. I had places to be, things to do. We all did. The commute was bad enough as it was without me causing a scene.
 
