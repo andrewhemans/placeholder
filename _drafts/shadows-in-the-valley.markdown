@@ -36,8 +36,6 @@ I was on my way home from class, passing through the fast food-topia, deep in th
 
 At first I thought some sort of helicopter must have passed overhead, way too low to the ground, but when I craned my neck to look at the sky from behind my driver’s side window, there was nothing. Not cloud nor a passing bird. I looked toward the direction in which the shadow was headed. Nothing. Clear blue skies for as far as the eye could see.
 
->Whether it’s an alien race planning to invade, a shady government-funded military operation or something else entirely, the ominous “they” aren’t even trying that hard to hide anymore.
-
 I was surprised, and a bit confused. But it wasn’t like anything amazing had happened. Even if it was something interesting, like a UFO, what was I supposed to do? Pull over? Get out of my Camry, yelling at passing cars, “DID YOU SEE THAT?”
 
 ![Shadows2-min.jpg](/uploads/Shadows2-min.jpg)
@@ -57,7 +55,7 @@ As oddly relevant as the lyrics were (the song is literally called “Shadows on
 
 Finally, I found an [article](http://theobjectreport.blogspot.com/2015/06/an-account-of-one-of-my-personal.html) on a conspiracy website that gave an account of one of these shadows. The article also took the time to explain modern “cloaking” and “active camouflage," which gave reasons as to how there could be a shadow on the road while thing creating said shadow could stay invisible to the naked eye.
 
-![Shadows1-min.jpg](/uploads/Shadows1-min.jpg)
+![Shadows10-min.jpg](/uploads/Shadows10-min.jpg)
 
 But this article was obnoxiously pro-conspiracy and aliens. It was written by "Agent K" for christ's sake. I wanted to find accounts from "normal" people who'd seen these shadows. Unfortunately, other than that one article, there were absolutely no other reports of anyone seeing them, not even a tweet or a Yahoo Answers entry.
 
@@ -84,6 +82,8 @@ This thing was monolithic. Looking to be about 30 feet wide and 30 across, the h
 The sheer *arrogance* of this particular move struck me. At this point, I was literally flipping off the empty sky, cursing and yelling, “I CAN *SEE* YOU!”
 
 You know, just so they knew they weren’t getting away with it.
+
+![Shadows7-min.jpg](/uploads/Shadows7-min.jpg)
 
 As offended for humanity as I was, did I roll down my windows and yell at passing cars, asking—as Tech N9ne so eloquently did—if they, too, “saw the shit?” No, I did not. I had places to be, things to do. We all did. The commute was bad enough as it was without me causing a scene.
 
