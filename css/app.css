@@ -2,6 +2,11 @@ body {
 	font-family: 'Frank Ruhl Libre', sans-serif;
 	font-weight: 300;
   background-color: #000;
+	font-feature-settings: "liga" 0;
+	-webkit-font-feature-settings: "liga" 0;
+	-moz-font-feature-settings: "liga" 0;
+	-ms-font-feature-settings: "liga" 0;
+
 }
 
 h1 {
