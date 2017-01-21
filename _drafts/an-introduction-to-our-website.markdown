@@ -1,6 +1,6 @@
 ---
 title: An Introduction to Our Website
-date: 2017-01-15 08:42:00 -08:00
+date: 2017-01-14 08:42:00 -08:00
 author: Javier Padilla
 description: Welcome to Placeholder’s new website, an independent critical voice covering
   art, culture, and literature led entirely by volunteers in the Central Valley.
