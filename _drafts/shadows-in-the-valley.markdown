@@ -28,7 +28,7 @@ Would you stop what you were doing, take out your phone, and post the evidence t
 
 I was on Waterloo Road when I saw my first shadow. I don’t claim to know what caused the mysterious, fleeting darkness; I can only relay what happened, and let the people of Stockton come to their own conclusions.
 
-![Shadows5-min.jpg](/uploads/Shadows5-min.jpg)
+![Shadows3-min.jpg](/uploads/Shadows3-min.jpg)
 
 For those Stocktonians who happen to live on the eastern outskirts of the city toward Linden, Waterloo Road is pretty familiar. It runs from Wilson Way toward the 99, ascending over the freeway, then descending through a myriad of fast food joints and gas stations, and onward into the boonies.
 
@@ -65,7 +65,7 @@ Wrong. Not two months later, I saw a second shadow. Again on Waterloo Road, duri
 
 Now, I’d like to note for all you normal folks who have better things to think about than conspiracy theories, it’s important that this section of the road is always busy as hell when this happens. Think about it: if a shadow like this occurred over an open country road with moderate traffic, or a city street with pedestrians on sidewalks, it'd have a good chance of being seen. But if it crosses an extremely busy street with no sidewalks, what chance does a cloaked craft’s shadow have of being spotted? Especially if it’s crossing the road at high speed?
 
->I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t…
+![Shadows5-min.jpg](/uploads/Shadows5-min.jpg)
 
 The third time I saw a shadow was about six months later. This time the shadow was much further in front of my car, and it wasn’t crossing the road.
 
@@ -73,7 +73,7 @@ It was in the shape of a circle, but it was much smaller. As I drove toward it, 
 
 ![Shadows6-min.jpg](/uploads/Shadows6-min.jpg)
 
-The fourth time I saw a shadow—yup, the fourth time. *How was no one else seeing this??*—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
+The fourth time I saw a shadow—yes, the fourth f*cking time. *How was no one else seeing this??*—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
 
 But this wasn't like the shadows I'd seen on Waterloo. Oh no.
 
@@ -90,6 +90,8 @@ As offended for humanity as I was, did I roll down my windows and yell at passin
 And that, my friends, is why this stuff will keep happening, and with greater frequency. Whether it’s an alien race planning to invade, a shady government-funded military operation or something else entirely, the ominous “they” aren’t even trying that hard to hide anymore. At least not physically.
 
 As far as the internet goes, however, I’m pretty curious as to why, when information on the most obscure topics can be found on the World Wide Web, I couldn't find more than a single mention of this phenomenon.
+
+![Shadows4-min.jpg](/uploads/Shadows4-min.jpg)
 
 I know that if I’ve seen four of these mysterious shadows (and my sister has also seen one), there have to be other people in this world who have also seen them ... Is it possible that the ominous “they” employing some sort of search engine spider that eats up information peppered with certain keywords?
 
