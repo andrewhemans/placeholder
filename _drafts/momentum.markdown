@@ -44,8 +44,9 @@ I remember just trying to put it all together. Myself, Tim, and a bunch of frien
 
 Waking up to that phone call while hungover after such a good day wasn’t really how I expected to start my morning.
 
-![momentum_armandoP.png](/uploads/momentum_armandoP.png)\
-\Mural and photo by Armando Perez
+![momentum_armandoP.png](/uploads/momentum_armandoP.png)
+
+Mural and photo by Armando Perez
 
 In the following days I found myself organizing and ‘MC’ing a vigil for Tim at the former Plea For Peace Center, all while still trying to figure out what was going on with my own feelings. In my own coping, I found myself at bars most nights, usually with some older person (politicians and well-off folks more often than not) saying, “Hey, you were that guy at Tim’s thing, huh? You guys were pretty close?” There are many drunk politicians and people with money here in Stockton...
 
@@ -56,6 +57,7 @@ It’s been just over a year now, and I can proudly say at least the gouging dis
 In December of 2013, our first issue of Placeholder Magazine dropped. I still remember how I felt that night when Tim, who was obviously toasted (Perhaps it was the look of hyper-confidence. The lack of filter. Or maybe that was just him), grabbed the Mic from Placeholder’s Creative Director Ryan Camero, and Insisted, “This is what Stockton needs...This…”
 
 ![momentum_pbooth.png](/uploads/momentum_pbooth.png)
+
 Photo by Placeholder Photo Booth
 
 Tim proceeded to say that the development company he was partners in would fund our second issue. I thought to myself, Who does this guy think he is? This is OUR art scene... We did this... Who the hell are you?! I think a few of my contemporaries shared my sentiments. He was a brash dude, and I think that’s the way he initially rubbed off on many folks. However, in the following months, I softened up to the idea and ended up working with him on some side jobs, including finishing work on the original [Huddle CoWork](http://huddlecowork.com) space, and the remodel of The Plea for Peace Center, which has since been renamed the [Sycamore](https://www.facebook.com/thesycamoredowntown/).
