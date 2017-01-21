@@ -11,7 +11,7 @@ tags:
 - Huddle
 - Stockmarket
 - Murals
-image: "/uploads/tim-mural-min.jpg"
+image: "/uploads/Momentum1.jpg"
 author: Garrett C. Daniells
 description: A miserable city, a mural project, and the legacy of a great man. In
   the wake of a tragedy that shook Stockton's arts community to its core, an artist
