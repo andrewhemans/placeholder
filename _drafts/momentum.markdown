@@ -44,8 +44,8 @@ I remember just trying to put it all together. Myself, Tim, and a bunch of frien
 
 Waking up to that phone call while hungover after such a good day wasn’t really how I expected to start my morning.
 
-![momentum_armandoP.png](/uploads/momentum_armandoP.png)
-Mural and photo by Armando Perez
+![momentum_armandoP.png](/uploads/momentum_armandoP.png)\
+\Mural and photo by Armando Perez
 
 In the following days I found myself organizing and ‘MC’ing a vigil for Tim at the former Plea For Peace Center, all while still trying to figure out what was going on with my own feelings. In my own coping, I found myself at bars most nights, usually with some older person (politicians and well-off folks more often than not) saying, “Hey, you were that guy at Tim’s thing, huh? You guys were pretty close?” There are many drunk politicians and people with money here in Stockton...
 
