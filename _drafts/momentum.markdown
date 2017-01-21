@@ -10,6 +10,7 @@ tags:
 - Tim Egkan
 - Huddle
 - Stockmarket
+- Murals
 image: "/uploads/momentum_armandoP.png"
 author: Garrett C. Daniells
 description: A miserable city, a mural project, and the legacy of a great man. In
@@ -46,7 +47,7 @@ Waking up to that phone call while hungover after such a good day wasn’t reall
 
 ![momentum_armandoP.png](/uploads/momentum_armandoP.png)
 
-Mural and photo by Armando Perez
+*Mural and photo by Armando Perez*
 
 In the following days I found myself organizing and ‘MC’ing a vigil for Tim at the former Plea For Peace Center, all while still trying to figure out what was going on with my own feelings. In my own coping, I found myself at bars most nights, usually with some older person (politicians and well-off folks more often than not) saying, “Hey, you were that guy at Tim’s thing, huh? You guys were pretty close?” There are many drunk politicians and people with money here in Stockton...
 
@@ -58,7 +59,7 @@ In December of 2013, our first issue of Placeholder Magazine dropped. I still re
 
 ![momentum_pbooth.png](/uploads/momentum_pbooth.png)
 
-Photo by Placeholder Photo Booth
+*Photo by Placeholder Photo Booth*
 
 Tim proceeded to say that the development company he was partners in would fund our second issue. I thought to myself, Who does this guy think he is? This is OUR art scene... We did this... Who the hell are you?! I think a few of my contemporaries shared my sentiments. He was a brash dude, and I think that’s the way he initially rubbed off on many folks. However, in the following months, I softened up to the idea and ended up working with him on some side jobs, including finishing work on the original [Huddle CoWork](http://huddlecowork.com) space, and the remodel of The Plea for Peace Center, which has since been renamed the [Sycamore](https://www.facebook.com/thesycamoredowntown/).
 
@@ -73,7 +74,7 @@ I spoke with Tim’s brother, Jason, the week before everyone’s favorite capit
 He was the actual creative vision behind downtown’s development. He was legendary.
 
 ![momtum_gdaniells.jpg](/uploads/momtum_gdaniells.jpg)
-Photo by Garrett C. Daniells
+*Photo by Garrett C. Daniells*
 
 And you know...Legends never die.
 
@@ -128,26 +129,26 @@ So we had our name. Our concept. Some money. A few extra donors with equipment a
 On the week of April 16, 2016 we began. I had effectively dropped out of school, seeing as I had already fallen behind due to organizing efforts for this project, including countless meetings and email sessions and mental breakdowns; at the time all of this was a bit more important to me than a couple art classes.
 
 ![momentum_gdc.jpg](/uploads/momentum_gdc.jpg)
-Photo by Garrett C. Daniells
+*Photo by Garrett C. Daniells*
 
 Not every artist started on the same day. We had it somewhat staggered so we could get the most out of all of our equipment (one of the pieces of equipment ended up taking most of the budget for the week ... Go figure). I spent my week having many manic-panic-meltdowns throughout the event trying to go from wall to wall, making sure everyone had what they needed, calling in favors from our friends with restaurants to feed people.
 
 ![momentum_watkins.jpg](/uploads/momentum_watkins.jpg)
-Photo by Natalie Watkins
+*Photo by Natalie Watkins*
 
 We executed six murals over the week, with a student mural that would be completed at a later time a bit north of the core of downtown. Four homegrown guys, a teacher, a handful of students, a guy from Sacramento, and a dude from LA who dropped a mural on a wall in one night. It wasn’t all just fun and games though. We had our fair share of hiccups. Two of the guys we thought were going to show up dropped out of the project last minute. There was the guy with his groupies in the crew who rolled in when some drunk-ass kid pulled out a gun. I could see the newspaper headlines flash before my eyes. “Degenerate Artists Run Amok. Kid Killed. Public Gatherings Banned”. There were also just a bunch of hangups with misplaced equipment and with supplies when we needed them. We had a lot of people buying their own supplies, too (including burritos and beer).
 
 The whole point of executing ‘Momentum’ this specific week was to coordinate it with Tim’s birthday on the 19th. He would’ve been 33.
 
 ![tim-mural-min.jpg](/uploads/tim-mural-min.jpg)
-Mural by Alexander Suelto, photo by Garrett C. Daniells
+*Mural by Alexander Suelto, photo by Garrett C. Daniells*
 
 The last day of the event synced up with The Stockmarket on Saturday the 23rd. It was somber. I guess at least I showered that morning. I led a couple tours around to all of the mural sites. One of the artists was still painting. In all actuality, it was a blasé finish to an otherwise successful event. I remember wanting to throw a big party the last day. Shut down the street. Bring out performers. All of that jazz. If Tim would have gotten to see it through I’m sure there would have been some type of spectacular ending.
 
 But it ended on a flat note.
 
 ![momentum_ashcultzgdc.jpg](/uploads/momentum_ashcultzgdc.jpg)
-Mural by Andrew Shoultz, photo by Garrett C. Daniells
+*Mural by Andrew Shoultz, photo by Garrett C. Daniells*
 
 I really don’t know how we did it. In August 2016 (post-Momentum) I participated in the Sacramento Mural Festival as an artist’s assistant for international artist [Andrew Schoultz](http://www.andrewschoultz.com). The festival was organized by [LeBasse Projects](http://www.lebasseprojects.com), an arts consultancy firm that plans projects like these world wide. Needless to say, they have a bit of experience. I know they had a significantly larger budget as well, thanks to Sacramento’s patrons of the arts. By contrast, it’s wild to see what we did with almost nothing and a rag-tag team.
 
