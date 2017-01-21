@@ -140,7 +140,7 @@ We executed six murals over the week, with a student mural that would be complet
 
 The whole point of executing ‘Momentum’ this specific week was to coordinate it with Tim’s birthday on the 19th. He would’ve been 33.
 
-![tim-mural-min.jpg](/uploads/tim-mural-min.jpg)
+![TimMural.jpg](/uploads/TimMural.jpg)
 *Mural by Alexander Suelto, photo by Garrett C. Daniells*
 
 The last day of the event synced up with The Stockmarket on Saturday the 23rd. It was somber. I guess at least I showered that morning. I led a couple tours around to all of the mural sites. One of the artists was still painting. In all actuality, it was a blasé finish to an otherwise successful event. I remember wanting to throw a big party the last day. Shut down the street. Bring out performers. All of that jazz. If Tim would have gotten to see it through I’m sure there would have been some type of spectacular ending.
