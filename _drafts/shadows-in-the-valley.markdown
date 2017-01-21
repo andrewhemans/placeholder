@@ -74,8 +74,8 @@ The third time I saw a shadow was about six months later. This time the shadow w
 
 It was in the shape of a circle, but it was much smaller. As I drove toward it, I realized that the shadow was growing larger, and not just because I was getting closer—the shape was wobbling and enlarging, as if a circular object was plummeting to the ground. When it reached its largest size (i.e., was closest to the ground) it wobbled twice and then became very small again until it disappeared. In my mind's eye I pictured an some poor extraterrestrial pilot losing control of its UFO and, at the very last second, pulling up on the lever before it made a silver pancake of my Toyota.
 
-![Shadows6-min.jpg](/uploads/Shadows6-min.jpg)
-[*CC Image*](https://creativecommons.org/licenses/by/2.0/legalcode) [*courtesy of Michael Verdi*](https://www.flickr.com/photos/verdi/3105154420)
+![Shadows4-min.jpg](/uploads/Shadows4-min.jpg)
+[*CC Image*](https://creativecommons.org/licenses/by/2.0/legalcode) [*courtesy of JD Hancock*](https://www.flickr.com/photos/jdhancock/3768742468/in/photolist-6K2MQq-5F4fNi-7Mt3KT-6SRndr-7MsWw6-dXTh7R-8yAELa-7MwTTj-nxkXgP-jyU4Wy-7MwW4C-68URt6-bHzgme-9ubw5L-6xEeo-4Jhm1e-fTyiC-bF5JK-8s1Zyi-sdkfQ-ucxMj-MBF5-3fRwy9-9Emahv-arpYoP-8Lb5j-61Uvcj-25HPr-5TQCsc-2F2HXc-3fLqhV-av8z-aeW6Jd-CCgQY8-7LAoHL-C3EeRp-btX7o6-aeW6HW-9zXhJf-5jGpPi-5AuaFs-bR4RK-gHSBR7-5NPh4j-ehZhWC-tJmfV-8cpgvL-5NJZPK-aWa2gr-JaJ5b)
 
 The fourth time I saw a shadow—yes, the fourth f\*cking time. *How was no one else seeing this??*—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
 
@@ -94,12 +94,9 @@ As offended for humanity as I was, did I roll down my windows and yell at passin
 
 And that, my friends, is why this stuff will keep happening, and with greater frequency. Whether it’s an alien race planning to invade, a shady government-funded military operation or something else entirely, the ominous “they” aren’t even trying that hard to hide anymore. At least not physically.
 
-As far as the internet goes, however, I’m pretty curious as to why, when information on the most obscure topics can be found on the World Wide Web, I couldn't find more than a single mention of this phenomenon.
+As far as the internet goes, however, I’m pretty curious as to why, when information on the most obscure topics can be found on the World Wide Web, I couldn't find more than a single mention of this phenomenon; I know that if I’ve seen four of these mysterious shadows (and my sister has also seen one), there have to be other people in this world who have also seen them ... Is it possible that the ominous “they” employing some sort of search engine spider that eats up information peppered with certain keywords?
 
-![Shadows4-min.jpg](/uploads/Shadows4-min.jpg)
-[*CC Image*](https://creativecommons.org/licenses/by/2.0/legalcode) [*courtesy of JD Hancock*](https://www.flickr.com/photos/jdhancock/3768742468/in/photolist-6K2MQq-5F4fNi-7Mt3KT-6SRndr-7MsWw6-dXTh7R-8yAELa-7MwTTj-nxkXgP-jyU4Wy-7MwW4C-68URt6-bHzgme-9ubw5L-6xEeo-4Jhm1e-fTyiC-bF5JK-8s1Zyi-sdkfQ-ucxMj-MBF5-3fRwy9-9Emahv-arpYoP-8Lb5j-61Uvcj-25HPr-5TQCsc-2F2HXc-3fLqhV-av8z-aeW6Jd-CCgQY8-7LAoHL-C3EeRp-btX7o6-aeW6HW-9zXhJf-5jGpPi-5AuaFs-bR4RK-gHSBR7-5NPh4j-ehZhWC-tJmfV-8cpgvL-5NJZPK-aWa2gr-JaJ5b)
-
-I know that if I’ve seen four of these mysterious shadows (and my sister has also seen one), there have to be other people in this world who have also seen them ... Is it possible that the ominous “they” employing some sort of search engine spider that eats up information peppered with certain keywords?
+![Shadows_cris-min.png](/uploads/Shadows_cris-min.png)
 
 If there are people out there who've seen these shadows or had any other similar experience in the Central Valley, you can email your experiences—or even better, evidence—to stocktonshadows@gmail.com. Google searches might be filtered, but that inbox isn't.
 
