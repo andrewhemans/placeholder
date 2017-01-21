@@ -83,4 +83,6 @@ While at the protest, I saw locals pulling over to put out fires, strangers link
 
 \*names have been changed
 
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
+
 *Cover Photo* *["Oakland 2010"](https://www.flickr.com/photos/thomashawk/14301558461/in/photolist-nMMe5a-7HxmFG-r6MbBY-oFoUqr-p6WjAy-oXHgkm-tCQxUo-s7459G-pkrRox-s92xsM-pNfsv8-sokxMD-p6Wj39-qZ4oxf-rgNmNF-pdP9Uw-oWoi4n-pyVx3h-pkAyq8-aBkKYF-pWEMQm-qg1Rh2-si6S5e-pLAN4h-qCMgNV-FSrMrz-oihvij-qbaoV8-pA2e7T-qRmEcb-pfnLzC-pAY94g-q5P6gV-pza8wX-q9z4su-qQFPYE-pAW7Ub-pMzSQn-qMt5r5-qM2dEL-pBjzJ3-pjKkvW-sj4Nq9-oWNtwk-pTVBr6-nPEXsp-oRmFmQ-qWmWUA-oXHUyM-qPn6uW)* *courtesy of Thomas Hawk* *[licensed by Creative Commons](https://creativecommons.org/licenses/by-nc/2.0/legalcode)*.
