@@ -9,7 +9,7 @@ tags:
 - Government Conspiracy
 - UFO sighting
 - Cloaking
-image: "/uploads/CrisShadows_covr-min.png"
+image: "/uploads/Shadows1-min.jpg"
 author: Alexandra Krueger
 description: Possible UFO sightings in Stockton and the Central Valley send a local
   spelunking for proof of cloaked alien spaceships,  hidden web content, and government
