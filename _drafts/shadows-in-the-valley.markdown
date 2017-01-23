@@ -28,20 +28,17 @@ Would you stop what you were doing, take out your phone, and post the evidence t
 
 I was on Waterloo Road when I saw my first shadow. I don’t claim to know what caused the mysterious, fleeting darkness; I can only relay what happened, and let the people of Stockton come to their own conclusions.
 
-![Shadows3-min.jpg](/uploads/Shadows3-min.jpg)
-*[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode)* *[courtesy of Feels Weird](https://www.flickr.com/photos/feelsweird/1122596208/in/photolist-2HcAK3-6z5WNP-5zTrM-6WatpQ-y6g6Z-f2Knx-7261ej-8AWyE8-81N6H9-8hrX6v-6QMEQD-a9DyVA-9dmhE-cn2b6h-5nKcHJ-a9AEjF-9V7hc-7221SK-2H8gfv-yn1Pt-6CX3eR-3ZBrx-uTPtf-6MUDgc-jAqQFM-r55a-9Ep4Gm-9Em7yp-9Ep3VU-asQymq-86iGn3-q3n6mS-dHBqoj-FZFvGX-suPQJY-4NjYu-bcb5Jv-9jGCu-8SQvax-c5dpmj-4Z2H2M-cgpuGs-8LbPAN-oJmFy9-4WspXT-LG4Cr-2kgaWX-dCi6SC-6zP9zC-fdsuXQ)*
-
 For those Stocktonians who happen to live on the eastern outskirts of the city toward Linden, Waterloo Road is pretty familiar. It runs from Wilson Way toward the 99, ascending over the freeway, then descending through a myriad of fast food joints and gas stations, and onward into the boonies.
 
 I was on my way home from class, passing through the fast food-topia, deep in thought and zoned in on the road when suddenly a huge, oval-shaped shadow the size of a car crossed the road directly in front of me. It happened so fast—if I hadn’t been staring directly at that spot, I’d have missed it.
+
+![Shadows_cris-min.png](/uploads/Shadows_cris-min.png)
 
 At first I thought some sort of helicopter must have passed overhead, way too low to the ground, but when I craned my neck to look at the sky from behind my driver’s side window, there was nothing. Not cloud nor a passing bird. I looked toward the direction in which the shadow was headed. Nothing. Clear blue skies for as far as the eye could see.
 
 I was surprised, and a bit confused. But it wasn’t like anything amazing had happened. Even if it was something interesting, like a UFO, what was I supposed to do? Pull over? Get out of my Camry, yelling at passing cars, “DID YOU SEE THAT?”
 
 No, this was peak traffic time, and this section of Waterloo was particularly busy. You’d spend years of your life trying to make a left-hand turn. In the midst of all this chaos, there was no way anyone else saw that.
-
-![Shadows_cris-min.png](/uploads/Shadows_cris-min.png)
 
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics:
 
