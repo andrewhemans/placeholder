@@ -11,9 +11,9 @@ tags:
 - Cloaking
 image: "/uploads/CrisShadows_covr-min.png"
 author: Alexandra Krueger
-description: UFO sightings in the Central Valley and Stockton send a local spelunking
-  for proof, and finding nothing—which is the same as finding a government conspiracy
-  to cloak alien spaceships and  web content.
+description: Possible UFO sightings in Stockton and the Central Valley send a local
+  spelunking for proof of cloaked alien spaceships,  hidden web content, and government
+  conspiracies.
 author-block: true
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra works as Content Coordinator, Editor, and Contributor for Placeholder
