@@ -9,6 +9,8 @@ tags:
 - Government Conspiracy
 - UFO sighting
 - Cloaking
+- Stockton
+- Central Valley
 image: "/uploads/Shadows1-min.jpg"
 author: Alexandra Krueger
 description: Possible UFO sightings in Stockton and the Central Valley send a local
