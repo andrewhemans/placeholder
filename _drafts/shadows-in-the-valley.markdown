@@ -29,7 +29,7 @@ Would you stop what you were doing, take out your phone, and post the evidence t
 I was on Waterloo Road when I saw my first shadow. I don’t claim to know what caused the mysterious, fleeting darkness; I can only relay what happened, and let the people of Stockton come to their own conclusions.
 
 ![Shadows3-min.jpg](/uploads/Shadows3-min.jpg)
-[*CC Image*](https://creativecommons.org/licenses/by-sa/2.0/legalcode) [*courtesy of Feels Weird*](https://www.flickr.com/photos/feelsweird/1122596208/in/photolist-2HcAK3-6z5WNP-5zTrM-6WatpQ-y6g6Z-f2Knx-7261ej-8AWyE8-81N6H9-8hrX6v-6QMEQD-a9DyVA-9dmhE-cn2b6h-5nKcHJ-a9AEjF-9V7hc-7221SK-2H8gfv-yn1Pt-6CX3eR-3ZBrx-uTPtf-6MUDgc-jAqQFM-r55a-9Ep4Gm-9Em7yp-9Ep3VU-asQymq-86iGn3-q3n6mS-dHBqoj-FZFvGX-suPQJY-4NjYu-bcb5Jv-9jGCu-8SQvax-c5dpmj-4Z2H2M-cgpuGs-8LbPAN-oJmFy9-4WspXT-LG4Cr-2kgaWX-dCi6SC-6zP9zC-fdsuXQ)
+*[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode)* *[courtesy of Feels Weird](https://www.flickr.com/photos/feelsweird/1122596208/in/photolist-2HcAK3-6z5WNP-5zTrM-6WatpQ-y6g6Z-f2Knx-7261ej-8AWyE8-81N6H9-8hrX6v-6QMEQD-a9DyVA-9dmhE-cn2b6h-5nKcHJ-a9AEjF-9V7hc-7221SK-2H8gfv-yn1Pt-6CX3eR-3ZBrx-uTPtf-6MUDgc-jAqQFM-r55a-9Ep4Gm-9Em7yp-9Ep3VU-asQymq-86iGn3-q3n6mS-dHBqoj-FZFvGX-suPQJY-4NjYu-bcb5Jv-9jGCu-8SQvax-c5dpmj-4Z2H2M-cgpuGs-8LbPAN-oJmFy9-4WspXT-LG4Cr-2kgaWX-dCi6SC-6zP9zC-fdsuXQ)*
 
 For those Stocktonians who happen to live on the eastern outskirts of the city toward Linden, Waterloo Road is pretty familiar. It runs from Wilson Way toward the 99, ascending over the freeway, then descending through a myriad of fast food joints and gas stations, and onward into the boonies.
 
@@ -42,7 +42,7 @@ I was surprised, and a bit confused. But it wasn’t like anything amazing had h
 No, this was peak traffic time, and this section of Waterloo was particularly busy. You’d spend years of your life trying to make a left-hand turn. In the midst of all this chaos, there was no way anyone else saw that.
 
 ![Shadows1-min.jpg](/uploads/Shadows1-min.jpg)
-[*CC Image*](https://creativecommons.org/licenses/by-sa/2.0/legalcode) [*courtesy of Davide*](https://www.flickr.com/photos/santodave/2524120618/in/photolist-4R3M81-Ew7dSB-7iCx6G-x4ym4H-bxnmrc-86iGn3-ac1yLi-kMQGw-dHBqoj-FZFvGX-suPQJY-4NjYu-bcb5Jv-9jGCu-c5dpmj-4Z2H2M-cgpuGs-8LbPAN-oJmFy9-4WspXT-LG4Cr-2kgaWX-dCi6SC-6zP9zC-fdsuXQ-nJMD7o-75NMVz-eWTs9L-kMQGv-9zDAow-9wvX96-bcb5JT-aHDS-tL7RD-Fe3XL-4YZ2kw-bmhYfv-9N7PMT-9BDXSG-eWG44D-5cGMyE-q3n6mS-8SQvax-hp1Mcb-FRV8M-2FEyZu-fddbov-fddbn8-fdsuZQ-fddbp6/)
+*[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode)* *[courtesy of Davide](https://www.flickr.com/photos/santodave/2524120618/in/photolist-4R3M81-Ew7dSB-7iCx6G-x4ym4H-bxnmrc-86iGn3-ac1yLi-kMQGw-dHBqoj-FZFvGX-suPQJY-4NjYu-bcb5Jv-9jGCu-c5dpmj-4Z2H2M-cgpuGs-8LbPAN-oJmFy9-4WspXT-LG4Cr-2kgaWX-dCi6SC-6zP9zC-fdsuXQ-nJMD7o-75NMVz-eWTs9L-kMQGv-9zDAow-9wvX96-bcb5JT-aHDS-tL7RD-Fe3XL-4YZ2kw-bmhYfv-9N7PMT-9BDXSG-eWG44D-5cGMyE-q3n6mS-8SQvax-hp1Mcb-FRV8M-2FEyZu-fddbov-fddbn8-fdsuZQ-fddbp6/)*
 
 Intrigued, and determined to see if anyone else had had this experience with a shadow on the road, when I arrived home I surfed the internet for a good hour, switching up keywords and phrases, finding nothing but Tech N9ne lyrics:
 
@@ -56,9 +56,6 @@ then immediately vanished and we need a hit"](http://www.azlyrics.com/lyrics/tec
 As oddly relevant as the lyrics were (the song is literally called “Shadows on the Road”) they were pretty useless.
 
 Finally, I found an [article](http://theobjectreport.blogspot.com/2015/06/an-account-of-one-of-my-personal.html) on a conspiracy website that gave an account of one of these shadows. The article also took the time to explain modern “cloaking” and “active camouflage," which gave reasons as to how there could be a shadow on the road while thing creating said shadow could stay invisible to the naked eye.
-
-![Shadows10-min.jpg](/uploads/Shadows10-min.jpg)
-[*CC Image*](https://creativecommons.org/licenses/by/2.0/legalcode) [*courtesy of Geoff Penaluna*](https://www.flickr.com/photos/36199303@N04/3645776763/in/photolist-6yayq4-dkBV1i-CqDQbg-CqDLse-dar3aC-9KZdTJ-5zszjp-CqDsDD-CPx19z-dkBJ77-DfKZDx-Do2Uxv-dkBGMz-dkBTZz-DfKUVe-dkBv3F-bFiuLz-fM97tg-8KZ4sG-6U4dYi-dkBzwc-4h2suN-CqDWLk-dkBC9K-DfL9Tp-DfL9ei-cHQG9E-c9bkMy-532tXU-dkBThW-dkBPnj-CPxqZg-CPx9SB-dkBzmJ-dkBPFD-dkBV1s-kcFcko-dkBAGi-DdsTJ3-opWjky-jwMd7X-CPxeDk-DfKXuT-dkBxCS-dkBQ35-JgiuUp-7DCRqQ-DfKLJV-dkBHwX-AbpyQ)
 
 But this article was obnoxiously pro-conspiracy and aliens. It was written by "Agent K" for christ's sake. I wanted to find accounts from "normal" people who'd seen these shadows. Unfortunately, other than that one article, there were absolutely no other reports of anyone seeing them, not even a tweet or a Yahoo Answers entry.
 
@@ -74,9 +71,6 @@ The third time I saw a shadow was about six months later. This time the shadow w
 
 It was in the shape of a circle, but it was much smaller. As I drove toward it, I realized that the shadow was growing larger, and not just because I was getting closer—the shape was wobbling and enlarging, as if a circular object was plummeting to the ground. When it reached its largest size (i.e., was closest to the ground) it wobbled twice and then became very small again until it disappeared. In my mind's eye I pictured an some poor extraterrestrial pilot losing control of its UFO and, at the very last second, pulling up on the lever before it made a silver pancake of my Toyota.
 
-![Shadows4-min.jpg](/uploads/Shadows4-min.jpg)
-[*CC Image*](https://creativecommons.org/licenses/by/2.0/legalcode) [*courtesy of JD Hancock*](https://www.flickr.com/photos/jdhancock/3768742468/in/photolist-6K2MQq-5F4fNi-7Mt3KT-6SRndr-7MsWw6-dXTh7R-8yAELa-7MwTTj-nxkXgP-jyU4Wy-7MwW4C-68URt6-bHzgme-9ubw5L-6xEeo-4Jhm1e-fTyiC-bF5JK-8s1Zyi-sdkfQ-ucxMj-MBF5-3fRwy9-9Emahv-arpYoP-8Lb5j-61Uvcj-25HPr-5TQCsc-2F2HXc-3fLqhV-av8z-aeW6Jd-CCgQY8-7LAoHL-C3EeRp-btX7o6-aeW6HW-9zXhJf-5jGpPi-5AuaFs-bR4RK-gHSBR7-5NPh4j-ehZhWC-tJmfV-8cpgvL-5NJZPK-aWa2gr-JaJ5b)
-
 The fourth time I saw a shadow—yes, the fourth f\*cking time. *How was no one else seeing this??*—I was driving through the Altamont. Apparently the aliens/government decided to move their cloaking operations elsewhere.
 
 But this wasn't like the shadows I'd seen on Waterloo. Oh no.
@@ -88,7 +82,7 @@ The sheer *arrogance* of this particular move struck me. At this point, I was li
 You know, just so they knew they weren’t getting away with it.
 
 ![Shadows7-min.jpg](/uploads/Shadows7-min.jpg)
-[*CC Image*](https://creativecommons.org/licenses/by-sa/2.0/legalcode) [*courtesy of AK Rockefeller*](https://www.flickr.com/photos/akrockefeller/10401709234/in/photolist-gRatLo-7EvZpE-ah8dSg-dkBP6K-7Mmymp-78cMbX-3LfyD-dkBvW6-hv13Lq-eyh9MY-a7DJWf-2krL5w-dkBPk6-7KqLeM-7362ss-dkBRRv-GwjJoo-dkBPWr-7fDe8G-7Q4NfR-86k988-7mNtmC-biMAh8-7psVxd-9SrpAA-i6HfxA-iRVAfR-baKyE-4UXCSp-ei3Hy-nH84u-eSGv2D-afvYSX-55fy3y-8j4x2-qHL1Vy-4r1PTj-6cZ2Gs-erZkRJ-a7ASan-bfskTM-shGAB-5e2NFQ-MtvMw-5w8cP5-pAuNgH-5kXZWU-NeDeX5-84zCmJ-omLD2c)
+*[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode)* *[courtesy of AK Rockefeller](https://www.flickr.com/photos/akrockefeller/10401709234/in/photolist-gRatLo-7EvZpE-ah8dSg-dkBP6K-7Mmymp-78cMbX-3LfyD-dkBvW6-hv13Lq-eyh9MY-a7DJWf-2krL5w-dkBPk6-7KqLeM-7362ss-dkBRRv-GwjJoo-dkBPWr-7fDe8G-7Q4NfR-86k988-7mNtmC-biMAh8-7psVxd-9SrpAA-i6HfxA-iRVAfR-baKyE-4UXCSp-ei3Hy-nH84u-eSGv2D-afvYSX-55fy3y-8j4x2-qHL1Vy-4r1PTj-6cZ2Gs-erZkRJ-a7ASan-bfskTM-shGAB-5e2NFQ-MtvMw-5w8cP5-pAuNgH-5kXZWU-NeDeX5-84zCmJ-omLD2c)*
 
 As offended for humanity as I was, did I roll down my windows and yell at passing cars, asking—as Tech N9ne so eloquently did—if they, too, “saw the shit?” No, I did not. I had places to be, things to do. We all did. The commute was bad enough as it was without me causing a scene.
 
