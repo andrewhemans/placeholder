@@ -80,17 +80,14 @@ The sheer *arrogance* of this particular move struck me. At this point, I was li
 
 You know, just so they knew they weren’t getting away with it.
 
-![Shadows7-min.jpg](/uploads/Shadows7-min.jpg)
-*[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode)* *[courtesy of AK Rockefeller](https://www.flickr.com/photos/akrockefeller/10401709234/in/photolist-gRatLo-7EvZpE-ah8dSg-dkBP6K-7Mmymp-78cMbX-3LfyD-dkBvW6-hv13Lq-eyh9MY-a7DJWf-2krL5w-dkBPk6-7KqLeM-7362ss-dkBRRv-GwjJoo-dkBPWr-7fDe8G-7Q4NfR-86k988-7mNtmC-biMAh8-7psVxd-9SrpAA-i6HfxA-iRVAfR-baKyE-4UXCSp-ei3Hy-nH84u-eSGv2D-afvYSX-55fy3y-8j4x2-qHL1Vy-4r1PTj-6cZ2Gs-erZkRJ-a7ASan-bfskTM-shGAB-5e2NFQ-MtvMw-5w8cP5-pAuNgH-5kXZWU-NeDeX5-84zCmJ-omLD2c)*
-
 As offended for humanity as I was, did I roll down my windows and yell at passing cars, asking—as Tech N9ne so eloquently did—if they, too, “saw the shit?” No, I did not. I had places to be, things to do. We all did. The commute was bad enough as it was without me causing a scene.
 
 And that, my friends, is why this stuff will keep happening, and with greater frequency. Whether it’s an alien race planning to invade, a shady government-funded military operation or something else entirely, the ominous “they” aren’t even trying that hard to hide anymore. At least not physically.
 
 As far as the internet goes, however, I’m pretty curious as to why, when information on the most obscure topics can be found on the World Wide Web, I couldn't find more than a single mention of this phenomenon; I know that if I’ve seen four of these mysterious shadows (and my sister has also seen one), there have to be other people in this world who have also seen them ... Is it possible that the ominous “they” employing some sort of search engine spider that eats up information peppered with certain keywords?
 
-![Shadows1-min.jpg](/uploads/Shadows1-min.jpg)
-*[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode)* *[courtesy of Davide](https://www.flickr.com/photos/santodave/2524120618/in/photolist-4R3M81-Ew7dSB-7iCx6G-x4ym4H-bxnmrc-86iGn3-ac1yLi-kMQGw-dHBqoj-FZFvGX-suPQJY-4NjYu-bcb5Jv-9jGCu-c5dpmj-4Z2H2M-cgpuGs-8LbPAN-oJmFy9-4WspXT-LG4Cr-2kgaWX-dCi6SC-6zP9zC-fdsuXQ-nJMD7o-75NMVz-eWTs9L-kMQGv-9zDAow-9wvX96-bcb5JT-aHDS-tL7RD-Fe3XL-4YZ2kw-bmhYfv-9N7PMT-9BDXSG-eWG44D-5cGMyE-q3n6mS-8SQvax-hp1Mcb-FRV8M-2FEyZu-fddbov-fddbn8-fdsuZQ-fddbp6/)*
+![Shadows7-min.jpg](/uploads/Shadows7-min.jpg)
+*[CC Image](https://creativecommons.org/licenses/by-sa/2.0/legalcode)* *[courtesy of AK Rockefeller](https://www.flickr.com/photos/akrockefeller/10401709234/in/photolist-gRatLo-7EvZpE-ah8dSg-dkBP6K-7Mmymp-78cMbX-3LfyD-dkBvW6-hv13Lq-eyh9MY-a7DJWf-2krL5w-dkBPk6-7KqLeM-7362ss-dkBRRv-GwjJoo-dkBPWr-7fDe8G-7Q4NfR-86k988-7mNtmC-biMAh8-7psVxd-9SrpAA-i6HfxA-iRVAfR-baKyE-4UXCSp-ei3Hy-nH84u-eSGv2D-afvYSX-55fy3y-8j4x2-qHL1Vy-4r1PTj-6cZ2Gs-erZkRJ-a7ASan-bfskTM-shGAB-5e2NFQ-MtvMw-5w8cP5-pAuNgH-5kXZWU-NeDeX5-84zCmJ-omLD2c)*
 
 If there are people out there who've seen these shadows or had any other similar experience in the Central Valley, you can email your experiences—or even better, evidence—to stocktonshadows@gmail.com. Google searches might be filtered, but that inbox isn't.
 
