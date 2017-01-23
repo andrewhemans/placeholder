@@ -33,6 +33,7 @@ For those Stocktonians who happen to live on the eastern outskirts of the city t
 I was on my way home from class, passing through the fast food-topia, deep in thought and zoned in on the road when suddenly a huge, oval-shaped shadow the size of a car crossed the road directly in front of me. It happened so fast—if I hadn’t been staring directly at that spot, I’d have missed it.
 
 ![Shadows_cris-min.png](/uploads/Shadows_cris-min.png)
+*Illustration by Cristobal Rojas*
 
 At first I thought some sort of helicopter must have passed overhead, way too low to the ground, but when I craned my neck to look at the sky from behind my driver’s side window, there was nothing. Not cloud nor a passing bird. I looked toward the direction in which the shadow was headed. Nothing. Clear blue skies for as far as the eye could see.
 
@@ -90,6 +91,6 @@ If there are people out there who've seen these shadows or had any other similar
 
 If I had to guess, I think “they” are fully aware that we’re all chained to our agendas, glued to our smartphones, bound to our preconceptions about what the world is and isn’t… Honestly, what would we do if we saw a spaceship floating over our city? Would we do anything at all?
 
-*Cover art by Cristobal Rojas*
+*[CC Licensed](https://creativecommons.org/licenses/by-sa/2.0/legalcode) [cover photo courtesy of Davide](https://www.flickr.com/photos/santodave/2524120618/in/photolist-4R3M81-Ew7dSB-7iCx6G-x4ym4H-bxnmrc-86iGn3-ac1yLi-kMQGw-dHBqoj-FZFvGX-suPQJY-4NjYu-bcb5Jv-9jGCu-c5dpmj-4Z2H2M-cgpuGs-8LbPAN-oJmFy9-4WspXT-LG4Cr-2kgaWX-dCi6SC-6zP9zC-fdsuXQ-nJMD7o-75NMVz-eWTs9L-kMQGv-9zDAow-9wvX96-bcb5JT-aHDS-tL7RD-Fe3XL-4YZ2kw-bmhYfv-9N7PMT-9BDXSG-eWG44D-5cGMyE-q3n6mS-8SQvax-hp1Mcb-FRV8M-2FEyZu-fddbov-fddbn8-fdsuZQ-fddbp6/)*
 
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
