@@ -1,6 +1,6 @@
 ---
 title: Shadows in the Valley
-date: 2017-01-19 17:47:00 -08:00
+date: 2017-01-23 12:45:00 -08:00
 categories:
 - Culture
 tags:
