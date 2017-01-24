@@ -18,10 +18,10 @@ description: A new interactive map uncovers the dark history of America’s past
   and San Francisco.
 author-block: true
 author-image: "/uploads/javier%20bio.JPG"
-author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockton,
-  CA and currently work on Environmental Justice and Land-Use issues at the SFPUC.
-  On my free time I'm the Executive Director of Placeholder Magazine or cycling or
-  climbing outside.
+author-bio: 'My name is Javier Padilla and I''m a Geographer. I grew up in Stockton,
+  CA and currently work on Environmental Justice and Land-Use issues at the San Francisco
+  Public Utilities Commission. On my free time I''m the Executive Director of Placeholder
+  Magazine or I''m cycling or climbing somewhere, unless it''s raining. '
 ---
 
 The typical follow-up question I get when I mention my field of study is, “You look at rocks all day or what?” That's Geology, not Geography, and I'll tell them as much.  “Oh, so, you learn about capitals,” they'll say, which is not incorrect, but does show a lack of understanding of the full spectrum of the subject. I'll respond by telling them just how much I love memorizing those, hoping they'll at least understand the full spectrum of sarcasm.
