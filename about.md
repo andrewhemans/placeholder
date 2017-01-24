@@ -22,7 +22,6 @@ As an all-volunteer organization, our group consists of 10-20 active members mov
 ## What people are saying
 
 *"Voices from the hidden enclave of grassroots arts in Stockton are emerging together in noncommercial, nonprofit publication filled with colorful works, dramatic prose and deep thoughts to reflect the troubled city's diverse creativity."*
-
 *     [The Record. Feb 2014. Christine Teldeschi.](http://www.recordnet.com/article/20140211/A_LIFE/402110302)
 
 \*“Stockton Art Scene Momentum Swinging in Favor of Downtown Walls”
