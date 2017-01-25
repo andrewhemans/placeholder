@@ -14,10 +14,11 @@ tags:
 - Verge
 - SMAC
 - Sacramento Metropolitan Arts Commission
-image: "/uploads/Prelude1-min.JPG"
+image: "/uploads/prelude3_dana.png"
 author: Aida Lizalde
 description: Watch out SF, Sacramento just might be the new “Art Mecca” of California.
   A look at artist living spaces, the Art Hotel, Jeff Koons and more.
+author-block: true
 author-image: "/uploads/Aida.jpg"
 author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contributor
   for Placeholder Magazine. She is a Mexican artist exploring the concepts of identity
@@ -54,7 +55,7 @@ Early last year, the City Council approved the purchase of Koon's stainless-stee
 The [Art Hotel](http://www.m5arts.com/art-hotel/) was a site-specific, temporary installation challenging the notion that Sacramento needed to spend millions of dollars to revitalize its downtown area. It was a project that turned the old historic Jade Apartments (set to be destroyed after the art show and turned into a Hyatt Hotel) into a giant art experience with the sinuous theme of [Topologies of Representation](http://www.m5arts.com/files/m5arts-call-to-artists-art-hotel-2016.pdf). 
 
 ![arthotel-a8c6bd.jpg](/uploads/arthotel-a8c6bd.jpg)
-*Photo taken by Dana Al-Hindi*
+*This photo and cover image taken by Dana Al-Hindi*
 
 Art Hotel, organized by M5Arts and had over 10,000 visitors within a week. The collective’s current project is Art Street, what they initially had called a Biennial. According to mysterious co-founder Seumas Coutts, Art Street will put Sacramento on track to becoming the “next Berlin.” We all have hopes Art Street is successful and that no one loses their house over it.
 
