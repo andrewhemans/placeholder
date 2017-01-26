@@ -1,6 +1,6 @@
 ---
 title: Prelude to Metropolitan Arts Hubs
-date: 2017-01-15 08:35:00 -08:00
+date: 2017-01-25 18:35:00 -08:00
 categories:
 - Art
 tags:
