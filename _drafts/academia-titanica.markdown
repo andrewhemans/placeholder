@@ -95,24 +95,22 @@ How, you ask? Well, for starters, we've been taught all our lives how to operate
 
 Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die.
 
-I'm sure we all know that in order to navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, however, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
-
-It's a giant hypocrisy: After rewarding children for this passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle.
+I'm sure we all know that in order to navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, however, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity. And after rewarding children for this passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle.
 
 Don’t get me wrong—I’m not saying one can’t succeed in life by going to college; there are many respectable majors from which graduates secure lucrative positions in their careers. For example, plutonium engineering: you get a bachelor’s degree in that major, and recruiters will be waiting in line at your graduation ceremony, clutching a program and salivating all over your full name on its polished pages.
 
 However, for other majors, such as psychology, sociology, literature (any humanities major, really), and even majors like environmental science and biology, you need to have experience before you can even hope to enter into a decent career. You need to seek that experience out; no one is going to tell you exactly how to do it, and no one is going to do it for you.
 
-Some students realize this and put in the required effort, but from what I’ve seen, most never face this reality. Many students still prioritize the majority of their time focusing on grades. The rest of their time is spent perfecting their beer pong skills or binge watching Game of Thrones, because they think they’ve done enough for their futures that week.
+Some students realize this and put in the required effort, but from what I’ve seen, most never face this reality until they try and find jobs post-graduation. Many students still prioritize the majority of their time focusing on grades. The rest of their time is spent perfecting their beer pong skills or binge watching Game of Thrones, because they think they’ve done enough for their futures that week.
 
 In reality, all they’ve done is propel themselves toward a degree that guarantees pretty much nothing but a shiny robe and hat. And you get the honor of buying those yourself.
 
-It’s bullshit. Complete, and utter bullshit. But don’t take my word for it. Go to your local four-year university and take a survey—god forbid you run into any freshman straight out of high school; they’re probably not even focused on grades.
+It’s bullshit. Complete, and utter bullshit. But don’t take my word for it. Go to your local four-year university and take a survey—god forbid you run into any freshman straight out of high school. 
 
 But let’s be honest: I’m not done with the UC just yet. I have another five months before I step into the thralls of what they call “the real world.” How the hell would I know what it really takes to make it?
 
-But I do know this: internships are the new college. Experience is the new college. I’m participating in one right now, and I know that the experience I gain here will guarantee me another one, and maybe even another one. After that, I’ll have built up a resume before it’s absolutely necessary for me to have one. And when I do need one, I’ll be leagues ahead of where my peers with less foresight would be.
+But I do know this: college is not what it used to be. It's no longer guarantees anything. College a hoop that they want us to jump through, just to show them we can jump. Internships are the new college. Experience is the new college. Build up a resume before it’s absolutely necessary to have one, and when you do need one, you'll be leagues ahead of where your peers with less foresight would be.
 
-And don't get me wrong, my frustration is not with students—it’s not even with the university system. It’s with the society that taught us how to be passive, how to receive gold stars and good grades, and then expected us to realize that we were riding a Titanic of systems: told that it couldn’t sink, but set on a course to do just that.
+My frustration is not with students—it’s not even with the university system. It’s with the society that taught us how to be passive, how to receive gold stars and good grades, and then expected us to realize that we were riding a Titanic of systems: told that it couldn’t sink, but set on a course to do just that.
 
 You don’t get grades in life after college, and life after college won’t respond to the grades you’ve gotten. You have to do more for yourself and your future, even though there’s no course list, no four-year plan, no WikiHow page that will explain exactly how to do it. The best thing student can do for themselves is to realize this, and make sure they don’t go down with the ship.
