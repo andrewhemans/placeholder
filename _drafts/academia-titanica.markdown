@@ -79,11 +79,11 @@ I know the latter "reality" may not be the case for everyone, but I'll be damned
 
 Despite this unfortunate reality, the University is still hailed as the path to intelligence, success, and career security. But why is this?
 
-Ignoring the complicated answers of "media" and "preconceptions of modern society", one could say it's probably because businesses and fields of all kinds accept and further advocate this idea, simply by requiring their prospective hires to have a degree. Who doesn’t want their employees to be smart? Thus the idea of intelligence has been linked with material success. And as long as the university system claims to be the path to superior intelligence, most careers will require a degree of some sort. Thus, people will continue to have to put themselves through four-plus years of college and accumulate massive student debt, even though it won't guarantee them anything.
+Ignoring the complicated answers of "media" and "preconceptions of modern society", one could say it's probably because businesses and fields of all kinds accept and further advocate this idea, simply by requiring their prospective hires to have a degree. Who doesn’t want their employees to be smart? And so, the idea of intelligence has been linked with material success. And as long as the university system claims to be the path to superior intelligence, most careers will require a degree of some sort. People will continue to have to put themselves through four-plus years of college and accumulate massive student debt, even though it doesn't guarantee them anything.
 
 The crucial point that has not been acknowledged in most of society is this:
 
-**A degree is not going be enough.**
+*A degree is not going be enough.*
 
 When applying for any job, whether it’s minimum wage bussing or a high-level editorial position at a magazine, there’s always one requirement that causes the most anxiety in applicants: experience.
 
@@ -111,7 +111,9 @@ It’s bullshit. Complete, and utter bullshit. But don’t take my word for it. 
 
 But let’s be honest: I’m not done with the UC just yet. I have another five months before I step into the thralls of what they call “the real world.” How the hell would I know what it really takes to make it?
 
-But I do know this: Attending college no longer guarantees the student anything. College a hoop that they want us to jump through, just to show them we can jump. Internships are the new college. Experience is the new college. Build up a resume before it’s absolutely necessary to have one, and when you do need one, you'll be leagues ahead of where your peers with less foresight would be.
+But I do know this: Attending college no longer guarantees the student anything. College a hoop that they want us to jump through, just to show them we can jump. Aside from that, it's an over-extended, very expensive exercise in time management. 
+
+Internships are the new college. Experience is the new college. Build up a resume before it’s absolutely necessary to have one, and when you do need one, you'll be leagues ahead of where your peers with less foresight would be.
 
 My frustration is not with students—it’s not even with the university system. It’s with the society that taught us how to be passive, how to receive gold stars and good grades, and then expected us to realize that we were riding a Titanic of systems: told that it couldn’t sink, but set on a course to do just that.
 
