@@ -49,7 +49,7 @@ Jesus H. Christ. What were we doing here? To pay 40K for a glorified piece of pa
 
 As a full-time student, I didn’t have much time for contemplation of societal problems, but the situation that surrounded me was noted. Eventually, I realized that our society had sold us a story:
 
-*“There’s a door, kids—a giant door. Behind this door is success. You get to this door by going to a magical place called college…”*
+*“There’s a door, kids, a giant door. Behind this door is success. You get to this door by going to a magical place called college…”*
 
 And if I could tell you how many times I’ve seen a young person with a bachelor’s  degree working at a restaurant for tips, I would. If I had a dollar for each of them, I’d probably be able to pay off their student loans.
 
