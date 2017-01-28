@@ -111,7 +111,7 @@ It’s bullshit. Complete, and utter bullshit. But don’t take my word for it. 
 
 But let’s be honest: I’m not done with the UC just yet. I have another five months before I step into the thralls of what they call “the real world.” How the hell would I know what it really takes to make it?
 
-But I do know this: college is not what it used to be. It's no longer guarantees anything. College a hoop that they want us to jump through, just to show them we can jump. Internships are the new college. Experience is the new college. Build up a resume before it’s absolutely necessary to have one, and when you do need one, you'll be leagues ahead of where your peers with less foresight would be.
+But I do know this: college is not what it used to be. It no longer guarantees anything. College a hoop that they want us to jump through, just to show them we can jump. Internships are the new college. Experience is the new college. Build up a resume before it’s absolutely necessary to have one, and when you do need one, you'll be leagues ahead of where your peers with less foresight would be.
 
 My frustration is not with students—it’s not even with the university system. It’s with the society that taught us how to be passive, how to receive gold stars and good grades, and then expected us to realize that we were riding a Titanic of systems: told that it couldn’t sink, but set on a course to do just that.
 
