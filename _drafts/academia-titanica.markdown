@@ -33,11 +33,16 @@ Many of the people I met, mostly transfers, also had no plan. It was apparent th
 
 It blew me away how many people had spent two-plus years killing themselves in order to get into a UC, and yet had no idea why they were doing it, other than it’s what people told them they should do. Not that anyone ever admitted that directly, but it was certainly implied:
 
-“I don’t really know what field I want to go in.”\
-“Internships? For Bio? Why?”\
-“What’s the career center? We have one of those?”\
-“I’ll figure it out when I’m a senior.”\
-“I’ll figure it out after I graduate.”\
+“I don’t really know what field I want to go in.”
+
+“Internships? For Bio? Why?”
+
+“What’s the career center? We have one of those?”
+
+“I’ll figure it out when I’m a senior.”
+
+“I’ll figure it out after I graduate.”
+
 “I figure I’ll live with my mom for a while.”
 
 Jesus H. Christ. What were we doing here? To pay 40K for a glorified piece of paper? Were we here to check “go to college” off our to-do list, along with doing dishes and taking out the garbage?
