@@ -15,8 +15,8 @@ tags:
 - Education
 image: "/uploads/academiatitanica-min.jpg"
 author: Alexandra Krueger
-description: Student debt, a useless Bachelor’s degree, and the necessity of internships
-  on top of your graduation requirements, AKA, the higher education system. You do
+description: Suffocating student debt, a useless Bachelor’s degree, and the necessity
+  of internships on top of your graduation requirements. Welcome to college. You do
   want to be a part of society, don't you? Good grades and gold stars are a must.
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
@@ -53,8 +53,6 @@ As a full-time student, I didn’t have much time for contemplation of societal 
 
 And if I could tell you how many times I’ve seen a young person with a bachelor’s  degree working at a restaurant for tips, I would. If I had a dollar for each of them, I’d probably be able to pay off their student loans. Or probably not, because, let's be honest, those things are astronomical.
 
->"While the world does not operate in the same way a graded system does, we’re being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college..."
-
 Society sold us the dream of success, told us how we could get there, but failed to give us the key. You could even say society made sure we’d never have it.
 
 Now, I'm no math major, so bear with me. The following equations are what appear to me to be the current state of things.
@@ -85,7 +83,7 @@ The crucial point that has not been acknowledged in most of society is this:
 
 *A degree is not going be enough.*
 
-When applying for any job, whether it’s minimum wage bussing or a high-level editorial position at a magazine, there’s always one requirement that causes the most anxiety in applicants: experience.
+When applying for any job, whether it’s minimum wage bussing or a high-level editorial position at a publishing house, there’s always one requirement that causes the most anxiety in applicants: experience.
 
 College may be a step to certain kinds of success, but going to college does not guarantee that success. It is up to you, as an individual human being, to ensure your own success by seeking and exploring experience. It may seem obvious, but too many students don’t realize this until it’s too late.
 
