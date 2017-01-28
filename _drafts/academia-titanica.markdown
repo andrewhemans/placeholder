@@ -95,7 +95,7 @@ How, you ask? Well, for starters, we've been taught all our lives how to operate
 
 Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die.
 
-To navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
+I'm sure we all know that in order to navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, however, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
 
 It's a giant hypocrisy: After rewarding children for that passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle.
 
