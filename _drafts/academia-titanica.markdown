@@ -89,6 +89,8 @@ When applying for any job, whether it’s minimum wage bussing or a high-level e
 
 College may be a step to certain kinds of success, but going to college does not guarantee that success. It is up to you, as an individual human being, to ensure your own success by seeking and exploring experience. It may seem obvious, but too many students don’t realize this until it’s too late.
 
+>"College a hoop that they want us to jump through, just to show them we can jump."
+
 And it’s really not the student’s fault. You can’t blame them anymore than I can blame a latte for being terrible—it didn't steam itself. Granted, a coffee can’t make it’s own decisions. But what I'm saying is that young people have had their capacity to make their own meaningful decisions all but carved out of them.
 
 How, you ask? Well, for starters, we've been taught all our lives how to operate effectively in a rigid, time-structured, highly organized, standardized system (Common Core, SAT, General Ed., etc.). And, while the world does not operate in the same way a graded system does, we're being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college—a titanic illusion, to say the least. And from what I’ve seen in my past year at a UC, students are buying it.
