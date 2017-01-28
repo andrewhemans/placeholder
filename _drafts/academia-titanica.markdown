@@ -103,7 +103,7 @@ Don’t get me wrong—I’m not saying one can’t succeed in life by going to 
 
 However, for other majors, such as psychology, sociology, literature (any humanities major, really), and even majors like environmental science and biology, you need to have experience before you can even hope to enter into a decent career. You need to seek that experience out; no one is going to tell you exactly how to do it, and no one is going to do it for you.
 
-Some students realize this and put in the required effort, but from what I’ve seen, most never face this reality until they try and find jobs post-graduation. Many students still prioritize the majority of their time focusing on grades. The rest of their time is spent perfecting their beer pong skills or binge watching Game of Thrones, because they think they’ve done enough for their futures that week.
+Some students realize this and put in the required effort, but from what I’ve seen, most never face this reality until they try and find jobs post-graduation. Many students still prioritize the majority of their time focusing on grades. The rest of their time is spent perfecting their beer pong skills or binge watching Shameless, because they think they’ve done enough for their futures that week.
 
 In reality, all they’ve done is propel themselves toward a degree that guarantees pretty much nothing but a shiny robe and hat. And you get the honor of buying those yourself.
 
