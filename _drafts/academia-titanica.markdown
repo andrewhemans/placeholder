@@ -1,6 +1,6 @@
 ---
 title: Academia Titanica
-date: 2017-01-15 08:45:00 -08:00
+date: 2017-01-27 17:00:00 -08:00
 categories:
 - Culture
 tags:
@@ -8,11 +8,16 @@ tags:
 - Internships
 - Society
 - Bachelor's Degree
+- Graduation
+- Humanities
+- English
+- University
+- Education
 image: "/uploads/academiatitanica-min.jpg"
 author: Alexandra Krueger
-description: A college student’s conclusions on the useless Bachelor’s degree and
-  the necessity of internships and experience. Blame the society that values grades
-  and gold stars.
+description: Student debt, a useless Bachelor’s degree, and the necessity of internships
+  on top of your graduation requirements, AKA, the higher education system. You do
+  want to be a part of society, don't you? Good grades and gold stars are a must.
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
   Placeholder Magazine. She grew up in both Stockton and Linden, California, and is
