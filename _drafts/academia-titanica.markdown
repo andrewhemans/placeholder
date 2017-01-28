@@ -97,7 +97,7 @@ Equating attending college with success as our society is won't to do is a flat-
 
 I'm sure we all know that in order to navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, however, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity.
 
-It's a giant hypocrisy: After rewarding children for that passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle.
+It's a giant hypocrisy: After rewarding children for this passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle.
 
 Don’t get me wrong—I’m not saying one can’t succeed in life by going to college; there are many respectable majors from which graduates secure lucrative positions in their careers. For example, plutonium engineering: you get a bachelor’s degree in that major, and recruiters will be waiting in line at your graduation ceremony, clutching a program and salivating all over your full name on its polished pages.
 
