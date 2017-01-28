@@ -59,7 +59,7 @@ Society sold us the dream of success, told us how we could get there, but failed
 
 Now, I'm no math major, so bear with me. The following equations are what appear to me to be the current state of things.
 
-*The Fallacy:*
+**The Fallacy:**
 
 Money \+ Time = University
 
@@ -67,7 +67,7 @@ University \+ Time = Career
 
 Career x Time = Success
 
-*The Reality:*
+**The Reality:**
 
 Money + Time = University
 
