@@ -59,15 +59,21 @@ Society sold us the dream of success, told us how we could get there, but failed
 
 Now, I'm no math major, so bear with me. The following equations are what appear to me to be the current state of things.
 
-The Fallacy:\
-Money \+ Time = University\
-University \+ Time = Career\
+*The Fallacy:*
+
+Money \+ Time = University
+
+University \+ Time = Career
+
 Career x Time = Success
 
-The Reality:\
-Money \+ Time = University\
-University \+ Time = Degree \+ Debt\
-Degree \+ Debt \+ (Desperation x Job Market) = Retail Job(2)
+*The Reality:*
+
+Money + Time = University
+
+University + Time = Degree + Debt
+
+Degree + Debt + (Desperation x Job Market) = Retail Job(2)
 
 I know the latter "reality" may not be the case for everyone, but I'll be damned if it hasn't been the case for enough people to be considered a problem.
 
