@@ -51,9 +51,9 @@ As a full-time student, I didn’t have much time for contemplation of societal 
 
 *“There’s a door, kids, a giant door. Behind this door is success. You get to this door by going to a magical place called college…”*
 
-And if I could tell you how many times I’ve seen a young person with a bachelor’s  degree working at a restaurant for tips, I would. If I had a dollar for each of them, I’d probably be able to pay off their student loans.
+And if I could tell you how many times I’ve seen a young person with a bachelor’s  degree working at a restaurant for tips, I would. If I had a dollar for each of them, I’d probably be able to pay off their student loans. Or probably not, because, let's be honest, those things are astronomical.
 
-\(Or maybe not, because, let's be honest, those things are astronomical.)
+>"While the world does not operate in the same way a graded system does, we’re being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college..."
 
 Society sold us the dream of success, told us how we could get there, but failed to give us the key. You could even say society made sure we’d never have it.
 
