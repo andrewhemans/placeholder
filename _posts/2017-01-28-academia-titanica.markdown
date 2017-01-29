@@ -1,6 +1,6 @@
 ---
 title: Academia Titanica
-date: 2017-01-27 17:00:00 -08:00
+date: 2017-01-28 17:00:00 -08:00
 categories:
 - Culture
 tags:
