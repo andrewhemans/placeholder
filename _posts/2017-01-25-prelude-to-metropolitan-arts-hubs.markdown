@@ -10,10 +10,10 @@ tags:
 - Ghostship
 - Art Hotel
 - Ten Space
-- Warehouse Artists Lofts
 - Verge
 - SMAC
 - Sacramento Metropolitan Arts Commission
+- Warehouse Artist Lofts
 image: "/uploads/prelude3_dana.png"
 author: Aida Lizalde
 description: Watch out SF, Sacramento just might be the new “Art Mecca” of California.
@@ -28,7 +28,7 @@ author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contribut
   the University of California, Davis.
 ---
 
-While the Bay Area seems to be pushing its artists out, other places are trying to make their way into the ranks of internationally-recognized art-hub cities like Los Angeles. Sacramento has been sparked by grassroots art projects like Art Hotel, which became a once-in-a-lifetime cultural phenomenon, the new Golden 1 Arena’s acquisition of a multi-million dollar public work by Jeff Koons, and the City funding artist-focused subsidized living/working spaces like Warehouse Artists' Lofts. Southeast of the capital City, Stockton has seen the emergence of art collectives and the recent Medico-Dental building’s restoration plans to become the City’s own artist affordable housing unit and commercial space inviting art galleries, and local businesses in.
+While the Bay Area seems to be pushing its artists out, other places are trying to make their way into the ranks of internationally-recognized art-hub cities like Los Angeles. Sacramento has been sparked by grassroots art projects like Art Hotel, which became a once-in-a-lifetime cultural phenomenon, the new Golden 1 Arena’s acquisition of a multi-million dollar public work by Jeff Koons, and the City funding artist-focused subsidized living/working spaces like Warehouse Artist Lofts. Southeast of the capital City, Stockton has seen the emergence of art collectives and the recent Medico-Dental building’s restoration plans to become the City’s own artist affordable housing unit and commercial space inviting art galleries, and local businesses in.
 
 ## SF Exodus
 
@@ -49,7 +49,7 @@ Last year, Verge partnered with the new [Jan Shrem and Maria Manetti Museum](htt
 
 ## Warehouse Art Utopia
 
-A few dozen artists have found a home in the [Warehouse Artists' Lofts](http://www.rstreetwal.com/) (WAL), a new housing development in the Historic R Street District. WAL included affordable income housing for artists and opened its live/work studios in 2014. It now has a waiting list of three years. WAL has it all—the concrete walls, the art community, the giant industrial windows—and, aside from over 100 (occupied) apartments, WAL also showcases a marketplace of local crafters/vendors to sell their products. The development includes a small gallery called "1810" which showcases local artists' work. Similarly, Stockton’s very own developers, DFA Development and Ten Space are catching up by revamping the Medico-Dental Building, located on the corner of Sutter and Minor Streets, to host 40 artist loft units, 30 of which will be affordable housing. The project is going to cost 11 million, 2.2 which are from the federal affordable housing funds approved by the City Council.
+A few dozen artists have found a home in the [Warehouse Artist Lofts](http://www.rstreetwal.com/) (WAL), a new housing development in the Historic R Street District. WAL included affordable income housing for artists and opened its live/work studios in 2014. It now has a waiting list of three years. WAL has it all—the concrete walls, the art community, the giant industrial windows—and, aside from over 100 (occupied) apartments, WAL also showcases a marketplace of local crafters/vendors to sell their products. The development includes a small gallery called "1810" which showcases local artists' work. Similarly, Stockton’s very own developers, DFA Development and Ten Space are catching up by revamping the Medico-Dental Building, located on the corner of Sutter and Minor Streets, to host 40 artist loft units, 30 of which will be affordable housing. The project is going to cost 11 million, 2.2 which are from the federal affordable housing funds approved by the City Council.
 
 ## The Diamond and the Punks
 
