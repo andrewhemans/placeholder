@@ -13,7 +13,7 @@ tags:
 - English
 - University
 - Education
-image: "/uploads/academiatitanica-min.jpg"
+image: "/uploads/academiadelta-min.JPG"
 author: Alexandra Krueger
 description: Suffocating student debt, a useless Bachelor’s degree, and the necessity
   of internships on top of your graduation requirements. Welcome to college. You do
