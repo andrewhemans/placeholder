@@ -32,7 +32,7 @@ Many of the people I met, mostly transfers, also had no plan. It was apparent th
 
 It blew me away how many people had spent two-plus years killing themselves in order to get into a UC, and yet had no idea why they were doing it, other than it’s what people told them they should do. Not that anyone ever admitted that directly, but it was certainly implied:
 
-“I don’t really know what field I want to go in.”
+“I don’t really know which field I want to go into.”
 
 “Internships? For Bio? Why?”
 
