@@ -36,7 +36,7 @@ It blew me away how many people had spent two-plus years killing themselves in o
 
 “Internships? For Bio? Why?”
 
-“What’s the career center? We have one of those?”
+“What’s the Career Center? We have one of those?”
 
 “I’ll figure it out when I’m a senior.”
 
