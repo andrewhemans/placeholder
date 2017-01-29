@@ -6,7 +6,6 @@ categories:
 tags:
 - College
 - Internships
-- Society
 - Bachelor's Degree
 - Graduation
 - Humanities
