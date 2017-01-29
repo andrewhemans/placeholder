@@ -116,3 +116,7 @@ Internships are the new college. Experience is the new college. Build up a resum
 My frustration is not with students—it’s not even with the university system. It’s with the society that taught us how to be passive, how to receive gold stars and good grades, and then expected us to realize that we were riding a Titanic of systems: told that it couldn’t sink, but set on a course to do just that.
 
 You don’t get grades in life after college, and life after college won’t respond to the grades you’ve gotten. You have to do more for yourself and your future, even though there’s no course list, no four-year plan, no WikiHow page that will explain exactly how to do it. The best thing student can do for themselves is to realize this, and make sure they don’t go down with the ship.
+
+*Cover photo by Allan Jackson*
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
