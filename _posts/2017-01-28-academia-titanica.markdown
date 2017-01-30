@@ -17,6 +17,7 @@ author: Alexandra Krueger
 description: Suffocating student debt, a useless Bachelor’s degree, and the necessity
   of internships on top of your graduation requirements. Welcome to college. You do
   want to be a part of society, don't you? Good grades and gold stars are a must.
+author-block: true
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
   Placeholder Magazine. She grew up in both Stockton and Linden, California, and is
@@ -92,7 +93,7 @@ And it’s really not the student’s fault. You can’t blame them anymore than
 
 How, you ask? Well, for starters, we've been taught all our lives how to operate effectively in a rigid, time-structured, highly organized, standardized system (Common Core, SAT, General Ed., etc.). And, while the world does not operate in the same way a graded system does, we're being told that it can—that a graded system can grant them entrance into the world, in the same way good grades can grant entrance into college—a titanic illusion, to say the least. And from what I’ve seen in my past year at a UC, students are buying it.
 
-Equating attending college with success as our society is won't to do is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die.
+Equating attending college with success is a flat-out lie, unless your sole goal in life is to get a PhD and stare at the framed product until you die.
 
 I'm sure we all know that in order to navigate through and succeed in the real, non-standardized world, you need independence, drive and creativity. As luck would have it, however, all of these qualities have been phased out of our lives by a system that rewards the exact opposite: obedience and passivity. And after rewarding children for this passivity all their lives, society then expects them to exert independence and assertiveness to secure their place in the world as adults. It’s like teaching a dog to sit and stay for sixteen years and then letting it loose and expecting it to survive in a South American jungle.
 
