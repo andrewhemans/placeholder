@@ -10,8 +10,8 @@ author-bio: dakota hill is a multidisciplinary designer and filmmaker based in C
   to dark cosmic fates out of their control and understanding.
 ---
 
-<iframe src="https://player.vimeo.com/video/154822956" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/154822956">牛の風景 - cow scenery</a> from <a href="https://vimeo.com/dakotahill">dakota hill</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="flex-video"><iframe src="https://player.vimeo.com/video/154822956" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 
 **About this video**
 
