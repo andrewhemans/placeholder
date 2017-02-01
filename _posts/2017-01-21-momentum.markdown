@@ -11,6 +11,7 @@ tags:
 - Huddle
 - Stockmarket
 - Murals
+- featured
 image: "/uploads/momentum_watkins.jpg"
 author: Garrett C. Daniells
 description: A miserable city, a mural project, and the legacy of a great man. In
