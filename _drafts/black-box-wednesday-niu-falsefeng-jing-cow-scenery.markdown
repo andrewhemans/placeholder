@@ -1,6 +1,10 @@
 ---
 title: 'Black Box Wednesday: 牛の風景 - cow scenery'
 date: 2017-01-31 18:07:00 -08:00
+categories:
+- video
+tags:
+- video
 image: "/uploads/cows2.png"
 author: Aida Lizalde
 author-block: false
