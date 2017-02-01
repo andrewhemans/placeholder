@@ -21,6 +21,7 @@ Dakota Hill is a multidisciplinary designer and filmmaker based in California. D
 Find out more about dakota hill:
 
 website: [www.dakotahill.design](www.dakotahill.design)
+
 instagram: [@dakota.chill](https://www.instagram.com/dakota.chill/)
 
 
