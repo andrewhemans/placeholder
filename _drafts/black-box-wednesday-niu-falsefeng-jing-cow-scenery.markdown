@@ -22,4 +22,5 @@ The vaporwave dystopia: 牛の風景 – cow scenery welcomes you to shop in the
 **find out more about the artist**
 
 website: [www.dakotahill.design](www.dakotahill.design)
+
 instagram: [@dakota.chill](https://www.instagram.com/dakota.chill/)
