@@ -105,11 +105,11 @@ Some students realize this and put in the required effort, but from what I’ve 
 
 In reality, all they’ve done is propel themselves toward a degree that guarantees pretty much nothing but a shiny robe and hat. And you get the honor of buying those yourself.
 
-It’s bullshit. Complete, and utter bullshit. But don’t take my word for it. Go to your local four-year university and take a survey—god forbid you run into any freshman straight out of high school.
+It’s bullshit. Complete, and utter bullshit. But don’t take my word for it. Go to your local four-year university and take a survey—god forbid you run into any freshman straight out of high school. 
 
 But let’s be honest: I’m not done with the UC just yet. I have another five months before I step into the thralls of what they call “the real world.” How the hell would I know what it really takes to make it?
 
-But I do know this: Attending college no longer guarantees the student anything. College a hoop that they want us to jump through, just to show them we can jump. Aside from that, it's an over-extended, very expensive exercise in time management.
+But I do know this: Attending college no longer guarantees the student anything. College a hoop that they want us to jump through, just to show them we can jump. Aside from that, it's an over-extended, very expensive exercise in time management. 
 
 Internships are the new college. Experience is the new college. Build up a resume before it’s absolutely necessary to have one, and when you do need one, you'll be leagues ahead of where your peers with less foresight would be.
 
