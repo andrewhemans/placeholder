@@ -4,8 +4,8 @@ date: 2014-10-14 17:29:00 -07:00
 image: "/uploads/bassguitar.jpg"
 author: Ryan Camero
 description: 'Jazz is a playground, and Guilio Cetto''s Monday night jazz jams have
-  inspired many musicians to play. Cetto''s shares his thoughts on the his favorite
-  genre. '
+  inspired many musicians to join in on the fun. Cetto''s shares his thoughts on the
+  his favorite genre. '
 author-block: true
 author-image: "/uploads/Ryan.jpg"
 layout: post
