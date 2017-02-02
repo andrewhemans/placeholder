@@ -1,8 +1,17 @@
 ---
 title: Kelly Walker's Poetry
 date: 2014-10-14 17:20:00 -07:00
+categories:
+- Poetry
+tags:
+- poetry
+- cigarettes
+- Kelly Walker
+- Love
+- Angst
 image: "/uploads/kelly_walker.jpg"
 author: 'Featured Contributor: Kelly Walker'
+description: Ruminations on love, vice, and misguided intentions.
 author-block: true
 author-image: "/uploads/KellyWalker.jpg"
 author-bio: Kelly Walker was born in Stockton and lived there until she went to study
