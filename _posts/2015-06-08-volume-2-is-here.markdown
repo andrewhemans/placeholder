@@ -11,9 +11,9 @@ tags:
 - Stockton
 image: "/uploads/vol21.jpg"
 author: Javier Padilla Reyes
-description: A recap of the stumbling blocks of publishing an independent magazine.
-  From problems securing funding and contributions, to existential questions about
-  life, we overcame all.
+description: A recap of the hurdles of publishing an independent magazine. From problems
+  securing funding and contributions, to existential questions about life, we overcame
+  all.
 author-block: true
 author-image: "/uploads/Javier.jpg"
 author-bio: 'My name is Javier Padilla and I''m a Geographer. I grew up in Stockton,
