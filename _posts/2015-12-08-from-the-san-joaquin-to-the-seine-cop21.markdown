@@ -9,6 +9,10 @@ tags:
 - Paris Climate
 image: "/uploads/climatevulnerableforum.jpg"
 author: Ryan Camero
+description: 'Activist Ryan Camero''s adventures in protecting the San Joaquin Delta
+  River at the Conference of Parties in Paris. The global ecological crisis does nothing
+  if not spur a need for reflection, and on occasion, art. '
+author-image: "/uploads/Ryan.jpg"
 ---
 
 This post originally appeared on [Restore the Delta's blog](http://restorethedelta.org/blog/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/), and is the first installment of an on-going, inter-organizational series of reflections from COP21 by activist Ryan Camero. See parts 2, 3, and 4 here.
