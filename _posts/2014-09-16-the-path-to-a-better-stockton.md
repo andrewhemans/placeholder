@@ -5,7 +5,12 @@ categories:
 - Culture
 image: "/uploads/IMG_1019.jpg"
 author: Javier Padilla Reyes
-author-block: false
+author-block: true
+author-image: "/uploads/javier%20bio.JPG"
+author-bio: 'My name is Javier Padilla and I''m a Geographer. I grew up in Stockton,
+  CA and currently work on Environmental Justice and Land-Use issues at the San Francisco
+  Public Utilities Commission. On my free time I''m the Executive Director of Placeholder
+  Magazine or I''m cycling or climbing somewhere, unless it''s raining. '
 layout: post
 ---
 
