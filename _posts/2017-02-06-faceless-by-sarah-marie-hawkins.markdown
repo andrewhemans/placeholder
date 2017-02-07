@@ -3,6 +3,9 @@ title: '"Faceless," An Interview With Sarah Marie Hawkins'
 date: 2017-02-06 18:12:00 -08:00
 categories:
 - Art
+tags:
+- sacramento
+- M5 Arts
 image: "/uploads/20170109-_MG_5051-min.jpg"
 author: Aida Lizalde
 description: '"Faceless" is an installation artwork by Sacramento based Artist Sarah
