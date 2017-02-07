@@ -3,6 +3,12 @@ title: The Path to a Better Stockton
 date: 2014-09-16 13:58:00 -07:00
 categories:
 - Culture
+tags:
+- cycling
+- urban planning
+- Development
+- Biking
+- Stockton
 image: "/uploads/IMG_1019.jpg"
 author: Javier Padilla Reyes
 description: Riding your bike is not only good for your health, it can make Stockton
