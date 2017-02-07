@@ -12,6 +12,9 @@ tags:
 - Environmental Justice
 image: "/uploads/bridge.jpg"
 author: Lange Luntao
+description: During an in-class assignment, Lange analyzes Stockton through the lens
+  of urban planning. He gives a brief history on the vivisection of Little Manila,
+  downtown Stockton, and more.
 author-block: true
 author-image: "/uploads/lange.jpg"
 author-bio: 'Lange Parks Luntao was not born, but rather became a Stocktonian. Although
