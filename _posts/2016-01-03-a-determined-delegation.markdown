@@ -3,6 +3,9 @@ title: A Determined Delegation
 date: 2016-01-03 12:34:00 -08:00
 image: "/uploads/climatejustice_joellukhovi.jpg"
 author: Ryan Camero
+description: 'Pt. 2 of activist Ryan Camero''s adventures in protecting the San Joaquin
+  Delta River at the Conference of Parties in Paris. The global ecological crisis
+  does nothing if not spur a need for reflection, and on occasion, art. '
 ---
 
 *This post originally appeared both on the SustainUS and California Student Sustainability Coalition's blogs, and is the second installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts 1, 3, and 4 here.*
