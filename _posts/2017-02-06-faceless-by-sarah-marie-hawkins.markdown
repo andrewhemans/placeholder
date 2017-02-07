@@ -40,7 +40,9 @@ I met Sarah at Outlet Co-working in Midtown Sacramento for a conversation about 
 
 In "Faceless," my illustrations are brought to life through photography.
 
+
 ![20170111-_MG_5423-min.jpg](/uploads/20170111-_MG_5423-min.jpg)
+
 
 **Aida: How are you or your works connected to and influenced by the Central Valley and Sacramento?** 
 
@@ -62,13 +64,17 @@ It is a little overwhelming to be a part of *ArtStreet*. When I look at the list
 
 **Sarah:** Faceless is a photography project that portrays the experiences of 20 women. These women are all survivors of sexual abuse, sexual assault, and rape. I have been wanting to do this project for a long time, but the subject matter is so sensitive that it was hard to find the right platform. *ArtStreet* came to my attention early fall last year. Not every survivor was assaulted on the street, but the rawness of their experience fit the theme. The opportunity was there. I submitted the proposal and M5Arts accepted it. 
 
+
 ![20170111-_MG_5333-min.jpg](/uploads/20170111-_MG_5333-min.jpg)
+
 
 The installation is a narrow L-shaped hallway with 16” x 20” wood prints of each of the participants surrounded by excerpts of their stories. Participation is completely anonymous. All stories were submitted through an online form. Many of these women are very empathetic, and I didn't want anyone to feel like they needed to protect me by holding back. The questionnaire did not ask for their name or any specific information about them. None of the stories on the wall are matched to the woman in the image.
 
 I thought I was going to have trouble finding volunteers, so I submitted a proposal of 20 photographs to *ArtStreet*. Three days after I posted a request for submissions I had 140 emails. To this date, I have not been able to get a full count of submissions, because there are just so many. I wanted to find a way to involve everyone, but 100 plus portraits would take over *ArtStreet*. Instead, I made a photo sculpture from submitted photos of a body parts. The image could be a close up of their hand, wrist, shoulder, mouth, or an ear. It didn't matter what it was. The idea is to represent how their abusers viewed them as an object; how they weren’t viewed as a whole thing. 
 
+
 ![20170112-_MG_5538-min.jpg](/uploads/20170112-_MG_5538-min.jpg)
+
 
 At the opening of the installation, viewers are invited to take red dot stickers and place them throughout the exhibit in solidarity with someone they know or for themselves. The statistics show that if it has not happened to you, it has happened to someone close to you. As guests read the stories and view the photos, they are invited to put a sticker next to them. I didn’t tell any of the participants about it, because I wanted them to experience it organically. Those red dots represent people who actually understand, who are somehow connected by that experience, or even people who are moved by hearing and seeing their stories. I ordered 20,000 stickers, and I really want to encourage people to use them. I think visually people will be jarred by the understanding that each of those stickers represents another story. 
 
@@ -96,7 +102,7 @@ Visit Faceless at *ArtStreet* From February 3rd to 25th at 300 First Avenue, Sac
 The artists for *ArtStreet* were only given a stipend of $500 dollars which was not enough to even cover material costs. Artists today are often faced with institutions undermining the value of our labor. Through tremendous fundraising, administrative, and networking efforts, Sarah is almost breaking even from her personal investment into this project. Please donate to ease the financial stress of funding "Faceless" through PayPal contact [facelessnomore@gmail.com](facelessnomore@gmail.com) (recommended), in person, or through the M5 Arts website: 
 http://www.m5arts.com/product/sarah-marie-hawkins/
 
-**Find out more about the artist at:**
+**Find out more about Sarah Marie Hawkins at:**
 
 Website: [www.shockinsphotography.com](www.shockinsphotography.com)
 Faceless Instagram: [@facelessnomore ](https://www.instagram.com/facelessnomore/)
