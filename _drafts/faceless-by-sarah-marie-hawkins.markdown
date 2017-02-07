@@ -58,7 +58,7 @@ The installation is a narrow L-shaped hallway with 16” x 20” wood prints of 
 
 I thought I was going to have trouble finding volunteers, so I submitted a proposal of 20 photographs to *ArtStreet*. Three days after I posted a request for submissions I had 140 emails. To this date, I have not been able to get a full count of submissions, because there are just so many. I wanted to find a way to involve everyone, but 100 plus portraits would take over *ArtStreet*. Instead, I made a photo sculpture from submitted photos of a body parts. The image could be a close up of their hand, wrist, shoulder, mouth, or an ear. It didn't matter what it was. The idea is to represent how their abusers viewed them as an object; how they weren’t viewed as a whole thing. 
 
-![20170112-_MG_5538 (1)-min-cace87.jpg](/uploads/20170112-_MG_5538%20(1)-min-cace87.jpg)
+![20170112-_MG_5538-min.jpg](/uploads/20170112-_MG_5538-min.jpg)
 
 At the opening of the installation, viewers are invited to take red dot stickers and place them throughout the exhibit in solidarity with someone they know or for themselves. The statistics show that if it has not happened to you, it has happened to someone close to you. As guests read the stories and view the photos, they are invited to put a sticker next to them. I didn’t tell any of the participants about it, because I wanted them to experience it organically. Those red dots represent people who actually understand, who are somehow connected by that experience, or even people who are moved by hearing and seeing their stories. I ordered 20,000 stickers, and I really want to encourage people to use them. I think visually people will be jarred by the understanding that each of those stickers represents another story. 
 
