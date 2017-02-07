@@ -12,7 +12,15 @@ author: Ryan Camero
 description: 'Activist Ryan Camero''s adventures in protecting the San Joaquin Delta
   River at the Conference of Parties in Paris. The global ecological crisis does nothing
   if not spur a need for reflection, and on occasion, art. '
+author-block: true
 author-image: "/uploads/Ryan.jpg"
+author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
+  in the transformative powers of visual storytelling, cross-cultural understanding,
+  and inter-generational communication in achieving social justice. As a coalition-builder
+  across many groups, Ryan works primarily with Restore the Delta, the statewide California
+  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
+  He currently is based out of Stockton doing work on the statewide and national level
+  and was awarded the national Brower Youth Award in 2015.
 ---
 
 This post originally appeared on [Restore the Delta's blog](http://restorethedelta.org/blog/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/), and is the first installment of an on-going, inter-organizational series of reflections from COP21 by activist Ryan Camero. See parts 2, 3, and 4 here.
