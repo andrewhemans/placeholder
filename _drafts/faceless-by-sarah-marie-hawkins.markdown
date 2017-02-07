@@ -20,7 +20,7 @@ author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contribut
 
 Sarah Marie Hawkins is a Sacramento-based artist, professional photographer, and founder of *Menagerie*, an organization created to promote budding local artists. 
 
-I met Sarah at Outlet Co-working for a conversation about her photography installation, "Faceless," for the temporary exhibition *Art Street*, which runs February 3rd to February 25th, at 300 First Avenue in Sacramento.
+I met Sarah at Outlet Co-working for a conversation about her photography installation, "Faceless," for the temporary exhibition *ArtStreet*, which runs February 3rd to February 25th, at 300 First Avenue in Sacramento.
 
 **Aida: How do you describe the subject matter or content of your work?**
 
@@ -42,11 +42,11 @@ Living in the Bay Area it was rough because there is a dense community of artist
 
 Jared Konopitski is an example of a successful local artist that makes himself accessible. He shows his work constantly and promotes own his shows, but he will also post a list of every single show he knows about to promote other artists. He does this every month, and it is so encouraging to have an artist that you admire place importance on your work and what you are doing. Even when he has something going on, he shows this community how to be close knit and supportive.
 
-**Aida: Tell us a little about Art Street.**
+**Aida: Tell us a little about *ArtStreet.***
 
-**Sarah:** *ArtStreet* is the brainchild of M5Arts, housed at 3rd Street and 1st Avenue in approximately 60,000 square feet of warehouse space indoor and outdoor. The best way to describe it is “pop-up art museum”. At last count, there were over 100 artists involved. This is the largest exhibition that M5Arts has produced. Their last project, Art Hotel, was a huge success, and we are really hoping that Art Street will be as well. The location is more accessible, and more people can tour the facility at once. I've been told the modest estimate is that approximately 1000 people a day will see it. It is a maze of art. Each person has 45 minutes to view the space so I suggest you plan two or more viewings to ensure you see it all. 
+**Sarah:** *ArtStreet* is the brainchild of M5Arts, housed at 3rd Street and 1st Avenue in approximately 60,000 square feet of warehouse space indoor and outdoor. The best way to describe it is “pop-up art museum”. At last count, there were over 100 artists involved. This is the largest exhibition that M5Arts has produced. Their last project, Art Hotel, was a huge success, and we are really hoping that *ArtStreet* will be as well. The location is more accessible, and more people can tour the facility at once. I've been told the modest estimate is that approximately 1000 people a day will see it. It is a maze of art. Each person has 45 minutes to view the space so I suggest you plan two or more viewings to ensure you see it all. 
 
-It is a little overwhelming to be a part of Art Street. When I look at the list of people involved, I see artists that I kind of fangirl over and that I have known in the community by reputation. Just knowing that I am a part of that community is huge. I don’t think I have ever been as excited about a project as I am with *ArtStreet*.
+It is a little overwhelming to be a part of *ArtStreet*. When I look at the list of people involved, I see artists that I kind of fangirl over and that I have known in the community by reputation. Just knowing that I am a part of that community is huge. I don’t think I have ever been as excited about a project as I am with *ArtStreet*.
 
 **Aida: How do you describe Faceless, your installation at *ArtStreet*?**
 
@@ -76,10 +76,10 @@ At the opening of the installation, viewers are invited to take red dot stickers
 
 When I shoot, I'm looking for one thing, and it changes for each person.The women told me how answering the questions was very difficult but also very healing for them. Many of them were apprehensive, because they had not modeled before. The most wonderful thing about working with them was showing them the photos, and they were all really excited about them and loved them. I was nervous about them leaving an experience so open and raw and having it affect them emotionally. Instead, the actual photo taking left us feeling almost lighter, and they all  took back something positive from it. I am just in absolute awe of all of the women who I have photographed, because I have not shared with many people that I was raped, not even my closest friends. I have been wanting to do this project for years, but I did not have the platform or the space or courage to do it. My illustrations were what I did instead. Even now, I don’t know if I could be part of a project like this if someone else was doing it. Still, this is definitely a step in the right direction.  
 
-Visit Faceless at Art Street From February 3rd to 25th at 300 First Avenue, Sacramento, California 95818.
+Visit Faceless at *ArtStreet* From February 3rd to 25th at 300 First Avenue, Sacramento, California 95818.
 
 **Note by Aida:**
-The artists for Art Street were only given a stipend of $500 dollars which was not enough to even cover material costs. Artists today are often faced with institutions undermining the value of our labor. Through tremendous fundraising, administrative, and networking efforts, Sarah is almost breaking even from her personal investment into this project. Please donate to ease the financial stress of funding "Faceless" through PayPal contact facelessnomore@gmail.com (recommended), in person, or through the M5 Arts website: 
+The artists for *ArtStreet* were only given a stipend of $500 dollars which was not enough to even cover material costs. Artists today are often faced with institutions undermining the value of our labor. Through tremendous fundraising, administrative, and networking efforts, Sarah is almost breaking even from her personal investment into this project. Please donate to ease the financial stress of funding "Faceless" through PayPal contact facelessnomore@gmail.com (recommended), in person, or through the M5 Arts website: 
 http://www.m5arts.com/product/sarah-marie-hawkins/
 
 **Find out more about the artist at:
