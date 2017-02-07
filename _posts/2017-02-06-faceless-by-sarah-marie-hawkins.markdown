@@ -12,6 +12,7 @@ tags:
 - Photography
 - Women
 - Sexual Assault
+- featured
 image: "/uploads/20170109-_MG_5051-min.jpg"
 author: Aida Lizalde
 description: '"Faceless" is an installation artwork by Sacramento based Artist Sarah
