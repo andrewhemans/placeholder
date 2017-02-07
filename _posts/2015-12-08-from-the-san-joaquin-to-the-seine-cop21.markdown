@@ -6,7 +6,9 @@ categories:
 tags:
 - COP21
 - Delta
-- Paris Climate
+- Paris
+- Climate Change
+- Camero
 image: "/uploads/climatevulnerableforum.jpg"
 author: Ryan Camero
 description: 'Activist Ryan Camero''s adventures in protecting the San Joaquin Delta
@@ -54,4 +56,4 @@ In that same sense, California’s forgotten and mistreated waterways have felt 
 
 So here we are, wrestling with our hopes, in this disorienting space of briefings, meetings, acronyms and policy text. We carry our voices like pens drawing ideas to protect our beautiful world from the throes of exploitation and corrupt, corporate deceit. We offer our personal fragments of climate justice stories and piece together a mosaic of movements, and I can’t think of a better way to start drawing power.
 
-Cover photo courtesy of SustainUS
+*Cover photo courtesy of SustainUS*
