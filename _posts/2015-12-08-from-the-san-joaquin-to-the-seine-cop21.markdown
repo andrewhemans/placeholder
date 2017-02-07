@@ -11,9 +11,10 @@ tags:
 - Camero
 image: "/uploads/climatevulnerableforum.jpg"
 author: Ryan Camero
-description: 'Activist Ryan Camero''s adventures in protecting the San Joaquin Delta
-  River at the Conference of Parties in Paris. The global ecological crisis does nothing
-  if not spur a need for reflection, and on occasion, art. '
+description: 'The first in a new series featuring activist Ryan Camero''s adventures
+  in protecting the San Joaquin Delta River at the Conference of Parties in Paris.
+  The global ecological crisis does nothing if not spur a need for reflection, and
+  on occasion, art. '
 author-block: true
 author-image: "/uploads/Ryan.jpg"
 author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
