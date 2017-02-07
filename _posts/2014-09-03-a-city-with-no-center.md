@@ -5,9 +5,23 @@ categories:
 - Culture
 tags:
 - featured
+- Development
+- Stockton
+- Freeways
+- urban planning
+- Environmental Justice
 image: "/uploads/bridge.jpg"
-author: 'Featured Contributor:  Lange Luntao'
-author-block: false
+author: Lange Luntao
+description: During an in-class assignment, Lange analyzes Stockton through the lens
+  of urban planning. He gives a brief history on the vivisection of Little Manila,
+  downtown Stockton, and more.
+author-block: true
+author-image: "/uploads/lange.jpg"
+author-bio: 'Lange Parks Luntao was not born, but rather became a Stocktonian. Although
+  he does not understand hashtags, Councilmember Michael Tubbs is winning him over
+  with his #ReinventStockton. After graduating from Harvard and living in Cambridge,
+  Chicago, San Francisco, Alexandria, and Kuala Lampur, Lange looks forward to coming
+  home.'
 layout: post
 ---
 

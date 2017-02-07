@@ -3,10 +3,17 @@ title: The Path to a Better Stockton
 date: 2014-09-16 13:58:00 -07:00
 categories:
 - Culture
+tags:
+- cycling
+- urban planning
+- Development
+- Biking
+- Stockton
 image: "/uploads/IMG_1019.jpg"
 author: Javier Padilla Reyes
 description: Riding your bike is not only good for your health, it can make Stockton
-  a better city by creating community and generating wealth.
+  a better city by creating community and generating wealth. A cyclist shares some
+  thoughts.
 author-block: true
 author-image: "/uploads/javier%20bio.JPG"
 author-bio: 'My name is Javier Padilla and I''m a Geographer. I grew up in Stockton,

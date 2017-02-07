@@ -11,7 +11,7 @@ tags:
 - Interview
 - Pop
 - Rock
-image: "/uploads/sam_cameron-min.jpg"
+image: "/uploads/sam_cameron1-min.jpg"
 author: Cameron Getty
 author-block: true
 author-image: "/uploads/Cameron.jpg"
@@ -68,7 +68,7 @@ Luca: It was cool! Especially because I’m used to sending tons of emails to we
 
 Sam: It felt really weird to me to see that Rolling Stone watermark, like the logo, on the video. That was the weirdest part, just seeing that logo in the corner of the video. I don’t know, Rolling Stone's a weird thing to me. The name is so iconic, but I would never read Rolling Stone Magazine. Which makes it even weirder. I don't really know what Rolling Stone represents anymore. But it was still tight.
 
-![sam_cameron1-min.jpg](/uploads/sam_cameron1-min.jpg)
+![sam_cameron-min.jpg](/uploads/sam_cameron-min.jpg)
 
 **How have your roots in your respective hometowns influenced the way you write music?**
 
