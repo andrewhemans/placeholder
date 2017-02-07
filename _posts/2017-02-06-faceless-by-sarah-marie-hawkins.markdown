@@ -23,7 +23,7 @@ author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contribut
 
 Sarah Marie Hawkins is a Sacramento-based artist, professional photographer, and founder of *Menagerie*, an organization created to promote budding local artists. 
 
-I met Sarah at Outlet Co-working for a conversation about her photography installation, "Faceless," for the temporary exhibition *ArtStreet*, which runs February 3rd to February 25th, at 300 First Avenue in Sacramento.
+I met Sarah at Outlet Co-working in Midtown Sacramento for a conversation about her photography installation, "Faceless," for the temporary exhibition *ArtStreet*, which runs February 3rd to February 25th, at 300 First Avenue in Sacramento.
 
 **Aida: How do you describe the subject matter or content of your work?**
 
