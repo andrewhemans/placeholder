@@ -11,7 +11,9 @@ tags:
 - Artist Spaces
 image: "/uploads/purplegirl.jpg"
 author: Javier Padilla Reyes
-author-block: false
+description: An old hotel destined for destruction transformed into an eclectic gallery
+  of the senses. Join us and explore the rooms of Sacramento's ArtHotel.
+author-block: true
 layout: post
 ---
 
