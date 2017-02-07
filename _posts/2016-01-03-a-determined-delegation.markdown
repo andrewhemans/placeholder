@@ -1,11 +1,29 @@
 ---
 title: A Determined Delegation
 date: 2016-01-03 12:34:00 -08:00
+categories:
+- Culture
+tags:
+- Climate
+- Paris
+- COP21
+- Change
+- Environment
+- Camero
 image: "/uploads/climatejustice_joellukhovi.jpg"
 author: Ryan Camero
 description: 'Pt. 2 of activist Ryan Camero''s adventures in protecting the San Joaquin
   Delta River at the Conference of Parties in Paris. The global ecological crisis
   does nothing if not spur a need for reflection, and on occasion, art. '
+author-block: true
+author-image: "/uploads/Ryan.jpg"
+author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
+  in the transformative powers of visual storytelling, cross-cultural understanding,
+  and inter-generational communication in achieving social justice. As a coalition-builder
+  across many groups, Ryan works primarily with Restore the Delta, the statewide California
+  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
+  He currently is based out of Stockton doing work on the statewide and national level
+  and was awarded the national Brower Youth Award in 2015.
 ---
 
 *This post originally appeared both on the SustainUS and California Student Sustainability Coalition's blogs, and is the second installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts 1, 3, and 4 here.*
