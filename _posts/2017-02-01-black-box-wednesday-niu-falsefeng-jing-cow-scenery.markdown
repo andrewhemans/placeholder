@@ -5,9 +5,22 @@ categories:
 - video
 tags:
 - video
+- dystopia
+- black box
+- Dakota Hill
+- experimental
 image: "/uploads/cows2.png"
 author: Aida Lizalde
-author-block: false
+description: 'Winner of Best Experimental Film at the Davis Film Festival 2016, “The
+  vaporwave dystopia: 牛の風景 – cow scenery'
+author-block: true
+author-image: "/uploads/Aida.jpg"
+author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contributor
+  for Placeholder Magazine. She is a Mexican artist exploring the concepts of identity
+  and feminism in relationship to her experience of geographical and cultural-misplacement
+  as an immigrant in the United States. Lizalde was born and raised in Mexico until
+  age 15, when her family immigrated to Stockton, California. She currently attends
+  the University of California, Davis.
 ---
 
 <div class="flex-video"><iframe src="https://player.vimeo.com/video/154822956" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
