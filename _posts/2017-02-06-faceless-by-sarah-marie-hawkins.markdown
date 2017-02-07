@@ -3,9 +3,15 @@ title: '"Faceless," An Interview With Sarah Marie Hawkins'
 date: 2017-02-06 18:12:00 -08:00
 categories:
 - Art
+- Culture
 tags:
 - sacramento
 - M5 Arts
+- Sarah Marie Hawkins
+- ArtStreet
+- Photography
+- Women
+- Sexual Assault
 image: "/uploads/20170109-_MG_5051-min.jpg"
 author: Aida Lizalde
 description: '"Faceless" is an installation artwork by Sacramento based Artist Sarah
@@ -31,7 +37,7 @@ I met Sarah at Outlet Co-working in Midtown Sacramento for a conversation about 
 
 "2,500 Minutes" was not intended to be a slap-in-the-face project; it was a reminder to myself. In the past, I caught myself looking down on female friends and colleagues who gave up their work to become a mother or get married. That was a big part of their goal, and they were wonderful and strong people, but because it differed with mine, I judged it. 
 
-"In Faceless," my illustrations are brought to life through photography.
+In "Faceless," my illustrations are brought to life through photography.
 
 ![20170111-_MG_5423-min.jpg](/uploads/20170111-_MG_5423-min.jpg)
 
@@ -41,9 +47,9 @@ I met Sarah at Outlet Co-working in Midtown Sacramento for a conversation about 
 
 I don’t think that people are intentionally unaware that art is underfunded or undervalued. I think that they are uneducated about it. People don’t realize how much art affects their everyday life. I think that is why artists need to be more accessible. We need to reach outside of the art community and get to know all of our community. We can’t expect the public to feel included if we stay in our bubble.
 
-Living in the Bay Area it was rough because there is a dense community of artists. If you don’t know anyone or if you don’t know the right person, your art is never going to be seen. Sacramento is more open to artists. 
+Living in the Bay Area was rough because there is a dense community of artists. If you don’t know anyone or if you don’t know the right person, your art is never going to be seen. Sacramento is more open to artists. 
 
-Jared Konopitski is an example of a successful local artist that makes himself accessible. He shows his work constantly and promotes own his shows, but he will also post a list of every single show he knows about to promote other artists. He does this every month, and it is so encouraging to have an artist that you admire place importance on your work and what you are doing. Even when he has something going on, he shows this community how to be close knit and supportive.
+Jared Konopitski is an example of a successful local artist that makes himself accessible. He shows his work constantly and promotes his own shows, but he will also post a list of every single show he knows about to promote other artists. He does this every month, and it is so encouraging to have an artist that you admire place importance on your work and what you are doing. Even when he has something going on, he shows this community how to be close knit and supportive.
 
 **Aida: Tell us a little about *ArtStreet.***
 
@@ -67,29 +73,31 @@ At the opening of the installation, viewers are invited to take red dot stickers
 
 **Aida: What was the most significant thing you gained from this project?**
 
-**Sarah:** One of the most powerful lines I read in the responses was a woman telling me that she still lives with her abuser. They have teenage children, and the last line of her response was “my youngest graduates high school this year, and then I will be free.” I am so glad I decided to use the questionnaire, because I wouldn't have been able to sit through a face-to-face interview and maintain composure. I am in awe of these women for sharing these stories and being open. Many people asked if it was anonymous, and if I could photograph them and make unrecognizable. Even so, they have all said something along the lines of “If someone recognizes me, maybe it will make it more real to them.” We tend to separate ourselves from bad things that have happened to us, but thinking that bad things could never happen to us is naïve. I don’t want that mindset in this project. 
+**Sarah:** One of the most powerful lines I read in the responses was a woman telling me that she still lives with her abuser. They have teenage children, and the last line of her response was “My youngest graduates high school this year, and then I will be free.” I am so glad I decided to use the questionnaire, because I wouldn't have been able to sit through a face-to-face interview and maintain composure. I am in awe of these women for sharing these stories and being open. Many people asked if it was anonymous, and if I could photograph them and make unrecognizable. Even so, they have all said something along the lines of “If someone recognizes me, maybe it will make it more real to them.” We tend to separate ourselves from bad things that have happened to us, but thinking that bad things could never happen to us is naïve. I don’t want that mindset in this project. 
+
 
 ![20170110-_MG_5292-min-d4c2a5.jpg](/uploads/20170110-_MG_5292-min-d4c2a5.jpg)
 
+
 **Aida: What made you want to focus on this topic?**
 
-**Sarah:** I am a victim of sexual assault, and my first two years of being sexually active were completely about the other person. I thought that was the way it was supposed to be, like, "I am the woman, so that is what I do." While working on this project, I started examining things that happened to me in the past. It's sad, but I am also really glad that I'm surrounded by people who empower me and have educated me to take myself back and acknowledge who I actually am. In this project, these women are all artists, because of what they are sharing and the way they are sharing it. To be completely honest, I don’t feel at all qualified to do this, but I had to start somewhere. I think if you are given an opportunity to start something, perhaps it will incite a movement. I am very proud of these women and humbled to be a part of it. I don’t want this to be an *ArtStreet* project; I want Faceless to continue to encourage women to share their stories. Perhaps we can make their stories heard by more and more people. If it only encourages women to know that they aren’t alone, then I have succeeded.
+**Sarah:** I am a victim of sexual assault, and my first two years of being sexually active were completely about the other person. I thought that was the way it was supposed to be, like, "I am the woman, so that is what I do." While working on this project, I started examining things that happened to me in the past. It's sad, but I am also really glad that I'm surrounded by people who empower me and have educated me to take myself back and acknowledge who I actually am. In this project, these women are all artists, because of what they are sharing and the way they are sharing it. To be completely honest, I don’t feel at all qualified to do this, but I had to start somewhere. I think if you are given an opportunity to start something, perhaps it will incite a movement. I am very proud of these women and humbled to be a part of it. I don’t want this to be an *ArtStreet* project; I want "Faceless" to continue to encourage women to share their stories. Perhaps we can make their stories heard by more and more people. If it only encourages women to know that they aren’t alone, then I have succeeded.
+
 
 ![20170109-_MG_5051-min.jpg](/uploads/20170109-_MG_5051-min.jpg)
+
 
 When I shoot, I'm looking for one thing, and it changes for each person. The women told me how answering the questions was very difficult but also very healing for them. Many of them were apprehensive, because they had not modeled before. The most wonderful thing about working with them was showing them the photos, and they were all really excited about them and loved them. I was nervous about them leaving an experience so open and raw and having it affect them emotionally. Instead, the actual photo taking left us feeling almost lighter, and they all  took back something positive from it. I am just in absolute awe of all of the women who I have photographed, because I have not shared with many people that I was raped, not even my closest friends. I have been wanting to do this project for years, but I did not have the platform or the space or courage to do it. My illustrations were what I did instead. Even now, I don’t know if I could be part of a project like this if someone else was doing it. Still, this is definitely a step in the right direction.  
 
 Visit Faceless at *ArtStreet* From February 3rd to 25th at 300 First Avenue, Sacramento, California 95818.
 
-**Note by Aida:**
-The artists for *ArtStreet* were only given a stipend of $500 dollars which was not enough to even cover material costs. Artists today are often faced with institutions undermining the value of our labor. Through tremendous fundraising, administrative, and networking efforts, Sarah is almost breaking even from her personal investment into this project. Please donate to ease the financial stress of funding "Faceless" through PayPal contact facelessnomore@gmail.com (recommended), in person, or through the M5 Arts website: 
+**Note by the Author:**
+The artists for *ArtStreet* were only given a stipend of $500 dollars which was not enough to even cover material costs. Artists today are often faced with institutions undermining the value of our labor. Through tremendous fundraising, administrative, and networking efforts, Sarah is almost breaking even from her personal investment into this project. Please donate to ease the financial stress of funding "Faceless" through PayPal contact [facelessnomore@gmail.com](facelessnomore@gmail.com) (recommended), in person, or through the M5 Arts website: 
 http://www.m5arts.com/product/sarah-marie-hawkins/
 
 **Find out more about the artist at:**
 
-Website: www.shockinsphotography.com
-
-Faceless Instagram: @facelessnomore 
-
-Menagerie Instagram: @menageriesacramento
+Website: [www.shockinsphotography.com](www.shockinsphotography.com)
+Faceless Instagram: [@facelessnomore ](https://www.instagram.com/facelessnomore/)
+Menagerie Instagram: [@menageriesacramento](https://www.instagram.com/menageriesacramento/)
 
