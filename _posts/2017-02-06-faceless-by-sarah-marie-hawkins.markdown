@@ -102,7 +102,7 @@ Visit Faceless at *ArtStreet* From February 3rd to 25th at 300 First Avenue, Sac
 The artists for *ArtStreet* were only given a stipend of $500 dollars which was not enough to even cover material costs. Artists today are often faced with institutions undermining the value of our labor. Through tremendous fundraising, administrative, and networking efforts, Sarah is almost breaking even from her personal investment into this project. Please donate to ease the financial stress of funding "Faceless" through PayPal contact [facelessnomore@gmail.com](facelessnomore@gmail.com) (recommended), in person, or through the M5 Arts website: 
 http://www.m5arts.com/product/sarah-marie-hawkins/
 
-**Find out more about the artist at:**
+**Find out more about Sarah Marie Hawkins at:**
 
 Website: [www.shockinsphotography.com](www.shockinsphotography.com)
 Faceless Instagram: [@facelessnomore ](https://www.instagram.com/facelessnomore/)
