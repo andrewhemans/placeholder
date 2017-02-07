@@ -1,6 +1,15 @@
 ---
 title: A Word with Giulio Cetto
 date: 2014-10-14 17:29:00 -07:00
+categories:
+- Culture
+tags:
+- Music
+- Giulio Cetto
+- Jazz
+- Brubeck
+- Stockton
+- Interview
 image: "/uploads/bassguitar.jpg"
 author: Ryan Camero
 description: 'Jazz is a playground, and Guilio Cetto''s Monday night jazz jams have
@@ -8,6 +17,13 @@ description: 'Jazz is a playground, and Guilio Cetto''s Monday night jazz jams h
   favorite genre. '
 author-block: true
 author-image: "/uploads/Ryan.jpg"
+author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
+  in the transformative powers of visual storytelling, cross-cultural understanding,
+  and inter-generational communication in achieving social justice. As a coalition-builder
+  across many groups, Ryan works primarily with Restore the Delta, the statewide California
+  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
+  He currently is based out of Stockton doing work on the statewide and national level
+  and was awarded the national Brower Youth Award in 2015.
 layout: post
 ---
 
