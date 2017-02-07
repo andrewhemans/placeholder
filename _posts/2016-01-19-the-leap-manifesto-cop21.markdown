@@ -6,9 +6,18 @@ author: Ryan Camero
 description: 'Pt. 3 of activist Ryan Camero''s adventures in protecting the San Joaquin
   Delta River at the Conference of Parties in Paris. The global ecological crisis
   does nothing if not spur a need for reflection, and on occasion, art. '
+author-block: true
+author-image: "/uploads/Ryan.jpg"
+author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
+  in the transformative powers of visual storytelling, cross-cultural understanding,
+  and inter-generational communication in achieving social justice. As a coalition-builder
+  across many groups, Ryan works primarily with Restore the Delta, the statewide California
+  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
+  He currently is based out of Stockton doing work on the statewide and national level
+  and was awarded the national Brower Youth Award in 2015.
 ---
 
-*This post is the third installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts 1, 2, and 4 here.*
+*This post is the third installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [2](www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), and [4](www.placeholdermag.com/culture/2016/06/02/harmonizing-the-peoples-voice.html) here.*
 
 PARIS – On Wednesday, December 2nd, 2015, I attended a workshop in Paris for the 2015 climate talks called, “The Leap Manifesto: A Justice-Based Energy Transition,” an event hosted by Naomi Klein and countless other forces for change in Canada—spanning tribal, political, and labor identities. The speakers included Maude Barlow from the Council of Canadians, Hassan Yussuff from Canadian Labor Congress, Crystal Lameman from the Beaver Lake Cree Nation, and Christian Poll, a Member of Danish Parliament for the Alternative. The manifesto poses to completely (and radically) re-imagine and envision a new future for Canada.
 
