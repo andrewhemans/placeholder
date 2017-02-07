@@ -88,6 +88,8 @@ http://www.m5arts.com/product/sarah-marie-hawkins/
 **Find out more about the artist at:**
 
 Website: www.shockinsphotography.com
+
 Faceless Instagram: @facelessnomore 
+
 Menagerie Instagram: @menageriesacramento
 
