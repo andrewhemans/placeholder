@@ -26,7 +26,7 @@ author-bio: Ryan Camero is an arts activist and community organizer who believes
   and was awarded the national Brower Youth Award in 2015.
 ---
 
-This post originally appeared on [Restore the Delta's blog](http://restorethedelta.org/blog/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/), and is the first installment of an on-going, inter-organizational series of reflections from COP21 by activist Ryan Camero. See parts [2](www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), [3](www.placeholdermag.com/2016/01/19/the-leap-manifesto-cop21.html), and [4](www.placeholdermag.com/culture/2016/06/02/harmonizing-the-peoples-voice.html) here.
+*This post originally appeared on [Restore the Delta's blog](http://restorethedelta.org/blog/a-child-of-the-san-joaquin-river-at-the-paris-climate-conference/), and is the first installment of an on-going, inter-organizational series of reflections from COP21 by activist Ryan Camero. See parts [2](www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), [3](www.placeholdermag.com/2016/01/19/the-leap-manifesto-cop21.html), and [4](www.placeholdermag.com/culture/2016/06/02/harmonizing-the-peoples-voice.html) here.*
 
 PARIS – Today marks the ending of the first week of the Conference of Parties ([COP21](http://newsroom.unfccc.int/paris/)) and the beginning of its second week. More than 200 nations of the world have come together to unify and to take action against global climate disaster.
 
