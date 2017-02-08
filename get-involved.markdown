@@ -55,3 +55,5 @@ Our organization consists of unique individuals who are dedicated to their craft
 
 
 If you are interested in becoming a long-term addition Placeholder’s staff, please submit your résumé to [join@placeholdermag.com](mailto:join@placeholdermag.com) with subject line Staff Application. Please include a short bio about yourself and why you would like to work for Placeholder, along with samples of your work. We will forward your work to the appropriate circle, and they will get back to you.
+
+*Cover photo by Michael Brooking*
