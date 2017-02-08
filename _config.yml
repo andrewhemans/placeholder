@@ -14,7 +14,6 @@ defaults:
     type: posts
   values:
     image: ''
-    permalink: "/:year/:month/:day/:title.html"
     layout: post
     author: ''
     description: ''
@@ -28,8 +27,8 @@ defaults:
     image: ''
     layout: page
 email: andrewhemans@gmail.com
-description: 
-baseurl: 
+description:
+baseurl:
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
