@@ -3,7 +3,6 @@ title: '"Faceless," An Interview With Sarah Marie Hawkins'
 date: 2017-02-06 18:12:00 -08:00
 categories:
 - Art
-- Culture
 tags:
 - sacramento
 - M5 Arts
