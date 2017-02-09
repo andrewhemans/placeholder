@@ -13,13 +13,15 @@ tags:
 - Rock
 image: "/uploads/sam_cameron1-min.jpg"
 author: Cameron Getty
-author-block: true
+description: 'Sam and Luca discuss their band''s dual-nationality, their Rolling Stone-featured
+  music video, and the recording process of their latest EP *Ciao for Now*. '
+author-block: false
 author-image: "/uploads/Cameron.jpg"
 ---
 
 Baseball Gregg is a pop duo with a dual nationality from Stockton, California and Bologna, Italy. Founders Luca Lovisetto and Samuel Regan met in Bologna while Samuel was studying abroad. Baseball Gregg’s label, *Harlot*, describes the band as a mesh of Luca’s saccharine vignettes about love and longing and Sam's vivid depictions of a perspective inundated by intensive experience.
 
-On New Year’s Eve of 2016, I sat down with Sam, one half of Baseball Gregg. As I walked up to the front door of Sam’s house, I was greeted by his dogs Izzy and Gidget and a warm cup of coffee. We sat down and talked about what he’s been up to, how his holidays went, and the future plans for Baseball Gregg. While Luca wasn’t present, as he resides in Italy, we corresponded over email and chatted back and forth about some of the same things. 
+On New Year’s Eve of 2016, I sat down with Sam, one half of Baseball Gregg. As I walked up to the front door of Sam’s house, I was greeted by his dogs Izzy and Gidget and a warm cup of coffee. We sat down and talked about what he’s been up to, how his holidays went, and the future plans for Baseball Gregg. While Luca wasn’t present, as he resides in Italy, we corresponded over email and chatted back and forth about some of the same topics Sam and I covered in our interview. 
 
 ![sam_cameron2-min.jpg](/uploads/sam_cameron2-min.jpg)
 *Sam Regan with Izzy*
@@ -120,5 +122,8 @@ Luca: Another album! And worldwide fame, I guess.
 
 **Thanks, guys.**
 
-Baseball Gregg's latest EP *Ciao for Now* can be found on [Bandcamp](https://baseballgregg.bandcamp.com/album/ciao-for-now) and [Spotify](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiH9OCq4uvRAhULiVQKHX8OCTYQFgguMAM&url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F66cIWlIb8dNc0IGQHLtXFw&usg=AFQjCNFqQ0ykaMcBtblMcz156aOHHZvL1w&sig2=Lexgav-Fu1APHSWDdXTwWw).
+>Baseball Gregg's latest EP *Ciao for Now* can be found on [Bandcamp](https://baseballgregg.bandcamp.com/album/ciao-for-now) and [Spotify](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiH9OCq4uvRAhULiVQKHX8OCTYQFgguMAM&url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F66cIWlIb8dNc0IGQHLtXFw&usg=AFQjCNFqQ0ykaMcBtblMcz156aOHHZvL1w&sig2=Lexgav-Fu1APHSWDdXTwWw).
 
+[bandcamp width=100% height=120 album=2374660731 size=large bgcol=ffffff linkcol=0687f5 tracklist=false artwork=small]
+
+*All images by Cameron Getty*
