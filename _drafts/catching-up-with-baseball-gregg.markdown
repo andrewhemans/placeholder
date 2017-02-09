@@ -126,4 +126,4 @@ Luca: Another album! And worldwide fame, I guess.
 
 [bandcamp width=100% height=120 album=2374660731 size=large bgcol=ffffff linkcol=0687f5 tracklist=false artwork=small]
 
-*All images by Cameron Getty*
+*Photography by Cameron Getty*
