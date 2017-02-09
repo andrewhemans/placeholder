@@ -13,8 +13,8 @@ tags:
 - Rock
 image: "/uploads/sam_cameron1-min.jpg"
 author: Cameron Getty
-description: 'Sam and Luca discuss their music''s dual-nationality, their Rolling
-  Stone-featured music video, and the effects of distance on the recording their latest
+description: 'Sam and Luca discuss their band''s dual-nationality, their Rolling Stone-featured
+  music video, and the effects of distance on the recording process of their latest
   EP *Ciao for Now*. '
 author-block: false
 author-image: "/uploads/Cameron.jpg"
