@@ -11,7 +11,7 @@ tags:
 - Interview
 - Pop
 - Rock
-image: "/uploads/sam_cameron4-min.jpg"
+image: "/uploads/sam_cameron1-min.jpg"
 author: Cameron Getty
 author-block: true
 author-image: "/uploads/Cameron.jpg"
@@ -84,7 +84,8 @@ Sam: Yeah there's never really any fear that people would hate on it or anything
 
 Luca: Baseball Gregg’s sound has evolved very rapidly during the last couple of years, so it is hard to define what comes from Stockton and what comes from Italy. While recording our first EP, we used to record guitars and vocals with hella reverb and fake analog effects on them, and this probably was influenced by the fact we recorded the songs in my room with my Mac. The album eventually started to sound like a bedroom pop album. Sam had a big role in producing our first LP, *Vacation*, since he pre-produced almost all of the songs on his own and they all already had a distinguished character and mood, and that influenced me a lot. Our next work will probably be somehow even more cohesive in a way, since we’re more conscious of the general mood and the atmosphere of the album, and this is again a result of Sam’s great work.
 
-![sam_cameron1-min.jpg](/uploads/sam_cameron1-min.jpg)
+![sam_cameron4-min.jpg](/uploads/sam_cameron4-min.jpg)
+
 **What have you been listening to lately?**
 
 Sam: I've been listening to a lot of stuff. I've been listening to a lot of Erykah Badu, and also a lot of ambient music. Last night I listened to hella Travis Scott. Oh I really like the new Solange album, and the album by No Name, *Telephone*. Those are two of my favorite albums of 2016.
