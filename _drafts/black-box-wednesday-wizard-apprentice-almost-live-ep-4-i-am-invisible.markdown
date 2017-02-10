@@ -1,6 +1,7 @@
 ---
 title: 'Black Box Wednesday: Wizard Apprentice "Almost Live: Ep. 4-I am Invisible"'
 date: 2017-02-10 13:47:00 -08:00
+image: "/uploads/wizard.jpg"
 author: Aida Lizalde
 description: 'Wizard Apprentice''s "Almost Live: Ep. 4-I am Invisible" is Black Box
   Wednesday''s second February feature following the theme of "Dystopia." Wizard Apprentice
