@@ -1,6 +1,17 @@
 ---
 title: '20016'
 date: 2017-02-10 12:23:00 -08:00
+description: 'Visual Arts feature of Ryan L. Rocha''s *20016* Series. *[R.Y.A.N.]*
+  is a Sacramento born multimedia artist whose 2-D work consists on vibrant and energetic
+  scenes of reflection made with a combination of drawing, pointillism, painting,
+  and xerox copies. '
+author-image: "/uploads/Aida.jpg"
+author-bio: Aida Lizalde is Visual Arts Content Curator and occasional contributor
+  for Placeholder Magazine. She is a Mexican artist exploring the concepts of identity
+  and feminism in relationship to her experience of geographical and cultural-misplacement
+  as an immigrant in the United States. Lizalde was born and raised in Mexico until
+  age 15, when her family immigrated to Stockton, California. She currently attends
+  the University of California, Davis.
 ---
 
 Ryan L. Rocha *[R.Y.A.N.]* is a Sacramento born multimedia artist whose 2-D work consists on vibrant and energetic scenes of reflection made with a combination of drawing, pointillism, painting, and xerox copies. 
