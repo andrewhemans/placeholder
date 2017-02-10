@@ -1,12 +1,18 @@
 ---
 title: '20016'
 date: 2017-02-10 12:23:00 -08:00
+tags:
+- art
+- Music
+- culture
+- Sacramento
 description: 'Visual Arts feature of Ryan L. Rocha''s *20016* Series. *[R.Y.A.N.]*
   is a Sacramento born multimedia artist whose 2-D work consists on vibrant and energetic
   scenes of reflection made with a combination of drawing, pointillism, painting,
   and xerox copies. '
 author-block: false
 author-image: "/uploads/Aida.jpg"
+Field name: 
 ---
 
 Ryan L. Rocha *[R.Y.A.N.]* is a Sacramento born multimedia artist whose 2-D work consists on vibrant and energetic scenes of reflection made with a combination of drawing, pointillism, painting, and xerox copies. 
