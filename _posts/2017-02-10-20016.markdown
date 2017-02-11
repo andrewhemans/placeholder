@@ -8,6 +8,7 @@ tags:
 - Music
 - culture
 - Sacramento
+image: "/uploads/rocha-XEROX%20PRINT%20%23II-min.jpg"
 description: 'Visual Arts feature of Ryan L. Rocha''s *20016* Series. *[R.Y.A.N.]*
   is a Sacramento born multimedia artist whose 2-D work consists on vibrant and energetic
   scenes of reflection made with a combination of drawing, pointillism, painting,
