@@ -11,8 +11,6 @@ We all have our vices—substances that we take to escape the harsh realities of
  
 This city was founded under the boots of prospectors on their way to gold country, used as a stopping point for some R&R in the forms of gambling, prostitution, and other illicit vices. One hundred sixty-eight years later, the city has changed much from the days of the Gold Rush: The once booming downtown, once home to Weber’s Point Park, the old Macy’s department store, and smaller shopping outlets, now contains mere shells of these once inhabited buildings. The people who've taken up residence in these shells float around like smoke filling the air.
 
-![Mudweber.jpg](/uploads/Mudweber.jpg)
-
 Like most downtown areas of major cities, Stockton's downtown has its centers for law and infrastructure: On the far end of the intersection between Weber Street and California Street, is the San Joaquin County Courthouse; if you go block down and to the right on El Dorado, you will find the Stockton Police Department, home to our very overstretched and underpaid police force; if you decide to go north of El Dorado, past the movie theater, you’ll end up at City Hall. In February of 2012, the city filed for bankruptcy, due to heavy fiscal spending and the devastating effect of the housing crisis. The city spent a combined total of 134.5 million dollars for the cost of both the ballpark and the arena. Ultimately, downtown commerce paid the price.
  
 ![Kendells_geoMud.jpg](/uploads/Kendells_geoMud.jpg)
@@ -22,6 +20,8 @@ Businesses moved North to cheaper commercial properties in the Miracle Mile and 
 Then TenSpace, Huddle, and Stockmarket came into the picture. Tim Egkan came into the picture.
 
 When taking a drag of a cigarette, occasionally a person tends to experience a slight sensation of lightheadedness and euphoria; it’s the nicotine releasing chemicals into the receptors of the brain, keeping their anxiety from getting the best of them. Tim Egkan's arrival on the scene was like a wave of nicotine hitting the synapsis of Stockton's local collective conscience —Tim came to us, the young artists of Stockton, and told us that downtown was the future. 
+
+![Mudweber.jpg](/uploads/Mudweber.jpg)
 
 Some of us at first were skeptical. The recession had made most of us doubtful and unwilling to accept any form of change, positive or negative. And the fact that Tim was an outsider who was offering us, young people, a voice and various platforms to share our voices, seemed too good to be true. These platforms such as Huddle and The 207 involved young people in community events like Stockmarket, and all of this was supposed to help young artists be seen and heard? It was unbelievable at the time. 
 
