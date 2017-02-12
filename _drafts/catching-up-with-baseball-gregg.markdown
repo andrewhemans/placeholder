@@ -15,8 +15,12 @@ image: "/uploads/sam_cameron1-min.jpg"
 author: Cameron Getty
 description: 'Sam and Luca discuss their band''s dual-nationality, their Rolling Stone-featured
   music video, and the recording process of their latest EP *Ciao for Now*. '
-author-block: false
+author-block: true
 author-image: "/uploads/Cameron.jpg"
+author-bio: Cameron Getty is a graphic designer and occasional contributor for Placeholder
+  Magazine. He was born and raised in Stockton, CA but now resides in Sacramento and
+  studies graphic design at California State University, Sacramento. Outside of Placeholder
+  and school, Cameron is a photography enthusiast.
 ---
 
 Baseball Gregg is a pop duo with a dual nationality from Stockton, California and Bologna, Italy. Founders Luca Lovisetto and Samuel Regan met in Bologna while Samuel was studying abroad. Baseball Gregg’s label, *Harlot*, describes the band as a mesh of Luca’s saccharine vignettes about love and longing and Sam's vivid depictions of a perspective inundated by intensive experience.
