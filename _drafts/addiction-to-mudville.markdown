@@ -21,11 +21,11 @@ Then TenSpace, Huddle, and Stockmarket came into the picture. Tim Egkan came int
 
 When taking a drag of a cigarette, occasionally a person tends to experience a slight sensation of lightheadedness and euphoria; it’s the nicotine releasing chemicals into the receptors of the brain, keeping their anxiety from getting the best of them. Tim Egkan's arrival on the scene was like a wave of nicotine hitting the synapsis of Stockton's local collective conscience —Tim came to us, the young artists of Stockton, and told us that downtown was the future. 
 
-![Mudweber.jpg](/uploads/Mudweber.jpg)
-
 Some of us at first were skeptical. The recession had made most of us doubtful and unwilling to accept any form of change, positive or negative. And the fact that Tim was an outsider who was offering us, young people, a voice and various platforms to share our voices, seemed too good to be true. These platforms such as Huddle and The 207 involved young people in community events like Stockmarket, and all of this was supposed to help young artists be seen and heard? It was unbelievable at the time. 
 
 But he was Tim Egkan, and Tim Egkan understood what it was like to be young and a dreamer. 
+
+![Mudweber.jpg](/uploads/Mudweber.jpg)
 
 The 207 was a music venue that was located at 207 California Street, across from the DTC (Downtown Transit Center). Its location seemed to be more like the setting of a horror movie than a venue; it boasted hardwood floors, a ceiling that was falling apart, a busted front door—the glass on the door was covered with paper and plastic tarp, so if you wanted to get in, you had to enter from the back. Despite its flaws, however, The 207's bathroom was—by some miracle—still in great shape, and bands were still down to show up and play in the abandoned commercial space. Tim allowed a young artist Garrett Compton Daniels full use of the location for both art and music purposes, so long as he covered the utility costs and insurance. At one point, The 207 became the only all-ages/open music venue in the city. 
 
