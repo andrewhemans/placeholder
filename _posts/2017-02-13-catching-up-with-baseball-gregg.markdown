@@ -1,6 +1,6 @@
 ---
 title: Catching up with Baseball Gregg
-date: 2017-02-07 09:40:00 -08:00
+date: 2017-02-13 09:40:00 -08:00
 categories:
 - Culture
 tags:
