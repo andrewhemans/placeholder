@@ -9,7 +9,7 @@ tags:
 - culture
 - Sacramento
 image: "/uploads/rocha-STILL%20VISIT-min.jpg"
-description: Explore the wonderful cacophony of sound, pointilism, xerox, and painting
+description: Explore the wonderful cacophony of sound, pointillism, xerox, and painting
   from Ryan L. Rocha.
 author-block: false
 author-image: "/uploads/Aida.jpg"
