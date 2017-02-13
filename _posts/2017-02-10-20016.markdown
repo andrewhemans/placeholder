@@ -10,7 +10,7 @@ tags:
 - Sacramento
 image: "/uploads/rocha-STILL%20VISIT-min.jpg"
 description: Explore the wonderful cacophony of sound, pointillism, xerox, and painting
-  from Ryan L. Rocha.
+  from Sacramento-based artist Ryan L. Rocha.
 author-block: false
 author-image: "/uploads/Aida.jpg"
 Field name: 
