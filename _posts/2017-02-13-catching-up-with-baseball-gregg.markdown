@@ -128,5 +128,6 @@ Luca: Another album! And worldwide fame, I guess.
 
 >Baseball Gregg's latest EP *Ciao for Now* can be found on [Bandcamp](https://baseballgregg.bandcamp.com/album/ciao-for-now) and [Spotify](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiH9OCq4uvRAhULiVQKHX8OCTYQFgguMAM&url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F66cIWlIb8dNc0IGQHLtXFw&usg=AFQjCNFqQ0ykaMcBtblMcz156aOHHZvL1w&sig2=Lexgav-Fu1APHSWDdXTwWw).
 
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2374660731/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://baseballgregg.bandcamp.com/album/ciao-for-now">Ciao For Now by Baseball Gregg</a></iframe>
 
 *Photography by Cameron Getty*
