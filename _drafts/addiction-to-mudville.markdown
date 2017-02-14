@@ -1,6 +1,12 @@
 ---
 title: Addiction to Mudville
 date: 2017-02-12 07:25:00 -08:00
+categories:
+- Culture
+tags:
+- Stockton
+- Tim Egkan
+- Downtown
 image: "/uploads/Mudcover.jpg"
 author: Geovanie Brooks
 author-block: true
