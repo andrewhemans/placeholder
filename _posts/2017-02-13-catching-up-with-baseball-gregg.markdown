@@ -25,7 +25,7 @@ author-bio: Cameron Getty is a graphic designer and occasional contributor for P
 
 Baseball Gregg is a pop duo with a dual nationality from Stockton, California and Bologna, Italy. Founders Luca Lovisetto and Samuel Regan met in Bologna while Samuel was studying abroad. Baseball Gregg’s label, *Harlot*, describes the band as a mesh of Luca’s saccharine vignettes about love and longing and Sam's vivid depictions of a perspective inundated by intensive experience.
 
-On New Year’s Eve of 2016, I sat down with Sam, one half of Baseball Gregg. As I walked up to the front door of Sam’s house, I was greeted by his dogs Izzy and Gidget and a warm cup of coffee. We sat down and talked about what they’ve been up to, how the holidays went, and the future plans for Baseball Gregg. While Luca wasn’t present, as he resides in Italy, we corresponded over email and chatted back and forth about some of the same topics Sam and I covered in our interview. 
+On New Year’s Eve of 2016, I sat down with Sam, one half of Baseball Gregg. As I walked up to the front door of Sam’s house, I was greeted by their dogs Izzy and Gidget and a warm cup of coffee. We sat down and talked about what they’ve been up to, how the holidays went, and the future plans for Baseball Gregg. While Luca wasn’t present, as he resides in Italy, we corresponded over email and chatted back and forth about some of the same topics Sam and I covered in our interview. 
 
 ![sam_cameron2-min.jpg](/uploads/sam_cameron2-min.jpg)
 *Sam Regan with Izzy*
