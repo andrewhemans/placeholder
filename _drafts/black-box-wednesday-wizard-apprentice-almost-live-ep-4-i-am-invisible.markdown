@@ -15,7 +15,7 @@ description: 'Wizard Apprentice''s "Almost Live: Ep. 4-I am Invisible" is Black 
 
 Wizard Apprentice is a singer-songwriter, performance artist, electronic music producer, motion graphics artist, introvert and [self proclaimed] weirdo. She was based in the bay area and recently made her home in Sacramento. Many of her projects are related to “battling an overwhelming world,” personal and emotional self-analysis and growth, and intimately interpreting and reacting to the age of social media and the internet. Her work consists on live and video performances and video series. 
 
-**Find out more :**
+Find out more :
 
 Website: **www.url-gurl.com**
 
