@@ -9,7 +9,7 @@ description: 'Wizard Apprentice''s "Almost Live: Ep. 4-I am Invisible" is Black 
   motion graphics artist.'
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uhhEJLQ-9Nk?list=PLZ7-I0Pa1sEJieeBUcZncV1ZFR4mCtvqP" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video"><iframe width="640" height="360" src="https://www.youtube.com/embed/uhhEJLQ-9Nk?list=PLZ7-I0Pa1sEJieeBUcZncV1ZFR4mCtvqP" frameborder="0" allowfullscreen></iframe></div>
 
 "Almost Live" is a bi-monthly series of bedroom performances by Wizard Apprentice. Every 2nd and 4th Sundays.
 
