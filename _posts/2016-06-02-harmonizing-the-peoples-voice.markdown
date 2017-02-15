@@ -3,11 +3,29 @@ title: Harmonizing the People's Voice
 date: 2016-06-02 16:10:00 -07:00
 categories:
 - Culture
+tags:
+- Paris
+- Climate Change
+- COP21
+- Delta
+- Environment
 image: "/uploads/waterislife_beehive.jpg"
 author: Ryan Camero
+description: 'Pt. 4 of activist Ryan Camero''s adventures in protecting the San Joaquin
+  Delta River at the Conference of Parties in Paris. The global ecological crisis
+  does nothing if not spur a need for reflection, and on occasion, art. '
+author-block: true
+author-image: "/uploads/Ryan.jpg"
+author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
+  in the transformative powers of visual storytelling, cross-cultural understanding,
+  and inter-generational communication in achieving social justice. As a coalition-builder
+  across many groups, Ryan works primarily with Restore the Delta, the statewide California
+  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
+  He currently is based out of Stockton doing work on the statewide and national level
+  and was awarded the national Brower Youth Award in 2015.
 ---
 
-*This post is the fourth installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts 1, 2, and 3 here.*
+*This post is the fourth installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [2](www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), and [3](www.placeholdermag.com/2016/01/19/the-leap-manifesto-cop21.html) here.*
 
 POST-PARIS – I’m of the opinion that it is through our pleasures that we build the ability to live through our pain. One of my favorite and healing pastimes is singing, which I largely owe to growing up with a karaoke machine and a goofy, loving family that pulled it out every holiday. 
 
