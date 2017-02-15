@@ -7,9 +7,8 @@ layout: default
   {% for post in site.posts %}
   <div class="large-6 columns article end">
     <a href="{{ post.url }}"><div class="article-image" style="background-image: url({{ post.image }});">
-      <div class="description"><p>{{ post.description }}</p></div>
     </div></a>
-    <div class="article-title">
+    <div class="description">
       <a href="{{ post.url }}">{{ post.title }}</a>
       <div class="subtitle">
         <p>{{ post.date | date: '%B %d, %Y' }} | {{ post.author }}</p>
