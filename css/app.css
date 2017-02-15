@@ -391,7 +391,7 @@ right: 0%;
 
 .description {
 	background-color: #fff;
-	height: 150px;
+	/*height: 150px;*/
 	align-self: flex-end;
 	padding: 20px;
 	font-family: 'proxima-nova', sans-serif;
@@ -399,7 +399,11 @@ right: 0%;
 	font-size: .85em;
 	visibility: hidden;
 	opacity:0;
-  transition:visibility 0s linear 0.25s,opacity 0.25s linear;
+  transition: visibility 0s linear 0.25s,opacity 0.25s linear;
+}
+
+.description > p{
+	margin-bottom: 0;
 }
 
 .article-image:hover > .description {
@@ -450,6 +454,10 @@ right: 0%;
 @media screen and (max-width: 39.9375em) {
 	.content {
 		padding: 25px 10px 10px 10px;
+	}
+
+	.article-image:hover > .description {
+		visibility: hidden;
 	}
 
 }
