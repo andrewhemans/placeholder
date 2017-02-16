@@ -1,6 +1,15 @@
 ---
 title: 'Black Box Wednesday: Wizard Apprentice "Almost Live: I am Invisible"'
-date: 2017-02-10 13:47:00 -08:00
+date: 2017-02-15 13:47:00 -08:00
+categories:
+- video
+tags:
+- Wizard Apprentice
+- art
+- music
+- poetry
+- bay area
+- video
 image: "/uploads/wizard.jpg"
 author: Aida Lizalde
 description: 'Wizard Apprentice''s "Almost Live: Ep. 4-I am Invisible" is Black Box
@@ -13,15 +22,15 @@ description: 'Wizard Apprentice''s "Almost Live: Ep. 4-I am Invisible" is Black 
 
 "Almost Live" is a bi-monthly series of bedroom performances by Wizard Apprentice. Every 2nd and 4th Sundays.
 
-Wizard Apprentice is a singer-songwriter, performance artist, electronic music producer, motion graphics artist, introvert and [self proclaimed] weirdo. She was based in the bay area and recently made her home in Sacramento. Many of her projects are related to “battling an overwhelming world,” personal and emotional self-analysis and growth, and intimately interpreting and reacting to the age of social media and the internet. Her work consists on live and video performances and video series. 
+Wizard Apprentice is a singer-songwriter, performance artist, electronic music producer, motion graphics artist, introvert and [self proclaimed] weirdo. She was based in the Bay Area and recently made her home in Sacramento. Many of her projects are related to “battling an overwhelming world,” personal and emotional self-analysis and growth, and intimately interpreting and reacting to the age of social media and the internet. Her work consists on live and video performances and video series. 
 
 Find out more :
 
-Website: **www.url-gurl.com**
+Website: **[www.url-gurl.com](www.url-gurl.com)**
 
-Facebook: **https://www.facebook.com/wizardapprenticemusic**
+Facebook: **[https://www.facebook.com/wizardapprenticemusic](https://www.facebook.com/wizardapprenticemusic)**
 
-Soundlcoud: **https://soundcloud.com/wizardapprentice**
+Soundlcoud: **[https://soundcloud.com/wizardapprentice](https://soundcloud.com/wizardapprentice)**
 
 **Black Box Wednesday** is our newest bi-weekly video feature showcasing artwork in the forms of Expanded Cinema, Video Performance, Short film, Music Video, and Video-Blog features of independent artists and filmmakers from California, curated by Aida Lizalde. Our second feature continues the February issue theme of “Dystopia.”
 
