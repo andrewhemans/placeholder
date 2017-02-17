@@ -19,7 +19,7 @@ Digital photographs and inkjet prints
 *Hypnagogia*, 2015
 Digital photographs and inkjet prints
 
-Hypnagogia is the experience of the transitional state from wakefulness to sleep:the hypnagogic state of consciousness, during the onset of sleep. Mental phenomena that occur during this &quot;threshold consciousness&quot; phase include lucid thought, lucid dreaming, hallucinations, and sleep paralysis. 
+Hypnagogia is the experience of the transitional state from wakefulness to sleep: the hypnagogic state of consciousness, during the onset of sleep. Mental phenomena that occur during this &quot;threshold consciousness&quot; phase include lucid thought, lucid dreaming, hallucinations, and sleep paralysis. 
 
 Hypnagogia is part of a series of photographic works in which I explore the interstices between American rural development and suburban or urban development.
 
