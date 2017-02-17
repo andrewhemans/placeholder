@@ -11,8 +11,8 @@ tags:
 ![Copy of 7-min.jpg](/uploads/Copy%20of%207-min.JPG)
 
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
-
-*Hypnagogia*, 2015, Digital photographs and inkjet prints
+*Hypnagogia*, 2015
+Digital photographs and inkjet prints
 
 Hypnagogia is the experience of the transitional state from wakefulness to sleep:the hypnagogic state of consciousness, during the onset of sleep. Mental phenomena that occur during this &quot;threshold consciousness&quot; phase include lucid thought, lucid dreaming, hallucinations, and sleep paralysis. 
 
@@ -25,8 +25,8 @@ In this body of work and related projects I try to come to terms with this trans
 ![Copy of _DSC0534-min.jpg](/uploads/Copy%20of%20_DSC0534-min.jpg)
 
 ![Copy of _DSC0544-min.jpg](/uploads/Copy%20of%20_DSC0544-min.jpg)
- 
-*a day at the beach* 2016, Vinyl, wood, steel, fluorescent lamps, and electronics
+*a day at the beach* 2016
+Vinyl, wood, steel, fluorescent lamps, and electronics
 
 *Nothing forces anyone to enjoy except the superego. The superego is the imperative of jouissance – 
 
@@ -43,3 +43,11 @@ Well, artificial sun, which will do. The entire fantasy is safely anchored to th
 ![Copy of PIO (3)-min.jpg](/uploads/Copy%20of%20PIO%20(3)-min.jpg)
 
 ![Copy of PIO (2)-min.jpg](/uploads/Copy%20of%20PIO%20(2)-min.jpg)
+*personal injury object,* 2016
+Steel, rubber, electrical cord, and paint
+
+Whose responsibility is safety? It seems that it is anyone’s but our own as people constantly look to blame an administrator, an organization or society itself for every injury and mishap that occurs. The expectation is that it is someone’s job to ensure our safety and wellbeing. It is someone’s responsibility to look after the world and make damned sure there are no sharp edges, no tripping hazards, nothing injuriously unexpected. It is always someone’s responsibility, but never ours.
+
+The least safe situation imaginable is the one in which we expect our safety to be handled. The least responsible thing we can do for others is to presume to act on behalf of their safety, because what we really do is rob them of their own responsibility.
+
+The medium I have chosen to utilize for this work, beyond its materials, is the language of systematic safety and the improper use of that language’s syntax. The materials are recognizable, even banal, but they are steeped in a system of codes of safety that often go unrecognized. There are literally laws for how these materials must exist and interact in the world so that we don’t have to think about them. By using these materials removed from their coded system of safety I hope to make clear the independence that things and the use of those things have from the systems, such as safety codes, that we assign to them. At the same time, I hope to clarify that safety is not inherent and is, in all ways that matter, our own responsibility.
