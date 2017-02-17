@@ -1,9 +1,14 @@
 ---
 title: Matthew Barncord
 date: 2017-02-17 14:36:00 -08:00
+tags:
+- art
+- culture
+- conceptual art
+- dystopia
 ---
 
-[Copy of 7-min.JPG](/uploads/Copy%20of%207-min.JPG)
+![Copy of 7-min.JPG](/uploads/Copy%20of%207-min.JPG)
 
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
 
