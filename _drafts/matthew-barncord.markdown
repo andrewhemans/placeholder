@@ -26,12 +26,13 @@ In this body of work and related projects I try to come to terms with this trans
 
 ![Copy of _DSC0544-min.jpg](/uploads/Copy%20of%20_DSC0544-min.jpg)
  
-*a day at the beach* 2016, Vinyl, wood, steel, fluorescent lamps, electronics
-Nothing forces anyone to enjoy except the superego. The superego is the imperative of jouissance –
+*a day at the beach* 2016, Vinyl, wood, steel, fluorescent lamps, and electronics
+
+*Nothing forces anyone to enjoy except the superego. The superego is the imperative of jouissance – 
 
 Enjoy!
 
-Jacques Lacan
+Jacques Lacan*
 
 Is there anything more stressful than a good time? Whether going out on a Saturday night or touring a foreign shore, it’s not enough to have the experience which you know is enriching, you are expected to like it. You HAVE to enjoy it. What pictures will you take? What stories will you tell? You’d better prove you had fun. Obviously, though we know it is good for us to do it, doing something outside of the comfortable situation we’ve spent years cultivating is going to be stressful. However, we make the effort to enjoy these uncomfortable situations, unsatisfied until we enjoy the discomfort, transcend it, and the joy is palpably painful.
 
