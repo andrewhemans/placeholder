@@ -8,7 +8,7 @@ tags:
 - dystopia
 ---
 
-[Copy of 7-min.jpg](/uploads/Copy%20of%207-min.JPG)
+![Copy of 7-min.jpg](/uploads/Copy%20of%207-min.JPG)
 
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
 
