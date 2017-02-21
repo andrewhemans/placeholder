@@ -1,5 +1,5 @@
 ---
-title: 'Black Box Wednesday: Wizard Apprentice "Almost Live: I am Invisible"'
+title: 'Black Box Wednesday: Wizard Apprentice'
 date: 2017-02-15 13:47:00 -08:00
 categories:
 - video

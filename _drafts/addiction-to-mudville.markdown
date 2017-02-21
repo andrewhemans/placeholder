@@ -1,13 +1,15 @@
 ---
 title: Addiction to Mudville
-date: 2017-02-12 07:25:00 -08:00
+date: 2017-02-18 07:25:00 -08:00
 categories:
 - Culture
 tags:
 - Stockton
 - Tim Egkan
 - Downtown
-image: "/uploads/Mudcover.jpg"
+- Development
+- Weber
+image: "/uploads/The%20207_1-min.jpg"
 author: Geovanie Brooks
 author-block: true
 author-image: "/uploads/GeoHeadshot-min.jpg"
@@ -23,11 +25,15 @@ This city was founded under the boots of prospectors on their way to gold countr
 
 Like most downtown areas of major cities, Stockton's downtown has its centers for law and infrastructure: On the far end of the intersection between Weber Street and California Street, is the San Joaquin County Courthouse; if you go block down and to the right on El Dorado, you will find the Stockton Police Department, home to our very overstretched and underpaid police force; if you decide to go north of El Dorado, past the movie theater, you’ll end up at City Hall. In February of 2012, the city filed for bankruptcy, due to heavy fiscal spending and the devastating effect of the housing crisis. The city spent a combined total of 134.5 million dollars for the cost of both the ballpark and the arena. Ultimately, downtown commerce paid the price.
  
-![Kendells_geoMud.jpg](/uploads/Kendells_geoMud.jpg)
+![Kendells Building_1-min.jpg](/uploads/Kendells%20Building_1-min.jpg)
+*The dilapidated Kendell's building on Weber Ave.*
 
 Businesses moved North to cheaper commercial properties in the Miracle Mile and Lincoln Districts. Thriving restaurants and clubs closed their doors and moved their business elsewhere. The mom and pop storefronts burned out to the butt, while the corporate-funded businesses managed to maintain their overhead cost, even though they were receiving limited clientele, the majority of whom were soon scared off by hordes of homeless and transients migrating in waves from the Southside. The recession was in full bloom, and the idea of opening a business in the downtown area was considered suicidal at best. At night, no one felt safe downtown: the police were busy trying to control isolated incidents flaring up all around the city, ignoring the fire in their own backyard.
 
 Then TenSpace, Huddle, and Stockmarket came into the picture. Tim Egkan came into the picture.
+
+![630 Weber_1-min.jpg](/uploads/630%20Weber_1-min.jpg)
+*The old Plea For Peace Center, where countless music shows were held, was turned into The Sycamore, "the central valley's premier event space" that costs a pretty penny to rent.*
 
 When taking a drag of a cigarette, occasionally a person tends to experience a slight sensation of lightheadedness and euphoria; it’s the nicotine releasing chemicals into the receptors of the brain, keeping their anxiety from getting the best of them. Tim Egkan's arrival on the scene was like a wave of nicotine hitting the synapsis of Stockton's local collective conscience —Tim came to us, the young artists of Stockton, and told us that downtown was the future. 
 
@@ -35,7 +41,8 @@ Some of us at first were skeptical. The recession had made most of us doubtful a
 
 But he was Tim Egkan, and Tim Egkan understood what it was like to be young and a dreamer. 
 
-![Mudweber.jpg](/uploads/Mudweber.jpg)
+![The 207_1-min.jpg](/uploads/The%20207_1-min.jpg)
+*The short-lived music venue, The 207.*
 
 The 207 was a music venue that was located at 207 California Street, across from the DTC (Downtown Transit Center). Its location seemed to be more like the setting of a horror movie than a venue; it boasted hardwood floors, a ceiling that was falling apart, a busted front door—the glass on the door was covered with paper and plastic tarp, so if you wanted to get in, you had to enter from the back. Despite its flaws, however, The 207's bathroom was—by some miracle—still in great shape, and bands were still down to show up and play in the abandoned commercial space. Tim allowed a young artist Garrett Compton Daniels full use of the location for both art and music purposes, so long as he covered the utility costs and insurance. At one point, The 207 became the only all-ages/open music venue in the city. 
 
@@ -47,8 +54,11 @@ Tim brought happiness, joy, and hope to everyone around him with a passion that 
 
 In the wake of it all, downtown's development may seem to have stalled. It still maintains the reputation of being undesirable to most people. The 207 closed down. Weber’s Point host festivals from time to time, but Downtown Stockton seems to remain as stagnant as some of the politicians preventing businesses from investing there. People still don’t go there at night. However, The Stockton Record, the city’s newspaper, is still active and printing issues. The Cort Group has been renovating some of the older downtown buildings. Businesses like Trail Coffee Roasters and Cast Iron Trading Co. recently opened shop, and it's developments like these that revive those old hopes of expansion and revitalization for our downtown. 
 
-![CountyBuilding_geoMud.jpg](/uploads/CountyBuilding_geoMud.jpg)
+![County Building_1-min.jpg](/uploads/County%20Building_1-min.jpg)
+*The County building features a sleek, modern look that acknowledges Stockton's past and provides a glimpse to its future.*
 
 But such expansion may come at a price. Like many city-dwellers, "gentrification" is a word that I fear. I don’t like the idea of people being pushed out of their homes and neighborhoods even if it is for the good of the community. Redevelopment has begun in Downtown Stockton and, unlike folks in Sacramento, the idea of redevelopment has been welcomed both by the government and the residents. Weber Street is not the Weber Street that I remember from high school; it now sports new modern buildings that look sleek and refined. Schools are popping up around the area. People who lived in the city before and moved away are now coming back and raising their families, which is both surprising and scary. Downtown is slowly losing the grit and edge that most Stocktonians are used to, slowly being replaced by new buildings and new faces bringing fresh ideas to the polished tables within. 
 
 With all the new changes, our city's addictive qualities seem to take a stronger hold on us all; all those who leave can’t seem to help but come back. As with smoking, clearly the city is bad for us and our health. But what’s one more drag? What's one more day in Stockton, one more night walking downtown? We've lived this long.
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
