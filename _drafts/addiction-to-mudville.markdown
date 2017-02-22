@@ -40,7 +40,7 @@ Then [TenSpace](https://www.downtownstockton.org/businesses/real-estate/ten-spac
 ![630 Weber_1-min.jpg](/uploads/630%20Weber_1-min.jpg)
 *The old Plea For Peace Center, where countless music shows were held, was turned into The Sycamore, "the central valley's premier event space" that costs a pretty penny to rent.*
 
-When taking a drag of a cigarette, occasionally a person tends to experience a slight sensation of lightheadedness and euphoria; it’s the nicotine releasing chemicals into the receptors of the brain, keeping their anxiety from getting the best of them. Tim Egkan's arrival on the scene was like a wave of nicotine hitting the synapsis of Stockton's local collective conscience —Tim came to us, the young artists of Stockton, and told us that downtown was the future. 
+When taking a drag of a cigarette, occasionally a person tends to experience a slight sensation of lightheadedness and euphoria; it’s the nicotine releasing chemicals into the receptors of the brain, keeping their anxiety from getting the best of them. Tim Egkan's arrival on the scene was like a wave of nicotine hitting the synapses of Stockton's local collective conscience—Tim came to us, the young artists of Stockton, and told us that downtown was the future. 
 
 Some of us at first were skeptical. The recession had made most of us doubtful and unwilling to accept any form of change, positive or negative. And the fact that Tim was an outsider who was offering us, young people, a voice and various platforms to share our voices, seemed too good to be true. These platforms such as Huddle and The 207 involved young people in community events like Stockmarket, and all of this was supposed to help young artists be seen and heard? It was unbelievable at the time. 
 
