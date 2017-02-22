@@ -1,6 +1,6 @@
 ---
 title: Addiction to Mudville
-date: 2017-02-22 07:25:00 -08:00
+date: 2017-02-18 07:25:00 -08:00
 categories:
 - Culture
 tags:
@@ -11,9 +11,6 @@ tags:
 - Plea for Peace
 - '207'
 - Addiction
-- Development
-- urban planning
-- Huddle
 image: "/uploads/The%20207_1-min.jpg"
 author: Geovanie Brooks
 description: 'With roots in vice and greed, can Stockton transcend its past without
@@ -29,7 +26,7 @@ author-bio: Geovanie Brooks is a local photographer, musician, and filmmaker. He
 
 We all have our vices—substances that we take to escape the harsh realities of the world around us. Some people indulge in junk food and sweets, and many find sweet release in a bottle of alcohol. My own vice is the cigarette. There are a few downsides, sure: smelling like an ashtray from a short period of time after every smoke, the destruction of the little cells in the lungs that filter oxygen, the sheer addiction to this substance and the knowledge that it is only a matter of months or maybe years before it starts fully poisoning my heart, my lungs, and my mind. It's dangerous and does no substantial good for my body, and yet I take a drag. There is no doubt that the cigarette is a powerful vice. But in terms of vices, I'd venture to say that Stockton might be more powerful.
  
-This city was founded under the boots of [prospectors on their way to gold country](http://www.stocktongov.com/discover/history/hist.html), used as a stopping point for some R&R in the forms of gambling, prostitution, and other illicit vices. One hundred sixty-eight years later, the city has changed much from the days of the Gold Rush: The once booming downtown—once home to Weber’s Point Park, the old Macy’s department store, and smaller shopping outlets—now contains mere shells of these once inhabited buildings. The people who've taken up residence in these shells float around like smoke filling the air.
+This city was founded under the boots of [prospectors on their way to gold country](http://www.stocktongov.com/discover/history/hist.html), used as a stopping point for some R&R in the forms of gambling, prostitution, and other illicit vices. One hundred sixty-eight years later, the city has changed much from the days of the Gold Rush: The once booming downtown—once home to Weber’s Point Park, the old Macy’s department store, smaller shopping outlets, and the Filipino community of [Little Manilla](http://www.littlemanila.org)—now contains mere shells of these once inhabited buildings. The people who've taken up residence in these shells float around like smoke filling the air.
 
 Like most downtown areas of major cities, Stockton's downtown has its centers for law and infrastructure: On the far end of the intersection between Weber Street and California Street, is the San Joaquin County Courthouse; if you go a block down and to the right on El Dorado, you will find the Stockton Police Department, home to our very overstretched and underpaid police force; if you decide to go north of El Dorado, past the movie theater, you’ll end up at City Hall. In February of 2012, the city [filed for bankruptcy](http://uscommonsense.org/research/how-stockton-went-bust-a-california-citys-decade-of-policies-and-the-financial-crisis-that-followed/), due to heavy fiscal spending and the devastating effect of the housing crisis. The city spent a combined total of 134.5 million dollars for the cost of both the ballpark and the arena. Ultimately, downtown commerce paid the price.
  
@@ -58,9 +55,11 @@ Tim also lent a helping hand in the early days of Stockmarket; back then, the St
 
 Stockmarket had residual effects on all the local businesses downtown. People started coming into the shops again, storefronts and empty buildings started to be bought and renovated. Even the county government started allocating more resources into beautifying downtown by building a [new county courthouse](http://www.capradio.org/articles/2014/05/30/new-san-joaquin-county-courthouse-will-provide-for-better-security,-more-pleasant-experience-for-jurors/) and new county office buildings. Weber started to modernize and the people were starting to see Tim’s vision of what the city could be. We all believed in his vision because it was inclusive: everyone played a role and nobody felt that they were given a small part. 
 
-Tim brought happiness, joy, and hope to everyone around him with a passion that could only be described as limitless. He didn’t want us to give up on our city or on ourselves. But I remember the sunken faces, the flames of spirits snuffed out by our own little clouds of darkness and despair in the aftermath of [Tim’s passing](http://www.recordnet.com/article/20151003/NEWS/151009878). The bigger the cloud, the stronger the bond the person had to Tim, but we all felt the weight of his death.
+Sometimes, I think about how they found him. His body clutching his stomach from immense pain, close to a fetal position, breathing his last gasps of air. Tim brought happiness, joy, and hope to everyone around him. He didn’t want us to give up on our city, and he didn’t want us to give up on ourselves; I still believe that the man that was only trying to save Stockton from itself, from it’s problems. He tried to bring back whatever life was left in downtown but was unfairly consumed by it.  
 
-In the wake of it all, downtown's development may seem to have stalled. It still maintains the reputation of being undesirable to most people. The 207 closed down. Weber’s Point host festivals from time to time, but Downtown Stockton seems to remain as stagnant as some of the politicians preventing businesses from investing there. People still don’t go there at night. However, The Stockton Record, the city’s newspaper, is still active and printing issues. The Cort Group [renovated some of the older downtown buildings](http://www.recordnet.com/article/20150118/news/150119691). Businesses like [Trail Coffee Roasters](https://trailcoffeeroasters.com/#) and [Cast Iron Trading Co.](http://www.castirontradingco.com) recently opened shop, and it's developments like these that revive those old hopes of expansion and revitalization for our downtown. 
+I remember the sunken faces, the flames of spirits snuffed out by our own little clouds of darkness and despair in the aftermath of [Tim's passing](http://www.recordnet.com/article/20151003/NEWS/151009878). The bigger the cloud, the stronger the bond the person had to him, but we all felt the weight of his death. A mural was dedicated to Tim, a painting of an elephant holding a mouse with his snout. Close to a year after his death, the building it was painted on was torn down.
+
+In the wake of all of this, downtown's development seemed to stall, maintaining the reputation of being undesirable to most people. The 207 closed down. Weber’s Point host festivals from time to time, but Downtown Stockton seems to remain as stagnant as some of the politicians preventing businesses from investing there. People still don’t walk around at night. However, The Stockton Record, the city’s newspaper, is still active and printing issues. The Cort Group [renovated some of the older downtown buildings](http://www.recordnet.com/article/20150118/news/150119691). Businesses like [Trail Coffee Roasters](https://trailcoffeeroasters.com/#) and [Cast Iron Trading Co.](http://www.castirontradingco.com) recently opened shop, and it's developments like these that revive those old hopes of expansion and revitalization for our downtown. 
 
 ![County Building_1-min.jpg](/uploads/County%20Building_1-min.jpg)
 *The County building features a sleek, modern look that acknowledges Stockton's past and provides a glimpse to its future.*
