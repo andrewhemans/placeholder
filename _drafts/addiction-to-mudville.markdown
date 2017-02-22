@@ -7,16 +7,21 @@ tags:
 - Stockton
 - Tim Egkan
 - Downtown
-- Development
 - Weber
+- Plea for Peace
+- '207'
+- Addiction
 image: "/uploads/The%20207_1-min.jpg"
 author: Geovanie Brooks
+description: 'With roots in vice and greed, can Stockton transcend its past without
+  resorting to gentrification? A local musician tackles this question, journeying
+  through Stockton''s recent history and speculating on its future. '
 author-block: true
 author-image: "/uploads/GeoHeadshot-min.jpg"
 author-bio: Geovanie Brooks is a local photographer, musician, and filmmaker. He is
   a recent graduate from California State University Sacramento with his Bachelor’s
   in Film and has been a Stockton resident for over a decade. He is also a member
-  of the Morlocks Underground, a music collective based out the Central Valley.
+  of the Morlocks Underground, a music collective based out of the Central Valley.
 ---
 
 We all have our vices—substances that we take to escape the harsh realities of the world around us. Some people indulge in junk food and sweets, and many find sweet release in a bottle of alcohol. My own vice is the cigarette. There are a few downsides, sure: smelling like an ashtray from a short period of time after every smoke, the destruction of the little cells in the lungs that filter oxygen, the sheer addiction to this substance and the knowledge that it is only a matter of months or maybe years before it starts fully poisoning my heart, my lungs, and my mind. It's dangerous and does no substantial good for my body, and yet I take a drag. There is no doubt that the cigarette is a powerful vice. But in terms of vices, I'd venture to say that Stockton might be more powerful.
