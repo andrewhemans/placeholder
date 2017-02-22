@@ -14,8 +14,7 @@ tags:
 image: "/uploads/The%20207_1-min.jpg"
 author: Geovanie Brooks
 description: 'With roots in vice and greed, can Stockton transcend its past without
-  resorting to gentrification? A local musician tackles this question, journeying
-  through Stockton''s recent history and speculating on its future. '
+  resorting to gentrification? Thoughts from a local musician on downtown revitalization. '
 author-block: true
 author-image: "/uploads/GeoHeadshot-min.jpg"
 author-bio: Geovanie Brooks is a local photographer, musician, and filmmaker. He is
