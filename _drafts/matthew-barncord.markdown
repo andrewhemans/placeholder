@@ -1,5 +1,5 @@
 ---
-title: Matthew Barncord
+title: Hypnagogia by Matthew Barncord
 date: 2017-02-17 14:36:00 -08:00
 tags:
 - art
@@ -17,7 +17,7 @@ Hypnagogia is the experience of the transitional state from wakefulness to s
 
 Hypnagogia is part of a series of photographic works in which I explore the interstices between American rural development and suburban or urban development.
 
-[10-min.JPG](/uploads/10-min.JPG)
+![10-min.JPG](/uploads/10-min.JPG)
 
 One of the things that occurs to me about these meetings is the recurrence of manifest destiny, once directional from East to West, now radiating from urban centers outward. There’s no question whether to expand, only how. During this new phase, an even more radical transformation of the landscape created during the previous manifest is happening as the Anthropocene is in full swing. The rapidness of this change is the most radical geographical shift to occur in North America since the initial displacement of the continent’s natives, yet it has hardly been recorded in contemporary visual dialog.
 
