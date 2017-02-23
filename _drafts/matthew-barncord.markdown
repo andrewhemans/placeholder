@@ -12,7 +12,6 @@ image: "/uploads/Copy%20of%207-min.JPG"
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
 
 ***Hypnagogia,* 2015
-
 Digital Photographs and Inkjet Prints**
 
 
