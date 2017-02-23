@@ -7,6 +7,9 @@ tags:
 - conceptual art
 - dystopia
 image: "/uploads/Copy%20of%207-min.JPG"
+description: In this photo series Matthew Barncord explores the concept of rural and
+  urban development trough visual metaphors of *hypnagogia*, the threshold between
+  sleep and wakefulness.
 ---
 
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
@@ -34,4 +37,5 @@ In this body of work and related projects I try to come to terms with this trans
 Matthew Barncord creates across disciplines, influenced by language, psychoanalysis and the contemporary decline of craft and narrative. With a focus on sculpture and photography, his work asks critical questions about meaning and established ways of thinking by exposing contradictions. In his sculpture, he often plays with the physical vernacular of his environment and works backwards towards meaning using lay self-analysis. He thinks that meaning is created through its discovery, rather than related or expressed. His photographs of nature include suburban development and human wildlife. Matthew earned his BA in Art Studio from the University of California at Davis in 2016, where he studied sculpture and photography. He currently lives near Sacramento, CA.
 
 **Find out more:**
+
 website: http://cargocollective.com/MatthewBarncord
