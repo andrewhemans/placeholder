@@ -6,10 +6,8 @@ tags:
 - culture
 - conceptual art
 - dystopia
-image: "/uploads/Copy%20of%20_DSC0544-min.jpg"
+image: "/uploads/Copy%20of%207-min.JPG"
 ---
-
-
 
 ![18-min.JPG](/uploads/18-min.JPG)
 
