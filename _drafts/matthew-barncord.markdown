@@ -10,6 +10,9 @@ image: "/uploads/Copy%20of%207-min.JPG"
 ---
 
 ![18-min.JPG](/uploads/18-min.JPG)
+***Hypnagogia,* 2015
+Digital Photographs and Inkjet Prints**
+
 
 Hypnagogia is the experience of the transitional state from wakefulness to sleep: the hypnagogic state of consciousness, during the onset of sleep. Mental phenomena that occur during this &quot;threshold consciousness&quot; phase include lucid thought, lucid dreaming, hallucinations, and sleep paralysis. 
 
@@ -28,3 +31,6 @@ In this body of work and related projects I try to come to terms with this trans
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
 
 Matthew Barncord creates across disciplines, influenced by language, psychoanalysis and the contemporary decline of craft and narrative. With a focus on sculpture and photography, his work asks critical questions about meaning and established ways of thinking by exposing contradictions. In his sculpture, he often plays with the physical vernacular of his environment and works backwards towards meaning using lay self-analysis. He thinks that meaning is created through its discovery, rather than related or expressed. His photographs of nature include suburban development and human wildlife. Matthew earned his BA in Art Studio from the University of California at Davis in 2016, where he studied sculpture and photography. He currently lives near Sacramento, CA.
+
+**Find out more:**
+website: http://cargocollective.com/MatthewBarncord
