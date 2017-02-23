@@ -12,6 +12,7 @@ tags:
 - '207'
 - Addiction
 - Cort Group
+- featured
 image: "/uploads/The%20207_1-min.jpg"
 author: Geovanie Brooks
 description: 'With roots in vice and greed, can Stockton transcend its past without
@@ -53,7 +54,7 @@ But he was Tim Egkan, and Tim Egkan understood what it was like to be young and 
 
 The 207 was a music venue that was located at 207 California Street, across from the DTC (Downtown Transit Center). Its location seemed to be more like the setting of a horror movie than a venue; it boasted hardwood floors, a ceiling that was falling apart, a busted front door—the glass on the door was covered with paper and plastic tarp, so if you wanted to get in, you had to enter from the back. Despite its flaws, however, The 207's bathroom was—by some miracle—still in great shape, and bands were still down to show up and play in the abandoned commercial space. Tim allowed young artist Garrett Compton Daniels full use of the location for both art and music purposes, so long as he covered the utility costs and insurance. At one point, The 207 became the only all-ages/open music venue in the city. 
 
-Tim also lent a helping hand in the early days of Stockmarket; back then, the Stockmarket was located on the corner of Weber and Stanislaus. The location of the street fair was also the location of the local music venue, The [Plea For Peace Center](http://www.recordnet.com/article/20130815/A_LIFE/308150307), one of the first venues where I got to perform in front of a crowd. But the broken stage had been taken out, and the crowd taken with it. The walls were knocked down and the building was repainted.These renovations created a vibe that was more liberating compared to that of the tightly packed shows that had taken place years before. People were excited to be there, checking out all the crafts from local small business owners who didn’t have storefronts or offices, just ingenuity and simple aspirations. 
+Tim also lent a helping hand in the early days of Stockmarket; back then, the Stockmarket was located on the corner of Weber and Stanislaus. The location of the street fair was also the location of the local music venue, The [Plea For Peace Center](http://www.recordnet.com/article/20130815/A_LIFE/308150307), one of the first venues where I got to perform in front of a crowd. But the broken stage had been taken out, and the crowd taken with it. The walls were knocked down and the building was repainted. These renovations created a vibe that was more liberating compared to that of the tightly packed shows that had taken place years before. People were excited to be there, checking out all the crafts from local small business owners who didn’t have storefronts or offices, just ingenuity and simple aspirations. 
 
 >I still believe that the man that was only trying to save Stockton from itself, from it’s problems...but was unfairly consumed by it. 
 

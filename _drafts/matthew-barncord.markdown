@@ -38,4 +38,4 @@ Matthew Barncord creates across disciplines, influenced by language, psychoanaly
 
 **Find out more:**
 
-website: http://cargocollective.com/MatthewBarncord
+**website:** http://cargocollective.com/MatthewBarncord
