@@ -1,5 +1,5 @@
 ---
-title: Hypnagogia by Matthew Barncord
+title: Hypnagogia
 date: 2017-02-17 14:36:00 -08:00
 tags:
 - art
@@ -10,7 +10,9 @@ image: "/uploads/Copy%20of%207-min.JPG"
 ---
 
 ![18-min.JPG](/uploads/18-min.JPG)
+
 ***Hypnagogia,* 2015
+
 Digital Photographs and Inkjet Prints**
 
 
