@@ -21,7 +21,7 @@ Hypnagogia is part of a series of photographic works in which I explore the inte
 
 One of the things that occurs to me about these meetings is the recurrence of manifest destiny, once directional from East to West, now radiating from urban centers outward. There’s no question whether to expand, only how. During this new phase, an even more radical transformation of the landscape created during the previous manifest is happening as the Anthropocene is in full swing. The rapidness of this change is the most radical geographical shift to occur in North America since the initial displacement of the continent’s natives, yet it has hardly been recorded in contemporary visual dialog.
 
-[2-min.JPG](/uploads/2-min.JPG)
+![2-min.JPG](/uploads/2-min.JPG)
 
 In this body of work and related projects I try to come to terms with this transition on an emotional and aesthetic level specifically focused on the physical line where it occurs and the liminal experience of passing from one world and one time to the next.
 
