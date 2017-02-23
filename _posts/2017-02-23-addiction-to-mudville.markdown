@@ -12,6 +12,7 @@ tags:
 - '207'
 - Addiction
 - Cort Group
+- featured
 image: "/uploads/The%20207_1-min.jpg"
 author: Geovanie Brooks
 description: 'With roots in vice and greed, can Stockton transcend its past without
