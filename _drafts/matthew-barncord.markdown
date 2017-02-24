@@ -6,10 +6,13 @@ tags:
 - culture
 - conceptual art
 - dystopia
+- Photography
 image: "/uploads/Copy%20of%207-min.JPG"
 description: In this photo series Matthew Barncord explores the concept of rural and
   urban development trough visual metaphors of *hypnagogia*, the threshold between
   sleep and wakefulness.
+author-block: false
+author-bio: Writting and photographs by Matthew Barncord, curated by Aida Lizalde
 ---
 
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
