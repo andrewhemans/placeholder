@@ -18,8 +18,7 @@ author-bio: Writting and photographs by Matthew Barncord, curated by Aida Lizald
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
 
 **Hypnagogia,** 2015
-Digital Photographs and Inkjet Prints
-
+Digital Photographs and Inkjet Print
 
 Hypnagogia is the experience of the transitional state from wakefulness to sleep: the hypnagogic state of consciousness, during the onset of sleep. Mental phenomena that occur during this &quot;threshold consciousness&quot; phase include lucid thought, lucid dreaming, hallucinations, and sleep paralysis. 
 
