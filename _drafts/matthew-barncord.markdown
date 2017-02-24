@@ -11,14 +11,14 @@ image: "/uploads/Copy%20of%207-min.JPG"
 description: In this photo series Matthew Barncord explores the concept of rural and
   urban development trough visual metaphors of *hypnagogia*, the threshold between
   sleep and wakefulness.
-author-block: false
+author-block: true
 author-bio: Writting and photographs by Matthew Barncord, curated by Aida Lizalde
 ---
 
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
 
-***Hypnagogia,* 2015
-Digital Photographs and Inkjet Prints**
+**Hypnagogia,** 2015
+Digital Photographs and Inkjet Prints
 
 
 Hypnagogia is the experience of the transitional state from wakefulness to sleep: the hypnagogic state of consciousness, during the onset of sleep. Mental phenomena that occur during this &quot;threshold consciousness&quot; phase include lucid thought, lucid dreaming, hallucinations, and sleep paralysis. 
