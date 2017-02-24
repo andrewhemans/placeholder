@@ -13,7 +13,10 @@ description: In this photo series Matthew Barncord explores the concept of rural
   sleep and wakefulness.
 author-block: true
 author-image: "/uploads/Aida.jpg"
-author-bio: Writting and photographs by Matthew Barncord, curated by Aida Lizalde
+author-bio: Writing and photographs by Matthew Barncord, curated by Aida Lizalde,
+  Visual Arts Content Curator and occasional contributor for Placeholder Magazine.  Lizalde
+  was born and raised in Mexico until age 15, when her family immigrated to Stockton,
+  California. She currently attends the University of California, Davis.
 ---
 
 ![Copy of 17_1-min.jpg](/uploads/Copy%20of%2017_1-min.jpg)
