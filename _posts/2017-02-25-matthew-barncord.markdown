@@ -1,6 +1,6 @@
 ---
 title: Hypnagogia
-date: 2017-02-17 14:36:00 -08:00
+date: 2017-02-25 14:36:00 -08:00
 categories:
 - arts
 - culture
