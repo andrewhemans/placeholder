@@ -13,7 +13,7 @@ tags:
 image: "/uploads/Copy%20of%207-min.JPG"
 author: Aida Lizalde
 description: In this photo series Matthew Barncord explores the concept of rural and
-  urban development through visual metaphors of *hypnagogia*, the threshold between
+  urban development through visual metaphors of hypnagogia, the threshold between
   sleep and wakefulness.
 author-block: true
 author-image: "/uploads/Aida.jpg"
@@ -48,6 +48,6 @@ Matthew Barncord creates across disciplines, influenced by language, psychoanaly
 
 **Find out more:**
 
-**website:** http://cargocollective.com/
+**website:** [http://cargocollective.com/MatthewBarncord](http://cargocollective.com/MatthewBarncord)
 
 Writing and photographs by Matthew Barncord
