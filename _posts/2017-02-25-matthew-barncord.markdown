@@ -48,6 +48,6 @@ Matthew Barncord creates across disciplines, influenced by language, psychoanaly
 
 **Find out more:**
 
-**website:** http://cargocollective.com/
+**website:** [http://cargocollective.com/MatthewBarncord](http://cargocollective.com/MatthewBarncord)
 
 Writing and photographs by Matthew Barncord
