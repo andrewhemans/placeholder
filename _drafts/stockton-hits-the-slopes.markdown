@@ -1,5 +1,5 @@
 ---
-title: Stockton Hits the Slopes
+title: Stockton Hits the Slopes with Snowy Claus
 date: 2017-02-27 15:28:00 -08:00
 categories:
 - Culture
@@ -9,7 +9,13 @@ tags:
 - Snowboarding
 - Skiing
 - SHREDison
+image: "/uploads/2011-03-27%20Squaw%20Valley%20052.jpg"
+author: Alexandra Krueger
+author-block: true
+author-image: "/uploads/Allie.jpg"
 ---
+
+Let's face it: 2016 disrupted everyone's zen, and unfortunately, 2017 forecasts don't look much better. 
 
 Years before the dawn of this new era that many would deem dystopian, our little town of Stockton was known as "most miserable." But, perhaps we Stocktonians are the lucky ones; while the rest of the country experiences the fresh shock of being dunked in the frigid waters of reality, Stocktonians have long been treading it. Misery is no longer a threatening word. We know how to brave it; how to work the system, and how to make the system work for us. While the rest of the world struggles to regain their grip on reality, we're molding the clay of it, creating our own.
 
@@ -47,8 +53,8 @@ I would say that one of the teachers, Sam Jones, is the snow sports club mentor 
 
 13 on a 10 scale.
 
-![2011-03-27 Squaw Valley 024.jpg](/uploads/2011-03-27%20Squaw%20Valley%20024.jpg)
-*Ready to hit the slopes at Squaw!*
+![2011-04-17 Sugar Bowl 036.jpg](/uploads/2011-04-17%20Sugar%20Bowl%20036.jpg)
+*On top of the world at Sugar Bowl*
 
 **Really? So the kids love it.**
 
@@ -69,7 +75,7 @@ This really happened: A high school from Stockton goes up there \[to Squaw Valle
 
 **They take multiple.**
 
-They got two cookies! Right? And so Mr. Big Duck got all crazy about it and said "Off-task behavior!" and "Rude!" all this crap, bounced 'em for one week. And then, when they got back home, \[the teachers\] had 'em give cookies to poor people and make a video and they wrote letters saying "We're sorry." Basically what the teachers were really saying to the kids was "just kiss their ass, these rich assholes—you know? They got the crap, we want it, they just can't stand the flavor." I mean, my attitude was, "Oh my god, \[at least\] no one got shot, what do you expect? You know?"
+They got two cookies! Right? And so Mr. Big Duck got all crazy about it and said "Off-task behavior!" and "Rude!" all this crap, bounced 'em for one week. And then, when they got back home, \[the teachers\] had 'em give cookies to poor people and make a video and they wrote letters saying "We're sorry." Basically what the teachers were really saying to the kids was "just kiss their ass, these rich assholes—you know? They got the crap, we want it, they just can't stand the flavor." I mean, my attitude was, "Oh my god, \[at least\] no one got shot. You know?"
 
 **That's how you know you're from Stockton.**
 
