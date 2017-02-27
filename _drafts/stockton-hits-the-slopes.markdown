@@ -1,6 +1,14 @@
 ---
 title: Stockton Hits the Slopes
 date: 2017-02-27 15:28:00 -08:00
+categories:
+- Culture
+tags:
+- SkiDuck
+- Edison High School
+- Snowboarding
+- Skiing
+- SHREDison
 ---
 
 Years before the dawn of this new era that many would deem dystopian, our little town of Stockton was known as "most miserable." But, perhaps we Stocktonians are the lucky ones; while the rest of the country experiences the fresh shock of being dunked in the frigid waters of reality, Stocktonians have long been treading it. Misery is no longer a threatening word. We know how to brave it; how to work the system, and how to make the system work for us. While the rest of the world struggles to regain their grip on reality, we're molding the clay of it, creating our own.
