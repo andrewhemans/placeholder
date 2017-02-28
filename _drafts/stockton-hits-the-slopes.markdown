@@ -103,7 +103,7 @@ They just totally get it. And they are totally cooperative. That's the best part
 ![2011-04-03 Shredison Sugar Bowl 007.jpg](/uploads/2011-04-03%20Shredison%20Sugar%20Bowl%20007.jpg)
 *SHREDison at Sugar Bowl*
 
-Crass or not, there’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real he’s taking the honest approach, and it works. We'd all do well to follow. 
+Crass or not, there’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real he’s taking the honest approach, and from the looks of things,it works. 
 
 
 **Upcoming Dates of SkiDuck operation:**
