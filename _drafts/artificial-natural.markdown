@@ -1,6 +1,17 @@
 ---
-title: Artificial Natural
+title: A Fabricated Experience
 date: 2017-02-27 18:11:00 -08:00
+image: "/uploads/vincent_pacheco_shelter3-min.jpg"
+author: Aida Lizalde
+description: 'In search for the sublime, Vincent Pacheco explores the collective idea
+  of nature through his installations and performance experiences in natural and artificial
+  environments.  '
+author-block: true
+author-image: "/uploads/Aida.jpg"
+author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
+  for Placeholder Magazine. Lizalde was born and raised in Mexico until age 15, when
+  her family immigrated to Stockton, California. She currently attends the University
+  of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
 I had the pleasure of visiting Vincent Pacheco’s studio right before the MFA 2nd years had their faculty review. I was pleasantly surprised to encounter a site specific installation that took over his whole studio, instead of the expected desk, artwork, tools, books, and scattered reference photos and materials usual to an art practice space. Vincent Pacheco was soft spoken and chill, although the whole Annex [UC Davis graduate studios building] was hectic and busy with students, some museum staff visitors, and faculty. Vincent’s insight into his practice was extremely compelling and relevant to the recent “back to nature” idealism of millennials. Vincent and I sat down on the ground of his installation by his faux fire pit and had the following conversation:  
