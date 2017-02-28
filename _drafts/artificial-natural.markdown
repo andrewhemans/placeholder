@@ -1,6 +1,15 @@
 ---
-title: A Fabricated Experience
+title: Fabricated Landscape
 date: 2017-02-27 18:11:00 -08:00
+categories:
+- arts
+- Culture
+tags:
+- conceptual art
+- art
+- culture
+- Environment
+- nature
 image: "/uploads/vincent_pacheco_shelter3-min2.jpg"
 author: Aida Lizalde
 description: 'In search for the sublime, Vincent Pacheco explores the collective idea
