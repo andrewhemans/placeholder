@@ -1,5 +1,5 @@
 ---
-title: Stockton Hits the Slopes with Snowy Claus
+title: Stockton Hits the Slopes with SkiDuck
 date: 2017-02-27 15:28:00 -08:00
 categories:
 - Culture
