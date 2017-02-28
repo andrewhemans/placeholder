@@ -9,6 +9,7 @@ tags:
 - culture
 - Sacramento
 image: "/uploads/rocha-STILL%20VISIT-min.jpg"
+author: Aida Lizalde
 description: Explore the wonderful cacophony of sound, pointillism, xerox, and painting
   from Sacramento-based artist Ryan L. Rocha.
 author-block: true
