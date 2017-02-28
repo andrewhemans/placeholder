@@ -9,7 +9,7 @@ tags:
 - Snowboarding
 - Skiing
 - SHREDison
-image: "/uploads/2011-04-23%20Squaw%20005.jpg"
+image: "/uploads/2011-03-27%20Squaw%20Valley%20052.jpg"
 author: Alexandra Krueger
 author-block: true
 author-image: "/uploads/Allie.jpg"
