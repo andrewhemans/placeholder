@@ -9,7 +9,7 @@ tags:
 - Snowboarding
 - Skiing
 - SHREDison
-image: "/uploads/2011-03-27%20Squaw%20Valley%20052.jpg"
+image: "/uploads/2011-04-23%20Squaw%20005.jpg"
 author: Alexandra Krueger
 author-block: true
 author-image: "/uploads/Allie.jpg"
@@ -100,11 +100,12 @@ They just totally get it. And they are totally cooperative. That's the best part
 ![2011-04-03 Shredison Sugar Bowl 007.jpg](/uploads/2011-04-03%20Shredison%20Sugar%20Bowl%20007.jpg)
 *SHREDison at Sugar Bowl*
 
-There’s something to be said about the pragmatism of this guy, teaching them to work the system but at the same time being aware. :Rather than pretending that these classist undertones aren’t real he’s basically saying “They’re real, you know their privilege, they don’t, use it to your advantage.
+Crass or not, there’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real he’s taking the honest approach, and it works. We'd all do well to follow. 
 
-Dates of SkiDuck operation:
+
+**Upcoming Dates of SkiDuck operation:**
 
 March 5, 12, 19, 26
 April 2, 9\*, 23\*
 
-\*=no lessons
+*\*=no lessons*
