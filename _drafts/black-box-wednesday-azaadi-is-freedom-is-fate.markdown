@@ -24,3 +24,7 @@ March 11, 2017 - Culture Collection, Sacramento, CA
 March 19, 2017 - SXSW, Austin, TX
 
 April 14, 2017 - Soft Space, Portland, OR
+
+**Black Box Wednesday** is our newest bi-weekly video feature showcasing artwork in the forms of Expanded Cinema, Video Performance, Short film, Music Video, and Video-Blog features of independent artists and filmmakers from California, curated by Aida Lizalde. Our third feature introduces the March theme or *Femme.*
+
+Tune in on March 15th for the new Black Box Wednesday!
