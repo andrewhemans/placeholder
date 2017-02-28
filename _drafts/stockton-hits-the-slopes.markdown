@@ -73,6 +73,9 @@ Nice people are nice, right? But they're kinda nice-Nazis. It's always at their 
 
 This really happened: A high school from Stockton goes up there \[to Squaw Valley\] and the bakery gives 'em cookies. Really nice fancy cookies. And everybody's supposed to get one cookie. Well what do you think these kids from Stockton do when they get their one cookie? What's the next thing that happens?
 
+![2011-03-27 Squaw Valley 052.jpg](/uploads/2011-03-27%20Squaw%20Valley%20052.jpg)
+*SHREDison High at Squaw Valley*
+
 **They take multiple.**
 
 They got two cookies! Right? And so Mr. Big Duck got all crazy about it and said "Off-task behavior!" and "Rude!" all this crap, bounced 'em for one week. And then, when they got back home, \[the teachers\] had 'em give cookies to poor people and make a video and they wrote letters saying "We're sorry." Basically what the teachers were really saying to the kids was "just kiss their ass, these rich assholes—you know? They got the crap, we want it, they just can't stand the flavor." I mean, my attitude was, "Oh my god, \[at least\] no one got shot. You know?"
