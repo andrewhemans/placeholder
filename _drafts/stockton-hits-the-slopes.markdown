@@ -17,11 +17,11 @@ author-image: "/uploads/Allie.jpg"
 
 Let's face it: 2016 disrupted everyone's zen, and unfortunately, 2017 forecasts don't look much better. 
 
-Years before the dawn of this new era that many would deem dystopian, our little town of Stockton was known as "most miserable." But, perhaps we Stocktonians are the lucky ones; while the rest of the country experiences the fresh shock of being dunked in the frigid waters of reality, Stocktonians have long been treading it. Misery is no longer a threatening word. We know how to brave it; how to work the system, and how to make the system work for us. While the rest of the world struggles to regain their grip on reality, we're molding the clay of it, creating our own.
+Years before the dawn of this new era that many would deem dystopian, our little town of Stockton was known as "most miserable." But, perhaps we Stocktonians are the lucky ones; we've developed the all character and pragmatism necessary to deal with it. Misery is no longer a threatening word. We've learned how to work the system, and how to make the system work for us. While the rest of the world struggles to regain their grip on reality, we're molding the clay of it, creating our own.
 
-It is this pragmatic, been-around-the-block attitude that I encountered when I sat down to interview a local Stocktonian who informed me he'd like to be known as "Snowy Claus". He's the man behind Stockton SkiBus, a program forged by the idea that a system that caters to the privileged could be made to benefit those who aren't.
+It is this fearless, been-around-the-block attitude that I encountered when I sat down to interview a local Stocktonian who informed me he'd like to be known as "Snowy Claus." He's the man behind Stockton SkiBus, a program forged by the idea that a system that caters to the privileged could be made to benefit those who aren't.
 
-Essentially, Stockton Skibus invites kids from high schools within the Stockton school district, and shuttles them up to Squaw Valley for a day on the slopes. When asked why the anonymity, Snowy Clause responded with some wry comments about the Administration “a-holes”, but also stated that this interview wasn't meant to highlight him, but rather to promote the Stockton SkiBus program.
+Essentially, Stockton Skibus invites kids from high schools within the Stockton school district, and shuttles them up to Squaw Valley for a day on the slopes. When asked why the anonymity, Snowy Clause responded with some wry comments about the Administration “a-holes,” but also stated that this interview wasn't meant to highlight him, but rather to promote the Stockton SkiBus program.
 
 ![2011-04-23 Squaw 045.jpg](/uploads/2011-04-23%20Squaw%20045.jpg)
 *SkiDuck crew gets together in Squaw Valley*
