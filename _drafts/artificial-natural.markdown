@@ -44,7 +44,7 @@ In the beginning of February I had the pleasure of visiting Vincent Pacheco’s 
 
 ![installation4-min.jpg](/uploads/installation4-min.jpg)
 
-**AL: Does commuting every day from the mountains through different landscapes affect you conceptually? **
+**AL: Does commuting every day from the mountains through different landscapes affect you conceptually?**
 
 **VP:** I live in a fabricated experience, I realize. I partly created this experience. It is surreal, this new landscape I am part of comes out in the work, there is just no way around it. My practice has always been like that, whatever is in front of me is in the work. But to come here in this white cube to try to process a place that I drove an hour and a half away from through the strip malls, and to try to connect with that memory of where I was and where I have been, it is artificial. That is what has been driving my work recently. The fact that it is ridiculous to process a place when I am not in that place. 
 
