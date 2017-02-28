@@ -101,4 +101,5 @@ The Shelter project was what I did last year, and I was really struggling with t
 **VP:** It all comes down to stillness, being still in the environment, taking a moment, quieting the mind down. When I work at the studio there are like thirty people outside hustling in and out. Now that this is up, I am going to sit and see what happens. Will this teach me anything about myself? The landscape I live in? Our collective experience? These are the questions I’ll be looking for.
 
 **Find out more:**
+
 **Website:** http://www.vincentpacheco.com/
