@@ -1,6 +1,18 @@
 ---
 title: 'Black Box Wednesday: Azaadi Is Freedom Is Fate'
 date: 2017-02-27 21:32:00 -08:00
+categories:
+- black box wednesday
+- video
+- music
+tags:
+- Music
+- bay area
+- art
+- music video
+- desi
+- identity
+- queer
 ---
 
 <iframe src="https://player.vimeo.com/video/191591076" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
