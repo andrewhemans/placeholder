@@ -50,7 +50,7 @@ In the beginning of February I had the pleasure of visiting Vincent Pacheco’s 
 
 **AL: I think it relates to the human experience.**
 
-**VP:** Yeah, it took me a year to realize that. You know, I deal with faculty pushing me to process this new place I found myself in, but I am not there so how can I do it. That is interesting to me.
+**VP:** Yeah, it took me a year to realize that. You know, I deal with faculty pushing me to process this new place I found myself in, but I am not there so how can I do it? That is interesting to me.
 
 ![installation-min.jpg](/uploads/installation-min.jpg)
 
@@ -86,7 +86,7 @@ The Shelter project was what I did last year, and I was really struggling with t
 
 **AL: Speaking of your work, I have a loaded question about it in different terms. How do you navigate the art world?**
 
-**VP:** It is a battle. I have been in a lot of shows, and I have been published in books and stuff. I did commercial art for fifteen years, I know how to make money doing art. I don’t find any joy in the process or motivation at all. I just don’t learn anything from it. I am not here in this program to have big shows someday. That does not interest me, because the end result is money and fame, and I know how to make money. I can go back to graphic design to make money. My artwork is going to be at home, at the studio, where I do my work. Maybe I’ll do residencies, maybe I’ll teach but as far as making a career out of this, it does not interest me because I don’t believe in careers anymore. But it is strange being here because they push us to what our place in the art world is, where we are going to take this. 
+**VP:** It is a battle. I have been in a lot of shows, and I have been published in books and stuff. I did commercial art for fifteen years, I know how to make money doing art. I don’t find any joy in the process or motivation at all. I just don’t learn anything from it. I am not here in this program to have big shows someday. That does not interest me, because the end result is money and fame, and I know how to make money. I can go back to graphic design to make money. My artwork is going to be at home, at the studio, where I do my work. Maybe I’ll do residencies, maybe I’ll teach but as far as making a career out of this, it does not interest me because I don’t believe in careers anymore. But it is strange being here because they push us to find what our place in the art world is, and where we are going to take this. 
 
 **AL: Do you think it is because the college’s branding?**
 
