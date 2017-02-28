@@ -25,7 +25,7 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
 
 In the beginning of February I had the pleasure of visiting Vincent Pacheco’s studio right before the Masters of Fine Arts 2nd year students had their faculty review. I was surprised to encounter a site specific installation that took over his whole studio, instead of the expected desk, artwork, tools, books, and scattered reference photos and materials usual to an art practice space. Vincent Pacheco was soft spoken and chill, although the whole Annex [UC Davis graduate studios building] was hectic and busy with students, some museum staff visitors, and faculty. Vincent’s insight into his practice was extremely compelling and relevant to the recent “back to nature” idealism of millennials. Vincent and I sat down on the ground of his installation by his faux fire pit and had the following conversation:  
 
-**AL:Can you talk a little about where you come from?**
+**AL: Can you talk a little about where you come from?**
 
 **VP:** I am from the suburbs. My family is from the Mission District in San Francisco, we had a long history of selling drugs, dealing drugs. My father was part of the drug trade growing up, and once he started having kids he decided to take his family out of the Mission District. So me and my brothers are from the suburbs, we had the chance to live a good life. I was fortunate enough to come to UC Davis as an undergrad, I graduated here in 2003 from the design department. 
 
