@@ -12,8 +12,15 @@ tags:
 - Stockton SkiBus
 image: "/uploads/2011-03-27%20Squaw%20Valley%20052.jpg"
 author: Alexandra Krueger
+description: While Placeholder gets the scoop on SkiDuck, the program that's taking
+  our kids to the snow for free, "Snow Claus" talks classism, snow-sports, and "the
+  trustafarian attitude."
 author-block: true
 author-image: "/uploads/Allie.jpg"
+author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
+  Placeholder Magazine. She grew up in both Stockton and Linden, California, and is
+  currently attending UC Santa Cruz where she is working toward her Bachelor''s in
+  Creative Writing. Allie loves coffee, journaling, and the em-dash. '
 ---
 
 Let's face it: 2016 has disrupted everyone's zen, and 2017 forecasts aren't looking much better. 
