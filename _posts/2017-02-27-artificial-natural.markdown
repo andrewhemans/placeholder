@@ -50,13 +50,13 @@ In the beginning of February I had the pleasure of visiting Vincent Pacheco’s 
 
 **AL: I think it relates to the human experience.**
 
-**VP:** Yeah, it took me a year to realize that. You know, I deal with faculty pushing me to process this new place I found myself in, but I am not there so how can I do it. That is interesting to me.
+**VP:** Yeah, it took me a year to realize that. You know, I deal with faculty pushing me to process this new place I found myself in, but I am not there so how can I do it? That is interesting to me.
 
 ![installation-min.jpg](/uploads/installation-min.jpg)
 
 **AL: You obviously have a lot of art from thrift stores in this installation, do you feel like there is an element of nostalgia in it? what attracted you to landscapes that someone else made that were discarded? **
 
-**VP:** I have been thinking about this archetype of nature that we all have. What I am doing is buying up the collective experience of the collective projection of what nature is. I am particularly interested in that because of the question of what was motivation of moving to the forest in the middle of nowhere. It was probably influenced by a collective response to nature. These images are pervasive in all of us. We all have these ideas and representations of nature in the back of our mind, and it is sad that it looks nothing like this when you go out there, and I thought it would be. I thought I was going to find oneness in that landscape but I haven’t. I see more trash than I do here, I see remnants of industry, old mines, artifacts scattered throughout the forest, man-made objects. It is heartbreaking to see. I’m wrestling with this idea or vision of what I thought it would be and the reality of the situation I found myself in. This is part of why I started gravitating towards these artificial representations of what that life could be.  
+**VP:** I have been thinking about this archetype of nature that we all have. What I am doing is buying up the collective experience of the collective projection of what nature is. I am particularly interested in that because of the question, "What was motivation of moving to the forest in the middle of nowhere?" It was probably influenced by a collective response to nature. These images are pervasive in all of us. We all have these ideas and representations of nature in the back of our mind, and it is sad that it looks nothing like this when you go out there, and I thought it would be. I thought I was going to find oneness in that landscape but I haven’t. I see more trash than I do here, I see remnants of industry, old mines, artifacts scattered throughout the forest, man-made objects. It is heartbreaking to see. I’m wrestling with this idea or vision of what I thought it would be and the reality of the situation I found myself in. This is part of why I started gravitating towards these artificial representations of what that life could be.  
 
 ![vincent_pacheco_shelter2-min.jpg](/uploads/vincent_pacheco_shelter2-min.jpg)
 
@@ -86,7 +86,7 @@ The Shelter project was what I did last year, and I was really struggling with t
 
 **AL: Speaking of your work, I have a loaded question about it in different terms. How do you navigate the art world?**
 
-**VP:** It is a battle. I have been in a lot of shows, and I have been published in books and stuff. I did commercial art for fifteen years, I know how to make money doing art. I don’t find any joy in the process or motivation at all. I just don’t learn anything from it. I am not here in this program to have big shows someday. That does not interest me, because the end result is money and fame, and I know how to make money. I can go back to graphic design to make money. My artwork is going to be at home, at the studio, where I do my work. Maybe I’ll do residencies, maybe I’ll teach but as far as making a career out of this, it does not interest me because I don’t believe in careers anymore. But it is strange being here because they push us to what our place in the art world is, where we are going to take this. 
+**VP:** It is a battle. I have been in a lot of shows, and I have been published in books and stuff. I did commercial art for fifteen years, I know how to make money doing art. I don’t find any joy in the process or motivation at all. I just don’t learn anything from it. I am not here in this program to have big shows someday. That does not interest me, because the end result is money and fame, and I know how to make money. I can go back to graphic design to make money. My artwork is going to be at home, at the studio, where I do my work. Maybe I’ll do residencies, maybe I’ll teach but as far as making a career out of this, it does not interest me because I don’t believe in careers anymore. But it is strange being here because they push us to find what our place in the art world is, and where we are going to take this. 
 
 **AL: Do you think it is because the college’s branding?**
 
@@ -101,4 +101,5 @@ The Shelter project was what I did last year, and I was really struggling with t
 **VP:** It all comes down to stillness, being still in the environment, taking a moment, quieting the mind down. When I work at the studio there are like thirty people outside hustling in and out. Now that this is up, I am going to sit and see what happens. Will this teach me anything about myself? The landscape I live in? Our collective experience? These are the questions I’ll be looking for.
 
 **Find out more:**
-**Website:** http://www.vincentpacheco.com/
+
+**Vincent's Website:** http://www.vincentpacheco.com/
