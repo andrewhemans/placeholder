@@ -101,7 +101,7 @@ Yeah, and you know, sometimes it's still a dance with the egos of the privileged
 When I was at Squaw a couple of days ago, I came down this mountain, and I'm rippin' down it (I been skiing for 40 plus years, I mean I'm good) so there's the single's line, and I zip into it, and I'm going fast and there's no place where I can make a wedge or a hockey stop. I don't wanna bump into people, so I kinda pull off to the left and scoot four or five positions up, and it looks like I'm cutting the line. I'm really not, I'm just trying to stop without hitting anybody. And then I figure I'll just wait, and let the line pass me up. Well about four or five places back, there's this dude wearing a US Ski team shirt, yelling "Hey you can't cut the line! What are you doing?" I mean, if I cut the line that means he has to wait another five or 10 seconds before he can get on the lift. I said, "Look, I'll just stand here and let you guys go by," but he wouldn't shut up. He wouldn't stop complaining. And as he's complaining, the line is moving, and I just stand there. And when he got in front of me, I got behind him, and I was like "See? It's all good dude." And I'm thinking to myself, "All you've got in life to worry about is whether somebody cuts off 10 seconds of your life in a lift line of a major ski resort? Where do you come from, man?"
 
 ![2011-04-23 Squaw 037.jpg](/uploads/2011-04-23%20Squaw%20037.jpg)
-*Stockton-style chillin'.*
+*Edison kids, ready to shred*
 
 **The trustafarian attitude?**
 
@@ -112,7 +112,7 @@ The trustafarian attitude. They're trustafarians, god bless 'em. That's the kind
 We tell 'em, straight up. I explain to them what the trustafarian thing is all about. And they get it, because we've got like Saint Mary's High School out here. I say, "Look kids, just leave the ghetto at home, tell 'em what they want to hear, be nice, give em some game, and you get all this free stuff. Just don't be a knucklehead, and we'll hook you up!"
 
 ![2011-04-17 Sugar Bowl 038.jpg](/uploads/2011-04-17%20Sugar%20Bowl%20038.jpg)
-*Chillin', Stockton style*
+*Stockton-style chillin'*
 
 **And they're pretty cooperative?**
 
