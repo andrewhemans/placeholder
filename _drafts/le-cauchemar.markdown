@@ -8,7 +8,7 @@ tags:
 - Projection
 - Sleep Paralysis
 - Panic
-image: "/uploads/WesCover-min.jpg"
+image: "/uploads/Wescover2.jpg"
 author: Anonymous
 description: 'Disorientation, sleep-paralysis, astral projection and the screeching
   of Buer, the president of Hell. Just another day in downtown Chicago. '
