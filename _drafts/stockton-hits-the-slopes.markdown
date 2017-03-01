@@ -1,6 +1,6 @@
 ---
 title: Stockton Hits the Slopes with SkiDuck
-date: 2017-02-27 15:28:00 -08:00
+date: 2017-03-01 15:28:00 -08:00
 categories:
 - Culture
 tags:
@@ -10,11 +10,12 @@ tags:
 - Skiing
 - SHREDison
 - Stockton SkiBus
+- Classism
 image: "/uploads/2011-03-27%20Squaw%20Valley%20052.jpg"
 author: Alexandra Krueger
-description: While Placeholder gets the scoop on SkiDuck, the program that's taking
-  our kids to the snow for free, "Snow Claus" talks classism, snow-sports, and "the
-  trustafarian attitude."
+description: Placeholder gets the scoop on SkiDuck, the non-profit that's taking Stockton's
+  high schools kids to the snow for free. Meanwhile, "Snowy Claus" talks classism,
+  snow-sports, and "the trustafarian attitude."
 author-block: true
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
@@ -138,6 +139,7 @@ April 2, 9\*, 23\*
 **"Squaw Valley Express" SkiBuses with seats still available:**
 
 [March 19](https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-19-2017-10-deposit-tickets-32340692883)
+
 [March 26](https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-26-2017-10-deposit-tickets-32341026882)
 
 \*= No lessons
