@@ -122,15 +122,13 @@ They just totally get it. And they are totally cooperative. That's the best part
 ![2011-04-03 Shredison Sugar Bowl 007.jpg](/uploads/2011-04-03%20Shredison%20Sugar%20Bowl%20007.jpg)
 *SHREDison at Sugar Bowl*
 
-
 There’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real, he’s taken the honest approach, and from the sound of things, it works.
 
 This season, SkiDuck is be taking their high schoolers to Tahoe-Donner and Squaw Valley. On the dates of SkiDuck trips, Stockton SkiBus will be parked at Empresso Coffeehouse in the Empire theater on Miracle Mile. The bus is scheduled to depart at 5:45 AM, and to return the same day at 7:30 PM or later, depending on weather and traffic conditions.
 
 On those Sundays of Stockton SkiBus operation, Empresso Coffeehouse will open at 5 AM instead of their usual 6 AM opening time. Empresso stays open until at midnight, so when the bus returns, no one will have to wait on the street for their ride home. Please support their business!
 
-If you are interested in learning more about the Stockton SkiBus and SkiDuck, or would like to get involved, you can contact stocktonskibus\[at\]gmail [dot\]com, or www\[dot\]skiduck\[dot\] org.
-
+If you are interested in learning more about the Stockton SkiBus and SkiDuck, or would like to get involved, you can contact stocktonskibus\[at\]gmail \[dot\]com, or www\[dot\]skiduck\[dot\] org.
 
 **Dates of SkiDuck operation:**
 
@@ -138,16 +136,14 @@ March 5, 12, 19, 26
 
 April 2, 9\*, 23\*
 
-**"Squaw Valley Express" SkiBuses with seats still available:**
+**"Squaw Valley Express" SkiBus dates with seats available:**
 
-*[March 19]*(https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-19-2017-10-deposit-tickets-32340692883)
+*[March 19](https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-19-2017-10-deposit-tickets-32340692883)*
 
-*[March 26]*(https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-26-2017-10-deposit-tickets-32341026882)
+*[March 26](https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-26-2017-10-deposit-tickets-32341026882)*
 
 \*= No lessons
 
-*All photos originally appeared on the "SHREDison High"[ blog](http://shredisonhigh.blogspot.com).* 
-
-
+*All photos originally appeared on the "SHREDison High"[ blog](http://shredisonhigh.blogspot.com).*
 
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
