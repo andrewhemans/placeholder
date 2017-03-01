@@ -13,7 +13,7 @@ tags:
 image: "/uploads/Wescover3-min.jpg"
 author: Anonymous
 description: 'Astral projection, sleep paralysis, and the screeching of Buer, the
-  president of Hell. Just another day in downtown Chicago. He hadn''t even left his
+  president of Hell. Just another day in downtown Chicago. He hasn''t even left his
   house yet. '
 ---
 
