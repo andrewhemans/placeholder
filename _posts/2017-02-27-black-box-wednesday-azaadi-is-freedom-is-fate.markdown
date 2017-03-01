@@ -13,6 +13,9 @@ tags:
 - desi
 - identity
 - queer
+description: A mixed race, queer, desi artist, Kohinoorgasm's new music video is featured
+  for our Black Box Wednesday expands the dialogue around multidimensional identity-based
+  experiences
 ---
 
 <iframe src="https://player.vimeo.com/video/191591076" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -22,12 +25,12 @@ tags:
 
 **Find out more:**
 
-www.instagram.com/kohinoorgasm
-
+[www.instagram.com/kohinoorgasm
+](www.instagram.com/kohinoorgasm)
 soundcloud.com/kohinoorgasm
 
-kohinoorgasm.bandcamp.com
-
+[kohinoorgasm.bandcamp.com
+](kohinoorgasm.bandcamp.com)
 **Upcoming shows:**
 
 March 3, 2017 - Oakland.Secret, Oakland, CA
@@ -40,4 +43,4 @@ April 14, 2017 - Soft Space, Portland, OR
 
 **Black Box Wednesday** is our newest bi-weekly video feature showcasing artwork in the forms of Expanded Cinema, Video Performance, Short film, Music Video, and Video-Blog features of independent artists and filmmakers from California, curated by Aida Lizalde. Our third feature introduces the March theme or *Femme.*
 
-Tune in on March 15th for the new Black Box Wednesday!
+*Tune in on March 15th for the new Black Box Wednesday!*
