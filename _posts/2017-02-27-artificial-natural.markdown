@@ -54,7 +54,7 @@ In the beginning of February I had the pleasure of visiting Vincent Pacheco’s 
 
 ![installation-min.jpg](/uploads/installation-min.jpg)
 
-**AL: You obviously have a lot of art from thrift stores in this installation, do you feel like there is an element of nostalgia in it? what attracted you to landscapes that someone else made that were discarded? **
+**AL: You obviously have a lot of art from thrift stores in this installation, do you feel like there is an element of nostalgia in it? what attracted you to landscapes that someone else made that were discarded?**
 
 **VP:** I have been thinking about this archetype of nature that we all have. What I am doing is buying up the collective experience of the collective projection of what nature is. I am particularly interested in that because of the question, "What was motivation of moving to the forest in the middle of nowhere?" It was probably influenced by a collective response to nature. These images are pervasive in all of us. We all have these ideas and representations of nature in the back of our mind, and it is sad that it looks nothing like this when you go out there, and I thought it would be. I thought I was going to find oneness in that landscape but I haven’t. I see more trash than I do here, I see remnants of industry, old mines, artifacts scattered throughout the forest, man-made objects. It is heartbreaking to see. I’m wrestling with this idea or vision of what I thought it would be and the reality of the situation I found myself in. This is part of why I started gravitating towards these artificial representations of what that life could be.  
 
@@ -62,7 +62,7 @@ In the beginning of February I had the pleasure of visiting Vincent Pacheco’s 
 
 **AL: When I saw your show at Beatnik Studios last year, I saw some work related to performance, can you talk about that series in terms of media?**
 
-**VP:****** My media changes depending on where I am at. The guiding question of my work is “how does an understanding of place inform the mode of self?” And it takes everything I know to try to answer that question, whether it is collage or performance or sculpture or installation. 
+**VP:** My media changes depending on where I am at. The guiding question of my work is “how does an understanding of place inform the mode of self?” And it takes everything I know to try to answer that question, whether it is collage or performance or sculpture or installation. 
 
 The Shelter project was what I did last year, and I was really struggling with the pool of being physically removed from my home, coming here, trying to process that life. So I started building shelters in the forest with materials found in that specific area, and forcing myself to sleep overnight on the forest floor, to somehow reconnect with something that was slipping away by being forced to be on this commute every day. If I could sleep overnight on the forest floor, what would that teach me? Would I find a spiritual connection to the landscape?
 
@@ -74,7 +74,7 @@ The Shelter project was what I did last year, and I was really struggling with t
 
 ![vincent_pacheco_shelter-min.jpg](/uploads/vincent_pacheco_shelter-min.jpg)
 
-**AL: Do you think that your work connects to a sense of dystopia in those transitions between the natural and artificial? **
+**AL: Do you think that your work connects to a sense of dystopia in those transitions between the natural and artificial?**
 
 **VP:** I thought I was going to find utopia. It is interesting that my friends and the people of my generation have this desire to go back to the land, to grow our own food, to be sustainable, and to quit our jobs. Most of my friends have done that including me. I was a designer for fifteen years for corporate america, I was making a lot of money, but I was not growing spiritually at all. I had to quit and face myself, and I thought the answers were going to be in nature, but they are not. I realize a place, is a place, is a place. No matter where I am at I have to face myself, I am not going to find the answers in a location. It has been a hard fact to face. 
 
