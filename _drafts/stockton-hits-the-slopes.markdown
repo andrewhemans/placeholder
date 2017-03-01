@@ -129,7 +129,7 @@ This season, SkiDuck is be taking their high schoolers to Tahoe-Donner and Squaw
 
 On those Sundays of Stockton SkiBus operation, Empresso Coffeehouse will open at 5 AM instead of their usual 6 AM opening time. Empresso stays open until at midnight, so when the bus returns, no one will have to wait on the street for their ride home. Please support their business!
 
-If you are interested in learning more about the Stockton SkiBus and SkiDuck, or would like to get involved, you can contact stocktonskibus \[at\] gmail \[dot\] com, or www \[dot\] skiduck \[dot\] org.
+If you are interested in learning more about the Stockton SkiBus and SkiDuck, or would like to get involved, you can contact stocktonskibus\[at\]gmail [dot\]com, or www\[dot\]skiduck\[dot\] org.
 
 **Dates of SkiDuck operation:**
 
