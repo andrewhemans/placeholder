@@ -135,6 +135,7 @@ If you are interested in learning more about the Stockton SkiBus and SkiDuck, or
 **Dates of SkiDuck operation:**
 
 March 5, 12, 19, 26
+
 April 2, 9\*, 23\*
 
 **"Squaw Valley Express" SkiBuses with seats still available:**
