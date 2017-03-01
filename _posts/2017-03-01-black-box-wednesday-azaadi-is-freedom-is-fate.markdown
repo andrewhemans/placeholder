@@ -6,7 +6,6 @@ categories:
 tags:
 - Music
 - bay area
-- art
 - music video
 - desi
 - identity
