@@ -6,9 +6,9 @@ categories:
 tags:
 - video
 - dystopia
-- black box
 - Dakota Hill
 - experimental
+- black box wednesday
 image: "/uploads/cows2.png"
 author: Aida Lizalde
 description: 'Winner of Best Experimental Film at the Davis Film Festival 2016, “The
