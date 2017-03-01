@@ -131,3 +131,5 @@ April 2, 9*, 23*
 
 *= No lessons
 
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
