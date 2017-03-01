@@ -139,9 +139,9 @@ April 2, 9\*, 23\*
 
 **"Squaw Valley Express" SkiBuses with seats still available:**
 
-[March 19](https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-19-2017-10-deposit-tickets-32340692883)
+*[March 19]*(https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-19-2017-10-deposit-tickets-32340692883)
 
-[March 26](https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-26-2017-10-deposit-tickets-32341026882)
+*[March 26]*(https://www.eventbrite.com/e/squaw-valley-express-the-stockton-ski-bus-march-26-2017-10-deposit-tickets-32341026882)
 
 \*= No lessons
 
