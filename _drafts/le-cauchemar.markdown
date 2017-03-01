@@ -35,11 +35,11 @@ I was constantly doing those things anyway—sans rule number 2—even before th
 
 A few minutes (which felt like hours) later, the hallucinations dissolved, my consciousness re-cultivated inside my own head and I could move again. It must have been 100 degrees in that room. I laid there, content with not moving, staring at the eggshell ceiling where I had stapled a 4x5 cutout from Artaud’s play *To Have Done with the Judgment of God*:
 
->When you will have made him a body without organs, 
+**When you will have made him a body without organs, 
 
->then you will have delivered him from all his automatic reactions
+then you will have delivered him from all his automatic reactions
 
->and restored him to his true freedom.
+and restored him to his true freedom.**
 
 I sat up and slowly scanned the messy perimeter for my phone, tiny orbs of sweat forming on my brow. It was always a struggle to find anything there—I had a poor habit of tossing personal items, like my phone, for instance, on the floor amidst cans of coconut water, books creased beyond recognition, dead pens, random articles of clothing and piles of other random shit—but, to my surprise, the phone was resting right there next to me. I flipped over onto my chest and began scrolling through the virtual realm. I saw nothing, just shifting zones of self-reference, myriads of colors with varying intensities, lucid projections, profiles, scrolling text, tracings of the other. Without thinking, I threw my phone at the wall. Maybe I just wanted to watch it shatter. It didn’t. Somewhere deep inside I longed to shatter.
 
