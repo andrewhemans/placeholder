@@ -87,7 +87,7 @@ One of the best things about the program is, prior to this company—well, I'm g
 
 Nice people are nice, right? But they're kinda nice-Nazis. It's always at their convenience, and when they feel like it, but the thing is, when you're doing outreach, it really isn't about the outreach hitting at the benefactors convenience, it's about the beneficiary's need. So you have to operate on their schedule and with their needs. So a lot of what they'll do is they'll say "OK, we'll do all this nice stuff for ya, but, you gotta do it the way I say it." And then if \[the beneficiaries\] don't do it the way they're told to do it, well, then they're the assholes and they get cut off. Or they just get a taste of it. And there's this class culture clash that in years past has been really hard to get over in the world of snow sports.
 
-But that's the fantastic thing about SkiDuck: this program had a vision, and was able to push past one of the biggest trustafarian issues that annoyed me in the past. Mammoth Mountain has a great example of this—It opens its pricey doors for a weekend for Bishop youth, but for only one or two events. This gives the lower-class kids a "taste of champagne" and then, nothing, just cut off. Although I understand the resort is trying to do something positive, I believe they miss the point of outreach. When SkiDuck arrived on the scene, they literally blew this kind of glitch out of the water, in no small way. With the Duck, the fun goes on weekend after weekend after weekend!
+But that's the fantastic thing about SkiDuck: this program had a vision, and was able to push past one of the biggest trustafarian issues that annoyed me in the past. Mammoth Mountain has a great example of this—it opens its pricey doors for a weekend for Bishop youth, but for only one or two events. This gives the lower-class kids a "taste of champagne" and then, nothing, just cut off. Although I understand the resort is trying to do something positive, I believe they miss the point of outreach. When SkiDuck arrived on the scene, they literally blew this kind of glitch out of the water, in no small way. With the Duck, the fun goes on weekend after weekend after weekend!
 
 ![2011-03-27 Squaw Valley 052.jpg](/uploads/2011-03-27%20Squaw%20Valley%20052.jpg)
 *SHREDison High at Squaw Valley*
@@ -98,19 +98,21 @@ Yeah, and you know, sometimes it's still a dance with the egos of the privileged
 
 **Can you give an example?**
 
-When I was at Squaw a couple of days ago, I came down this mountain, and I'm rippin' down it (I been skiing for 40 plus years, I mean I'm good) so there's the single's line, and I zip into it, and I'm going fast and there's no place where I can make a wedge or a hockey stop, I don't wanna bump into people, so I kinda pull off to the left and scoot four or five positions up, and it looks like I'm cutting the line. I'm really not, I'm just trying to stop without hitting anybody. And then I figure I'll just wait, and let the line pass me up. Well about four or five places back, there's this dude wearing a US Ski team shirt, yelling "Hey you can't cut the line! What are you doing?" I mean, if I cut the line that means he has to wait another 5 or 10 second before he can get on the lift. I said, "Look, I'll just stand here and let you guys go by," but he wouldn't shut up. He wouldn't stop complaining. And as he's complaining, the line is moving, and I just stood there. And when he got in front of me, I got behind him, and I was like "See? It's all good dude." And I'm thinking to myself, "All you've got in life to worry about is whether somebody cuts off 10 seconds of your life in a lift line of a major ski resort? Where do you come from, man?"
+When I was at Squaw a couple of days ago, I came down this mountain, and I'm rippin' down it (I been skiing for 40 plus years, I mean I'm good) so there's the single's line, and I zip into it, and I'm going fast and there's no place where I can make a wedge or a hockey stop. I don't wanna bump into people, so I kinda pull off to the left and scoot four or five positions up, and it looks like I'm cutting the line. I'm really not, I'm just trying to stop without hitting anybody. And then I figure I'll just wait, and let the line pass me up. Well about four or five places back, there's this dude wearing a US Ski team shirt, yelling "Hey you can't cut the line! What are you doing?" I mean, if I cut the line that means he has to wait another five or 10 seconds before he can get on the lift. I said, "Look, I'll just stand here and let you guys go by," but he wouldn't shut up. He wouldn't stop complaining. And as he's complaining, the line is moving, and I just stand there. And when he got in front of me, I got behind him, and I was like "See? It's all good dude." And I'm thinking to myself, "All you've got in life to worry about is whether somebody cuts off 10 seconds of your life in a lift line of a major ski resort? Where do you come from, man?"
 
 ![2011-04-23 Squaw 037.jpg](/uploads/2011-04-23%20Squaw%20037.jpg)
+*Stockton-style chillin'.*
 
-The trustafarian attitude?
+**The trustafarian attitude?**
 
-The trustafarian attitude. They're trustafarians, god bless 'em. That's the kind of political flavor of dealing with the clash of cultures. That being said, the whole idea of SkiDuck was figured out by someone from privilege! This program gives the kids something to look forward to and a reason to "fly straight" so they can continue to be involved in it; it was an affluent individual who figured this out.
+The trustafarian attitude. They're trustafarians, god bless 'em. That's the kind of political flavor of dealing with the clash of cultures. That being said, the whole idea of SkiDuck was figured out by someone from privilege. This program gives the kids something to look forward to and a reason to "fly straight" so they can continue to be involved in it, and it was an affluent individual who figured this out.
 
-**How do the kids deal with the class clash?**
+**How do the kids deal with the culture clash?**
 
-We tell 'em, straight up. I explain to them what the trustafarian thing is all about. And they get it, because we've got like Saint Mary's High School out here. I say, look kids, just leave the ghetto at home, tell 'em what they want to hear, be nice, give em some game, and you get all this free stuff. Just don't be a knucklehead, and we'll hook you up!
+We tell 'em, straight up. I explain to them what the trustafarian thing is all about. And they get it, because we've got like Saint Mary's High School out here. I say, "Look kids, just leave the ghetto at home, tell 'em what they want to hear, be nice, give em some game, and you get all this free stuff. Just don't be a knucklehead, and we'll hook you up!"
 
 ![2011-04-17 Sugar Bowl 038.jpg](/uploads/2011-04-17%20Sugar%20Bowl%20038.jpg)
+*Chillin', Stockton style*
 
 **And they're pretty cooperative?**
 
@@ -119,14 +121,14 @@ They just totally get it. And they are totally cooperative. That's the best part
 ![2011-04-03 Shredison Sugar Bowl 007.jpg](/uploads/2011-04-03%20Shredison%20Sugar%20Bowl%20007.jpg)
 *SHREDison at Sugar Bowl*
 
-There’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real he’s taking the honest approach, and from the looks of things, it works.
 
-If you are interested in learning more about the Stockton SkiBus and SkiDuck, or would like to get involved, you can contact stocktonskibus \[at\] gmail \[dot\] com, or www \[dot\] skiduck \[dot\] org.
+There’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real, he’s taken the honest approach, and from the looks of things, it works.
 
 This year, SkiDuck will be taking their high schoolers to Tahoe-Donner and Squaw Valley. On the dates of SkiDuck trips, Stockton SkiBus will be parked at Empresso Coffeehouse in the Empire theater on Miracle Mile. The fare is $40. The bus is scheduled to depart at 5:45 AM, and to return the same day at 7:30 PM or later, depending on weather and traffic conditions.
 
 On those Sundays of operation, Empresso Coffeehouse will open at 5 AM instead of their usual 6 AM opening time. Empresso stays open until at midnight, so when the bus returns, no one will have to wait on the street for their ride home. Please support their business!
 
+If you are interested in learning more about the Stockton SkiBus and SkiDuck, or would like to get involved, you can contact stocktonskibus \[at\] gmail \[dot\] com, or www \[dot\] skiduck \[dot\] org.
 *Dates of SkiDuck operation:*
 
 March 5, 12, 19, 26
