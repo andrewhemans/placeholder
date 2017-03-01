@@ -131,6 +131,7 @@ On those Sundays of Stockton SkiBus operation, Empresso Coffeehouse will open at
 
 If you are interested in learning more about the Stockton SkiBus and SkiDuck, or would like to get involved, you can contact stocktonskibus\[at\]gmail [dot\]com, or www\[dot\]skiduck\[dot\] org.
 
+
 **Dates of SkiDuck operation:**
 
 March 5, 12, 19, 26
@@ -144,6 +145,8 @@ April 2, 9\*, 23\*
 
 \*= No lessons
 
-*All photos originally appeared on the "SHREDison High"[ blog](http://shredisonhigh.blogspot.com)." 
+*All photos originally appeared on the "SHREDison High"[ blog](http://shredisonhigh.blogspot.com).* 
+
+
 
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
