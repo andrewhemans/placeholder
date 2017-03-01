@@ -12,9 +12,9 @@ tags:
 - Out of Body Experience
 image: "/uploads/Wescover3-min.jpg"
 author: Anonymous
-description: 'Astral projection, disorientation, sleep paralysis and the screeching
-  of Buer, the president of Hell. Just another day in downtown Chicago. He hadn''t
-  even left his house. '
+description: 'Astral projection, sleep paralysis, and the screeching of Buer, the
+  president of Hell. Just another day in downtown Chicago. He hadn''t even left his
+  house yet. '
 ---
 
 I awoke in drum-tight skin. My room, brimming with soft morning light, was in disarray. Most of my possessions sat in piles between my desk and bed, a few long sheets of carpenter’s paper thumbtacked to the wall acted as decoration. Scattered across them were ink drawings, sentences I had read, phone numbers, undecipherable reminders.
