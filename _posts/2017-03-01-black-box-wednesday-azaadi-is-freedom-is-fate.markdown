@@ -13,6 +13,7 @@ tags:
 - queer
 - black box wednesday
 - kohinoorgasm
+image: "/uploads/Kohinoorgasm-min.png"
 description: A mixed race, queer, desi artist, Kohinoorgasm's new music video is featured
   for our Black Box Wednesday expands the dialogue around multidimensional identity-based
   experiences
