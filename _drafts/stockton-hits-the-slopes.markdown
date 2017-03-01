@@ -122,7 +122,7 @@ They just totally get it. And they are totally cooperative. That's the best part
 *SHREDison at Sugar Bowl*
 
 
-There’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real, he’s taken the honest approach, and from the looks of things, it works.
+There’s something to be said about the pragmatism of Snowy Claus. Rather than pretending that these classist undertones aren’t real, he’s taken the honest approach, and from the sound of things, it works.
 
 This year, SkiDuck will be taking their high schoolers to Tahoe-Donner and Squaw Valley. On the dates of SkiDuck trips, Stockton SkiBus will be parked at Empresso Coffeehouse in the Empire theater on Miracle Mile. The fare is $40. The bus is scheduled to depart at 5:45 AM, and to return the same day at 7:30 PM or later, depending on weather and traffic conditions.
 
