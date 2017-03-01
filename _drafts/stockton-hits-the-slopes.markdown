@@ -9,6 +9,7 @@ tags:
 - Snowboarding
 - Skiing
 - SHREDison
+- Stockton SkiBus
 image: "/uploads/2011-03-27%20Squaw%20Valley%20052.jpg"
 author: Alexandra Krueger
 author-block: true
