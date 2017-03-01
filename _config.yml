@@ -1,5 +1,5 @@
 ---
-title: Placeholder!
+title: Placeholder Magazine
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -27,7 +27,9 @@ defaults:
     image: ''
     layout: page
 email: andrewhemans@gmail.com
-description: 
+description: Placeholder Magazine is a fiercely independent critical voice covering
+  contemporary arts, culture, and literature. We are a Central Valley-based not-for-profit
+  arts organization led entirely by volunteers.
 baseurl: 
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
