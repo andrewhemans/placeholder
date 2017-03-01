@@ -144,4 +144,6 @@ April 2, 9\*, 23\*
 
 \*= No lessons
 
+*All photos originally appeared on the "SHREDison High"[ blog](http://shredisonhigh.blogspot.com)." 
+
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
