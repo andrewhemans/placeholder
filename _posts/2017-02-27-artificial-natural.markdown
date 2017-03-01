@@ -23,7 +23,7 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
   of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
-In the beginning of February I had the pleasure of visiting Vincent Pacheco’s studio right before the Masters of Fine Arts 2nd year students had their faculty review. I was surprised to encounter a site specific installation that took over his whole studio, instead of the expected desk, artwork, tools, books, and scattered reference photos and materials usual to an art practice space. Vincent Pacheco was soft spoken and chill, although the whole Annex [UC Davis graduate studios building] was hectic and busy with students, some museum staff visitors, and faculty. Vincent’s insight into his practice was extremely compelling and relevant to the recent “back to nature” idealism of millennials. Vincent and I sat down on the ground of his installation by his faux fire pit and had the following conversation:  
+In the beginning of February, I had the pleasure of visiting Vincent Pacheco’s studio right before the Masters of Fine Arts 2nd year students had their faculty review. I was surprised to encounter a site-specific installation that took over his whole studio, instead of the expected desk, artwork, tools, books, and scattered reference photos and materials usual to an art practice space. Vincent Pacheco was soft spoken and chill, although the whole Annex [UC Davis graduate studios building] was hectic and busy with students, some museum staff visitors, and faculty. Vincent’s insight into his practice was extremely compelling and relevant to the recent “back to nature” idealism of millennials. Vincent and I sat down on the ground of his installation by his faux fire pit and had the following conversation:  
 
 **AL: Can you talk a little about where you come from?**
 
@@ -31,6 +31,7 @@ In the beginning of February I had the pleasure of visiting Vincent Pacheco’s 
 
 
 ![installation2-min.jpg](/uploads/installation2-min.jpg)
+
 
 **AL: How would you describe the content of your current work?**
 
@@ -56,13 +57,13 @@ In the beginning of February I had the pleasure of visiting Vincent Pacheco’s 
 
 **AL: You obviously have a lot of art from thrift stores in this installation, do you feel like there is an element of nostalgia in it? what attracted you to landscapes that someone else made that were discarded?**
 
-**VP:** I have been thinking about this archetype of nature that we all have. What I am doing is buying up the collective experience of the collective projection of what nature is. I am particularly interested in that because of the question, "What was motivation of moving to the forest in the middle of nowhere?" It was probably influenced by a collective response to nature. These images are pervasive in all of us. We all have these ideas and representations of nature in the back of our mind, and it is sad that it looks nothing like this when you go out there, and I thought it would be. I thought I was going to find oneness in that landscape but I haven’t. I see more trash than I do here, I see remnants of industry, old mines, artifacts scattered throughout the forest, man-made objects. It is heartbreaking to see. I’m wrestling with this idea or vision of what I thought it would be and the reality of the situation I found myself in. This is part of why I started gravitating towards these artificial representations of what that life could be.  
+**VP:** I have been thinking about this archetype of nature that we all have. What I am doing is buying up the collective experience of the collective projection of what nature is. I am particularly interested in that because of the question, "What was the motivation of moving to the forest in the middle of nowhere?" It was probably influenced by a collective response to nature. These images are pervasive in all of us. We all have these ideas and representations of nature in the back of our mind, and it is sad that it looks nothing like this when you go out there, and I thought it would be. I thought I was going to find oneness in that landscape but I haven’t. I see more trash than I do here, I see remnants of industry, old mines, artifacts scattered throughout the forest, man-made objects. It is heartbreaking to see. I’m wrestling with this idea or vision of what I thought it would be and the reality of the situation I found myself in. This is part of why I started gravitating towards these artificial representations of what that life could be.  
 
 ![vincent_pacheco_shelter2-min.jpg](/uploads/vincent_pacheco_shelter2-min.jpg)
 
 **AL: When I saw your show at Beatnik Studios last year, I saw some work related to performance, can you talk about that series in terms of media?**
 
-**VP:** My media changes depending on where I am at. The guiding question of my work is “how does an understanding of place inform the mode of self?” And it takes everything I know to try to answer that question, whether it is collage or performance or sculpture or installation. 
+**VP:** My media changes depending on where I am at. The guiding question of my work is “How does an understanding of place inform the mode of self?” And it takes everything I know to try to answer that question, whether it is collage or performance or sculpture or installation. 
 
 The Shelter project was what I did last year, and I was really struggling with the pool of being physically removed from my home, coming here, trying to process that life. So I started building shelters in the forest with materials found in that specific area, and forcing myself to sleep overnight on the forest floor, to somehow reconnect with something that was slipping away by being forced to be on this commute every day. If I could sleep overnight on the forest floor, what would that teach me? Would I find a spiritual connection to the landscape?
 
@@ -70,7 +71,7 @@ The Shelter project was what I did last year, and I was really struggling with t
 
 **AL: [On a previous email] You said that you also stayed the night at Beatnik Studios gallery and that that was the worst night of your life. Could you talk about why and how that compared to staying in the forest?**
 
-**VP:** Every night that I stayed at every shelter was the worse night of my life. I stayed in my first shelter and I got bit by a tick, and I got lyme disease from that. I thought it was going to be this beautiful moment where I was going to transcend, but it wasn’t like that. I got attacked. The whole night I was scared because I could hear footsteps in the forest, it was frightening. The beatnik show was challenging because how do you take a spiritual kind of experience and translate it into the galley? The shelters were a tool for learning and a tool for development, how do I put a price tag on it? That was more challenging but the worse part was trying to fall asleep in that space. I was sleeping on a cement floor, it was cold, and at three am I had just gone to sleep and the janitor came in, the lights went on, and I did not know what to do. It was just like being in out the wild. If you hear a bear, what do you do? Do you make a loud noise to announce your presence? Do you stay perfectly quiet and try to hide? If I made a loud noise I could get hit with a broomstick, the police would get called, it is the same thing. It was a great learning experience, because there was no separation between the natural and the artificial.  
+**VP:** Every night that I stayed at every shelter was the worse night of my life. I stayed in my first shelter and I got bit by a tick, and I got Lyme disease from that. I thought it was going to be this beautiful moment where I was going to transcend, but it wasn’t like that. I got attacked. The whole night I was scared because I could hear footsteps in the forest, it was frightening. The Beatnik show was challenging because how do you take a spiritual kind of experience and translate it into the galley? The shelters were a tool for learning and a tool for development, how do I put a price tag on it? That was more challenging but the worse part was trying to fall asleep in that space. I was sleeping on a cement floor, it was cold, and at three am I had just gone to sleep and the janitor came in, the lights went on, and I did not know what to do. It was just like being in out the wild. If you hear a bear, what do you do? Do you make a loud noise to announce your presence? Do you stay perfectly quiet and try to hide? If I made a loud noise I could get hit with a broomstick, the police would get called, it is the same thing. It was a great learning experience, because there was no separation between the natural and the artificial.  
 
 ![vincent_pacheco_shelter-min.jpg](/uploads/vincent_pacheco_shelter-min.jpg)
 
@@ -80,7 +81,7 @@ The Shelter project was what I did last year, and I was really struggling with t
 
 **AL: Has it helped at all to live out there? Are there good parts about living in the forest?**
 
-**VP:** Well it is beautiful and I do see bear and deer, and when I am out there I can feel the energy of the forest, as strange as that sounds, I can tap into it. There is a wavelength. I am noticing migration patterns, and I am calming down a lot. I think the biggest thing that I have learned from I guess being tragically disappointed from this location, because it is not utopia is that I can’t run from myself. I have been moving around up and down the west coast trying to find something, and I got there, to my final spot and it is not, I don’t know, it is not as monumental of an experience as I thought it would be. But it is all up to me to figure out my shit. It is up to me, I can’t depend on a place, or situation, or variables to come together. At the end of the day I have to do my own work. 
+**VP:** Well it is beautiful and I do see bears and deers, and when I am out there I can feel the energy of the forest, as strange as that sounds, I can tap into it. There is a wavelength. I am noticing migration patterns, and I am calming down a lot. I think the biggest thing that I have learned from it, I guess being tragically disappointed from this location, because it is not utopia is that I can’t run from myself. I have been moving around up and down the west coast trying to find something, and I got there, to my final spot and it is not, I don’t know, it is not as monumental of an experience as I thought it would be. But it is all up to me to figure out my shit. It is up to me, I can’t depend on a place, or situation, or variables to come together. At the end of the day I have to do my own work. 
 
 ![vincent_pacheco_shelter1-min.jpg](/uploads/vincent_pacheco_shelter1-min.jpg)
 
@@ -102,4 +103,4 @@ The Shelter project was what I did last year, and I was really struggling with t
 
 **Find out more:**
 
-**Vincent's Website:** http://www.vincentpacheco.com/
+**Vincent's Website:** [http://www.vincentpacheco.com/](http://www.vincentpacheco.com/)
