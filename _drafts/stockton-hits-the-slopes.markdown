@@ -12,15 +12,22 @@ tags:
 - Stockton SkiBus
 image: "/uploads/2011-03-27%20Squaw%20Valley%20052.jpg"
 author: Alexandra Krueger
+description: While Placeholder gets the scoop on SkiDuck, the program that's taking
+  our kids to the snow for free, "Snow Claus" talks classism, snow-sports, and "the
+  trustafarian attitude."
 author-block: true
 author-image: "/uploads/Allie.jpg"
+author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
+  Placeholder Magazine. She grew up in both Stockton and Linden, California, and is
+  currently attending UC Santa Cruz where she is working toward her Bachelor''s in
+  Creative Writing. Allie loves coffee, journaling, and the em-dash. '
 ---
 
 Let's face it: 2016 has disrupted everyone's zen, and 2017 forecasts aren't looking much better. 
 
 Years before the dawn of this new era that many would deem dystopian, our little town of Stockton was known as "[most miserable.](https://www.forbes.com/2011/02/02/stockton-miami-cleveland-business-washington-miserable-cities.html)" But, perhaps we Stocktonians are the lucky ones; we've developed all the character and pragmatism necessary to deal with it. “Misery” is no longer a threatening word. We've learned how to work the system, and how to make the system work for us. While the rest of the world struggles to regain their grip on reality, we're molding the clay of it, creating our own.
 
-It is this pragmatic, been-around-the-block attitude that I encountered when I sat down to interview a local Stocktonian who informed me he is sometimes known as "Snowy Claus". He's the man behind Stockton SkiBus, a program forged by the idea that a system that caters to the privileged could be made to benefit those who aren't. 
+It is this pragmatic, been-around-the-block attitude that I encountered when I sat down to interview a local Stocktonian who informed me that, in the program, he's sometimes known as "Snowy Claus". He's the man behind Stockton SkiBus, a program forged by the idea that a system that caters to the privileged could be made to benefit those who aren't. 
 
 Essentially, Stockton Skibus shuttles kids from high schools within the Stockton Unified School District (SUSD) who are involved with the SkiDuck program, and takes them up one of the major ski resorts for a day on the slopes. The program gives teens inexpensive access to a sport that would normally cost a lot of money to participate in. In the past, SkiDuck has taken Stockton kids to Sugarbowl, Kirkwood, Tahoe Donner, Sierra-at-Tahoe, and Squaw Valley.
 ![2011-04-23 Squaw 045.jpg](/uploads/2011-04-23%20Squaw%20045.jpg)

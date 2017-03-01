@@ -10,6 +10,7 @@ tags:
 - poetry
 - bay area
 - video
+- black box wednesday
 image: "/uploads/wizard.jpg"
 author: Aida Lizalde
 description: 'Wizard Apprentice''s "Almost Live: Ep. 4-I am Invisible" is Black Box
