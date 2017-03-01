@@ -9,6 +9,8 @@ tags:
 - Sleep Paralysis
 - Panic
 author: Anonymous
+description: 'Disorientation, sleep-paralysis, astral projection and the screeching
+  of Buer, the president of Hell. Just another day in downtown Chicago. '
 ---
 
 I awoke in drum-tight skin. My room, brimming with soft morning light, was in disarray. Most of my possessions sat in piles between my desk and bed, a few long sheets of carpenter’s paper thumbtacked to the wall acted as decoration. Scattered across them were ink drawings, sentences I had read, phone numbers, undecipherable reminders.
