@@ -31,9 +31,9 @@ I found a list of Three Helpful Things to Do When You Start to Panic Because You
 
 I was constantly doing those things anyway—sans rule number 2—even before the episodes of disembodiment.
 
-A few minutes (which felt like hours) later, the hallucinations dissolved, my consciousness re-cultivated inside my own head and I could move again. It must have been 100 degrees in that room. I laid there, content with not moving, staring at the eggshell ceiling where I had stapled a 4x5 cutout from Artaud’s play *To Have Done with the Judgment of God*:
+A few minutes (which felt like hours) later, the hallucinations dissolved, my consciousness re-cultivated inside my own head and I could move again. It must have been 100 degrees in that room. I laid there, content with not moving, staring at the eggshell ceiling where I had stapled a 4x5 cutout from Artaud’s play *To Have Done with the Judgment of God:*
 
-**When you will have made him a body without organs, **
+**When you will have made him a body without organs,**
 
 **then you will have delivered him from all his automatic reactions**
 
