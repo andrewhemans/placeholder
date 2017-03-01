@@ -58,4 +58,5 @@ My selves became a host of floating bodies. This was not a shattering into littl
 ![Wes1-min.jpg](/uploads/Wes1-min.jpg)
 
 
-*Note
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
