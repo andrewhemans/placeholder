@@ -1,13 +1,33 @@
 ---
 title: A Word with Giulio Cetto
 date: 2014-10-14 17:29:00 -07:00
+categories:
+- Culture
+tags:
+- Music
+- Giulio Cetto
+- Jazz
+- Brubeck
+- Stockton
+- Interview
 image: "/uploads/bassguitar.jpg"
 author: Ryan Camero
-author-block: false
+description: 'Jazz is a playground, and Guilio Cetto''s Monday night jazz jams have
+  inspired many musicians to join in on the fun. Cetto shares his thoughts on his
+  favorite genre. '
+author-block: true
+author-image: "/uploads/Ryan.jpg"
+author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
+  in the transformative powers of visual storytelling, cross-cultural understanding,
+  and inter-generational communication in achieving social justice. As a coalition-builder
+  across many groups, Ryan works primarily with Restore the Delta, the statewide California
+  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
+  He currently is based out of Stockton doing work on the statewide and national level
+  and was awarded the national Brower Youth Award in 2015.
 layout: post
 ---
 
-It’s the spark of drumsticks alive in their rhythm, the casual flick of bass and guitar strings and the mellow wail of a saxophone that catches the attention of the crowd on a Monday night. The space is dim, spotlight shining front and center on-stage as the band proceeds to its next number, a fervent cover of Antonio Carlos Jobim’s ‘Corcovado’ that strips all silence from the room. It’s a magical piece, but only one of the many the group performs on their scheduled nights at the Take Five Jazz Club. The experience of seeing the energy here, as well as in these devoted performers, is a welcome happening and a source of great times in Stockton, California.
+It’s the spark of drumsticks alive in their rhythm, the casual flick of bass and guitar strings and the mellow wail of a saxophone that catches the attention of the crowd on a Monday night. The space is dim, spotlight shining front and center on-stage as the band proceeds to its next number, a fervent cover of Antonio Carlos Jobim’s ‘Corcovado’ that strips all silence from the room. It’s a magical piece, but only one of the many the group performs on their scheduled nights at the Take Five Jazz Club. The experience of seeing the energy here, as well as in these devoted performers, is a welcome event and a source of great times in Stockton, California.
 
 Giulio Cetto, a stand-up acoustic and electric bass player, is the one to thank. At twenty-four years old, Giulio’s passion for jazz have revived in him his own passion for the genre. This resulted in his contribution to an emergence of the culture in Stockton for the last five years, he organized a weekly night for his band to improvise, practice, and entertain as a free event for the community. Regulars include Mike Quigg on drums, Rick Russell on sax and Arlen Anderson on guitar. On some nights, Cetto even offers rising musicians in the audience to come up and play a number or two. His dedication to hosting and carrying out these events have allowed for the development of a winding-down ritual on Mondays for those who want to smooth out their week with jazz.
 

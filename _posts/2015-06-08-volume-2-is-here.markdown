@@ -1,12 +1,26 @@
 ---
 title: Volume Two Is Here!
 date: 2015-06-07 22:50:00 -07:00
+categories:
+- Culture
+tags:
+- Volueme Two
+- Publishing
+- non-profit
+- magazine
+- Stockton
 image: "/uploads/vol21.jpg"
 author: Javier Padilla Reyes
+description: A recap of the hurdles of publishing an independent magazine. From problems
+  securing funding and contributions, to existential questions about life, we overcame
+  all.
+author-block: true
+author-image: "/uploads/Javier.jpg"
+author-bio: 'My name is Javier Padilla and I''m a Geographer. I grew up in Stockton,
+  CA and currently work on Environmental Justice and Land-Use issues at the San Francisco
+  Public Utilities Commission. On my free time I''m the Executive Director of Placeholder
+  Magazine or I''m cycling or climbing somewhere, unless it''s raining. '
 layout: post
-author-image: 
-author-bio: 
-author-block: false
 ---
 
 Sure, we did take a long time, in fact, about a year and five months, but we finally will be releasing the second volume of [Placeholder Magazine](http://placeholdermagazine.com). We had a lot of struggles, from securing funding, last minute contributors, internal struggles, figuring out the meaning of life, our magazine, and everything as well as discovering that Murphy’s Law really does work.
