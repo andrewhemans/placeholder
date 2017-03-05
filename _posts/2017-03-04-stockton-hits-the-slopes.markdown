@@ -1,6 +1,6 @@
 ---
 title: Stockton Hits the Slopes with SkiDuck
-date: 2017-03-01 15:28:00 -08:00
+date: 2017-03-04 15:28:00 -08:00
 categories:
 - Culture
 tags:
