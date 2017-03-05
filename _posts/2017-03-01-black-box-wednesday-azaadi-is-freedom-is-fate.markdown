@@ -37,7 +37,7 @@ March 3, 2017 - Oakland.Secret, Oakland, CA
 
 March 11, 2017 - Culture Collection, Sacramento, CA
 
-March 19, 2017 - SXSW, Austin, TX
+March 18, 2017 - SXSW, Austin, TX
 
 April 14, 2017 - Soft Space, Portland, OR
 
