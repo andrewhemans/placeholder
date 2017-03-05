@@ -8,7 +8,7 @@ tags:
 - Art
 - Photography
 - femme
-image: "/uploads/jessandaudrey-min.jpg"
+image: "/uploads/arden-min.jpg"
 author: Aida Lizalde
 description: 'In this photographic series titled *Forage*, artist Jake Harrison cultivates
   discourse on sexuality, race, and representation, by juxtaposing xerox of floral
@@ -33,7 +33,7 @@ In response to the alienation I’ve felt in my sexuality, race, and age my work
 
 ![jess-min.jpg](/uploads/jess-min.jpg)
 
-![arden-min.jpg](/uploads/arden-min.jpg)
+![jessandaudrey-min.jpg](/uploads/jessandaudrey-min.jpg)
 
 **Jake Harrison** is an American visual and performance artist from Los Angeles, California. At the age of 20 he creative directed his first musical: Peter Pan.
 
