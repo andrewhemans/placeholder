@@ -1,0 +1,32 @@
+---
+title: Forage
+date: 2017-03-04 20:22:00 -08:00
+image: "/uploads/jessandaudrey-min.jpg"
+---
+
+In response to the alienation I’ve felt in my sexuality, race, and age my work revolves around the idea of representation. Conceptually, proper representation is gained through connecting with a subject on aspects that are deeper than surface-level evaluations. What’s even more tricky is being able to relay the gained knowledge, with the same depth, to other individuals or future subjects. In recent works, I’ve used photography as a means to communicate, nonverbally, with the world around me. Photographs themselves are nonverbal. They are contextual clues into a distinctive perspective- one that is different than our own. With photographing subjects, I’ve learned a lot about myself; I’ve began to separate- knowing what I am and what I am not. Inherently, I’ve began to think of art as separation in that we frame the narrative by including, removing, and refining. I’ve found that the latter is most important because in refinement we reach a better understanding of not only ourselves but all that we consume. I wish to cultivate a discourse about preconceived notions of persons and place.
+
+![jess2-min.jpg](/uploads/jess2-min.jpg)
+
+![josh-min.jpg](/uploads/josh-min.jpg)
+
+![hannah-min.jpg](/uploads/hannah-min.jpg)
+
+![russell-min.jpg](/uploads/russell-min.jpg)
+
+![jess-min.jpg](/uploads/jess-min.jpg)
+
+![arden-min.jpg](/uploads/arden-min.jpg)
+
+**Jake Harrison** is an American visual and performance artist from Los Angeles, California. At the age of 20 he creative directed his first musical: Peter Pan.
+
+His medium is inconstant but remains steadfast in his love of writing: dreams, poems, doodles which eventually become larger works in various media. He is currently double majoring in art studio and design at the University of California, Davis.
+
+In the end, he longs for a life full of completed dreams, minimalist sculpture, beautiful poetry, and sad songs.
+
+**Find out more:**
+
+**Website:** http://cargocollective.com/jakeharrison 
+
+**Instagram:** https://www.instagram.com/jaakeharrison/
+
