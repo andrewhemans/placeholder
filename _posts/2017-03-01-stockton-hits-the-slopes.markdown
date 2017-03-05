@@ -30,7 +30,7 @@ Years before the dawn of this new era that many would deem dystopian, our little
 
 It is this pragmatic, been-around-the-block attitude that I encountered when I sat down to interview a Stocktonian who informed me that, in the snow-sports world, they know him as "Snowy Claus." He's the man behind Stockton SkiBus, the transportation system that collaborates with SkiDuck. Together, they are the embodiment of an idea: that a system catered to the privileged can be made to benefit those who aren't.
 
-Essentially, Stockton Skibus shuttles kids from high schools within the Stockton Unified School District (SUSD) who are involved with the SkiDuck program, and takes them up one of the major ski resorts for a day on the slopes. The program gives teens inexpensive access to a sport that would normally cost an arm and a leg to participate in. In the past, SkiDuck has taken Stockton's youth to Sugarbowl, Kirkwood, Tahoe Donner, Sierra-at-Tahoe, and Squaw Valley.
+Essentially, Stockton Skibus shuttles kids from high schools within the Stockton Unified School District (SUSD) who are involved with the [SkiDuck program](http://www.skiduck.org/), and takes them up one of the major ski resorts for a day on the slopes. The program gives teens inexpensive access to a sport that would normally cost an arm and a leg to participate in. In the past, SkiDuck has taken Stockton's youth to Sugarbowl, Kirkwood, Tahoe Donner, Sierra-at-Tahoe, and Squaw Valley.
 
 ![2011-04-23 Squaw 045.jpg](/uploads/2011-04-23%20Squaw%20045.jpg)
 *SkiDuck crew gets together in Squaw Valley*
