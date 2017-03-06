@@ -10,9 +10,8 @@ tags:
 - femme
 image: "/uploads/arden-min.jpg"
 author: Aida Lizalde
-description: 'In this photographic series titled *Forage*, artist Jake Harrison cultivates
-  discourse on sexuality, race, and representation, by juxtaposing xerox of floral
-  specimens with sensual figurative subjects.   '
+description: 'Artist Jake Harrison cultivates discourse on sexuality, race, and representation,
+  by juxtaposing xerox of floral specimens with sensual figurative subjects.   '
 author-block: true
 author-image: "/uploads/Aida.jpg"
 author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
