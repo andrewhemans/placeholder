@@ -8,6 +8,7 @@ tags:
 - Art
 - Photography
 - femme
+- nature
 image: "/uploads/arden-min.jpg"
 author: Aida Lizalde
 description: 'Artist Jake Harrison cultivates discourse on sexuality, race, and representation,
