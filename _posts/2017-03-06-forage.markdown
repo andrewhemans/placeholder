@@ -1,5 +1,5 @@
 ---
-title: Forage
+title: "[NSFW] Forage"
 date: 2017-03-06 10:53:00 -08:00
 categories:
 - art
@@ -8,6 +8,9 @@ tags:
 - Art
 - Photography
 - femme
+- nature
+- featured
+- nsfw
 image: "/uploads/arden-min.jpg"
 author: Aida Lizalde
 description: 'Artist Jake Harrison cultivates discourse on sexuality, race, and representation,
@@ -34,7 +37,7 @@ In response to the alienation I’ve felt in my sexuality, race, and age my work
 
 ![jessandaudrey-min.jpg](/uploads/jessandaudrey-min.jpg)
 
-**Jake Harrison** is an American visual and performance artist from Los Angeles, California. At the age of 20 he creative directed his first musical: Peter Pan.
+**Jake Harrison** is an American visual and performance artist from Los Angeles, California. At the age of 20 he was the Creative Director of his first musical: Peter Pan.
 
 His medium is inconstant but remains steadfast in his love of writing: dreams, poems, doodles which eventually become larger works in various media. He is currently double majoring in art studio and design at the University of California, Davis.
 
@@ -42,7 +45,7 @@ In the end, he longs for a life full of completed dreams, minimalist sculpture, 
 
 **Find out more:**
 
-**Website:** http://cargocollective.com/jakeharrison 
+**Website:** [http://cargocollective.com/jakeharrison ](http://cargocollective.com/jakeharrison)
 
-**Instagram:** https://www.instagram.com/jaakeharrison/
+**Instagram:** [https://www.instagram.com/jaakeharrison/](https://www.instagram.com/jaakeharrison/)
 
