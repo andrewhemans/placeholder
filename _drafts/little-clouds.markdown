@@ -17,8 +17,7 @@ image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
 author: Alexandra Krueger
 description: Failing friendships, marriages and relationships. Idealism versus Pessimism.
   Submitting to loveless, yet stable marriages, or abandoning them for rocky relationships
-  of passion and lust, yet constant heartbreak. Feeling sorry for yourself and no
-  one else.
+  of passion and lust, yet constant heartbreak.
 author-block: true
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
@@ -67,6 +66,6 @@ Penny’d persevere, for a while. She’s an idealist. She’d make it through t
 	
 She still wouldn’t have the balls to make it to the pistol scene, with the vineyard, the clouds or trembling O. She’d leave him before the kids graduated, before anyone thought to buy the gun.
 
-*Images by Alan Jackson*
+*Cover image by Alan Jackson*
 
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
