@@ -67,6 +67,6 @@ Penny’d persevere, for a while. She’s an idealist. She’d make it through t
 	
 She still wouldn’t have the balls to make it to the pistol scene, with the vineyard, the clouds or trembling O. She’d leave him before the kids graduated, before anyone thought to buy the gun.
 
-*Cover image by Alan Jackson*
+*Images by Alan Jackson*
 
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
