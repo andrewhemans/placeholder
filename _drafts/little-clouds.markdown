@@ -7,12 +7,12 @@ tags:
 - Fiction
 - Femme
 - Submission
-- Salvaging Relationship
-- Failing Marriage
-- Deflating Friendship
 - Insecurity
 - Passion
 - Idealism
+- Relationship
+- Marriage
+- Friendship
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
 author: Alexandra Krueger
 description: Failing friendships, marriages and relationships. Idealism versus Pessimism.
