@@ -2,15 +2,23 @@
 title: Little Clouds
 date: 2017-03-07 15:02:00 -08:00
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
+author: Al
+author-block: true
 ---
 
 “I’m weak and pathetic,” Penny said. “I went back to the apartment yesterday and tried to get Jack to reconsider us.” 
+
 Hands hovering over the keyboard of my computer, my first instinct was to tell her that she wasn’t. It was what a good best friend would say.
-	But she was.
-	I said, “You’re not weak and pathetic. You’re heartbroken.” 
-	Which is basically the same thing. 
-	Penelope’s a curvy brunette with lips the color of summer roses. When she laughs, it’s a full bodied bell being rung over the sound of an Italian wedding. When she smiles, you can hardly see her green eyes over the shine of her teeth, her lips drawn back over them in perfect symmetry, like a burgundy curtain parting over a stage of pearl. When she cries, it’s a soft rush of a sink with bad water pressure. Huffing and puffing and sputtering.
-	I hate when she cries. I used to not mind it; I thrive off of helping people with their problems, and crying is just part of the gig. But now—three years, four cheats, and six break-ups-with-the-same-boyfriend-later—I suffer through it. 
+
+But she was.
+
+I said, “You’re not weak and pathetic. You’re heartbroken.” 
+	
+Which is basically the same thing. 
+	
+Penelope’s a curvy brunette with lips the color of summer roses. When she laughs, it’s a full bodied bell being rung over the sound of an Italian wedding. When she smiles, you can hardly see her green eyes over the shine of her teeth, her lips drawn back over them in perfect symmetry, like a burgundy curtain parting over a stage of pearl. When she cries, it’s a soft rush of a sink with bad water pressure. Huffing and puffing and sputtering.
+	
+I hate when she cries. I used to not mind it; I thrive off of helping people with their problems, and crying is just part of the gig. But now—three years, four cheats, and six break-ups-with-the-same-boyfriend-later—I suffer through it. 
 	It’s a sad day when you stop feeling sorry for your friends. It’s also the day when you stop being friends. Maybe not officially, but that’s where the invisible line is drawn. Somehow, all your care for a person’s problems is tied to the core of your friendship, and when the former flutters out the window, the latter follows.
 	I suppose I’d set a record for how long I’d been able to keep this friendship of ours airborne, despite the fact that it’d been a long time since I’d given a shit. In this metaphor, I was still standing on the sidewalk, neck bent back, face pinched in the sunlight, blowing air against the underbelly of Penny’s Friendship through pursed lips, numb and quivering. Half blind from the sun, I’d see the silhouette of the thing, the deflating balloon, and I’d forget to wonder why I was still doing this, mainly focused on the pain of each individual ray of sunlight like a new dagger in my corneas. Occasionally a cloud might pass over, giving me some respite—it’d be then that I’d remember, stretch my mouth in a few wide O’s, and purse them again to blow like the big, bad, friendly wolf. Why, indeed.
 	I’d be great at failing marriages. By “great” I mean I wouldn’t leave in the middle to go start up another one—I’d be a regular Catholic with how I’d persevere through the bad sex, the silent dinners, the hateful taste of vinegar on the salads that his mother would insist on bringing us every time she wanted to comment on the state of my kitchen. I’m sure I’d stick it out all the way to the bitter end, when he’d finally limp himself into the middle of the old vineyard with a scuffed pistol in his hand. I’d be out back, feeding the chickens, and it’d be something stupid, like the way that Henrietta’s clucking would be more cluck-y than usual, and I’d find myself wobbling out into the vineyard and see him standing there, still deciding. He’d turn to me, his eyes like sad little clouds hovering over his mouth, a trembling O as he’d try to explain. He wouldn’t have to explain. 
