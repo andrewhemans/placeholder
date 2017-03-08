@@ -4,12 +4,8 @@ date: 2017-03-07 15:02:00 -08:00
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
 ---
 
-Little Clouds
-By 
-Alexandra Krueger
-
-	“I’m weak and pathetic,” Penny said. “I went back to the apartment yesterday and tried to get Jack to reconsider us.” 
-	Hands hovering over the keyboard of my computer, my first instinct was to tell her that she wasn’t. It was what a good best friend would say.
+“I’m weak and pathetic,” Penny said. “I went back to the apartment yesterday and tried to get Jack to reconsider us.” 
+Hands hovering over the keyboard of my computer, my first instinct was to tell her that she wasn’t. It was what a good best friend would say.
 	But she was.
 	I said, “You’re not weak and pathetic. You’re heartbroken.” 
 	Which is basically the same thing. 
