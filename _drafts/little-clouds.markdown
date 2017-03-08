@@ -55,4 +55,6 @@ She still wouldn’t have the balls to make it to the pistol scene, with the vin
 
 [Cloud-Covering-Sun-min.JPG](/uploads/Cloud-Covering-Sun-min.JPG)
 
+*Cover image by Alan Jackson*
+
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
