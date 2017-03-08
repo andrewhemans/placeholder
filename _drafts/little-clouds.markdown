@@ -5,9 +5,12 @@ categories:
 - Literature
 tags:
 - Fiction
-- femme
+- Femme
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
 author: Alexandra Krueger
+description: 'Failing friendships, marriages and relationships. Idealism versus Pessimism.
+  Submitting to loveless marriages or pursuing an affair of tumultuous passion and
+  heartbreak. '
 author-block: true
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
