@@ -15,9 +15,10 @@ tags:
 - Idealism
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
 author: Alexandra Krueger
-description: 'Failing friendships, marriages and relationships. Idealism versus Pessimism.
+description: Failing friendships, marriages and relationships. Idealism versus Pessimism.
   Submitting to loveless, yet stable marriages, or abandoning them for rocky relationships
-  of passion and lust, yet constant heartbreak.  '
+  of passion and lust, yet constant heartbreak. Feeling sorry for yourself and no
+  one else.
 author-block: true
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
