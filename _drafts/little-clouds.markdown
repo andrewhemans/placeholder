@@ -1,6 +1,10 @@
 ---
 title: Little Clouds
 date: 2017-03-07 15:02:00 -08:00
+categories:
+- Literature
+tags:
+- Fiction
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
 author: Alexandra Krueger
 author-block: true
