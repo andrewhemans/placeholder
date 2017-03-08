@@ -2,8 +2,13 @@
 title: Little Clouds
 date: 2017-03-07 15:02:00 -08:00
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
-author: Al
+author: Alexandra Krueger
 author-block: true
+author-image: "/uploads/Allie.jpg"
+author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
+  Placeholder Magazine. She grew up in both Stockton and Linden, California, and is
+  currently attending UC Santa Cruz where she is working toward her Bachelor''s in
+  Creative Writing. Allie loves coffee, journaling, and the em-dash. '
 ---
 
 “I’m weak and pathetic,” Penny said. “I went back to the apartment yesterday and tried to get Jack to reconsider us.” 
