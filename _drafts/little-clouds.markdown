@@ -6,14 +6,18 @@ categories:
 tags:
 - Fiction
 - Femme
-- Marriage
 - Submission
 - Salvaging Relationship
+- Failing Marriage
+- Deflating Friendship
+- Insecurity
+- Passion
+- Idealism
 image: "/uploads/Cloud-Black-and-White-min-3a0cae.JPG"
 author: Alexandra Krueger
 description: 'Failing friendships, marriages and relationships. Idealism versus Pessimism.
-  Submitting to loveless marriages or pursuing an affair of tumultuous passion and
-  heartbreak. '
+  Submitting to loveless, yet stable marriages, or abandoning them for rocky relationships
+  of passion and lust, yet constant heartbreak.  '
 author-block: true
 author-image: "/uploads/Allie.jpg"
 author-bio: 'Alexandra (Allie) is a Contributor, Editor and Content Coordinator for
