@@ -36,8 +36,10 @@ My brother is a graphic designer, and he’s been pretty helpful with text and c
 
 **Find out more:**
 
-**Soundcloud:** [https://soundcloud.com/blushraid209](https://soundcloud.com/blushraid209)
-**Bandcamp:** [https://blushraid.bandcamp.com/releases](https://blushraid.bandcamp.com/releases)
+**Soundcloud:** https://soundcloud.com/blushraid209
 
-**Kristen's artwork:** [http://kristenbarredo-blog.tumblr.com/](http://kristenbarredo-blog.tumblr.com/)
-**Nico's artwork:** [https://www.instagram.com/nicophotos/](https://www.instagram.com/nicophotos/)
+**Bandcamp:** https://blushraid.bandcamp.com/releases
+
+**Kristen's artwork:** http://kristenbarredo-blog.tumblr.com/
+
+**Nico's artwork:** https://www.instagram.com/nicophotos/
