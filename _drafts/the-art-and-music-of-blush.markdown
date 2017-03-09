@@ -1,6 +1,13 @@
 ---
 title: Blush
 date: 2017-03-11 10:00:00 -08:00
+categories:
+- Art
+- music
+tags:
+- Music
+- Artist Spaces
+- femme
 image: "/uploads/unnamed-min.jpg"
 author: Aida Lizalde
 ---
@@ -29,8 +36,8 @@ My brother is a graphic designer, and he’s been pretty helpful with text and c
 
 **Find out more:**
 
-**Soundcloud:** https://soundcloud.com/blushraid209
-**Bandcamp:** https://blushraid.bandcamp.com/releases
+**Soundcloud:** [https://soundcloud.com/blushraid209](https://soundcloud.com/blushraid209)
+**Bandcamp:** [https://blushraid.bandcamp.com/releases](https://blushraid.bandcamp.com/releases)
 
-**Kristen's artwork:** http://kristenbarredo-blog.tumblr.com/
-**Nico's artwork:** https://www.instagram.com/nicophotos/
+**Kristen's artwork:** [http://kristenbarredo-blog.tumblr.com/](http://kristenbarredo-blog.tumblr.com/)
+**Nico's artwork:** [https://www.instagram.com/nicophotos/](https://www.instagram.com/nicophotos/)
