@@ -5,7 +5,7 @@ image: "/uploads/unnamed-min.jpg"
 author: Aida Lizalde
 ---
 
-Blush is a funk, and pop duo formed in Sacramento CA. The band consists of music producer and keyboardist Jaycob Greenlee, and vocalist Kristen Barredo. Our music has been described as “ a dive-y nightclub “, or “Aliyah meets Washed Out" [by Javier Padilla]. We are both are heavily influenced by the soothing tunes of Sade, we want people to dance to good beats and heart wrenching lyrics. We just released our first mix tape this year and looking into playing more local shows. [Link below for booking]
+Blush is a funk, and pop duo formed in Sacramento CA. The band consists of music producer and keyboardist Jaycob Greenlee, and vocalist Kristen Barredo. Our music has been described as “a dive-y nightclub," or “Aliyah meets Washed Out" [by Javier Padilla]. We are both are heavily influenced by the soothing tunes of Sade, we want people to dance to good beats and heart wrenching lyrics. We just released our first mix tape this year and looking into playing more local shows. [Link below for booking]
 
 ![blush 3.1-min.jpeg](/uploads/blush%203.1-min.jpeg)
 
@@ -17,6 +17,8 @@ I really wanted to emulate movement into my illustrations.  I liked the idea of 
 
 ![unnamed-min.jpg](/uploads/unnamed-min.jpg)
  
+**Find out more:**
+
 Soundcloud link https://soundcloud.com/blushraid209
 Bandcamp link https://blushraid.bandcamp.com/releases
 
