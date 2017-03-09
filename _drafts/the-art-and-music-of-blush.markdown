@@ -12,7 +12,7 @@ image: "/uploads/unnamed-min.jpg"
 author: Aida Lizalde
 ---
 
-**Curator's Note:** I’ve been admiring Kristen’s artwork from afar for a few years since meeting her in Stockton back in 2009-ish. We both eventually ended up moving Sacramento, and I was really excited to see her again in the Sac scene. I was pleasantly surprised when I heard she had a band that dropped this new beautiful album and made all the visuals for it. Her drawings are dreamy, sensual, and retro. This girl can draw like no other, has an incredible sense of style, AND she can sing. Dance away in the name of all Femmes this March with her band’s tunes.  
+**Curator's Note:** I’ve been admiring Kristen’s artwork from afar for a few years since meeting her in Stockton back in 2009-ish. We both eventually ended up moving Sacramento, and I was really excited to see her again in the Sac scene. I was pleasantly surprised when I heard she had a band that dropped this new beautiful album and made all the visuals for it. Her drawings are dreamy, sensual, and retro. This girl can draw like no other, has an incredible sense of style, AND she can sing. Dance the winter away with this three tunes from *Blush.*   
 
 ![blush 3.1-min.jpeg](/uploads/blush%203.1-min.jpeg)
 
