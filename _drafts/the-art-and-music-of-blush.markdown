@@ -1,6 +1,6 @@
 ---
 title: Blush
-date: 2017-03-08 13:01:00 -08:00
+date: 2017-03-11 10:00:00 -08:00
 image: "/uploads/unnamed-min.jpg"
 author: Aida Lizalde
 ---
