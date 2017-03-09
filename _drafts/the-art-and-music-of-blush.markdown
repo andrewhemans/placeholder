@@ -29,8 +29,8 @@ My brother is a graphic designer, and he’s been pretty helpful with text and c
 
 **Find out more:**
 
-Soundcloud link https://soundcloud.com/blushraid209
-Bandcamp link https://blushraid.bandcamp.com/releases
+**Soundcloud:** https://soundcloud.com/blushraid209
+**Bandcamp:** https://blushraid.bandcamp.com/releases
 
-Kristen artwork link - http://kristenbarredo-blog.tumblr.com/
-Nico artwork link. - https://www.instagram.com/nicophotos/
+**Kristen's artwork:** http://kristenbarredo-blog.tumblr.com/
+**Nico's artwork:** https://www.instagram.com/nicophotos/
