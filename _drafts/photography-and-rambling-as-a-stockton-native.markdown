@@ -27,39 +27,55 @@ He didn’t realize it yet, but his selling hockey game tickets to people was no
 #3
 Slow Conversation
 2014
+![3-min.jpg](/uploads/3-min.jpg)
+
 In 2014, my crew was sent out to Chiricahua National Monument in S.E. Arizona to repair some historic Civilian Conservation Corps stone retaining walls blown out by a flood. We worked long days, racked up the overtime and generally enjoyed ourselves being away from home. One day after work, rather than hiking back to the truck, I decided I’d do the 12 mile hike home on the south side of the monument. It wound through a maze of hoodoos and eventually took me to a plateau containing this. ’Couldn’t help but sit and listen to the slow conversations the wind, rocks and stones carried on with each other and tried to capture it to share.
 
 #4
 Sunrise with Sam on Mt. Shasta
 2015
+![4-min.jpg](/uploads/4-min.jpg)
+
 Sam is a backcountry ranger at Kings Canyon National Park; that’s how we know each other. In 2015 we found ourselves as roommates, working for an outdoor ed. program at Whiskeytown National Monument. At some point, we decided to climb Mt. Shasta. We woke up at 1 am in order to summit at sunrise. I struggled to keep up with him and to not look like I wasn’t struggling to do so as we made the ascent. I used up a whole roll of film fromin a disposable camera in about five minutes, trying to catch an indication of what it felt like to be on that mountain as the sun came up. Not sure if I succeeded, but I did get this great shot of Sam. 
 
 #5
 Dana, Turtles, and a Ring of Light 
 2012
+![5-min.jpg](/uploads/5-min.jpg)
+
 In 2012, I moved to Cherokee, North Carolina to work my first job for the Park Service at Great Smoky Mountain National Park. I met Dana at an employee picnic over in Gatlinburg. She smiled at me, and her long brown hair made me awkward, and eventually, she got a phone number out of me. July 4th , over drinks, I told her I’d hike from Clingmans Dome to Abrams Creek where she worked, which is about 40 miles in a day, if it would impress her. She told me I was drunk. The next morning at 7 am I started the walk. 15 hours later at 10 pm, I stumbled into her cabin at Abrams Creek. “You are an idiot,” she smiled at me. The next day on the way to her place in Pigeon Forge, we were swerving around the curves of a one lane mountain road when she stopped abruptly. She got out and said “Look!”
 
 #6
 Babes at a Show in Downtown Stockton
 2014
+![6-min.jpg](/uploads/6-min.jpg)
+
 I have played in bands since I was fifteen or so, mostly around the Stockton and Sacramento areas. One of the most important reasons my friends and I ever got into playing music was to impress girls. I was at a friend’s band’s show downtown and ’couldn’t help but be reminded of that fact when I snapped this photo.
 
 #7
 Somewhere in New Jersey
 2015
+![7-min.jpg](/uploads/7-min.jpg)
+
 In 2015, we walked along the New Jersey shoreline, amongst broken boats and deflated balloons trapped in beachside vegetation. The whole world looked like a flat plane until you hit the rise of the New York skyscrapers in the distance. “I don’t know if I’ll ever make it there,” she said, sad to be back home in New Jersey.
 
 #8
 Kauai Beach Man Holding onto Hat
 2015
+![8-min.jpg](/uploads/8-min.jpg)
+
 There’s nothing more ridiculous than a man chasing his own hat when the wind takes it off his head. This man tries hard not to look ridiculous amidst a chaotic paradise scene.
 
 #9
 Coming Down from East Lake
 2016
-We were asked to ride up to Eeast Llake to cut out some trees down on the trail and pick up some old garbage and carry it out on mule-back. Randolph and I spent the night before arguing, and then about 10 hours of the next day riding, talking about books, old punk bands from New York, ladies, and songs we were going to write. About midway through the first day, I realized I liked the guy.
+![9-min.jpg](/uploads/9-min.jpg)
+
+We were asked to ride up to East Lake to cut out some trees down on the trail and pick up some old garbage and carry it out on mule-back. Randolph and I spent the night before arguing, and then about 10 hours of the next day riding, talking about books, old punk bands from New York, ladies, and songs we were going to write. About midway through the first day, I realized I liked the guy.
 
 #10
 Afro Pick Abandoned at the Park Behind S-mart, Stockton
 2010
+![10-min-05d128.jpg](/uploads/10-min-05d128.jpg)
+
 After a particularly rowdy St. Patrick’s day in Stockton, I was walking home through Lucky Park on Pacific. At the moment, it made enough sense to me to snap a photo. Nowadays, it doesn’t make much sense to me, but I just like the photo. 
