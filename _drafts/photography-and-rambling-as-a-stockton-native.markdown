@@ -13,7 +13,6 @@ Any of these photos are available for sale as prints, e-mail me at heycedric@gma
 #1
 NPS Trail Crew Scouts Burnt-Out Trail in Early Season 
 2016
-
 ![1-min.jpg](/uploads/1-min.jpg)
 
 In 2015, the Rough Fire tore through 151,623 acres of Sierra National Forest, Kings Canyon National Park and Fresno County. The smoke from it created its own type of cloud called a pyrocumulus and could be seen from over 20 miles away. In the early spring of 2016, I was told to scout out some trails in Kings Canyon that the fire had burnt over. It was a cold day with thick cloud cover. At about 2:30 pm it started snowing on me, and I couldn’t resist capturing a photo of the dead forest and the lonesome job of maintaining trails through it.
@@ -21,6 +20,8 @@ In 2015, the Rough Fire tore through 151,623 acres of Sierra National Forest, Ki
 #2
 Conversation over Drinks in Stockton Basement
 2014
+![2-min-289a1f.jpg](/uploads/2-min-289a1f.jpg)
+
 He didn’t realize it yet, but his selling hockey game tickets to people was not his ultimate calling in life, and with a pretty lady’s smile over whiskey, things were starting to make sense anyways.
 
 #3
