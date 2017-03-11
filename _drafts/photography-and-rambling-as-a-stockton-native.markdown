@@ -1,6 +1,7 @@
 ---
 title: Photography and Rambling as a Stockton Native
 date: 2017-03-11 11:41:00 -08:00
+image: "/uploads/4-min.jpg"
 author: Cedric Cunningham
 author-block: true
 author-bio: Cedric Cunningham
