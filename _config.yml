@@ -1,7 +1,6 @@
 ---
 title: Placeholder!
 timezone: America/Los_Angeles
-snipcart_api_key: 'YjE0ZDQ3ZWMtZDJlNi00MDk0LWJmNGYtOTk2NTEyMzkyNTBhNjM2MjAxMjI3ODUxNTM1MzQw'
 collections:
   posts:
     title: Posts
@@ -39,9 +38,10 @@ defaults:
   values:
     image: ''
     layout: page
+snipcart_api_key: YjE0ZDQ3ZWMtZDJlNi00MDk0LWJmNGYtOTk2NTEyMzkyNTBhNjM2MjAxMjI3ODUxNTM1MzQw
 email: placeholdermag@gmail.com
-description:
-baseurl:
+description: 
+baseurl: 
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
