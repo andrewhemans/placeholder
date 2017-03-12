@@ -189,10 +189,19 @@ transform: translateY(-50%);
 
 .top-bar-right{
   position: absolute;
-top: 50%;
-transform: translateY(-50%);
-right: 0%;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 0%;
+	padding: 0 1rem;
+	}
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+	.top-bar-right{
+		padding: 0 1.5rem;
+		}
+
 }
+
 
 .menu-logo {
   padding-right: 16px;
