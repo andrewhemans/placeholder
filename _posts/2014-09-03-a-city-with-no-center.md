@@ -34,8 +34,7 @@ I was in the last semester of college on the opposite side of the country, enrol
 
 It is rare to meet someone on the East Coast who knows much about Stockton. It’s becoming more common now—between our Forbes infamy and our dubious distinction of being the largest American city to have ever filed for bankruptcy, thorough readers of the New York Times National section have by now read our city’s name. For other Easterners, basic knowledge of NorCal geography does not extend further than San Francisco (occasionally Sacramento). After a few years of achieving little headway after explaining my origins, I took to identifying Stockton as a place mentioned in The Grapes of Wrath. (I think Steinbeck isn’t assigned as much in high school anymore.)
 
-> The reactions are different when meeting another Californian.
-“You’re from Stockton? I think I drove through there once. Yeah… my sister played at a soccer tournament in Stockton when I was, like, six. Our car windows were smashed in.”
+>“You’re from Stockton? I think I drove through there once. Yeah… my sister played at a soccer tournament in Stockton when I was, like, six. Our car windows were smashed in.”
 
 For the past 30 years, our city has been an integral waypoint on both Interstate 5 and Highway 99, the main paths between the northern and southern parts of California. Within a state that is defined by its car culture, this strategic location has brought many benefits (mostly economic); Stockton’s inland port remains busy despite the flagging economy, and our county’s agricultural products easily find their way into supermarkets around the world. It also means that, if you’re one of the 38 million residents of California (or one of the 25 million annual passengers on I-5), chances are good that you will have to drive through Stockton at one point or another.
 

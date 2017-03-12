@@ -2,7 +2,7 @@
 title: Le Cauchemar
 date: 2017-02-28 16:44:00 -08:00
 categories:
-- Fiction
+- Literature
 tags:
 - Fiction
 - Projection

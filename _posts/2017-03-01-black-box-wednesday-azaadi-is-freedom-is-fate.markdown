@@ -25,19 +25,19 @@ description: A mixed race, queer, desi artist, Kohinoorgasm's new music video is
 
 **Find out more:**
 
-[www.instagram.com/kohinoorgasm
-](www.instagram.com/kohinoorgasm)
+www.instagram.com/kohinoorgasm
+
 soundcloud.com/kohinoorgasm
 
-[kohinoorgasm.bandcamp.com
-](kohinoorgasm.bandcamp.com)
+kohinoorgasm.bandcamp.com
+
 **Upcoming shows:**
 
 March 3, 2017 - Oakland.Secret, Oakland, CA
 
 March 11, 2017 - Culture Collection, Sacramento, CA
 
-March 19, 2017 - SXSW, Austin, TX
+March 18, 2017 - SXSW, Austin, TX
 
 April 14, 2017 - Soft Space, Portland, OR
 

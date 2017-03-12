@@ -1,6 +1,6 @@
 ---
 title: Stockton Hits the Slopes with SkiDuck
-date: 2017-03-01 15:28:00 -08:00
+date: 2017-03-04 15:28:00 -08:00
 categories:
 - Culture
 tags:
@@ -30,7 +30,7 @@ Years before the dawn of this new era that many would deem dystopian, our little
 
 It is this pragmatic, been-around-the-block attitude that I encountered when I sat down to interview a Stocktonian who informed me that, in the snow-sports world, they know him as "Snowy Claus." He's the man behind Stockton SkiBus, the transportation system that collaborates with SkiDuck. Together, they are the embodiment of an idea: that a system catered to the privileged can be made to benefit those who aren't.
 
-Essentially, Stockton Skibus shuttles kids from high schools within the Stockton Unified School District (SUSD) who are involved with the SkiDuck program, and takes them up one of the major ski resorts for a day on the slopes. The program gives teens inexpensive access to a sport that would normally cost an arm and a leg to participate in. In the past, SkiDuck has taken Stockton's youth to Sugarbowl, Kirkwood, Tahoe Donner, Sierra-at-Tahoe, and Squaw Valley.
+Essentially, Stockton Skibus shuttles kids from high schools within the Stockton Unified School District (SUSD) who are involved with the [SkiDuck program](http://www.skiduck.org/), and takes them up one of the major ski resorts for a day on the slopes. The program gives teens inexpensive access to a sport that would normally cost an arm and a leg to participate in. In the past, SkiDuck has taken Stockton's youth to Sugarbowl, Kirkwood, Tahoe Donner, Sierra-at-Tahoe, and Squaw Valley.
 
 ![2011-04-23 Squaw 045.jpg](/uploads/2011-04-23%20Squaw%20045.jpg)
 *SkiDuck crew gets together in Squaw Valley*
@@ -54,7 +54,7 @@ Well, there's two scenarios: they go up and they get a lesson package, the use o
 
 **So you guys comp all their equipment?**
 
-Everything is comped. In addition, we loan or give them articles of clothing specialized for the snow. It's pretty amazing; a day pass alone to Squaw Valley would normally be somewhere around $220. Add on the normal price of snow clothes, and it'd be double.
+Everything is comped. In addition, we loan or give them articles of clothing specialized for the snow. It's pretty amazing; a day pass on-demand alone to Squaw Valley would normally be  a $159, and the rental would be $59. Add on the normal price of snow clothes, and it'd be double. 
 
 **And is this just mainly based in Stockton?**
 
@@ -73,14 +73,14 @@ I would say that one of the teachers, Sam Jones, is the snow sports club mentor 
 
 **Really? So the kids love it.**
 
-It's mind-bendingly good. I mean, it really is. First of all, on so many levels, it just transforms... And a lot of people are more involved in it, including the Peacekeepers, gang outreach, ya know, and it has to do with my original work with the founder Mr. Big Duck that you saw... When he just started, it was him, me, and a few other people. Now, though, the credit really goes to the various teachers who act as team leaders at the campuses, and to the other insiders acting in concert to keep the magic alive.
+It's mind-bendingly good. I mean, it really is. First of all, on so many levels, it just transforms... And a lot of people are more involved in it, including [the Peacekeepers](http://www.stocktongov.com/government/departments/police/famPeace.html), gang outreach, ya know, and it has to do with my original work with the founder Mr. Big Duck that you saw... When he just started, it was him, me, and a few other people. Now, though, the credit really goes to the various teachers who act as team leaders at the campuses, and to the other insiders acting in concert to keep the magic alive.
 
 And \[the kids\] get to see a world where you know, they don't have to worry about everything, everybody's nice, they love the sport—the sport is so addicting—there's actually a technical, medical reason why snow sports are addicting, it's something I could explain to you. It's technical.
 
 ![2011-04-17 Sugar Bowl 042.jpg](/uploads/2011-04-17%20Sugar%20Bowl%20042.jpg)
 *Shredding the gnar at Sugar Bowl*
 
-Anyway, they get to see a world that's not “ghetto,” and it gives them something to work for, to be a good student for, it helps the teachers manage behavioral issues in the classroom because if they're bad we bounce them out (laughs). We've never actually had to actually bounce a kid out, though. They know that in order for things to go smooth, they have to be smooth. It really is a great program, they give these kids VIP treatment.
+Anyway, they get to see a world that's not “ghetto,” and it gives them something to work for, to be a good student for, it helps the teachers manage behavioral issues in the classroom because if they're bad we bounce them out (laughs). They know that in order for things to go smooth, they have to be smooth. It really is a great program, they give these kids VIP treatment.
 
 One of the best things about the program is, prior to this company—well, I'm gonna talk: you've got money, you're German, you go to Santa Cruz—you've seen money-people before. I call 'em "trustafarians." See, here's the problem with this, and I'm gonna be insulting, almost...
 
