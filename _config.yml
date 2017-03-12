@@ -1,9 +1,13 @@
 ---
-title: Placeholder Magazine
+title: Placeholder!
 timezone: America/Los_Angeles
+snipcart_api_key: 'YjE0ZDQ3ZWMtZDJlNi00MDk0LWJmNGYtOTk2NTEyMzkyNTBhNjM2MjAxMjI3ODUxNTM1MzQw'
 collections:
   posts:
     title: Posts
+    output: true
+  products:
+    title: Products
     output: true
   uploads:
     title: Uploads
@@ -22,15 +26,22 @@ defaults:
     author-bio: ''
 - scope:
     path: ''
+    type: products
+  values:
+    layout: store
+    permalink: "/store/:title/"
+    name: ''
+    price: 0.0
+    image: ''
+- scope:
+    path: ''
     type: pages
   values:
     image: ''
     layout: page
-email: andrewhemans@gmail.com
-description: Placeholder Magazine is a fiercely independent critical voice covering
-  contemporary arts, culture, and literature. We are a Central Valley-based not-for-profit
-  arts organization led entirely by volunteers.
-baseurl: 
+email: placeholdermag@gmail.com
+description:
+baseurl:
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans

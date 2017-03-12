@@ -1,0 +1,43 @@
+---
+layout: about
+---
+
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+
+<body>
+  <header class="site-header">
+
+    <div class="intro-container">
+      <div class="intro-logo">
+        <img src="/images/logo-white.svg" />
+      </div>
+      <div class="feature">
+        <div class="feature-title">
+          <p>{{ page.title }}</p>
+        </div>
+        <div class="feature-blurb">
+          <a href="#page"><p>&#8595</p></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="parallax-background-post" id="1" style="background-image: url({{ page.image }});">
+    </div>
+
+  </header>
+  <div class="mainbody" id="page">
+    {% include menu.html %}
+    <div class="row">
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </div>
+  {% include footer.html %}
+  </div>
+</body>
+
+</html>
