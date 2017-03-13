@@ -1,5 +1,5 @@
 ---
-title: Photography & Rambling as a Stockton Native
+title: Backpacking from the Sierras to Stockton
 date: 2017-03-13 11:41:00 -07:00
 categories:
 - Culture
