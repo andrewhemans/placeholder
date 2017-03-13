@@ -1,5 +1,5 @@
 ---
-title: Placeholder!
+title: Placeholder Magazine
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -40,7 +40,9 @@ defaults:
     layout: page
 snipcart_api_key: YjE0ZDQ3ZWMtZDJlNi00MDk0LWJmNGYtOTk2NTEyMzkyNTBhNjM2MjAxMjI3ODUxNTM1MzQw
 email: placeholdermag@gmail.com
-description: 
+description: A fiercely independent critical voice covering contemporary arts, culture
+  and literature magazine featuring emerging creatives with featured articles, blogs,
+  video, and more.
 baseurl: 
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
