@@ -10,6 +10,7 @@ tags:
 - Change
 - Environment
 - Camero
+- protests
 image: "/uploads/climatejustice_joellukhovi.jpg"
 author: Ryan Camero
 description: 'Pt. 2 of activist Ryan Camero''s adventures in protecting the San Joaquin
@@ -26,7 +27,7 @@ author-bio: Ryan Camero is an arts activist and community organizer who believes
   and was awarded the national Brower Youth Award in 2015.
 ---
 
-*This post originally appeared both on the SustainUS and California Student Sustainability Coalition's blogs, and is the second installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [3](www.placeholdermag.com/2016/01/19/the-leap-manifesto-cop21.html), and [4](www.placeholdermag.com/culture/2016/06/02/harmonizing-the-peoples-voice.html) here.*
+*This post originally appeared both on the SustainUS and California Student Sustainability Coalition's blogs, and is the second installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](http://www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [3](http://www.placeholdermag.com/culture/2016/01/19/the-leap-manifesto-cop21.html), and [4](http://www.placeholdermag.com/culture/2016/06/02/harmonizing-the-peoples-voice.html) here.*
 
 PARIS – I came to Paris representing the [California Student Sustainability Coalition](http://www.sustainabilitycoalition.org/), in this rare and crucial point in time to decide a global agreement on collective action against the climate crisis. Thanks to unexpected circumstances, many groups, including ours, did not receive their requests for badges (they are difficult to obtain). I was very grateful to be taken into the arms of [SustainUS](http://sustainus.org/), a United States-based organization that enable youth climate leaders across the country to attend the actual negotiating talks. With both my heart and head trying to hold onto everyone back home, I dove into the unfamiliar.
 
@@ -57,14 +58,14 @@ These thoughts propel energy for the changes we need to see—the ones that reac
 
 Movement is a beautiful, multi-faceted concept. There is an absolutely inspiring and incredible video called Orgesticulanismus, by Belgian animator Mathieu Labaye that I deeply encourage everyone to watch. Labaye made this nine-minute animation in tribute to his father Benoit, who suffered from a multiple sclerosis that turned him paraplegic. Labaye's work celebrates his father’s intimate understanding of the human importance of movement, physically and metaphorically. I find so much beauty in these words, an interview with Benoit, spoken in the video:
 
-*“I think it’s by the movement you appropriate your own life. By the freedom to come and go, to have gestures of love, tenderness, anger, whatever. When you are deprived of movements, as I am and as a lot of other people are, I think if you want to survive, you must reinvent the movement differently. And so what happens inside my head isn’t purely brain, purely intellectual. It’s a way of recreating an inner space which is also my freedom.
+*“I think it’s by the movement you appropriate your own life. By the freedom to come and go, to have gestures of love, tenderness, anger, whatever. When you are deprived of movements, as I am and as a lot of other people are, I think if you want to survive, you must reinvent the movement differently. And so what happens inside my head isn’t purely brain, purely intellectual. It’s a way of recreating an inner space which is also my freedom.*
 
-When you live a severe handicap, when you live absolutely still, dependent, you live, in fact, something that can’t be shared, that can’t be easily expressed, which you can’t easily talk about. Because when two people talk, to be able to understand each other, they need to have a minimum of common experience between them, to speak of something they both know from some form of experience.”
+*"When you live a severe handicap, when you live absolutely still, dependent, you live, in fact, something that can’t be shared, that can’t be easily expressed, which you can’t easily talk about. Because when two people talk, to be able to understand each other, they need to have a minimum of common experience between them, to speak of something they both know from some form of experience.”*
 
-“Sure, the stillness, the handicap, brings you to the conclusion and to the gradual acceptance that there’s a certain number of things that you can’t do. But conversely I think it opens a whole bunch of new possibilities, notably with inner freedom, inner space, but also with the way you can come in contact, in relation with others.
+*“Sure, the stillness, the handicap, brings you to the conclusion and to the gradual acceptance that there’s a certain number of things that you can’t do. But conversely I think it opens a whole bunch of new possibilities, notably with inner freedom, inner space, but also with the way you can come in contact, in relation with others."*
 
-I think there is in the handicap, in the disease, a lot of potentiality. Human beings have endless supplies of desire, of energy, of inner strength. And it’s something you discover with maybe more urge, more intensity, when you’re deprived of movement.”*
+*"I think there is in the handicap, in the disease, a lot of potentiality. Human beings have endless supplies of desire, of energy, of inner strength. And it’s something you discover with maybe more urge, more intensity, when you’re deprived of movement.”*
 
 There is momentum in the things that immobilize us. Our scars are symbols of our survival.
 
-Cover image curtesy of [Joel Lukhovi](https://www.flickr.com/photos/paris-climate-conference/23594629422/in/album-72157661621205229/)
+Cover image courtesy of [Joel Lukhovi](https://www.flickr.com/photos/paris-climate-conference/23594629422/in/album-72157661621205229/)
