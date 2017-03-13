@@ -1,9 +1,31 @@
 ---
 title: Photography & Rambling as a Stockton Native
-date: 2017-03-11 11:41:00 -08:00
+date: 2017-03-13 11:41:00 -07:00
+categories:
+- Culture
+- Art
+tags:
+- Photography
+- nature
+- Stockton
+- Sierra Nevada
+- NPS
+- hiking
+- wilderness
 image: "/uploads/4-min.jpg"
 author: Cedric Cunningham
+description: A Stocktonian who wanders the Sierra Nevada, traveling for work, finding
+  lost hikers, photographing moments in the wild. A series of photo-essays from Cedric
+  Cunningham.
 author-block: true
+author-image: "/uploads/Bio%20photo.jpg"
+author-bio: Cedric Cunningham is a trail maintenance worker and wilderness EMT for
+  the National Park Service. He spends his summers building stone structures on the
+  John Muir Trail/PCT and helping hurt/lost hikers in the southern Sierra. He dabbles
+  in photography, song writing, and comic writing when he is not in the mountains.
+  He is a Stockton native and can be found often huddled against the back wall of
+  the Friends of the Library bookstore on Hammer, searching through the nature writing
+  section for field guides and the like.
 ---
 
 Everyone comes from somewhere. No one gets to choose where. Some of us just happen to come from places like Stockton. Stockton is a place caught for a long time between developer’s money and down home culture, a profound poverty and profound sense of humanity buried by naysayers. It is a place that has often been looked past by locals and travelers alike.
@@ -12,9 +34,9 @@ I find it important to remember that though places like this don’t have movies
 
 Sometimes it manifests in a search for an untold story, sometimes it is just witnessing a place where there still are stories to be told, and other times it is returning home to find new ideas in old places. I try to document my ramblings and findings in many ways, but I find photography to be one of the most accessible and efficient formats to share adventures with interested parties. 
 
-My most used medium has been disposable cameras because they are cheap and durable, but in more recent times I have experimented with Polaroids and 35mm point and shoot film cameras -mostly Olympus stylus. I enjoy the erratic nature of point and shoot cameras. I feel that it emulates the effect of a haiku, or a reflection on a moment in time, rather than the more rhyme schemed and metered results you get from high end digital or film cameras. 
+My most used medium has been disposable cameras because they are cheap and durable, but in more recent times I have experimented with Polaroids and 35mm point and shoot film cameras-mostly Olympus stylus. I enjoy the erratic nature of point and shoot cameras. I feel that it emulates the effect of a haiku, or a reflection on a moment in time, rather than the more rhyme schemed and metered results you get from high end digital or film cameras. 
 
-Any of these photos are available for sale as prints, e-mail me at heycedric@gmail.com for pricing and sizing info. All prints will be made at either Gluskins on the Miracle Mile or Ulmers in downtown Stockton to keep money local and any profits made will be used to help fund a bike tour and photography ramble I am conducting through the American Southwest at this moment. Take care!
+Any of these photos are available for sale as prints, e-mail me at heycedric [at] gmail.com for pricing and sizing info. All prints will be made at either Gluskins on the Miracle Mile or Ulmers in downtown Stockton to keep money local and any profits made will be used to help fund a bike tour and photography ramble I am conducting through the American Southwest at this moment. Take care!
 
 **#1
 NPS Trail Crew Scouts Burnt-Out Trail in Early Season 
