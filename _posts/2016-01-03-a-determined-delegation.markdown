@@ -10,6 +10,7 @@ tags:
 - Change
 - Environment
 - Camero
+- protests
 image: "/uploads/climatejustice_joellukhovi.jpg"
 author: Ryan Camero
 description: 'Pt. 2 of activist Ryan Camero''s adventures in protecting the San Joaquin
