@@ -26,7 +26,7 @@ author-bio: Ryan Camero is an arts activist and community organizer who believes
   and was awarded the national Brower Youth Award in 2015.
 ---
 
-*This post is the third installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [2](www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), and [4](www.placeholdermag.com/culture/2016/06/02/harmonizing-the-peoples-voice.html) here.*
+*This post is the third installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](http://www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [2](http://www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), and [4](http://www.placeholdermag.com/culture/2016/06/02/harmonizing-the-peoples-voice.html) here.*
 
 PARIS – On Wednesday, December 2nd, 2015, I attended a workshop in Paris for the 2015 climate talks called, “The Leap Manifesto: A Justice-Based Energy Transition,” an event hosted by Naomi Klein and countless other forces for change in Canada—spanning tribal, political, and labor identities. The speakers included Maude Barlow from the Council of Canadians, Hassan Yussuff from Canadian Labor Congress, Crystal Lameman from the Beaver Lake Cree Nation, and Christian Poll, a Member of Danish Parliament for the Alternative. The manifesto poses to completely (and radically) re-imagine and envision a new future for Canada.
 
