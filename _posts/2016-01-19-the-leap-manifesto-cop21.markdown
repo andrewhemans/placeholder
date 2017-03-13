@@ -1,6 +1,15 @@
 ---
 title: The Leap Manifesto (COP21)
 date: 2016-01-19 15:37:00 -08:00
+categories:
+- Culture
+tags:
+- COP21
+- Climate Change
+- Paris
+- Camero
+- Activism
+- protests
 image: "/uploads/leap_emmacassidy.jpg"
 author: Ryan Camero
 description: 'Pt. 3 of activist Ryan Camero''s adventures in protecting the San Joaquin
