@@ -64,7 +64,7 @@ Sunrise with Sam on Mt. Shasta
 2015**
 ![4-min.jpg](/uploads/4-min.jpg)
 
-Sam is a backcountry ranger at Kings Canyon National Park; that’s how we know each other. In 2015 we found ourselves as roommates, working for an outdoor ed. program at Whiskeytown National Monument. At some point, we decided to climb Mt. Shasta. We woke up at 1 am in order to summit at sunrise. I struggled to keep up with him and to not look like I wasn’t struggling to do so as we made the ascent. I used up a whole roll of film fromin a disposable camera in about five minutes, trying to catch an indication of what it felt like to be on that mountain as the sun came up. Not sure if I succeeded, but I did get this great shot of Sam. 
+Sam is a backcountry ranger at Kings Canyon National Park; that’s how we know each other. In 2015 we found ourselves as roommates, working for an outdoor ed. program at Whiskeytown National Monument. At some point, we decided to climb Mt. Shasta. We woke up at 1 am in order to summit at sunrise. I struggled to keep up with him and look like I wasn't struggling to do so as we made the ascent. I used up a whole roll of film fromin a disposable camera in about five minutes, trying to catch an indication of what it felt like to be on that mountain as the sun came up. Not sure if I succeeded, but I did get this great shot of Sam. 
 
 **#5
 Dana, Turtles, and a Ring of Light 
