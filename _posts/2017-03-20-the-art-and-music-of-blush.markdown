@@ -25,7 +25,6 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
   of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
-**Curator’s Note:**
 I’ve been admiring Kristen Barredo’s visual artwork from afar for a few years since meeting her in Stockton back in 2009-ish. We both eventually ended up moving to Sacramento, and found each other again in the Sacramento music scene at Red Museum. I was pleasantly surprised when I heard she had a band that dropped this new beautiful album and made all the visuals for it. Her drawings are dreamy, sensual, and retro. This girl can draw like no other, has an incredible sense of style, AND she can sing. Dance away in the name of all Femmes this March with her band’s tunes.    
 
 ![blush 3.1-min.jpeg](/uploads/blush%203.1-min.jpeg)
