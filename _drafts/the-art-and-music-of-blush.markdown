@@ -9,10 +9,20 @@ tags:
 - Artist Spaces
 - femme
 - Sacramento
+- pop
+- Stockton
+- illustration
 image: "/uploads/unnamed-min.jpg"
 author: Aida Lizalde
+description: Dance the night away with Blush, a Sacramento pop duo described as "Aaliyah
+  meets Washed Out," and check out the sensual colorful work of its singer, Kristen
+  Barredo.
 author-block: true
 author-image: "/uploads/Aida.jpg"
+author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
+  for Placeholder Magazine. Lizalde was born and raised in Mexico until age 15, when
+  her family immigrated to Stockton, California. She currently attends the University
+  of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
 **Curator’s Note:**
@@ -44,10 +54,10 @@ Blush is a funk, and pop duo formed in Sacramento CA. The band consists of music
 
 **Find out more:**
 
-**Soundcloud:** https://soundcloud.com/blushraid209
+**Soundcloud:** [https://soundcloud.com/blushraid209](https://soundcloud.com/blushraid209)
 
-**Bandcamp:** https://blushraid.bandcamp.com/releases
+**Bandcamp:** [https://blushraid.bandcamp.com/releases](https://blushraid.bandcamp.com/releases)
 
-**Kristen's artwork:** http://kristenbarredo-blog.tumblr.com/
+**Kristen's artwork:** [http://kristenbarredo-blog.tumblr.com/](http://kristenbarredo-blog.tumblr.com/)
 
-**Nico's artwork:** https://www.instagram.com/nicophotos/
+**Nico's artwork:** [https://www.instagram.com/nicophotos/](http://kristenbarredo-blog.tumblr.com/)
