@@ -1,6 +1,6 @@
 ---
 title: Blush
-date: 2017-03-20 10:00:00 -07:00
+date: 2017-03-16 10:00:00 -07:00
 categories:
 - Culture
 - Art
