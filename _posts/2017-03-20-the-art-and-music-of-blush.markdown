@@ -31,7 +31,7 @@ I’ve been admiring Kristen Barredo’s visual artwork from afar for a few year
 
 >"We want people to dance to good beats and heart wrenching lyrics."
 
-Blush is a funk, and pop duo formed in Sacramento CA. The band consists of music producer and keyboardist Jaycob Greenlee, and vocalist Kristen Barredo. Their music has been described as “a dive-y nightclub," or “Aaliyah meets Washed Out" by listeners. With a rich layered sound, the tracks feature funky guitars, synths, catchy bass-lines, dynamic drums under Kristen's smooth haunting vocals. The funky old-school production will get your head bobbing immediately. 
+Blush is a funk, and pop duo formed in Sacramento CA. The band consists of music producer and keyboardist Jaycob Greenlee, and vocalist Kristen Barredo. Their music has been described as “a dive-y nightclub," or “Aaliyah meets Washed Out" by listeners. With a rich layered sound, the tracks feature funky guitars and retro-synths, catchy bass-lines, and dynamic drums under Kristen's smooth haunting vocals. The funky old-school production will get your head bobbing immediately. 
 
 "We are both are heavily influenced by the soothing tunes of Sade, we want people to dance to good beats and heart wrenching lyrics. We just released our first mix tape this year and looking into playing more local shows."
 
