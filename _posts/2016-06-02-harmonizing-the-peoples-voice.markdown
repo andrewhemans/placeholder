@@ -27,7 +27,7 @@ author-bio: Ryan Camero is an arts activist and community organizer who believes
   and was awarded the national Brower Youth Award in 2015.
 ---
 
-*This post is the fourth installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [2](www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), and [3](www.placeholdermag.com/culture/2016/01/19/the-leap-manifesto-cop21.html) here.*
+*This post is the fourth installment of an on-going, inter-organizational series of reflections by activist Ryan Camero. See parts [1](http://www.placeholdermag.com/culture/2015/12/08/from-the-san-joaquin-to-the-seine-cop21.html), [2](http://www.placeholdermag.com/culture/2016/01/03/a-determined-delegation.html), and [3](http://www.placeholdermag.com/culture/2016/01/19/the-leap-manifesto-cop21.html) here.*
 
 POST-PARIS – I’m of the opinion that it is through our pleasures that we build the ability to live through our pain. One of my favorite and healing pastimes is singing, which I largely owe to growing up with a karaoke machine and a goofy, loving family that pulled it out every holiday. 
 
