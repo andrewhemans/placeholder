@@ -18,6 +18,8 @@ author-image: "/uploads/Aida.jpg"
 
 ![blush 3.1-min.jpeg](/uploads/blush%203.1-min.jpeg)
 
+>"We want people to dance to good beats and heart wrenching lyrics."
+
 Blush is a funk, and pop duo formed in Sacramento CA. The band consists of music producer and keyboardist Jaycob Greenlee, and vocalist Kristen Barredo. Their music has been described as “a dive-y nightclub," or “Aaliyah meets Washed Out" by listeners. With a rich layered sound, the tracks feature funky guitars, synths, catchy bass-lines, dynamic drums under Kristen's smooth haunting vocals. The funky old-school samples will get your head bobbing immediately.
 
 "We are both are heavily influenced by the soothing tunes of Sade, we want people to dance to good beats and heart wrenching lyrics. We just released our first mix tape this year and looking into playing more local shows."
