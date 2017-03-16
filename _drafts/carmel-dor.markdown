@@ -27,7 +27,7 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
 
 ![Carmel_Dor_1.jpg](/uploads/Carmel_Dor_1.jpg)
 
-Carmel Dor (pn. they / them) creates work across mediums, influenced by trying to cope, memory, and shared experience. With a focus on social practice, their work contrasts spaces of comfort and familiarity though aggressive discourse. Experimenting with art as an educational tool, their practice intervenes with the everyday through installations that utilize color’s prescience into the human psyche. Carmel earned a BA in Art Studio and Art History from the University of California at Davis in 2015. They currently live in Sacramento, CA.
+**Carmel Dor** (pn. they / them) creates work across mediums, influenced by trying to cope, memory, and shared experience. With a focus on social practice, their work contrasts spaces of comfort and familiarity though aggressive discourse. Experimenting with art as an educational tool, their practice intervenes with the everyday through installations that utilize color’s prescience into the human psyche. Carmel earned a BA in Art Studio and Art History from the University of California at Davis in 2015. They currently live in Sacramento, CA.
 
 **Find out more:**
 
