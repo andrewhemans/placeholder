@@ -40,7 +40,7 @@ Even the music production is a personal affair. Using the classic MPC 2000XL, Ja
 ![IMG_4018-min.PNG](/uploads/IMG_4018-min.PNG)
 *Kristen Barredo and producer Jaycob Greenlee*
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305014707&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305014531&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 “I really wanted to emulate movement into my illustrations. I liked the idea of illustrating a woman dancing, or anything candid for that matter. It was something I envisioned when listening to Blush recordings for the first time. I've been getting bored of drawing face portraits and excessive hair. Visually, I knew I needed to adapt to a different style. The album artwork gave me the opportunity to challenge myself."
 
