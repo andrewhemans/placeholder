@@ -1,18 +1,10 @@
 ---
 title: The Art and Music of Blush
-date: 2017-03-16 10:00:00 -07:00
+date: 2017-03-20 21:18:00 -07:00
+published: false
 categories:
 - Culture
 - Art
-tags:
-- Music
-- Artist Spaces
-- femme
-- Sacramento
-- pop
-- Stockton
-image: "/uploads/unnamed-min.jpg"
-author: Aida Lizalde
 description: Dance the night away with Blush, a Sacramento pop duo described as "Aaliyah
   meets Washed Out," and check out the sensual colorful work of its singer, Kristen
   Barredo.
