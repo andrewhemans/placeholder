@@ -5,6 +5,15 @@ published: false
 categories:
 - Culture
 - Art
+description: Dance the night away with Blush, a Sacramento pop duo described as "Aaliyah
+  meets Washed Out," and check out the sensual colorful work of its singer, Kristen
+  Barredo.
+author-block: true
+author-image: "/uploads/Aida.jpg"
+author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
+  for Placeholder Magazine. Lizalde was born and raised in Mexico until age 15, when
+  her family immigrated to Stockton, California. She currently attends the University
+  of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
 I’ve been admiring Kristen Barredo’s visual artwork from afar for a few years since meeting her in Stockton back in 2009-ish. We both eventually ended up moving to Sacramento, and found each other again in the Sacramento music scene at the [Red Museum](https://www.facebook.com/pages/The-Red-Museum-Sacramento/1552968105021049). I was pleasantly surprised when I heard she had a band that dropped this new beautiful album and made all the visuals for it. Her drawings are dreamy, sensual, and retro. This girl can draw like no other, has an incredible sense of style, AND she can sing.
