@@ -63,3 +63,5 @@ Even the music production is a personal affair. Using the classic MPC 2000XL, Ja
 **Kristen's artwork:** [http://kristenbarredo-blog.tumblr.com/](http://kristenbarredo-blog.tumblr.com/)
 
 **Nico's artwork:** [https://www.instagram.com/nicophotos/](http://kristenbarredo-blog.tumblr.com/)
+
+*Photo by Hali Castro*
