@@ -45,7 +45,7 @@ Even the music production is a personal affair. Using the classic MPC 2000XL, Ja
 
 ![14697080_1317747611569184_1572552606_o.jpg](/uploads/14697080_1317747611569184_1572552606_o.jpg)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305014531&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305014707&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 "My brother, Nico, is a graphic designer, and he’s been pretty helpful with text and color. He’s allowed me to be unafraid of bold colors and go crazy with composition. Because  that is truly how I perceive our music: high energy and colorful. My experience with making music for the first time really helped me evolve artistically. As long as Jaycob and I keep making music, I will keep broadening my horizons with art.”
 
