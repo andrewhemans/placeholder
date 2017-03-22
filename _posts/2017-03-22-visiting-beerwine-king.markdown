@@ -13,7 +13,7 @@ tags:
 - Beerwine King
 - featured
 image: "/uploads/bwk2.jpg"
-author: Andrew Hemmans
+author: Andrew Hemans
 description: Stockton natives find psychedelic alt-rock success as the band Beerwine
   King. Promoting new album *Treason* while living in the Bay Area's Oakland.
 author-block: true
