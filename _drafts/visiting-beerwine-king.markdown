@@ -15,6 +15,10 @@ image: "/uploads/bwk2.jpg"
 author: Andrew Hemmans
 author-block: true
 author-image: "/uploads/Andrew.jpg"
+author-bio: Raised in Stockton and currently living in the Bay Area, Andrew Hemans
+  is an occasional contributor and the Design lead for Placeholder Magazine. He loves
+  all things design, including coding this website and making music for his band Los
+  Beekeepers.
 ---
 
 A few weeks ago I had the chance to visit Beerwine King at their practice space in Oakland. The psychedelic alt-rock band consists of TJ Gardea, Michael Gallagher, and Jake Turner. Growing up in Stockton, they have been playing on and off in different bands since they were teenagers. They moved to Oakland like many kids from the Central Valley who feel like there’s more opportunity in the Bay Area. 
