@@ -13,15 +13,16 @@ tags:
 - Beerwine King
 - featured
 image: "/uploads/bwk2.jpg"
-author: Andrew Hemmans
-description: Stockton natives find psychedelic alt-rock success as the band Beerwine
-  King. Promoting new album *Treason* while living in the Bay Area's Oakland.
+author: Andrew Hemans
+description: Psychedelic skate rock band from Oakland Beerwine King talks growing
+  up in Central Valley, recording their new album Treason, and playing shows in the
+  Bay Area.
 author-block: true
 author-image: "/uploads/Andrew.jpg"
 author-bio: Raised in Stockton and currently living in the Bay Area, Andrew Hemans
   is an occasional contributor and the Design lead for Placeholder Magazine. He loves
-  all things design, including coding this website and making music for his band Los
-  Beekeepers.
+  all things design, including coding this website and he also makes music for his
+  band Los Beekeepers.
 ---
 
 A few weeks ago I had the chance to visit Beerwine King at their practice space in Oakland. The psychedelic alt-rock band consists of TJ Gardea, Michael Gallagher, and Jake Turner. Growing up in Stockton, they have been playing on and off in different bands since they were teenagers. They moved to Oakland like many kids from the Central Valley who feel like there’s more opportunity in the Bay Area. 
@@ -76,4 +77,4 @@ Before Michael gave me a ride back to the BART Station, he talked a little more 
 **You can listen to Beerwine King’s new album, *Treason*, on [Spotify](https://open.spotify.com/album/4b5xyFIRirLEZNTOeLxINj) & [Soundcloud](https://soundcloud.com/beerwineking/sets/treason).**
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r7ksxct8YSc?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/r7ksxct8YSc?rel=0" frameborder="0" allowfullscreen></iframe></div>
