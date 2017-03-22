@@ -8,12 +8,11 @@ tags:
 - Music
 - Oakland
 - Rock
+- Stockton
+- Central Valley
+- Beerwine King
 image: "/uploads/bwk2.jpg"
 ---
-
-Category: Culture, Video
-Tags: Music, Oakland, Rock,Stockton 
-Title: Visiting Beewine King
 
 A few weeks ago I had the chance to visit Beerwine King at their practice space in Oakland. The psychedelic alt-rock band consists of TJ Gardea, Michael Gallagher, and Jake Turner. Growing up in Stockton, they have been playing on and off in different bands since they were teenagers. They moved to Oakland like many kids from the Central Valley who feel like there’s more opportunity in the Bay Area. 
 
@@ -28,7 +27,7 @@ TJ went on to tell me that Beerwine King has been a band for five years. “We r
 
 Michael chimed in, “Yeah, this is our third CD, technically, because we had a homemade demo we DIY recorded. Then we had a pressed one our friend Alex recorded that was a 6 song EP. Now this release is 9 songs, and full-on studio recorded, with better production.” Michael pointed out that this release “captures what the band sounds like.” They were proud to say that it was more true to their live sound. They plan to release this new album on cassette tape as well as digitally through Spotify, Soundcloud, and other streaming platforms.
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/298078726&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/306486280&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 “I think our goal with this album was to make something that looked nice, was very well produced, but was still very much us.” Michael stated the band hopes this release will help them get recognized by blogs or other websites that share and promote music. TJ added that they want the band to be taken seriously. At first listen of their new record, you can hear the production quality that they speak of, while still maintaining the sound that makes them unique. 
 
@@ -45,7 +44,7 @@ Jake humbly brushed off the praise, “I guess everyone is their own harshest cr
 
 When asked about the meaning behind “Dusty Valley,” Jake said, “It’s definitely about a time and a place; I don’t really identify with where I was at 19, anymore.” Citing his age when he originally wrote the song, he went on to talk about a feeling I think many ex-Stocktonians can agree with. “I used to have a lot of angst about the town that I grew up in, but now I feel a lot better about that place, and I actually love that town now.”
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/298078726&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/300486108&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 After chatting with the band about Jake's song I had to clarify their ability to switch instruments  in the band. I told them the instrumentation on their recordings meshed together so well, the only changes I could hear were the vocalist changes. The band explained that on Jake’s songs TJ would play drums, while Jake played guitar and sang, but for TJ’s songs it was the opposite. I went on to compliment them on how well the band is able to rotate instruments while still sounding like a cohesive group. To that, TJ and Jake told me that the band has been playing together for almost eight years now, that they started playing together when they all individually moved out to Oakland from Stockton.
 
