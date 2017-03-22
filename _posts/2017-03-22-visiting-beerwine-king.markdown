@@ -11,6 +11,7 @@ tags:
 - Stockton
 - Central Valley
 - Beerwine King
+- featured
 image: "/uploads/bwk2.jpg"
 author: Andrew Hemmans
 description: Stockton natives find psychedelic alt-rock success as the band Beerwine
