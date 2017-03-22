@@ -77,4 +77,4 @@ Before Michael gave me a ride back to the BART Station, he talked a little more 
 **You can listen to Beerwine King’s new album, *Treason*, on [Spotify](https://open.spotify.com/album/4b5xyFIRirLEZNTOeLxINj) & [Soundcloud](https://soundcloud.com/beerwineking/sets/treason).**
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r7ksxct8YSc?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/r7ksxct8YSc?rel=0" frameborder="0" allowfullscreen></iframe></div>
