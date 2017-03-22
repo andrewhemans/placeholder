@@ -15,7 +15,7 @@ tags:
 image: "/uploads/bwk2.jpg"
 author: Andrew Hemans
 description: Psychedelic skate rock band from Oakland Beerwine King talks growing
-  up in Central Valley, recording their new album Treason, and playing show.
+  up in Stockton, recording their new album Treason, and playing show.
 author-block: true
 author-image: "/uploads/Andrew.jpg"
 author-bio: Raised in Stockton and currently living in the Bay Area, Andrew Hemans
