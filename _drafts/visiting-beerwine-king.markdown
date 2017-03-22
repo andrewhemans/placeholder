@@ -12,6 +12,9 @@ tags:
 - Central Valley
 - Beerwine King
 image: "/uploads/bwk2.jpg"
+author: Andrew Hemmans
+author-block: true
+author-image: "/uploads/Andrew.jpg"
 ---
 
 A few weeks ago I had the chance to visit Beerwine King at their practice space in Oakland. The psychedelic alt-rock band consists of TJ Gardea, Michael Gallagher, and Jake Turner. Growing up in Stockton, they have been playing on and off in different bands since they were teenagers. They moved to Oakland like many kids from the Central Valley who feel like there’s more opportunity in the Bay Area. 
@@ -62,6 +65,8 @@ After chatting a bit about their songs, I asked the band to talk a little bit ab
 
 Before Michael gave me a ride back to the BART Station, he talked a little more about the cohesiveness of the band. “I think one of the most important elements in our band is that fact that we’re hella good friends. Our music is bonded together by our familiarity; like when we jam, I feel like we can communicate telepathically.” It’s obvious to me that the bond they have helped them  write and perform great songs and maintaining chemistry even when swapping instruments. I have always been a fan of the music these guys have made, but I’m especially excited about their new release. What’s next in store for Beerwine King? They mentioned their desire to tour, a chance to take the new album on the road.
 
-You can listen to Beerwine King’s new album, Treason, on [Spotify](https://open.spotify.com/album/4b5xyFIRirLEZNTOeLxINj) & [Soundcloud](https://soundcloud.com/beerwineking/sets/treason).
+
+**You can listen to Beerwine King’s new album, Treason, on [Spotify](https://open.spotify.com/album/4b5xyFIRirLEZNTOeLxINj) & [Soundcloud](https://soundcloud.com/beerwineking/sets/treason).**
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r7ksxct8YSc?rel=0" frameborder="0" allowfullscreen></iframe>
