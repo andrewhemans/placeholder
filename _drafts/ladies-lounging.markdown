@@ -25,8 +25,6 @@ Rachel Dirk was born in California and raised around the Bay Area. After acquiri
 
 ![IMG_0010.jpg](/uploads/IMG_0010.jpg)
 
-![IMG_005.JPG](/uploads/IMG_005.JPG)
-
 Her work has been published in the 2017 UC Davis Chancellor's Exhibition Catalog and was included in the Chancellor's Residence Exhibition this Spring 2017. Recently Drik received the UC Davis Winter Award Nomination to attend the New York Studio School and has been actively raising funds to pay for her housing in New York this summer for the duration of the program. She has been taking painting commissions through her art Facebook linked below. 
 
 ![IMG_009.JPG](/uploads/IMG_009.JPG)
