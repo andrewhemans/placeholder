@@ -7,7 +7,7 @@ tags:
 - femme
 - paintings
 - arts
-image: "/uploads/IMG_10-min-434686.JPG"
+image: "/uploads/IMG_10-min.JPG"
 author: Aida Lizalde
 description: 'Rachel Dirk collaborates with her figure subjects to create dynamic
   views on the human form on her alluring oil paintings. '
