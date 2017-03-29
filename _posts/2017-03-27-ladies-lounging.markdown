@@ -9,6 +9,8 @@ tags:
 - arts
 image: "/uploads/IMG_10-min-434686.JPG"
 author: Aida Lizalde
+description: Rachel Dirk collaborates with her figure subjects to create dynamic views
+  of the human form in this alluring and fleshy oil paintings .
 author-block: true
 author-image: "/uploads/Aida.jpg"
 author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
