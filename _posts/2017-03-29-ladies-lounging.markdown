@@ -17,13 +17,13 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
   of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
-[IMG_09-min.JPG](/uploads/IMG_09-min.JPG)
+![IMG_09-min.JPG](/uploads/IMG_09-min.JPG)
 
 Rachel Dirk was born in California and raised around the Bay Area. After acquiring associate degrees in Art, Art History, and Fine Arts at Diablo Valley College, she transferred to UC Davis. She is currently finishing up her undergraduate degree at UC Davis with a double major in Art History and Studio Art and will be graduating Spring 2017. Her work is primarily in oil paint with an emphasis on the figure. Dirk’s recent work incorporates the creative collaboration of her and her subjects to create dynamic and diverse views of the human form. Her work ambivalently comments on issues concerning the over sexualization of the human body through a raw portrayal of the human form. 
 
-[IMG_008-min.JPG](/uploads/IMG_008-min.JPG)
+![IMG_008-min.JPG](/uploads/IMG_008-min.JPG)
 
-[IMG_009-min.JPG](/uploads/IMG_009-min.JPG)
+![IMG_009-min.JPG](/uploads/IMG_009-min.JPG)
 
 ![IMG_10-min-434686.JPG](/uploads/IMG_10-min-434686.JPG)
 
