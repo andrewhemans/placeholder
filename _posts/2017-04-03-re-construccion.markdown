@@ -15,6 +15,7 @@ tags:
 - collectives
 - El Salvador
 - Civil War
+- featured
 image: "/uploads/1josecabezas.jpg"
 author: Ryan Camero
 description: 'Multimedia journalist Sayre Quevedo talks Re: Construcción, his interactive
