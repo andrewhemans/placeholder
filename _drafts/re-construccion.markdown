@@ -17,6 +17,8 @@ tags:
 - Civil War
 image: "/uploads/1josecabezas.jpg"
 author: Ryan Camero
+description: 'Multimedia journalist Sayre Quevedo shares his Salvadoran roots and
+  their impact on his interactive exhibit Re: Construcción.'
 author-block: true
 author-image: "/uploads/Ryan.jpg"
 author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
