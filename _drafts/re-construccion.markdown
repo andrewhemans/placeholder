@@ -77,8 +77,13 @@ I think there are still a lot of unanswered questions around my connection to El
 **Donate to the project via Indiegogo campaign (which ends April 10!)** - [https://www.indiegogo.com/projects/re-construccion-community#/](https://www.indiegogo.com/projects/re-construccion-community#/) 
 
 **Exhibit locations/dates:**
-Long Island: June 2 - 16
-Brooklyn/Queens: June 23 - July 7
-Washington DC: July 14 - July 28th 
-Los Angeles: August 4 - August 18
-El Salvador: August 25 - September 8
+
+Long Island: June 2-16
+
+Brooklyn/Queens: June 23-July 7
+
+Washington DC: July 14-July 28th
+ 
+Los Angeles: August 4-August 18
+
+El Salvador: August 25-September 8
