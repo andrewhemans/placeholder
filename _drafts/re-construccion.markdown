@@ -45,6 +45,9 @@ In the work of my team and I, the six tables, household objects and family photo
 
 It means a couple of different things. First, people refer to the period after the war as the “reconstruction” period, re-building post-war. In a similar vein, I was really interested in how people rebuilt their lives, how they reconstructed their identities in the face of violence and in continuing violence—a violence that I would argue has existed from colonialism until now. I was curious about how people redefined themselves after war and in the midst of all social changes, political changes, internal changes. There is a colon in-between which is not just stylistic, but also lends to the fact that there are not only people reconstructing themselves but constructing themselves for the first time, young people actively creating their own identity in the shadow of this history. There are stories of people that lived through that period of time, but also those that grew up after it. There are voices included in the project, of the subjects’ children who were really young when this was happening and are cognizant of the way that the war has impacted contemporary El Salvador. Those voices include our artists as well as the interviewees.
 
+![1mauricio.jpg](/uploads/1mauricio.jpg)
+*Photo by [Mauricio Esquivel](http://reconstruccionproject.com/Mauricio-Esquivel)*
+
 **Who is involved?** 
 
 The folks— our artists and interview subjects— are from different backgrounds. They experienced the war from different vantage points, whether they were children or teens or young adults during that time. We have an interviewee who was the survivor of a massacre that happened during the war, how he looks at his family and what his life looks like now in the midst of that loss. We have two sisters who were activists. Our artists touch on themes of migration and the complexities of the post-war.
