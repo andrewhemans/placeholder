@@ -71,10 +71,12 @@ I think there are still a lot of unanswered questions around my connection to El
 **Find out more:**
 
 **Facebook page** - [https://www.facebook.com/reconstruccionproject](https://www.facebook.com/reconstruccionproject)
+
 **The official project website** - [http://reconstruccionproject.com/](http://reconstruccionproject.com/About-Re-Construccion)
+
 **Donate to the project via indiegogo campaign (which ends April 10!)** - [https://www.indiegogo.com/projects/re-construccion-community#/](https://www.indiegogo.com/projects/re-construccion-community#/) 
 
-Exhibit locations/dates-
+**Exhibit locations/dates:**
 Long Island: June 2 - 16
 Brooklyn/Queens: June 23 - July 7
 Washington DC: July 14 - July 28th 
