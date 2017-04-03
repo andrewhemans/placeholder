@@ -1,8 +1,31 @@
 ---
 title: 'Re: Construcción'
 date: 2017-04-03 12:05:00 -07:00
+categories:
+- Culture
+- video
+tags:
+- Multimedia
+- Journalism
+- Re:Construcción
+- identity
+- History
+- Activism
+- arts
+- collectives
+- El Salvador
+- Civil War
 image: "/uploads/1josecabezas.jpg"
 author: Ryan Camero
+author-block: true
+author-image: "/uploads/Ryan.jpg"
+author-bio: Ryan Camero is an arts activist and community organizer who believes wholeheartedly
+  in the transformative powers of visual storytelling, cross-cultural understanding,
+  and inter-generational communication in achieving social justice. As a coalition-builder
+  across many groups, Ryan works primarily with Restore the Delta, the statewide California
+  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
+  He currently is based out of Stockton doing work on the statewide and national level
+  and was awarded the national Brower Youth Award in 2015.
 ---
 
 I first met Sayre Quevedo several years ago in the Bay Area. When we first met he was reserved and thoughtful, but I soon realized Sayre’s voice really came alive as a passionate multimedia journalist working for [YouthRadio](https://youthradio.org/) at the time. That organization seemed so uplifting and impactful, especially as a case study of youth empowerment for skills building in Stockton. I remember reaching out to Sayre about his experiences, being hopeful at how much he was growing with his passions as a result of being involved. Spanning coverage on NPR’s *All Things Considered*, *Marketplace*, *National Geographic*, and more, I was amazed at the issues he focused on diligently covering—from [juvenile justice issues](https://youthradio.org/journalism/juvenile-justice/for-juvenile-offenders-supreme-court-ruling-opens-door-to-parole/) to [job opportunities](https://youthradio.org/journalism/juvenile-justice/employing-young-people-may-prevent-violence-but-where-are-the-jobs/) to even his own [struggles with independence](https://youthradio.org/on-our-radar/when-independence-means-asking-for-help/). 
@@ -23,7 +46,7 @@ Currently, Sayre studies at the New School in New York City, majoring in Global 
 
 Sayre and a team of others are working on [Re: Construcción](http://www.reconstruccionproject.com/), an interactive multimedia exhibit. From the official website, “The work focuses on the legacy and impact of the Salvadoran Civil War as well as contemporary themes: trans-national identity, intergenerational knowledge, and the societal effects of conflict. The exhibit is a transnational collaboration between individual artists, collectives, and community organizations that work with Salvadorans in the United States and El Salvador.
 
-Re:Construcción is a three-part project. The first part is a series of tables dedicated to eight individuals. Each table contains numbered household objects and photographs. Each number corresponds to a piece of audio interview or ambient sound. Viewers are guided through the interviewee’s stories by mp3 players. Their stories can be listened to linearly or the viewer can pick and choose which object they want to listen to.
+Re: Construcción is a three-part project. The first part is a series of tables dedicated to eight individuals. Each table contains numbered household objects and photographs. Each number corresponds to a piece of audio interview or ambient sound. Viewers are guided through the interviewee’s stories by mp3 players. Their stories can be listened to linearly or the viewer can pick and choose which object they want to listen to.
 
 Part two of the project is an interactive wall that we are asking the Salvadoran community to come and add their own objects, drawings, writings, and perspectives on the impact on the war for themselves or the Salvadoran community at large. The idea is that as the exhibit travels across the United States and El Salvador the wall will gain new perspectives in every exhibit location.
 
@@ -43,7 +66,7 @@ In the work of my team and I, the six tables, household objects and family photo
 ![1fredramos.jpg](/uploads/1fredramos.jpg)
 *Photo by [Fred Ramos](http://reconstruccionproject.com/Fred-Ramos)*
 
-**What does Re:Construcción mean to you?**
+**What does Re: Construcción mean to you?**
 
 It means a couple of different things. First, people refer to the period after the war as the “reconstruction” period, re-building post-war. In a similar vein, I was really interested in how people rebuilt their lives, how they reconstructed their identities in the face of violence and in continuing violence—a violence that I would argue has existed from colonialism until now. I was curious about how people redefined themselves after war and in the midst of all social changes, political changes, internal changes. There is a colon in-between which is not just stylistic, but also lends to the fact that there are not only people reconstructing themselves but constructing themselves for the first time, young people actively creating their own identity in the shadow of this history. There are stories of people that lived through that period of time, but also those that grew up after it. There are voices included in the project, of the subjects’ children who were really young when this was happening and are cognizant of the way that the war has impacted contemporary El Salvador. Those voices include our artists as well as the interviewees.
 
