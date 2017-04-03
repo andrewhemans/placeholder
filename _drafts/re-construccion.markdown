@@ -30,7 +30,7 @@ Part two of the project is an interactive wall that we are asking the Salvadoran
 The third part of the exhibition is an art exhibition that brings together artists living in the country as well as those living in the diaspora.” Check out the interview, various photos and pieces from the exhibit, and support his [crowdfunding effort here](https://www.indiegogo.com/projects/re-construccion-community#/)!
 
 ![1photosayre.jpg](/uploads/1photosayre.jpg)
-*Photo by Sayre Quevedo* 
+*Photo by [Sayre Quevedo](http://reconstruccionproject.com/The-Team)* 
 
 **Tell me about the process of how you came to this project.**
 
