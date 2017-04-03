@@ -1,6 +1,7 @@
 ---
 title: 'Re: Construcción'
 date: 2017-04-03 12:05:00 -07:00
+image: "/uploads/1josecabezas.jpg"
 author: Ryan Camero
 ---
 
