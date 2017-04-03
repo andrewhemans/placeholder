@@ -68,9 +68,9 @@ I think what I’m most interested in is continuing conversations around the Sal
 
 I think there are still a lot of unanswered questions around my connection to El Salvador, and where our histories diverge and converge. What I’ve learned through listening to my interviewees and being a part of this project is I feel connected even though I was born in the U.S.; there’s definitely a certain type of loss and a sort-of, kind-of madness that is hard to describe. The consequences of that conflict felt really embedded in what happened in my family, and a lot of the questions I have, I have grown to understand that they may not be answered.
 
-Find out more:
+**Find out more:**
 
-Facebook page- https://www.facebook.com/reconstruccionproject 
+**Facebook page** - [https://www.facebook.com/reconstruccionproject](https://www.facebook.com/reconstruccionproject) 
 The official project website- http://reconstruccionproject.com/ 
 Donate to the project via indiegogo campaign (which ends April 10!)- https://www.indiegogo.com/projects/re-construccion-community#/ 
 
