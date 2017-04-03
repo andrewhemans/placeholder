@@ -18,7 +18,7 @@ So when I started learning about the war in El Salvador, a war that the United S
 
 And as I talked to people I could see they were seeing themselves too. Some of them were telling stories they had only ever told themselves. Some of them were telling stories they had told a thousand times and no one had listened. They were telling our stories, the stories about the storm and the shore and the lives they had been living while my family was floating on the horizon.*
 
-[](https://www.youtube.com/watch?v=OvMh4kg8US0&feature=youtu.be)
+`[](https://www.youtube.com/watch?v=OvMh4kg8US0&feature=youtu.be)`
 
 Sayre and a team of others are working on [Re: Construcción](http://www.reconstruccionproject.com/), an interactive multimedia exhibit. From the official website: “The work focuses on the legacy and impact of the Salvadoran Civil War as well as contemporary themes: trans-national identity, intergenerational knowledge, and the societal effects of conflict. The exhibit is a transnational collaboration between individual artists, collectives, and community organizations that work with Salvadorans in the United States and El Salvador.
 
