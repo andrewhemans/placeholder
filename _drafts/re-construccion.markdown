@@ -74,7 +74,7 @@ I think there are still a lot of unanswered questions around my connection to El
 
 **The official project website** - [http://reconstruccionproject.com/](http://reconstruccionproject.com/About-Re-Construccion)
 
-**Donate to the project via indiegogo campaign (which ends April 10!)** - [https://www.indiegogo.com/projects/re-construccion-community#/](https://www.indiegogo.com/projects/re-construccion-community#/) 
+**Donate to the project via Indiegogo campaign (which ends April 10!)** - [https://www.indiegogo.com/projects/re-construccion-community#/](https://www.indiegogo.com/projects/re-construccion-community#/) 
 
 **Exhibit locations/dates:**
 Long Island: June 2 - 16
