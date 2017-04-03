@@ -54,6 +54,9 @@ The folks— our artists and interview subjects— are from different background
 
 But to me, it’s important not to identify my interviewees by just their loss or experience, but more so recognize the complexity of people and that we’re not just our most traumatic experiences— we’re also made up of our day-to-day lives. Who are we and how do we live our day-to-day lives in the aftermath of these things? We don’t wear trauma, or wear impactful experiences on our sleeves— you could meet and pass by these people and wouldn’t know what they had seen or been through. I’m interested in “Who is this person?” in the historical context of El Salvador, and what their relationships are to their community and to their family, and to themselves in the everyday.
 
+![1josecabezas.jpg](/uploads/1josecabezas.jpg)
+*Photo by [Jose Cabezas](http://reconstruccionproject.com/Jose-Cabezas)*
+
 **What does this project hope to do?**
 
 I think what I’m most interested in is continuing conversations around the Salvadoran Civil War and what that meant to the community there and in the U.S. I want folks who aren’t aware of what the war is to see the relevance of this experience in the world that we’re living in— not only in migration, not only in violence, but in terms of U.S policy around the world. Even in terms of the effects of conflict around the world as well, because while conflicts begin and end all the time officially.. their scars still linger on and impact people. These are the ways in which people’s lives are changed in the midst of these conflicts. I want to show how complicated these experiences can be.
