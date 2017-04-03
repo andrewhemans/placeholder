@@ -38,6 +38,9 @@ My family on my mom’s side is from El Salvador. I didn’t know the history—
 
 In the work of my team and I, the six tables, household objects and family photos were an important component — to see the humanity of their stories beyond the act of listening. I didn’t want to present a clinical work, I wanted there to be a physical element. It has definitely been a long process. Initially, I interviewed twenty people but then focused on six because I felt there needed to be intimacy. The objects of their stories are deeply sentimental, and it’s important to have genuine relationships. I wanted to connect as me and not as a reporter.
 
+![1fredramos.jpg](/uploads/1fredramos.jpg)
+*Photo by [Fred Ramos](http://reconstruccionproject.com/Fred-Ramos)*
+
 **What does Re:Construcción mean to you?**
 
 It means a couple of different things. First, people refer to the period after the war as the “reconstruction” period, re-building post-war. In a similar vein, I was really interested in how people rebuilt their lives, how they reconstructed their identities in the face of violence and in continuing violence—a violence that I would argue has existed from colonialism until now. I was curious about how people redefined themselves after war and in the midst of all social changes, political changes, internal changes. There is a colon in-between which is not just stylistic, but also lends to the fact that there are not only people reconstructing themselves but constructing themselves for the first time, young people actively creating their own identity in the shadow of this history. There are stories of people that lived through that period of time, but also those that grew up after it. There are voices included in the project, of the subjects’ children who were really young when this was happening and are cognizant of the way that the war has impacted contemporary El Salvador. Those voices include our artists as well as the interviewees.
