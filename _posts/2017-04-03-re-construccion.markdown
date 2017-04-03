@@ -31,7 +31,7 @@ author-bio: Ryan Camero is an arts activist and community organizer who believes
   and was awarded the national Brower Youth Award in 2015.
 ---
 
-I first met Sayre Quevedo several years ago in the Bay Area. When we first met he was reserved and thoughtful, but I soon realized Sayre’s voice really came alive as a passionate multimedia journalist working for [YouthRadio](https://youthradio.org/) at the time. That organization seemed so uplifting and impactful, especially as a case study of youth empowerment for skills building in Stockton. I remember reaching out to Sayre about his experiences, being hopeful at how much he was growing with his passions as a result of being involved. Spanning coverage on NPR’s *All Things Considered*, *Marketplace*, *National Geographic*, and more, I was amazed at the issues he focused on diligently covering—from [juvenile justice issues](https://youthradio.org/journalism/juvenile-justice/for-juvenile-offenders-supreme-court-ruling-opens-door-to-parole/) to [job opportunities](https://youthradio.org/journalism/juvenile-justice/employing-young-people-may-prevent-violence-but-where-are-the-jobs/) to even his own [struggles with independence](https://youthradio.org/on-our-radar/when-independence-means-asking-for-help/). 
+I first met Sayre Quevedo several years ago in the Bay Area. When we first met he was reserved and thoughtful, but I soon realized Sayre’s voice really came alive as a passionate multimedia journalist working for [YouthRadio](https://youthradio.org/) at the time. That organization seemed so uplifting and impactful, especially as a case study of youth empowerment for skills building in Stockton. I remember reaching out to Sayre about his experiences, being hopeful at how much he was growing with his passions as a result of being involved. Spanning coverage on NPR’s *All Things Considered*, *Marketplace*, *National Geographic*, and more, I was amazed at the issues he focused on diligently covering—from [juvenile justice issues](https://youthradio.org/journalism/juvenile-justice/for-juvenile-offenders-supreme-court-ruling-opens-door-to-parole/) to [job opportunities](https://youthradio.org/journalism/juvenile-justice/employing-young-people-may-prevent-violence-but-where-are-the-jobs/) to even his own [struggles with independence](https://youthradio.org/on-our-radar/when-independence-means-asking-for-help/).
 
 ![1sayre.jpg](/uploads/1sayre.jpg)
 *Sayre Quevedo interviewing for Re:Construcción in Santa Marta.*
@@ -46,19 +46,18 @@ Currently, Sayre studies at the New School in New York City, majoring in Global 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OvMh4kg8US0" frameborder="0" allowfullscreen></iframe>
 
-
 Sayre and a team of others are working on [Re: Construcción](http://www.reconstruccionproject.com/), an interactive multimedia exhibit. From the official website, “The work focuses on the legacy and impact of the Salvadoran Civil War as well as contemporary themes: trans-national identity, intergenerational knowledge, and the societal effects of conflict. The exhibit is a transnational collaboration between individual artists, collectives, and community organizations that work with Salvadorans in the United States and El Salvador.
 
 Re: Construcción is a three-part project. The first part is a series of tables dedicated to eight individuals. Each table contains numbered household objects and photographs. Each number corresponds to a piece of audio interview or ambient sound. Viewers are guided through the interviewee’s stories by mp3 players. Their stories can be listened to linearly or the viewer can pick and choose which object they want to listen to.
 
 Part two of the project is an interactive wall that we are asking the Salvadoran community to come and add their own objects, drawings, writings, and perspectives on the impact on the war for themselves or the Salvadoran community at large. The idea is that as the exhibit travels across the United States and El Salvador the wall will gain new perspectives in every exhibit location.
 
-The third part of the exhibition is an art exhibition that brings together artists living in the country as well as those living in the diaspora.” 
+The third part of the exhibition is an art exhibition that brings together artists living in the country as well as those living in the diaspora.”
 
 Check out the interview, various photos and pieces from the exhibit, and support his [crowdfunding effort here](https://www.indiegogo.com/projects/re-construccion-community#/)!
 
 ![1photosayre.jpg](/uploads/1photosayre.jpg)
-*Photo by [Sayre Quevedo](http://reconstruccionproject.com/The-Team)* 
+*Photo by [Sayre Quevedo](http://reconstruccionproject.com/The-Team)*
 
 **Tell me about the process of how you came to this project.**
 
@@ -76,7 +75,7 @@ It means a couple of different things. First, people refer to the period after t
 ![1mauricio.jpg](/uploads/1mauricio.jpg)
 *Photo by [Mauricio Esquivel](http://reconstruccionproject.com/Mauricio-Esquivel)*
 
-**Who is involved?** 
+**Who is involved?**
 
 The folks—our artists and interview subjects—are from different backgrounds. They experienced the war from different vantage points, whether they were children or teens or young adults during that time. We have an interviewee who was the survivor of a massacre that happened during the war, how he looks at his family and what his life looks like now in the midst of that loss. We have two sisters who were activists. Our artists touch on themes of migration and the complexities of the post-war.
 
@@ -87,7 +86,7 @@ But to me, it’s important not to identify my interviewees by just their loss o
 
 **What does this project hope to do?**
 
-I think what I’m most interested in is continuing conversations around the Salvadoran Civil War and what that meant to the community there and in the U.S. I want folks who aren’t aware of what the war is to see the relevance of this experience in the world that we’re living in—not only in migration, not only in violence, but in terms of U.S policy around the world. Even in terms of the effects of conflict around the world as well, because while conflicts begin and end all the time officially... their scars still linger on and impact people. These are the ways in which people’s lives are changed in the midst of these conflicts. I want to show how complicated these experiences can be.
+I think what I’m most interested in is continuing conversations around the Salvadoran Civil War and what that meant to the community there and in the U.S. I want folks who aren’t aware of what the war is to see the relevance of this experience in the world that we’re living in—not only in migration, not only in violence, but in terms of U.S. policy around the world. Even in terms of the effects of conflict around the world as well, because while conflicts begin and end all the time officially... their scars still linger on and impact people. These are the ways in which people’s lives are changed in the midst of these conflicts. I want to show how complicated these experiences can be.
 
 ![1sisters.jpg](/uploads/1sisters.jpg)
 *Sofia and Dolores, two sisters and activists for the disappeared in El Salvador, show photos of their family who were disappeared or killed during the war.*
@@ -102,7 +101,7 @@ I think there are still a lot of unanswered questions around my connection to El
 
 **The official project website** - [http://reconstruccionproject.com/](http://reconstruccionproject.com/About-Re-Construccion)
 
-**Donate to the project via Indiegogo campaign (which ends April 10!)** - [https://www.indiegogo.com/projects/re-construccion-community#/](https://www.indiegogo.com/projects/re-construccion-community#/) 
+**Donate to the project via Indiegogo campaign (which ends April 10!)** - [https://www.indiegogo.com/projects/re-construccion-community#/](https://www.indiegogo.com/projects/re-construccion-community#/)
 
 **Exhibit locations/dates:**
 
@@ -111,7 +110,7 @@ Long Island: June 2-16
 Brooklyn/Queens: June 23-July 7
 
 Washington DC: July 14-July 28th
- 
+
 Los Angeles: August 4-August 18
 
 El Salvador: August 25-September 8
