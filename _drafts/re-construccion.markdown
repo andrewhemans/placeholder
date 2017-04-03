@@ -27,7 +27,10 @@ Re:Construcción is a three part project. The first part is a series of tables d
 
 Part two of the project is an interactive wall that we are asking the Salvadoran community to come and add their own objects, drawings, writings, and perspectives on the impact on the war for themselves or the Salvadoran community at large. The idea is that as the exhibit travels across the United States and El Salvador the wall will gain new perspectives in every exhibit location.
 
-The third part of the exhibition is an art exhibition that brings together artists living in the country as well as those living in the diaspora.” Check out the interview, various photos and pieces from the exhibit, and support his [crowdfunding effort here](https://www.indiegogo.com/projects/re-construccion-community#/)! 
+The third part of the exhibition is an art exhibition that brings together artists living in the country as well as those living in the diaspora.” Check out the interview, various photos and pieces from the exhibit, and support his [crowdfunding effort here](https://www.indiegogo.com/projects/re-construccion-community#/)!
+
+![1photosayre.jpg](/uploads/1photosayre.jpg)
+*Photo by Sayre Quevedo* 
 
 **Tell me about the process of how you came to this project.**
 
