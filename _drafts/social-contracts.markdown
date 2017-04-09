@@ -20,7 +20,7 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
   of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
-![PIO (1)-min.jpg](/uploads/PIO%20(1)-min.jpg)
+![PIO (2)-min.jpg](/uploads/PIO%20(2)-min.jpg)
 *personal injury object*, 2016
 Steel, rubber, electrical cord, paint
 
