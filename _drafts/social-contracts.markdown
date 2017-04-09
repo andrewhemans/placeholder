@@ -8,7 +8,7 @@ tags:
 - safety
 - responsible
 - social issues
-image: "/uploads/Matthew%20Barncord_PIO%20detail(3).jpg"
+image: "/uploads/Matthew%20Barncord_PIO%20detail(2000pxl).jpg"
 author: Aida Lizalde
 description: 'Matthew Barncord shocks us with striking minimalist sculptures reminiscent
   of everyday objects. '
