@@ -1,5 +1,5 @@
 ---
-title: Considering Social Contracts
+title: Social Contracts
 date: 2017-04-09 20:18:00 -07:00
 categories:
 - Art
