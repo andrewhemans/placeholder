@@ -31,6 +31,7 @@ Whose responsibility is safety? It seems that it is anyone’s but our own as pe
 The least safe situation imaginable is the one in which we expect our safety to be handled. The least responsible thing we can do for others is to presume to act on behalf of their safety, because what we really do is rob them of their own responsibility.
 
 ![Matthew Barncord_PIO detail(3).jpg](/uploads/Matthew%20Barncord_PIO%20detail(3).jpg)
+
 ![Matthew Barncord_PIO detail(2).jpg](/uploads/Matthew%20Barncord_PIO%20detail(2).jpg)
 
 The medium I have chosen to utilize for this work, beyond its materials, is the language of systematic safety and the improper use of that language’s syntax. The materials are recognizable, even banal, but they are steeped in a system of codes of safety that often go unrecognized. There are literally laws for how these materials must exist and interact in the world so that we don’t have to think about them. By using these materials removed from their coded system of safety I hope to make clear the independence that things and the use of those things have from the systems, such as safety codes, that we assign to them. At the same time, I hope to clarify that safety is not inherent and is, in all ways that matter, our own responsibility.
