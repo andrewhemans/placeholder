@@ -18,6 +18,8 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
 ---
 
 ![Matthew Barncord_PIO.jpg](/uploads/Matthew%20Barncord_PIO.jpg)
+*personal injury object*, 2016
+Steel, rubber, electrical cord, paint
 
 Whose responsibility is safety? It seems that it is anyone’s but our own as people constantly look to blame an administrator, an organization or society itself for every injury and mishap that occurs. The expectation is that it is someone’s job to ensure our safety and wellbeing. It is someone’s responsibility to look after the world and make damned sure there are no sharp edges, no tripping hazards, nothing injuriously unexpected. It is always someone’s responsibility, but never ours.
 
