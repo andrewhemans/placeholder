@@ -42,4 +42,4 @@ The medium I have chosen to utilize for this work, beyond its materials, is the 
 
 **Find out more:**
 
-http://cargocollective.com/MatthewBarncord
+[http://cargocollective.com/MatthewBarncord](http://cargocollective.com/MatthewBarncord)
