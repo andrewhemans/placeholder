@@ -4,10 +4,15 @@ date: 2017-04-10 14:55:00 -07:00
 ---
 
 Matt biked into the forest under the last light of autumn — leaves and bark burning. The smell signaled war.
+
 He pedaled along the tree line, past the lonely playground in the field, and turned into an opening between some bushes. The swings and slides were called Cheska Park, and so too the trees Matt passed through, the field that lay ahead, the sparse clumps of trees in between and the final, dense stretch of growth that bordered a shopping center. The quasi-forest was not public land, and the signs said so. TRESPASSERS WILL BE PROSECUTED.  He pushed through the bush that blocked one field from the other, and started down the path that would take him towards his destination — deeper into the field where the clumps of trees were most dense.
+
 He hoped whoever’s fort was burning had escaped, and that this fire was not the one to bring the whole forest to ash.
+
 -It’s not even a forest — just some trees. Jackie’s voice rang through Matt’s thoughts.
+
 No one had died or been seriously injured yet. A few kids had been burned badly, mostly the ones who started fires, and no longer came to play the great game in the forest. The fires had lapped up their skin - left scars they were proud of - but they quit after learning that burn-pain subsides long after the first hospital visit. Matt had no idea how they explained why they came home from playing at the park needing hospital visits.
+
 “If you help us, we’re sure to win. We’ll have the numbers,” Gary had said.
 Matt was against escalating the wars, though not the wars themselves. Every war brought in a steady flow of materials from kids who sold their stuff to him in exchange for other materials. He could profit if he stayed out of it.
 “War’s no good for business,” said Matt, as he turned his back on Gary to count his dandelions.
