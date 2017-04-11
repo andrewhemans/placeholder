@@ -28,7 +28,9 @@ Whose responsibility is safety? It seems that it is anyone’s but our own as pe
 
 ![PIO (1)-min.jpg](/uploads/PIO%20(1)-min.jpg)
 
+
 >The least safe situation imaginable is the one in which we expect our safety to be handled. 
+
 
 The least responsible thing we can do for others is to presume to act on behalf of their safety, because what we really do is rob them of their own responsibility.
 
