@@ -1,6 +1,14 @@
 ---
 title: Quarry
 date: 2017-04-10 14:55:00 -07:00
+author: Reid Kurkerewicz
+author-block: true
+author-bio: Reid Kurkerewicz is a writer from Madison, WI. He is currently finishing
+  a short story collection that takes place in his hometown of Racine, Wisconsin,
+  researching a fake-memoir for the illegitimate son of Brett Favre and creating a
+  working theology for a theoretical cartoon about a flamingo. Reid's work has appeared
+  in Water Soup, UW Flash Fiction and journalistic publications local to Madison,
+  WI. You can find more of his writing at deluxesounds.wordpress.com.
 ---
 
 Matt biked into the forest under the last light of autumn — leaves and bark burning. The smell signaled war.
@@ -72,3 +80,9 @@ The new way of war emerged from an accident. A kid named Richard, known to have 
 The arrow flew about two feet before being buffeted back by the wind, which fed the flames that sputtered back at Richard’s feet, lighting the dry grass where the can of WD-40 lay. The kid was then said to have booked it before the pressurized can exploded. The idiot could have just kicked the can away.     	                                                                                	
                           
 The bright orange flames licking the white clouds. Smoke billowing white to grey. Black char snaking up the trunk. Leaves tumbling like a rapid autumn. Burning confetti. The flames. The flames sparkling and glistening against a blue sky. Gorging on the dried grass - the bonfire reflected in the eyes of a dozen kids.
+
+Twitter: @readkurk
+
+Instagram: @readkurk
+
+Blog: deluxesounds.wordpress.com
