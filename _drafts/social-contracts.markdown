@@ -46,3 +46,5 @@ The medium I have chosen to utilize for this work, beyond its materials, is the 
 
 **Find out more:**
 http://cargocollective.com/MatthewBarncord
+
+Visual and written content by Matthew Barncord curated by Aida Lizalde.
