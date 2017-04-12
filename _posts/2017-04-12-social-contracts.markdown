@@ -1,6 +1,6 @@
 ---
 title: Social Contracts
-date: 2017-04-09 20:18:00 -07:00
+date: 2017-04-12 10:58:00 -07:00
 categories:
 - Art
 tags:
