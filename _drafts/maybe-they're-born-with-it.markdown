@@ -1,5 +1,5 @@
 ---
-title: Maybe they're born with it
+title: Maybe they're born with it (NSFW)
 date: 2017-04-16 20:01:00 -07:00
 categories:
 - Art
