@@ -21,7 +21,8 @@ He hoped whoever’s fort was burning had escaped, and that this fire was not th
 
 No one had died or been seriously injured yet. A few kids had been burned badly, mostly the ones who started fires, and no longer came to play the great game in the forest. The fires had lapped up their skin - left scars they were proud of - but they quit after learning that burn-pain subsides long after the first hospital visit. Matt had no idea how they explained why they came home from playing at the park needing hospital visits.
 
-\*
+                                \*
+
 “If you help us, we’re sure to win. We’ll have the numbers,” Gary had said.
 
 Matt was against escalating the wars, though not the wars themselves. Every war brought in a steady flow of materials from kids who sold their stuff to him in exchange for other materials. He could profit if he stayed out of it.
@@ -32,10 +33,12 @@ Before the kids learned to use fire, wars looked more like a game of dodgeball w
 
 Jackie yelled, “Attack!” and her allies — kids she’d conquered who still wanted to play — heaved their sticks as one, catching the coalition by surprise, who melted away into various hiding spots like roaches hiding from the light, thought Matt, safe from the battle in his neutrality. He never witnessed any close combat. No one ever ran up close enough to stab or be stabbed, which made the battles kind of boring once you’ve seen a hundred of them. After all the coalition kids scattered, Jackie walked up and planted her spear in the ground just beyond her conquest, outlining the new extent of her territory, while her allies ran forward into the abandoned fort. One kid came out with an armful of dandelions, and another hacked at logs that were lined up as a roof, while the rest of her gang went back to working in whatever fort of Jackie’s they managed. That victory meant Jackie controlled more territory than the rest of the kids put together.
                          
+\*
 Matt biked further down the path through the field, until he was overcome by wild grass and was forced to dismount. He walked up to the second line of trees that were parallel to the first one, and carefully maneuvered his bike over the wooden bridge that had continued the path over the creek since before this generation of Racinians built their forts. You could tell there were others by the ruins they left behind. Buried litter, fire pits, ancient beer cans. As he moved beyond the wild trees that grew sideways, the field where most of the forts were built came into view, and the smell of smoke grew stronger. He still couldn’t find the source. He walked his bike past forts where kids were hard at work, chopping at bush, collecting and stashing dandelions, or simply hanging out.
 
 Each fort had a large tree in the center, though sometimes they were chopped down to create a loft. The bush around the tree was cleared out to give the owner a doughnut of space to move around in, which extended until the bush became too thick to rip up. The trees grew this way after the company that owned the field bulldozed their property in preparation for a quarry, but they let it sit fallow for decades. Crooked trees and wildflowers sprang up and expanded like wild oases across the grass. There really was no forest, only clumps of growth, but each fort was constructed in an epicenter from which wilderness was sparked and natural territory reclaimed by the slow onslaught of nature.
                                 
+\*
 -There’s no strategy, Matt had said last week at the meeting of fort owners. We need to have rules.
 
 The 13 owners stood or squatted around an iron drum that marked what they guessed to be the center of the field, which was a no man’s land where wars were staged or peace declared. Ages varied from 11 to 14, all in war paint, dirt streaked across their cheeks, cargo shorts bulging, loaded with sharpened sticks. Matt’s knife he’d carved himself - with his Father’s real knife - was stowed in his hoodie’s front pocket, and he squeezed it while they debated. Jackie stood tallest, and her iconic staff with a red white and blue ribbon was slung by knotted vines across her back, and poked out from behind her black pony tail. Many of the kids present had been playing at forts since before there was any competition - when they built spaces to call their own.
