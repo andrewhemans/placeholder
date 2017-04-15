@@ -25,7 +25,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
 
 ![Grubb (10).jpg](/uploads/Grubb%20(10).jpg)
 
-Kevin Zee and William Grubb, two Sacramento based artists, collaborated on a series of photographs that were featured in the temporary ArtStreet exhibition in February 2017. The two played with the concept of makeup as a mask. Grubb created images of models wearing makeup in public places and Zee took samples of the makeup on the model’s faces and photographed them on a microscopic level. The microscopic images of the makeup were digitally overlaid onto the faces of the models.
+Kevin Zee and William Grubb, two Sacramento based artists, collaborated on a series of photographs that were displayed in the temporary ArtStreet exhibition in February 2017. The two played with the concept of makeup as a mask. Grubb created images of models wearing makeup in public places and Zee took samples of the makeup on the model’s faces and photographed them on a microscopic level. The microscopic images of the makeup were digitally overlaid onto the faces of the models.
 
 ![Grubb (5).jpg](/uploads/Grubb%20(5).jpg)
 
