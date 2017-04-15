@@ -26,8 +26,9 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
 
 
 
-**Find out more:
-**
+**Find out more:**
 [kevinzee.com](www.kevinzee.com)
+
 [@william.grubb](https://www.instagram.com/william.grubb/)
+
 [@papa_fuzz](https://www.instagram.com/papa_fuzz/)
