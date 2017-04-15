@@ -23,7 +23,15 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
+![Grubb (10).jpg](/uploads/Grubb%20(10).jpg)
 
+![Grubb (5).jpg](/uploads/Grubb%20(5).jpg)
+
+![Grubb (1).jpg](/uploads/Grubb%20(1).jpg)
+
+![Grubb (3).jpg](/uploads/Grubb%20(3).jpg)
+
+![Grubb (4).jpg](/uploads/Grubb%20(4).jpg)
 
 
 **William Grubb** has been making photographs since 2007. With a background in photojournalism and creative writing he captures and creates intimate images of gesture and the human form. Conceptual portraiture, street photography and rugged landscapes of the Sierra Nevada dominate his visual work. Grubb is an analog photographer who processes and prints his film in a home darkroom at his Sacramento studio.
