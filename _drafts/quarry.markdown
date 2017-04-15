@@ -21,7 +21,7 @@ He hoped whoever’s fort was burning had escaped, and that this fire was not th
 
 No one had died or been seriously injured yet. A few kids had been burned badly, mostly the ones who started fires, and no longer came to play the great game in the forest. The fires had lapped up their skin - left scars they were proud of - but they quit after learning that burn-pain subsides long after the first hospital visit. Matt had no idea how they explained why they came home from playing at the park needing hospital visits.
 
-                                \*
+<div align="center">*</div> 
 
 “If you help us, we’re sure to win. We’ll have the numbers,” Gary had said.
 
@@ -33,12 +33,14 @@ Before the kids learned to use fire, wars looked more like a game of dodgeball w
 
 Jackie yelled, “Attack!” and her allies — kids she’d conquered who still wanted to play — heaved their sticks as one, catching the coalition by surprise, who melted away into various hiding spots like roaches hiding from the light, thought Matt, safe from the battle in his neutrality. He never witnessed any close combat. No one ever ran up close enough to stab or be stabbed, which made the battles kind of boring once you’ve seen a hundred of them. After all the coalition kids scattered, Jackie walked up and planted her spear in the ground just beyond her conquest, outlining the new extent of her territory, while her allies ran forward into the abandoned fort. One kid came out with an armful of dandelions, and another hacked at logs that were lined up as a roof, while the rest of her gang went back to working in whatever fort of Jackie’s they managed. That victory meant Jackie controlled more territory than the rest of the kids put together.
                          
-\*
+<div align="center">*</div>
+
 Matt biked further down the path through the field, until he was overcome by wild grass and was forced to dismount. He walked up to the second line of trees that were parallel to the first one, and carefully maneuvered his bike over the wooden bridge that had continued the path over the creek since before this generation of Racinians built their forts. You could tell there were others by the ruins they left behind. Buried litter, fire pits, ancient beer cans. As he moved beyond the wild trees that grew sideways, the field where most of the forts were built came into view, and the smell of smoke grew stronger. He still couldn’t find the source. He walked his bike past forts where kids were hard at work, chopping at bush, collecting and stashing dandelions, or simply hanging out.
 
 Each fort had a large tree in the center, though sometimes they were chopped down to create a loft. The bush around the tree was cleared out to give the owner a doughnut of space to move around in, which extended until the bush became too thick to rip up. The trees grew this way after the company that owned the field bulldozed their property in preparation for a quarry, but they let it sit fallow for decades. Crooked trees and wildflowers sprang up and expanded like wild oases across the grass. There really was no forest, only clumps of growth, but each fort was constructed in an epicenter from which wilderness was sparked and natural territory reclaimed by the slow onslaught of nature.
                                 
-\*
+<div align="center">*</div> 
+
 -There’s no strategy, Matt had said last week at the meeting of fort owners. We need to have rules.
 
 The 13 owners stood or squatted around an iron drum that marked what they guessed to be the center of the field, which was a no man’s land where wars were staged or peace declared. Ages varied from 11 to 14, all in war paint, dirt streaked across their cheeks, cargo shorts bulging, loaded with sharpened sticks. Matt’s knife he’d carved himself - with his Father’s real knife - was stowed in his hoodie’s front pocket, and he squeezed it while they debated. Jackie stood tallest, and her iconic staff with a red white and blue ribbon was slung by knotted vines across her back, and poked out from behind her black pony tail. Many of the kids present had been playing at forts since before there was any competition - when they built spaces to call their own.
@@ -79,7 +81,7 @@ Half of the boys and girls shot their hands up, and the other kids slowly raised
 
 -Whatever. That’s super far away from the rest of us, but he’ll deal with it.
 
-\*
+<div align="center">*</div> 
 
 The new way of war emerged from an accident. A kid named Richard, known to have an ample allowance to spend on nails, wooden planks, a hatchet, and a hammer, built himself a fire with which to make fire-arrows. He’d stolen the concept from a video game. The kid rubbed WD-40 on the end of a homemade arrow, and dipped it into the fire until the sharp tip managed to hold a flame. He knocked his bow, fashioned from sticks and a rubbery vine that could be found in the trees, and sent the arrow over his fort towards the next one over. He was supposed to have an alliance with that kid, but the test was necessary.
 
@@ -89,7 +91,7 @@ The arrow flew about two feet before being buffeted back by the wind, which fed 
                           
 The bright orange flames licking the white clouds. Smoke billowing white to grey. Black char snaking up the trunk. Leaves tumbling like a rapid autumn. Burning confetti. The flames. The flames sparkling and glistening against a blue sky. Gorging on the dried grass - the bonfire reflected in the eyes of a dozen kids.
 
-\*
+<div align="center">*</div> 
 
 None of the kids missed Richard much. He was universally hated in the game for having the most luxurious fort, which was crowned by a highly lusted after lookout positioned on top of his tree. The rumor was that his Dad helped him bring it up there, very illegal, but no one knew how it came down. The lookout survived the fire, but there was only a day before the crate disappeared.
 
@@ -97,7 +99,8 @@ Matt loved the fire. He was fond of using his own fort’s fire-pit to destroy w
 
 That night, after many of the kids had gone home, Matt went to see what was left of Richard’s fort. The tree in the middle was charred black halfway up the trunk, and the burn radius went out in a spectrum from the middle. He decided to pilfer what was left for his own fort. He dragged the larger logs over to his fort, and yanked on the 2x4 boards nailed into the black tree until they gave way. He couldn’t un-lodge the lookout now; he didn’t think about that before he’d stolen the ladder. Matt had proudly sworn off outside materials, mostly because he did not have an allowance himself, but now he had the nails and wood to build himself a lookout in his own tree.
 
-                                \*
+<div align="center">*</div>
+
 The first intentional act of war with fire was committed against Jackie's fort. She made enemies when she laid claim to large swaths of territory that may or may not have been in play during her wars. This kind of thing was hard to keep track of. In some of the kid’s interpretation of the unspoken rules, including Matt’s, she moved her spears farther into territory than should be allowed after a victory, and had been accused of moving her perimeter spears in the night when most of the kids left the forest.
 
 This land snatching enraged kids whose property was less than it should be. A group of them secretly decided to defend whoever was attacked next, a prototype of their later coalition, and this group included Gary Snick. Gary was known for using his fort as a hide-out to not-so-discreetly masturbate, which made it simple for Jackie to declare war once her territory touched his. She was clearing out the weirdos. The coalition wanted Gary on their side if they themselves were attacked, but didn’t really mind his awkward deviance being wiped away. He spent too much time in his tent of sticks, and there was enough space in between for accidental voyeurs.
@@ -118,14 +121,15 @@ The next day, Jackie caught Gary splashing gasoline against her tree.
 
 Gary’s fort burned to the ground that night. No one saw who did it, though they knew. The fire leapt around the tree on a trail of gasoline. Ashes spewed out from the maple like a rotating sprinkler, and soon the tree was groaning. Finally, there was a gunshot snap, and Matt watched the old tree tumble and decimate the wood tent Gary had slaved over that now seemed so pitiful against an inferno. Many of the kids ran home, sure that the fire department was on its way, but the fire burned itself out and was only concerned with what had been constructed by human hands. There was a little black hole where Gary’s fort used to be. He never came back, and there was nothing left to pillage.
 
-\*
+<div align="center">*</div> 
                               
 Jackie left Matt’s fort alone because he paid good tribute. 100 dandelions a week wasn’t hard to collect if they grew abundantly around your fort. Matt was lucky, and known to be a reliable merchant. Every spring, the golden coins would spring up all around Matt’s fort, dominating the green of the grass that was forced below by the flowers. Much of Matt’s time was spent driving other kids away from picking from his mine, but he didn’t mind staring at the yellow waves for long periods of time, watching the golden sea flow with the wind.
 
 No one remembered who decided the dandelions were currency, but when they did, Matt ripped them up until his arms grew tired, but still, there was a limitless supply left. They were a weed after all. He collected them into a hole he dug in his fort to store them, and when winter approached and ended the game, before they became scarce, he kicked and swatted at the mature white dandelions, sending the seeds into the wind so the harvest next year would be plentiful.
 
 With the number of dandelions Matt gave to Jackie, he could have bought the materials for his outlook long ago, but maybe he would’ve been driven out by then by Jackie’s empire. She had too many alliances and kids at her disposal to pillage his fort while he was at school for him to take her threatening warmongering lightly. He knew the tribute would only leave him somewhat autonomous if there were other forts left for her to encroach on, but he also accepted that no one could play the game forever.
-                                                        		\*
+                                                        		<div align="center">*</div> 
+
 Matt looked at where his watch used to be before remembering that he had lost it in Cheska a few days ago. He didn’t remember when the moment of loss was, but after he was home from the fort and realized it was missing, he went out in search for it in the evening. He didn’t account for how dark the forest would be. There was light, except for the headlights that passed on the adjacent road, briefly casting a hundred shadows across the field, and making Matt feel monitored. Coyotes that Matt imagined to be wolves howled from inside. But if his mother noticed his watch was missing he would be in trouble, and he was more afraid of her than wolves. The watch was an expensive gift for his birthday, and Matt loved how adult it made him feel, tracking time to plan his day. He came close to his fort, shining his flashlight around his feet, but froze as he heard voices.
 
 They came from his fort ahead of him. They sounded like teenagers, and a smell like incense that he correctly guessed to be marijuana floated to him on the breeze. He saw a lighter’s flash. Heard laughter. They were probably sitting on the log he had dragged in for a seat, throwing their trash on his ground. They were probably like the kids in the antismoking videos they were forced to watch, leather jackets and greasy hair, bad choices piled upon bad choices.
@@ -155,8 +159,8 @@ As Matt stared at the rising pillar of smoke, he spotted a figure as it leapt ou
 The kid’s head burned. A trail of smoke swirled as he ran in wide circles. Matt saw the black hole of the kid’s mouth screaming, but the noise didn’t reach him.
 
 
-Twitter: @readkurk
+Twitter: [@readkurk](https://twitter.com/Readkurk)
 
-Instagram: @readkurk
+Instagram: [@readkurk](https://www.instagram.com/readkurk/?hl=en)
 
-Blog: deluxesounds.wordpress.com
+Blog: [deluxesounds.wordpress.com](https://deluxesounds.wordpress.com/)
