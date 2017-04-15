@@ -21,6 +21,7 @@ He hoped whoever’s fort was burning had escaped, and that this fire was not th
 
 No one had died or been seriously injured yet. A few kids had been burned badly, mostly the ones who started fires, and no longer came to play the great game in the forest. The fires had lapped up their skin - left scars they were proud of - but they quit after learning that burn-pain subsides long after the first hospital visit. Matt had no idea how they explained why they came home from playing at the park needing hospital visits.
 
+\*
 “If you help us, we’re sure to win. We’ll have the numbers,” Gary had said.
 
 Matt was against escalating the wars, though not the wars themselves. Every war brought in a steady flow of materials from kids who sold their stuff to him in exchange for other materials. He could profit if he stayed out of it.
