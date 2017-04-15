@@ -85,9 +85,11 @@ The new way of war emerged from an accident. A kid named Richard, known to have 
 
 The arrow flew about two feet before being buffeted back by the wind, which fed the flames that sputtered back at Richard’s feet, lighting the dry grass where the can of WD-40 lay. The kid was then said to have booked it before the pressurized can exploded. The idiot could have just kicked the can away. 
 
-<div align="center">TEXT</div>   	                                                                                	
+<div align="center">*</div>   	                                                                                	
                           
 The bright orange flames licking the white clouds. Smoke billowing white to grey. Black char snaking up the trunk. Leaves tumbling like a rapid autumn. Burning confetti. The flames. The flames sparkling and glistening against a blue sky. Gorging on the dried grass - the bonfire reflected in the eyes of a dozen kids.
+
+\*
 
 None of the kids missed Richard much. He was universally hated in the game for having the most luxurious fort, which was crowned by a highly lusted after lookout positioned on top of his tree. The rumor was that his Dad helped him bring it up there, very illegal, but no one knew how it came down. The lookout survived the fire, but there was only a day before the crate disappeared.
 
@@ -95,7 +97,7 @@ Matt loved the fire. He was fond of using his own fort’s fire-pit to destroy w
 
 That night, after many of the kids had gone home, Matt went to see what was left of Richard’s fort. The tree in the middle was charred black halfway up the trunk, and the burn radius went out in a spectrum from the middle. He decided to pilfer what was left for his own fort. He dragged the larger logs over to his fort, and yanked on the 2x4 boards nailed into the black tree until they gave way. He couldn’t un-lodge the lookout now; he didn’t think about that before he’d stolen the ladder. Matt had proudly sworn off outside materials, mostly because he did not have an allowance himself, but now he had the nails and wood to build himself a lookout in his own tree.
 
-                                *
+                                \*
 The first intentional act of war with fire was committed against Jackie's fort. She made enemies when she laid claim to large swaths of territory that may or may not have been in play during her wars. This kind of thing was hard to keep track of. In some of the kid’s interpretation of the unspoken rules, including Matt’s, she moved her spears farther into territory than should be allowed after a victory, and had been accused of moving her perimeter spears in the night when most of the kids left the forest.
 
 This land snatching enraged kids whose property was less than it should be. A group of them secretly decided to defend whoever was attacked next, a prototype of their later coalition, and this group included Gary Snick. Gary was known for using his fort as a hide-out to not-so-discreetly masturbate, which made it simple for Jackie to declare war once her territory touched his. She was clearing out the weirdos. The coalition wanted Gary on their side if they themselves were attacked, but didn’t really mind his awkward deviance being wiped away. He spent too much time in his tent of sticks, and there was enough space in between for accidental voyeurs.
@@ -116,13 +118,14 @@ The next day, Jackie caught Gary splashing gasoline against her tree.
 
 Gary’s fort burned to the ground that night. No one saw who did it, though they knew. The fire leapt around the tree on a trail of gasoline. Ashes spewed out from the maple like a rotating sprinkler, and soon the tree was groaning. Finally, there was a gunshot snap, and Matt watched the old tree tumble and decimate the wood tent Gary had slaved over that now seemed so pitiful against an inferno. Many of the kids ran home, sure that the fire department was on its way, but the fire burned itself out and was only concerned with what had been constructed by human hands. There was a little black hole where Gary’s fort used to be. He never came back, and there was nothing left to pillage.
 
+\*
                               
 Jackie left Matt’s fort alone because he paid good tribute. 100 dandelions a week wasn’t hard to collect if they grew abundantly around your fort. Matt was lucky, and known to be a reliable merchant. Every spring, the golden coins would spring up all around Matt’s fort, dominating the green of the grass that was forced below by the flowers. Much of Matt’s time was spent driving other kids away from picking from his mine, but he didn’t mind staring at the yellow waves for long periods of time, watching the golden sea flow with the wind.
 
 No one remembered who decided the dandelions were currency, but when they did, Matt ripped them up until his arms grew tired, but still, there was a limitless supply left. They were a weed after all. He collected them into a hole he dug in his fort to store them, and when winter approached and ended the game, before they became scarce, he kicked and swatted at the mature white dandelions, sending the seeds into the wind so the harvest next year would be plentiful.
 
 With the number of dandelions Matt gave to Jackie, he could have bought the materials for his outlook long ago, but maybe he would’ve been driven out by then by Jackie’s empire. She had too many alliances and kids at her disposal to pillage his fort while he was at school for him to take her threatening warmongering lightly. He knew the tribute would only leave him somewhat autonomous if there were other forts left for her to encroach on, but he also accepted that no one could play the game forever.
-                                                        		*
+                                                        		\*
 Matt looked at where his watch used to be before remembering that he had lost it in Cheska a few days ago. He didn’t remember when the moment of loss was, but after he was home from the fort and realized it was missing, he went out in search for it in the evening. He didn’t account for how dark the forest would be. There was light, except for the headlights that passed on the adjacent road, briefly casting a hundred shadows across the field, and making Matt feel monitored. Coyotes that Matt imagined to be wolves howled from inside. But if his mother noticed his watch was missing he would be in trouble, and he was more afraid of her than wolves. The watch was an expensive gift for his birthday, and Matt loved how adult it made him feel, tracking time to plan his day. He came close to his fort, shining his flashlight around his feet, but froze as he heard voices.
 
 They came from his fort ahead of him. They sounded like teenagers, and a smell like incense that he correctly guessed to be marijuana floated to him on the breeze. He saw a lighter’s flash. Heard laughter. They were probably sitting on the log he had dragged in for a seat, throwing their trash on his ground. They were probably like the kids in the antismoking videos they were forced to watch, leather jackets and greasy hair, bad choices piled upon bad choices.
