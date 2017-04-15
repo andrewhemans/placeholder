@@ -79,9 +79,13 @@ Half of the boys and girls shot their hands up, and the other kids slowly raised
 
 -Whatever. That’s super far away from the rest of us, but he’ll deal with it.
 
+\*
+
 The new way of war emerged from an accident. A kid named Richard, known to have an ample allowance to spend on nails, wooden planks, a hatchet, and a hammer, built himself a fire with which to make fire-arrows. He’d stolen the concept from a video game. The kid rubbed WD-40 on the end of a homemade arrow, and dipped it into the fire until the sharp tip managed to hold a flame. He knocked his bow, fashioned from sticks and a rubbery vine that could be found in the trees, and sent the arrow over his fort towards the next one over. He was supposed to have an alliance with that kid, but the test was necessary.
 
-The arrow flew about two feet before being buffeted back by the wind, which fed the flames that sputtered back at Richard’s feet, lighting the dry grass where the can of WD-40 lay. The kid was then said to have booked it before the pressurized can exploded. The idiot could have just kicked the can away.     	                                                                                	
+The arrow flew about two feet before being buffeted back by the wind, which fed the flames that sputtered back at Richard’s feet, lighting the dry grass where the can of WD-40 lay. The kid was then said to have booked it before the pressurized can exploded. The idiot could have just kicked the can away. 
+
+<div align="center">TEXT</div>   	                                                                                	
                           
 The bright orange flames licking the white clouds. Smoke billowing white to grey. Black char snaking up the trunk. Leaves tumbling like a rapid autumn. Burning confetti. The flames. The flames sparkling and glistening against a blue sky. Gorging on the dried grass - the bonfire reflected in the eyes of a dozen kids.
 
