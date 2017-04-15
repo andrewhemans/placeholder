@@ -1,5 +1,5 @@
 ---
-title: Close Glances
+title: Maybe they're born with it
 date: 2017-04-16 20:01:00 -07:00
 categories:
 - Art
