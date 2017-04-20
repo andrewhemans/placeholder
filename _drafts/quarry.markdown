@@ -1,8 +1,10 @@
 ---
 title: Quarry
 date: 2017-04-10 14:55:00 -07:00
+image: "/uploads/Quarry_Cover-min.jpg"
 author: Reid Kurkerewicz
 author-block: true
+author-image: "/uploads/Reid_Quarry_Author-min.jpg"
 author-bio: Reid Kurkerewicz is a writer from Madison, WI. He is currently finishing
   a short story collection that takes place in his hometown of Racine, Wisconsin,
   researching a fake-memoir for the illegitimate son of Brett Favre and creating a
