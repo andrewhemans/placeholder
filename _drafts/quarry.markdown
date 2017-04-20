@@ -1,10 +1,20 @@
 ---
 title: Quarry
 date: 2017-04-10 14:55:00 -07:00
+categories:
+- Literature
 tags:
 - featured
+- Fire
+- Youth
+- nature
+- Fiction
+- quarry
+- elements
 image: "/uploads/Quarry_Cover-min.jpg"
 author: Reid Kurkerewicz
+description: In a quarry-turned forest, kids use element of fire while playing the
+  great game of war.
 author-block: true
 author-image: "/uploads/Reid_Quarry_Author-min.jpg"
 author-bio: Reid Kurkerewicz is a writer from Madison, WI. He is currently finishing
