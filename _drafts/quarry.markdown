@@ -1,6 +1,6 @@
 ---
 title: Quarry
-date: 2017-04-10 14:55:00 -07:00
+date: 2017-04-20 14:55:00 -07:00
 categories:
 - Literature
 tags:
