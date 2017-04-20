@@ -3,7 +3,7 @@ title: Quarry
 date: 2017-04-10 14:55:00 -07:00
 tags:
 - featured
-image: "/uploads/Quarry_Cover-min.jpg"
+image: "/uploads/wood-explosion-fire-hot-min.jpg"
 author: Reid Kurkerewicz
 author-block: true
 author-image: "/uploads/Reid_Quarry_Author-min.jpg"
