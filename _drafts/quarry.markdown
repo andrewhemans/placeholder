@@ -1,8 +1,22 @@
 ---
 title: Quarry
-date: 2017-04-10 14:55:00 -07:00
+date: 2017-04-20 14:55:00 -07:00
+categories:
+- Literature
+tags:
+- featured
+- Fire
+- Youth
+- nature
+- Fiction
+- quarry
+- elements
+image: "/uploads/Quarry_Cover-min.jpg"
 author: Reid Kurkerewicz
+description: In a quarry-turned forest, kids use element of fire while playing the
+  great game of war.
 author-block: true
+author-image: "/uploads/Reid_Quarry_Author-min.jpg"
 author-bio: Reid Kurkerewicz is a writer from Madison, WI. He is currently finishing
   a short story collection that takes place in his hometown of Racine, Wisconsin,
   researching a fake-memoir for the illegitimate son of Brett Favre and creating a
@@ -17,7 +31,7 @@ He pedaled along the tree line, past the lonely playground in the field, and tur
 
 He hoped whoever’s fort was burning had escaped, and that this fire was not the one to bring the whole forest to ash.
 
--It’s not even a forest — just some trees. Jackie’s voice rang through Matt’s thoughts.
+"It’s not even a forest — just some trees." Jackie’s voice rang through Matt’s thoughts.
 
 No one had died or been seriously injured yet. A few kids had been burned badly, mostly the ones who started fires, and no longer came to play the great game in the forest. The fires had lapped up their skin - left scars they were proud of - but they quit after learning that burn-pain subsides long after the first hospital visit. Matt had no idea how they explained why they came home from playing at the park needing hospital visits.
 
@@ -41,45 +55,45 @@ Each fort had a large tree in the center, though sometimes they were chopped dow
                                 
 <div align="center">*</div> 
 
--There’s no strategy, Matt had said last week at the meeting of fort owners. We need to have rules.
+"There’s no strategy," Matt had said last week at the meeting of fort owners. We need to have rules.
 
 The 13 owners stood or squatted around an iron drum that marked what they guessed to be the center of the field, which was a no man’s land where wars were staged or peace declared. Ages varied from 11 to 14, all in war paint, dirt streaked across their cheeks, cargo shorts bulging, loaded with sharpened sticks. Matt’s knife he’d carved himself - with his Father’s real knife - was stowed in his hoodie’s front pocket, and he squeezed it while they debated. Jackie stood tallest, and her iconic staff with a red white and blue ribbon was slung by knotted vines across her back, and poked out from behind her black pony tail. Many of the kids present had been playing at forts since before there was any competition - when they built spaces to call their own.
 
 The full early-evening moon gave light to their meeting.
 
--There’s no rules in war, Jackie said, and the other boys and girls giggled as if this was a logic they had all acquired long ago.
+"There’s no rules in war," Jackie said, and the other boys and girls giggled as if this was a logic they had all acquired long ago.
 
--Well, offered Matt, scratching his head. You aren’t supposed to kill medics. That’s against the rules in real war.
+"Well," offered Matt, scratching his head. "You aren’t supposed to kill medics. That’s against the rules in real war."
 
--We don’t have doctors, said a kid Matt saw most days but did not know.
+"We don’t have doctors," said a kid Matt saw most days but did not know.
 
--But it’s not even fun this way. Every fort is vulnerable.
+"But it’s not even fun this way. Every fort is vulnerable."
 
--Not if you keep watch on it.
+"Not if you keep watch on it."
 
 Matt sighed. Everyone knew there was school, extracurriculars, dinner with the family, but if he said this they would know when he was open to attack. All a kid had to do was skip school, and he wasn't going to give them the idea. The group muttered before they were silenced when Jackie spoke.
 
--I’ll be using fire, because I know even if we ban it now some of you assholes will use it, and I’m not going to sit around peacefully and wait for my fort to get torched.
+"I’ll be using fire, because I know even if we ban it now some of you assholes will use it, and I’m not going to sit around peacefully and wait for my fort to get torched."
 
 A few of the kids muttered agreement and nodded. Matt rolled his eyes.
 
--If you’re not having fun you can go home, she continued with a smirk. All in favor of allowing for fire as an act of war raise your hands.
+"If you’re not having fun you can go home," she continued with a smirk. "All in favor of allowing for fire as an act of war raise your hands."
 
 Half of the boys and girls shot their hands up, and the other kids slowly raised their hands as they saw the majority. We should have done this with our eyes closed, thought Matt.
 
--That settles it.
+"That settles it."
 
--On to the next order of business. The new kid, uhh… Alberto, wants a fort, but he doesn't know where to go, said one of the older kids.
+"On to the next order of business. The new kid, uhh… Alberto, wants a fort, but he doesn't know where to go," said one of the older kids.
 
--He can have whatever open patch he wants. There’s a million.
+"He can have whatever open patch he wants. There’s a million."
 
--He can’t have one by me.
+"He can’t have one by me."
 
--Or me.
+"Or me."
 
--Let’s just give him a space after the second creek said Matt, bored with the proceedings.
+"Let’s just give him a space after the second creek," said Matt, bored with the proceedings.
 
--Whatever. That’s super far away from the rest of us, but he’ll deal with it.
+"Whatever. That’s super far away from the rest of us, but he’ll deal with it."
 
 <div align="center">*</div> 
 
@@ -107,17 +121,17 @@ This land snatching enraged kids whose property was less than it should be. A gr
 
 He met her on the battlefield, confident in his alliance, only to watch the kids who had agreed to help him stem the tide of Jackie’s empire run over to her side with their spears poised. He stood his ground alone, but ran as they started flinging the sticks. Jackie claimed all the land up to and around his fort. She consumed him.
 
--It wasn’t fair, whined Gary, as he handed over a pile of spears to Matt and detailed his version of the battle. He was so weak now, without influence, there was no point in owning weapons.
+"It wasn’t fair," whined Gary, as he handed over a pile of spears to Matt and detailed his version of the battle. He was so weak now, without influence, there was no point in owning weapons.
 
--Well, now you can focus on building up again. That part’s the most fun anyway.
+"Well, now you can focus on building up again. That part’s the most fun anyway."
 
--Whatever dude. Can you loan me some dandelions? I need a bunch of stuff now.
+"Whatever dude. Can you loan me some dandelions? I need a bunch of stuff now."
 
--No. Matt was an astute businessman. Gary was losing so bad he would pull out of the game soon, and then there would be no one to pay back his loan.
+"No." Matt was an astute businessman. Gary was losing so bad he would pull out of the game soon, and then there would be no one to pay back his loan.
 
 The next day, Jackie caught Gary splashing gasoline against her tree.
 
--Cheater! Jackie screamed as she walked in on Gary, the tree already burning, but not yet like Richard’s. Jackie’s fort was less combustible without the dried grass Richard let grow in his sanctum. The smoke didn’t even reach the tips of the tree before fanning out invisible, as Jackie’s fist slammed into Gary’s cock. Matt heard the poor kid’s screams from his own fort.
+"Cheater!" Jackie screamed as she walked in on Gary, the tree already burning, but not yet like Richard’s. Jackie’s fort was less combustible without the dried grass Richard let grow in his sanctum. The smoke didn’t even reach the tips of the tree before fanning out invisible, as Jackie’s fist slammed into Gary’s cock. Matt heard the poor kid’s screams from his own fort.
 
 Gary’s fort burned to the ground that night. No one saw who did it, though they knew. The fire leapt around the tree on a trail of gasoline. Ashes spewed out from the maple like a rotating sprinkler, and soon the tree was groaning. Finally, there was a gunshot snap, and Matt watched the old tree tumble and decimate the wood tent Gary had slaved over that now seemed so pitiful against an inferno. Many of the kids ran home, sure that the fire department was on its way, but the fire burned itself out and was only concerned with what had been constructed by human hands. There was a little black hole where Gary’s fort used to be. He never came back, and there was nothing left to pillage.
 
