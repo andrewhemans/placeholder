@@ -9,7 +9,7 @@ Imagine your home being burned to the ground. You salvage as many items as possi
 
 *embed video here*
 
-[video-759377-h264_high.mp4](/uploads/video-759377-h264_high.mp4)
+<iframe width="480" height="270" src="https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/widget/video.html" frameborder="0" scrolling="no"> </iframe>
 
 “Often times the stump will burn from the rim fire, there were loggers that were logging a, a stump, in a tree, 2 years later, and there was still flame inside the middle and hot embers.” -Monika 
 
