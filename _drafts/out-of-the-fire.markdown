@@ -1,7 +1,7 @@
 ---
 title: Out of the Fire
 date: 2017-04-22 20:08:00 -07:00
-image: "/uploads/Optimized-Out-of-the-Fire-Cover.jpg"
+image: "/uploads/Out-of-the-Fire-2-min.jpg"
 author: Angie Rodriguez
 ---
 
