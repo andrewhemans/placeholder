@@ -53,7 +53,7 @@ No, it’s like a renewal, it’s a wisdom, a renewal of faith in nature, i thin
 
 Another thing that struck me about this collection. It’s almost been a lucky thing, that people found this anthology. we have many stories of memories of the past, things that are destroyed by the fire. Who were part of those objects. So it’s a way of collecting their memories. It’s something . People up here are not fearful, they don’t get scared. But They’re intentional. We get to be a little bit Independent of nature, and this is our environment part of nature part of the environment. –Suzanne
 
-The anthology is just one project and the blog is more of a permanent project.
+**The anthology is just one project and the blog is more of a permanent project?**
 
 It’s going to be in perpetuity, the website whatever technological form, um it will continue all the links to any stories, tell us their story, you know even after years have past, and the historical society will probably keep that for us in perpetuity. –monika
 
@@ -61,7 +61,7 @@ The way history should be recorded. It records it as the event happens, it is it
 
 There will be more fires, and people can come to this site  maybe they can help themselves prepare, in retrospect that day that the fire began my husband had just brought back. we had to evacuate some of them, but the others had to stay they were all pregnant. and a pregnant cow. So here we had this dilemma, we have this wonderful text thread, just the way they communicated with me, and they wanted to name them after their crew, yeah they have your back. But it was very difficult for them Working in certain conditions, some houses they had to let go, they couldn’t save those houses. And because the water tanks were there. It’s important to have a supply of water. Those are things that people you have to think differently about live in the outback.
 
-Could you explain a little bit more about the literary event
+**Could you explain a little bit more about the literary event?**
 
 With the literary release of the pblication. We’ve invited Dana we coupled that with our launch of the anthology. So We have a celebratory time when they can do that and it will be at the Angels camp museum and that’s on June 17th. We’re inviting everyone to come. It’s free They’re will be hordeurs . the challenge is we have 60 days, and as of today 29, over 50 56 percent, the word is out and we’ve had so many generous people, who believe in the project we are excited about that  -monika
 
@@ -73,19 +73,25 @@ People here have stories to tell, we’ll have people who come into the gallery,
 
 We just got a nice grant from the Calaveras Foundation voices of wisdom, some of those stories, we’ll be recording for posterity as well an anthology, so that’s coming up after the Butte fire so we’re busy with stories to tell, that’s our mission.
 
-Has it become your mission statement from your initial formation?
+**Has it become your mission statement from your initial formation?**
 
 We’ve always collected people’s writings, and had the goal of putting them into anthologies, we always collected stories that reflected our region. we also produce books and would like to get their book published. We have Mark twain’s 88 days in the mother lode. We published glenn “Too much to swallow” A lot of selections. The racing circuit of California. We just put out a novel. The second book is going to becoming out  we’re kind of on a role. 
 
 We’re a multi-county arts organization and a publisher 5, 6 counties and the surrounding counties. We cover a large area. And we’re a regional publisher, small publisher we like to help people find grants and help them support projects. Many of our writers come up from Stockton, Sacramento all from all over.
 
-What would you
+**What would you**
 
 Oh the message is just go there and pledge and they can even pldge 10 dollars, to get a book its’ 25 dollars. And you’ll get a listing So we encourage them to consider disaster in their own community is their an instrument . And to be apart of. We embrace The goal that we  have set for ourselves. So we are seeking funding from all different arenas The kickstarter is our focus and they will be publicly acknowledge as at the event they will be there forever.
 
-For more information…
+**For more information…**
 
 If they go to kickstarter.com they can look for our project they’ll find it right away. There is a beautiful phoenix rising artwork button they can read. 
 
 the image if they look closely it’s a multimedia image. And if you look at it There are forks and implements .underneath that are representative and thse are actual implements. Taking from a friend’s hom she’s not aware that her home is burned. And those objects they transcend our life here.  So It’s in that artwork. So it’s not arbitrary at all.”
+
+Support their Kickstarter Campaign [here](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/description)
+
+The Manzanita Writers Press [website](http://manzapress.com/)
+
+The Out of the Fire [Blog](http://manzanitaoutofthefire.blogspot.com/)
 
