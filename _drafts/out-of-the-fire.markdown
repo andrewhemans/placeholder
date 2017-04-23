@@ -13,7 +13,9 @@ Imagine your home being burned to the ground. You salvage as many items as possi
 
 “This was our individual chap book that we produced, um, and published for the community, um, along with a project called the pieces project, the pieces, and the vignettes, are the pieces, that could, the larger 3 dimensional pieces that could not be placed on the commemorative wall, the wall was mosaic and um there are pictures of it in here. That’s one of them. Then we had writers write to individual sets that they picked and wrote to and called to them. and They had no idea the story behind these objects and then they wrote the creative pieces to it of prose and poetry, and so....That, that will be apart of our larger anthology, we’re going to take at least most of them and incorporate that into the larger work. ” –Monika 
 
-![Out-of-the-Fire-1-min.jpg](/uploads/Out-of-the-Fire-1-min.jpg)
+<div align="center>![Out-of-the-Fire-1-min.jpg](/uploads/Out-of-the-Fire-1-min.jpg)</div>
+
+<div align="center">*</div>
 
 **Do you think you can tell me from both of your experiences, what the Butte fire was all about in Calaveras County?**
 
