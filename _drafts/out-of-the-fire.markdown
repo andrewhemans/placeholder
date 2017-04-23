@@ -7,7 +7,7 @@ author: Angie Rodriguez
 
 Imagine your home being burned to the ground. You salvage as many items as possible. No time to think, you grab whatever’s in your reach because the fire is ravaging your home with no signs of stopping. Imagine it happening ten-fold, because the fire reached not only you, but your neighbors, your community, your entire region. That’s exactly what took place in 2015, when Calaveras County experienced a devastating fire known as the Butte fire. I had the chance to visit the region, east of Stockton, and speak with a couple of residents in the city of Angels Camp. These residents in particular, Monika and Suzanne, are also leading an effort to heal the community through their company Manzanita Writer’s Press, a non-profit publishing organization. They have a Kickstarter campaign for anthology project 
 
-<iframe width="480" height="270" align="center" src="https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/widget/video.html" frameborder="0" scrolling="no"> </iframe>
+<iframe width="480" height="270" src="https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/widget/video.html" frameborder="0" scrolling="no"> </iframe>
 
 <div align="center">*</div>
 
