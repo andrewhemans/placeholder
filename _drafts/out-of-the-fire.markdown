@@ -13,8 +13,6 @@ Imagine your home being burned to the ground. You salvage as many items as possi
 
 “This was our individual chap book that we produced, um, and published for the community, um, along with a project called the pieces project, the pieces, and the vignettes, are the pieces, that could, the larger 3 dimensional pieces that could not be placed on the commemorative wall, the wall was mosaic and um there are pictures of it in here. That’s one of them. Then we had writers write to individual sets that they picked and wrote to and called to them. and They had no idea the story behind these objects and then they wrote the creative pieces to it of prose and poetry, and so....That, that will be apart of our larger anthology, we’re going to take at least most of them and incorporate that into the larger work. ” –Monika 
 
-![Out-of-the-Fire-1-min.jpg](/uploads/Out-of-the-Fire-1-min.jpg)
-
 ![Out-of-the-Fire-3-min.jpg](/uploads/Out-of-the-Fire-3-min.jpg)
 
 **Do you think you can tell me from both of your experiences, what the Butte fire was all about in Calaveras County?**
@@ -43,7 +41,7 @@ You see the people who moved up here love the forest and the forested area they,
 
 It’s also can be a way to renew or to rebuild a community because People read and connect with other peoples’ stories and so they can form whole new communities, built on a disaster, and as Monika said the historical record of it is very important because fire is a way of, it’s part of our background. I live about 26 miles down the road, and when I get up in the morning i look out my back window which overlooks a lake and every time I see a fire I get a little bit jittery. It doesn’t go away. because i remember the day I saw the beginning of the fire, i was coming from lodi, i was almost at berson, i saw this cloud in the air that looked gorgeous but also looked evil, i said there’s something wrong going as i was driving home. it is the anthology, the community support, The blog, they all come together to form new communities, that we may not have known each other, now we do-Suzanne
 
-![Out-of-the-Fire-6-min.jpg](/uploads/Out-of-the-Fire-6-min.jpg)
+![Out-of-the-Fire-1-min.jpg](/uploads/Out-of-the-Fire-1-min.jpg)
 
 **Would you say then that the biggest theme you see in submissions and in the community would be fear?**
 
