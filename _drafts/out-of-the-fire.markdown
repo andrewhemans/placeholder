@@ -42,8 +42,6 @@ Suzanne: It’s also can be a way to renew or to rebuild a community because Peo
 
 **Would you say then that the biggest theme you see in submissions and in the community would be fear?**
 
-Would you say then that the biggest theme you see in submissions and in the community would be fear?
-
 Suzanne: No, no. 
 
 Monika: No, it’s like a renewal, it’s a wisdom, a renewal of faith in nature, I think, and maybe even a coming to terms with the power of nature—whether it be good or bad, you know, and to take the self out of it, in many ways and to look at the bigger picture. I think people are, they’re using this instrument, I think to settle with themselves, and to make it okay and to heal. Like animals go under a bush and lick their wounds, this is hopeful to cleanse the wound, and to heal it over. so It’s become an instrument, I think of great relief to many people. We’ve had people who’ve lost everything have written in here. There are those who didn’t lose everything, but feel guilty that they didn’t lose everything, and that their neighbors and friends lost everything. Many people have had to have counseling because of this. Yes, it’s been just very hard on them. Maybe... I think it hit the elderly the hardest because losing everything that you’ve put your life into. You’re at that point in life where you can’t start over, you can’t physically build a home again; you’re in your 60s, your 70s, your 80s. And you’re tired and just the energy of it you can’t bear it. So many of them are making lifestyle changes, forced upon them a little earlier than what they thought, so they’re settling with a different way of looking at life—Eschewing their possessions as not being as important as they thought they were.
