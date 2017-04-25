@@ -1,6 +1,7 @@
 ---
 title: Cedric Series 2
 date: 2017-04-25 10:48:00 -07:00
+image: "/uploads/CedricSeries2-img-11.jpg"
 author: Cedric Cunningham
 author-block: true
 author-image: "/uploads/Cedric-Bio-photo.jpg"
