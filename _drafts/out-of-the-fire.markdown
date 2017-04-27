@@ -95,7 +95,7 @@ Monika: There will be more fires, and so people can come to this site and read s
 
 **Could you explain a little bit more about the literary event?**
 
-Monika: For the release of the publication, we’ve invited Dana Gioia, California Poet Laureate, and he will be coming to speak about poetry and to read his own work and inspire others, and we coupled that with our launch of the anthology. So people will come and also be able to read from the anthology, those contributors who are in there. We have a celebratory time planned where they can do that and it will be at the Angels Camp Museum & Carriage House, which is pretty large, and so that event is timed with our launch and that’s on June 17th  from 12-4 PM. We’re inviting everybody to come. It’s free. There will be hors d’oeuvres at the reception and glasses of wine for people to purchase, but it’s going to be  nice celebration of renewal through poetry and also through our publication. The challenge is we have 60 days, on the kickstarter to make the funding amount, and the word is out and everybody’s sharing the word saying go to Kickstarter and make a pledge. We’ve had so many generous people who believe in the project, who are supporting it and coming forward and helping us with it, and so we are excited about that.
+Monika: For the release of the publication, we’ve invited Dana Gioia, California Poet Laureate, and he will be coming to speak about poetry and to read his own work and inspire others, and we coupled that with our launch of the anthology. So people will come and also be able to read from the anthology, those contributors who are in there. We have a celebratory time planned where they can do that and it will be at the Angels Camp Museum & Carriage House, which is pretty large, and so that event is timed with our launch and that’s on [June 17th from 12-4 PM](http://capoetlaureate.net/DanaGioia_UpcomingEvents.html). We’re inviting everybody to come. It’s free. There will be hors d’oeuvres at the reception and glasses of wine for people to purchase, but it’s going to be  nice celebration of renewal through poetry and also through our publication. The challenge is we have 60 days, on the kickstarter to make the funding amount, and the word is out and everybody’s sharing the word saying go to Kickstarter and make a pledge. We’ve had so many generous people who believe in the project, who are supporting it and coming forward and helping us with it, and so we are excited about that.
 
 Suzanne: I’m excited about this whole idea. On June 17th, when the Poet Laureate for California will be here to share his work and his impressions, people who years ago never thought that their writing would be in a public arena will share their contributions. That’s exciting for me.
 
@@ -114,10 +114,16 @@ Suzanne: It’s in our mission statement for sure.
 
 Monika: Oh the message is just go there (to Kickstarter) and pledge and they can even pledge 10 dollars, even though they may not get a book for that. To get a book it’s 25 dollars and you’ll get the book, and be a supporter. So we encourage them to think about disaster in their own community and how would they would deal with that and is there an instrument that you might want to have as a resource for disaster. This will be a good model for them to take a look at and to be a part of. But we embrace them all. The goal that we  have set for ourselves will not pay for the entire production. So we are seeking lots of funding from all different arenas, but the Kickstarter is our focus that we’re trying to get everybody to commit to, and they will be publicly acknowledged, and at the event, and also in the book itself and on the website. Forever. They will be there in the book and website forever.
 
-Support their Kickstarter Campaign [here](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/description)
+Support their Kickstarter Campaign [here](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/description).
 
-If you're interested in publishing a book you can reach Manzanita Writer Press at:
-(209) 728-6171 or by email: manzanitawp@gmail.com or by visiting The Manzanita Writers Press [website](http://manzapress.com/)
+If you're interested in publishing a book you can reach Manzanita Writers Press at:
+(209) 728-6171 or by email: manzanitawp@gmail.com or by visiting The Manzanita Writers Press [website](http://manzapress.com/).
 
-You can read stories written by residents of the Butte Fire region by visiting The Out of the Fire [Blog](http://manzanitaoutofthefire.blogspot.com/)
+You can read stories written by residents of the Butte Fire region by visiting The Out of the Fire [Blog].
 
+[Literary Event with California Poet Laureate Dana Gioia]((http://manzanitaoutofthefire.blogspot.com/)
+http://capoetlaureate.net/DanaGioia_UpcomingEvents.html)
+Angels Camp Museum Carriage House
+753 S Main St, Angels Camp, CA 95222
+12-4 PM
+Entrance is Free
