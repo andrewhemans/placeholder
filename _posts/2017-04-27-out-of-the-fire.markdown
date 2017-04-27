@@ -126,5 +126,5 @@ You can read stories written by residents of the Butte Fire region by visiting [
 http://capoetlaureate.net/DanaGioia_UpcomingEvents.html)
 Angels Camp Museum Carriage House
 753 S Main St, Angels Camp, CA 95222
-12-4 PM
+June 17, 12-4 PM
 Entrance is Free
