@@ -120,7 +120,7 @@ Support their Kickstarter Campaign [here](https://www.kickstarter.com/projects/1
 If you're interested in publishing a book you can reach Manzanita Writers Press at:
 (209) 728-6171 or by email: manzanitawp@gmail.com or by visiting The Manzanita Writers Press [website](http://manzapress.com/).
 
-You can read stories written by residents of the Butte Fire region by visiting The Out of the Fire [Blog].
+You can read stories written by residents of the Butte Fire region by visiting [The Out of the Fire [Blog]](http://manzanitaoutofthefire.blogspot.com/).
 
 [Literary Event with California Poet Laureate Dana Gioia]((http://manzanitaoutofthefire.blogspot.com/)
 http://capoetlaureate.net/DanaGioia_UpcomingEvents.html)
