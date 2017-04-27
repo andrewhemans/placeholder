@@ -12,6 +12,7 @@ tags:
 - nature
 - Community
 - Interview
+- anthology
 image: "/uploads/Out-of-the-Fire-2-min.jpg"
 author: Angie Rodriguez
 description: 'Manzanita Writers Press'' project "Out of the Fire" contains writings
