@@ -29,6 +29,7 @@ author-bio: Angie is a Copyeditor and Content Curator for Placeholder Magazine. 
 Imagine your home being burned to the ground. You salvage as many items as possible. No time to think, you grab whatever’s in your reach because the fire is ravaging your home with no signs of stopping. Imagine it happening ten-fold, because the fire reached not only you, but your neighbors, your community, your entire region. That’s exactly what took place on September 9, 2015, when Calaveras County experienced a devastating fire known as the Butte Fire. I had the chance to visit the region, east of Stockton, and speak with a couple of residents in the city of Angels Camp. These residents in particular, Monika Rose and Suzanne Murphy, are also leading an effort to heal the community through their company Manzanita Writers Press, a non-profit publishing organization, known for creating anthologies about the Sierra and the Mother Lode, and Out of the Fire is their latest project.
 
 <iframe width="640" height="360" src="https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/widget/video.html" frameborder="0" scrolling="no"> </iframe>
+*Video featured on their Kickstarter page*
 
 **Do you think you can tell me from both of your experiences, what the Butte Fire was all about in Calaveras County?**
 
