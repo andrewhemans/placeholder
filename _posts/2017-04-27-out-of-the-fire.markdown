@@ -111,7 +111,7 @@ Suzanne: It’s in our mission statement for sure.
 ![Out-of-the-Fire-2-min.jpg](/uploads/Out-of-the-Fire-2-min.jpg)
 *Photo by Wayne Carlson of Rail Road Flat*
 
-**What would you like to say to people to help out even if they’re not from the county?**
+**What would you like to say to people to help out even if they’re not from Calaveras County?**
 
 Monika: Oh the message is just go there (to [Kickstarter](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology?ref=thanks_tweet)) and pledge and they can even pledge 10 dollars, even though they may not get a book for that. To get a book it’s 25 dollars and you’ll get the book, and be a supporter. So we encourage them to think about disaster in their own community and how would they would deal with that and is there an instrument that you might want to have as a resource for disaster. This will be a good model for them to take a look at and to be a part of. But we embrace them all. The goal that we  have set for ourselves will not pay for the entire production. So we are seeking lots of funding from all different arenas, but the Kickstarter is our focus that we’re trying to get everybody to commit to, and they will be publicly acknowledged, and at the event, and also in the book itself and on the website. Forever. They will be there in the book and website forever.
 
