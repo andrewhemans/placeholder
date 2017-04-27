@@ -70,8 +70,7 @@ Suzanne: It also can be a way to renew or to rebuild a community because people 
 *Photo by Wayne Carlson of Rail Road Flat*
 
 **Would you say then that the biggest theme you see in submissions and in the community would be fear?**
-
-Suzanne: No, no. 
+<div>class="leftpullquote">Suzanne: No, no.</div>
 
 Monika: No, it’s like a renewal, it’s a wisdom, a renewal of faith in nature, I think, and maybe even a coming to terms with the power of nature—whether it be good or bad, you know—to take the self out of it, in many ways and to look at the bigger picture. I think people are using this instrument to settle with themselves, and to make it okay and to heal. Like animals go under a bush and lick their wounds, this is hopeful, to cleanse the wound, and to heal it. It’s become an instrument, I think, of great relief to many people. We’ve had people who have lost everything and have written that in here. There are those who didn’t lose everything but feel guilty that they didn’t lose everything and that their neighbors and friends lost everything, and many people have had to have counseling because of this.Yes, it’s been just very hard on them. I think it hit the elderly the hardest because they lost everything that they put their life into. You’re at that point in life where you can’t start over, you can’t physically build a home again; you’re in your 60s, your 70s, your 80s. And you’re tired and just the energy of it—you can’t bear it. So many of them are making lifestyle changes, forced upon them a little earlier than what they thought, so they’re settling with a different way of looking at life—eschewing their possessions as not being as important as they thought they were.
 
