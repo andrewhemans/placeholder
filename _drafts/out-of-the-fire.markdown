@@ -1,8 +1,28 @@
 ---
 title: Out of the Fire
-date: 2017-04-24 20:08:00 -07:00
+date: 2017-04-27 13:40:00 -07:00
+categories:
+- Culture
+tags:
+- Fire
+- Butte Fire
+- Calaveras County
+- Environment
+- Publishing
+- nature
+- Community
+- Interview
 image: "/uploads/Out-of-the-Fire-2-min.jpg"
 author: Angie Rodriguez
+description: 'Manzanita Writers Press'' project "Out of the Fire" contains writings
+  submitted by Calaveras County residents affected by the September 2015 Butte Fire. '
+author-block: true
+author-image: "/uploads/Angie-profile-pic.jpg"
+author-bio: Angie is a Copyeditor and Content Curator for Placeholder Magazine. She
+  is a native of Stockton, CA and graduated from UC Santa Cruz in 2015 with a B.A.
+  in Spanish Studies. Outside Placeholder, Angie enjoys learning more about book publishing,
+  watching political podcasts and improving her web design skills. She’s traveled
+  to Spain and wants to visit New England by train.
 ---
 
 Imagine your home being burned to the ground. You salvage as many items as possible. No time to think, you grab whatever’s in your reach because the fire is ravaging your home with no signs of stopping. Imagine it happening ten-fold, because the fire reached not only you, but your neighbors, your community, your entire region. That’s exactly what took place on September 9, 2015, when Calaveras County experienced a devastating fire known as the Butte Fire. I had the chance to visit the region, east of Stockton, and speak with a couple of residents in the city of Angels Camp. These residents in particular, Monika Rose and Suzanne Murphy, are also leading an effort to heal the community through their company Manzanita Writers Press, a non-profit publishing organization, known for creating anthologies about the Sierra and the Mother Lode, and Out of the Fire is their latest project.
