@@ -8,6 +8,10 @@ description: 'Aida Lizalde visits the studio of Stockton-raised artist Daniel Tr
   techniques with his pastel sculptural forms. '
 author-block: true
 author-image: "/uploads/Aida.jpg"
+author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
+  for Placeholder Magazine. Lizalde was born and raised in Mexico until age 15, when
+  her family immigrated to Stockton, California. She currently attends the University
+  of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
 ![DSC_0089-min.jpg](/uploads/DSC_0089-min.jpg)
