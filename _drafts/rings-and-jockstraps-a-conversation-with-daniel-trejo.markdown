@@ -24,16 +24,20 @@ Daniel is a Stockton-raised artist who is a San Joaquin Delta College and Univer
 
 Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ‘60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
-We also talked about the term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art.
-
 ![Trejo, Daniel Alejandro__I'm Standing in Your Light-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__I'm%20Standing%20in%20Your%20Light-min.JPG)
 
 ![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
 
-Daniel’s studio is upstairs, and it is this narrow, white-walled cube filled with pastel objects, wood, dust and art. I immediately deviated my attention to two works he had installed at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings” a term appropriated from a viewer’s response to them. The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His forms are focused on absence, stability, and fragility. Trejo achieves spatial coordination and stability by a personal and emotional relationship to the forms, which is also tied to the color choices. His building and firing process is intense, he goes through a tremendous amount labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance.
+We also talked about the term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art.
 
 ![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
 
 ![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
 
+Daniel’s studio is upstairs, and it is this narrow, white-walled cube filled with pastel objects, wood, dust and art. I immediately deviated my attention to two works he had installed at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings” a term appropriated from a viewer’s response to them. The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His forms are focused on absence, stability, and fragility. Trejo achieves spatial coordination and stability by a personal and emotional relationship to the forms, which is also tied to the color choices. His building and firing process is intense, he goes through a tremendous amount labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance.
+
 ![DSC_0075.jpg](/uploads/DSC_0075.jpg)
+
+His first “ring” came from what he called a failed attempt at a sculpture in his old studio space at Panama Art Factory. His previous work consisted on large scale sculptures, 
+
+Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas;  the L.H. Horton Gallery in Stockton;the Pana Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
