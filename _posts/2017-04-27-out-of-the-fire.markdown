@@ -71,7 +71,7 @@ Suzanne: It also can be a way to renew or to rebuild a community because people 
 ![Out-of-the-Fire-1-min.jpg](/uploads/Out-of-the-Fire-1-min.jpg)
 *Photo by Wayne Carlson of Rail Road Flat*
 
-**Would you say then that the biggest theme you see in submissions and in the community would be fear?**
+> **Would you say then that the biggest theme you see in submissions and in the community would be fear?**
 
 Suzanne: No, no.
 
@@ -106,7 +106,7 @@ Monika: I would say that half of the writers in there, or more than half, are no
 
 Suzanne: People here have stories to tell. We have people who come into the gallery, and we ask, “Where are you from? What brought you here?” And sometimes we just come right out and ask, “So, are you a writer?” and they say “Oh no, no, no.” We invite them to come sit down with us at one of our writer’s meetings. And they find out that they are writers. I would say 99 percent of people who walk through the door have a story to tell that they haven’t put into order yet, and we’re here to help them do that.
 
-Monika: We just got a nice grant from the Calaveras Community Foundation and it’s called Voices of Wisdom. We’re going to be capturing the voices of the elders in our community, and some of those stories, will be Butte Fire stories, I’m sure, but we will be recording those stories for posterity as well and putting together an anthology for those voices, so that’s coming up after the Butte Fire anthology. We’re busy with stories to tell, and capturing those stories from the folks. So we’re excited about that and that’s part of our mission. 
+Monika: We just got a nice grant from the [Calaveras Community Foundation ](http://calaverascommunityfoundation.org/news-events/calaveras-community-foundation-ccf-awards-grants-for-2017/)and it’s called "Voices of Wisdom." We’re going to be capturing the voices of the elders in our community, and some of those stories, will be Butte Fire stories, I’m sure, but we will be recording those stories for posterity as well and putting together an anthology for those voices, so that’s coming up after the Butte Fire anthology. We’re busy with stories to tell, and capturing those stories from the folks. So we’re excited about that and that’s part of our mission. 
 
 Suzanne: It’s in our mission statement for sure.
 
