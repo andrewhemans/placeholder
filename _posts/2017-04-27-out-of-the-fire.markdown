@@ -106,7 +106,7 @@ Monika: I would say that half of the writers in there, or more than half, are no
 
 Suzanne: People here have stories to tell. We have people who come into the gallery, and we ask, “Where are you from? What brought you here?” And sometimes we just come right out and ask, “So, are you a writer?” and they say “Oh no, no, no.” We invite them to come sit down with us at one of our writer’s meetings. And they find out that they are writers. I would say 99 percent of people who walk through the door have a story to tell that they haven’t put into order yet, and we’re here to help them do that.
 
-Monika: We just got a nice grant from the Calaveras Community Foundation and it’s called Voices of Wisdom. We’re going to be capturing the voices of the elders in our community, and some of those stories, will be Butte Fire stories, I’m sure, but we will be recording those stories for posterity as well and putting together an anthology for those voices, so that’s coming up after the Butte Fire anthology. We’re busy with stories to tell, and capturing those stories from the folks. So we’re excited about that and that’s part of our mission. 
+Monika: We just got a nice grant from the [Calaveras Community Foundation ](http://calaverascommunityfoundation.org/news-events/calaveras-community-foundation-ccf-awards-grants-for-2017/)and it’s called "Voices of Wisdom." We’re going to be capturing the voices of the elders in our community, and some of those stories, will be Butte Fire stories, I’m sure, but we will be recording those stories for posterity as well and putting together an anthology for those voices, so that’s coming up after the Butte Fire anthology. We’re busy with stories to tell, and capturing those stories from the folks. So we’re excited about that and that’s part of our mission. 
 
 Suzanne: It’s in our mission statement for sure.
 
@@ -117,12 +117,12 @@ Suzanne: It’s in our mission statement for sure.
 
 Monika: Oh the message is just go there (to [Kickstarter](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology?ref=thanks_tweet)) and pledge and they can even pledge 10 dollars, even though they may not get a book for that. To get a book it’s 25 dollars and you’ll get the book, and be a supporter. So we encourage them to think about disaster in their own community and how would they would deal with that and is there an instrument that you might want to have as a resource for disaster. This will be a good model for them to take a look at and to be a part of. But we embrace them all. The goal that we  have set for ourselves will not pay for the entire production. So we are seeking lots of funding from all different arenas, but the Kickstarter is our focus that we’re trying to get everybody to commit to, and they will be publicly acknowledged, and at the event, and also in the book itself and on the website. Forever. They will be there in the book and website forever.
 
-Support their Kickstarter Campaign [here](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/description).
+Support their Kickstarter Campaign for *Out of the Fire* [here](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/description).
 
 If you're interested in publishing a book you can reach Manzanita Writers Press at:
-(209) 728-6171 or by email: manzanitawp@gmail.com or by visiting The Manzanita Writers Press [website](http://manzapress.com/).
+(209) 728-6171 or by email: [manzanitawp@gmail.com](mailto:manzanitawp@gmail.com) or by visiting The Manzanita Writers Press [website](http://manzapress.com/).
 
-You can read stories written by residents of the Butte Fire region by visiting [The Out of the Fire [Blog]](http://manzanitaoutofthefire.blogspot.com/).
+You can read stories written by residents of the Butte Fire region by visiting [The Out of the Fire Blog](http://manzanitaoutofthefire.blogspot.com/).
 
 [Literary Event with California Poet Laureate Dana Gioia](http://capoetlaureate.net/DanaGioia_UpcomingEvents.html)
 
