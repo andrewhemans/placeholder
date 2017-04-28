@@ -30,6 +30,7 @@ Daniel Trejo is a Stockton-raised artist who is a San Joaquin Delta College and 
 Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the 60's. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
 ![Trejo, Daniel Alejandro__I'm Standing in Your Light-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__I'm%20Standing%20in%20Your%20Light-min.JPG)
+*I'm Standing in Your Light*
 
 We also talked about the politically charged term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx (gender neutral ways to refer to Latin and Mexican-Americans consecutively) and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art. 
 
@@ -38,6 +39,7 @@ We also talked about the politically charged term “Chicanx;” the frustration
 Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the whole room seems curated to fit Trejo’s work. I immediately deviated my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
 
 ![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
+*Listening to You Keeps Me Stable*
 
 The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
