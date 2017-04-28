@@ -117,7 +117,7 @@ Suzanne: It’s in our mission statement for sure.
 
 Monika: Oh the message is just go there (to [Kickstarter](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology?ref=thanks_tweet)) and pledge and they can even pledge 10 dollars, even though they may not get a book for that. To get a book it’s 25 dollars and you’ll get the book, and be a supporter. So we encourage them to think about disaster in their own community and how would they would deal with that and is there an instrument that you might want to have as a resource for disaster. This will be a good model for them to take a look at and to be a part of. But we embrace them all. The goal that we  have set for ourselves will not pay for the entire production. So we are seeking lots of funding from all different arenas, but the Kickstarter is our focus that we’re trying to get everybody to commit to, and they will be publicly acknowledged, and at the event, and also in the book itself and on the website. Forever. They will be there in the book and website forever.
 
-Support their Kickstarter Campaign [here](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/description).
+Support their Kickstarter Campaign for *Out of the Fire* [here](https://www.kickstarter.com/projects/100235310/out-of-the-fire-anthology/description).
 
 If you're interested in publishing a book you can reach Manzanita Writers Press at:
 (209) 728-6171 or by email: [manzanitawp@gmail.com](mailto:manzanitawp@gmail.com) or by visiting The Manzanita Writers Press [website](http://manzapress.com/).
