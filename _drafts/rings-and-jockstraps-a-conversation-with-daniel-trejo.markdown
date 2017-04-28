@@ -47,7 +47,7 @@ His first ring came from what he called a “failed attempt” at a large scale 
 ![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
 *Listening to You Keeps Me Stable*
 
-Trejo places special care on the color choices and their relationship to the shapes in order to achieve a specific emotion. His shape and color choices seem to emanate from both taste and a place in the subconscious, and each piece goes through a series of edits until its final version is just right.
+Trejo places special care on the color choices and their relationship to the shapes in order to achieve a specific emotion. His shape and color choices seem to emanate from both taste, and a place in the subconscious, and each piece goes through a series of edits until its final version is just right.
 
 ![Trejo, Daniel Alejandro__I'm Standing in Your Light-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__I'm%20Standing%20in%20Your%20Light-min.JPG)
 *I'm Standing in Your Light*
