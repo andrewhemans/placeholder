@@ -1,6 +1,11 @@
 ---
 title: Rings & Jockstraps, A Studio Visit with Daniel Trejo
-date: 2017-04-27 19:18:00 -07:00
+date: 2017-04-29 10:00:00 -07:00
+categories:
+- arts
+tags:
+- Art
+- stockton arts
 image: "/uploads/DSC_0093-min.jpg"
 author: Aida Lizalde
 description: 'Aida Lizalde visits the studio of Stockton-raised artist Daniel Trejo,
@@ -32,9 +37,11 @@ We also talked about the politically charged term “Chicanx;” the frustration
 
 Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the whole room seems curated to fit Trejo’s work. I immediately deviated my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
 
+![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
+
 The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
-![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
+![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
 
 His first ring came from what he called a “failed attempt” at a large scale sculpture in his old studio space at Panama Art Factory. Trejo started to work and then traveled to out of the Country for Zona Maco, the biggest international art fair hosted in Mexico City. Upon coming back to California the beginning stages of his work were to dry to continue being worked on, but the shape was so compelling so he began to experiment with making similar forms. Trejo places special care on the color choices and their relationship to the shapes in order to achieve a specific emotion. His shape and color choices seem to emanate from both taste and a place in the subconscious, and each piece goes through a series of edits until its final version is just right. 
 
@@ -42,4 +49,3 @@ His first ring came from what he called a “failed attempt” at a large scale 
 
 My studio visit ended on a note of Trejo’s new interest in exploring alternative structures to display his rings and other installation forms. Incorporating other materials to clay work has always been a great fascination of mine so I am looking forward to seeing how this new idea develops in his work.
 
-![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
