@@ -22,3 +22,4 @@ author-image: "/uploads/Aida.jpg"
 
 ![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
 
+![DSC_0075.jpg](/uploads/DSC_0075.jpg)
