@@ -14,11 +14,15 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
   of California, Davis in pursuit of her Bachelors in Studio Arts.
 ---
 
-Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for the Arts. I was so excited to meet up that we started chatting  in the lobby of Verge just as they were closing and did not stop talking for over two hours. Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ‘60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
+Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for the Arts. I was so excited to meet up that we started chatting  in the lobby of Verge just as they were closing and did not stop talking for over two hours. 
 
 ![DSC_0089-min.jpg](/uploads/DSC_0089-min.jpg)
 
+Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas;  the L.H. Horton Gallery in Stockton;the Pana Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
+
 ![DSC_0077-min.jpg](/uploads/DSC_0077-min.jpg)
+
+Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ‘60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
 We also talked about the term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art.
 
