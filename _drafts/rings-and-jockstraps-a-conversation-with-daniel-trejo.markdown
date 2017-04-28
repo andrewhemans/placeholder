@@ -28,9 +28,11 @@ Our conversation started by talking about our shared experience in TB9 (Temporar
 
 We also talked about the politically charged term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx (gender neutral ways to refer to Latin and Mexican-Americans consecutively) and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art. 
 
-![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
+![DSC_0075.jpg](/uploads/DSC_0075.jpg)
 
-Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the whole room seems curated to fit Trejo’s work. I immediately deviated my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
+Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the whole room seems curated to fit Trejo’s work. I immediately deviated my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
+
+The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
 ![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
 
@@ -40,5 +42,4 @@ His first ring came from what he called a “failed attempt” at a large scale 
 
 My studio visit ended on a note of Trejo’s new interest in exploring alternative structures to display his rings and other installation forms. Incorporating other materials to clay work has always been a great fascination of mine so I am looking forward to seeing how this new idea develops in his work.
 
-![DSC_0075.jpg](/uploads/DSC_0075.jpg)
-
+![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
