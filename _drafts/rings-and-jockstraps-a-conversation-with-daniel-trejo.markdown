@@ -18,7 +18,7 @@ Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for t
 
 ![DSC_0089-min.jpg](/uploads/DSC_0089-min.jpg)
 
-Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas;  the L.H. Horton Gallery in Stockton;the Pana Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
+Daniel Trejo is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas;  the L.H. Horton Gallery in Stockton;the Pana Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
 
 ![DSC_0077-min.jpg](/uploads/DSC_0077-min.jpg)
 
@@ -26,19 +26,19 @@ Our conversation started by talking about our shared experience in TB9 (Temporar
 
 ![Trejo, Daniel Alejandro__I'm Standing in Your Light-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__I'm%20Standing%20in%20Your%20Light-min.JPG)
 
+We also talked about the politically charged term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx (gender neutral ways to refer to Latin americans and Mexican-Americans consecutively) and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art. 
+
 ![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
 
-We also talked about the term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art.
+Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the whole room seems curated to fit Trejo’s work. I immediately deviated my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
 ![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
 
-
-Daniel’s studio is upstairs, and it is this narrow, white-walled cube filled with pastel objects, wood, dust and art. I immediately deviated my attention to two works he had installed at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings” a term appropriated from a viewer’s response to them. The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His forms are focused on absence, stability, and fragility. Trejo achieves spatial coordination and stability by a personal and emotional relationship to the forms, which is also tied to the color choices. His building and firing process is intense, he goes through a tremendous amount labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance.
+His first ring came from what he called a “failed attempt” at a large scale sculpture in his old studio space at Panama Art Factory. Trejo started to work and then traveled to out of the Country for Zona Maco, the biggest international art fair hosted in Mexico City. Upon coming back to California the beginning stages of his work were to dry to continue being worked on, but the shape was so compelling so he began to experiment with making similar forms. Trejo places special care on the color choices and their relationship to the shapes in order to achieve a specific emotion. His shape and color choices seem to emanate from both taste and a place in the subconscious, and each piece goes through a series of edits until its final version is just right. 
 
 ![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
 
-His first “ring” came from what he called a failed attempt at a sculpture in his old studio space at Panama Art Factory. His previous work consisted on large scale sculptures, 
+My studio visit ended on a note of Trejo’s new interest in exploring alternative structures to display his rings and other installation forms. Incorporating other materials to clay work has always been a great fascination of mine so I am looking forward to seeing how this new idea develops in his work.
 
-Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas;  the L.H. Horton Gallery in Stockton;the Pana Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
 ![DSC_0075.jpg](/uploads/DSC_0075.jpg)
 
