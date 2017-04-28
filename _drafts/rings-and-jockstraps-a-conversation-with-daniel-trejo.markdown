@@ -18,15 +18,15 @@ Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for t
 
 ![DSC_0089-min.jpg](/uploads/DSC_0089-min.jpg)
 
-Daniel Trejo is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas;  the L.H. Horton Gallery in Stockton;the Pana Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
+Daniel Trejo is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-oriented ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas;  the L.H. Horton Gallery in Stockton; Panama Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
 
 ![DSC_0077-min.jpg](/uploads/DSC_0077-min.jpg)
 
-Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ‘60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
+Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the 60's. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
 ![Trejo, Daniel Alejandro__I'm Standing in Your Light-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__I'm%20Standing%20in%20Your%20Light-min.JPG)
 
-We also talked about the politically charged term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx (gender neutral ways to refer to Latin americans and Mexican-Americans consecutively) and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art. 
+We also talked about the politically charged term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx (gender neutral ways to refer to Latin and Mexican-Americans consecutively) and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art. 
 
 ![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
 
