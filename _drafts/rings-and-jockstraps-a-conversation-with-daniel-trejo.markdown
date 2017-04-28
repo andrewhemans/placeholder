@@ -42,7 +42,7 @@ The rings are often confused for silhouettes of animals or creatures, but they a
 
 ![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
 
-His first ring came from what he called a “failed attempt” at a large scale sculpture in his old studio space at Panama Art Factory. Trejo started to work and then traveled to out of the Country for Zona Maco, the biggest international art fair hosted in Mexico City. Upon coming back to California the beginning stages of his work were to dry to continue being worked on, but the shape was so compelling so he began to experiment with making similar forms.  
+His first ring came from what he called a “failed attempt” at a large scale sculpture in his old studio space at Panama Art Factory. Trejo started to work and then traveled to out of the Country for Zona Maco, the biggest international art fair hosted in Mexico City. Upon coming back to California the beginning stages of his work were to dry to continue being worked on, but the shape was so compelling he began to experiment with making similar forms.  
 
 ![Trejo, Daniel Alejandro__Listening to You Keeps Me Stable-min.JPG](/uploads/Trejo,%20Daniel%20Alejandro__Listening%20to%20You%20Keeps%20Me%20Stable-min.JPG)
 *Listening to You Keeps Me Stable*
