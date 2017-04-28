@@ -1,6 +1,13 @@
 ---
-title: Rings & Jockstraps, A Conversation with Daniel Trejo
+title: Rings & Jockstraps, A Studio Visit with Daniel Trejo
 date: 2017-04-27 19:18:00 -07:00
+image: "/uploads/DSC_0093-min.jpg"
+author: Aida Lizalde
+description: 'Aida Lizalde visits the studio of Stockton-raised artist Daniel Trejo,
+  who explores the concepts of  absence and fragility through formal clay building
+  techniques with his pastel sculptural forms. '
+author-block: true
+author-image: "/uploads/Aida.jpg"
 ---
 
 ![DSC_0089-min.jpg](/uploads/DSC_0089-min.jpg)
