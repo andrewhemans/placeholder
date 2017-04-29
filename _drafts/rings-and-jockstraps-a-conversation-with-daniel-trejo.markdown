@@ -25,14 +25,13 @@ Daniel is a Stockton-raised artist who is a San Joaquin Delta College and Univer
 
 ![DSC_0089-min.jpg](/uploads/DSC_0089-min.jpg)
 
-
 Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ’60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
-![DSC_0077-min.jpg](/uploads/DSC_0077-min.jpg)
+![DSC_0077-min-0e1886.jpg](/uploads/DSC_0077-min-0e1886.jpg)
 
 We also talked about the politically charged term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx (gender neutral ways to refer to Latin Americans and Mexican Americans, respectively) and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art. 
 
-![DSC_0075.jpg](/uploads/DSC_0075.jpg)
+![DSC_0075-min.jpg](/uploads/DSC_0075-min.jpg)
 
 Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the entire room seems curated to fit Trejo’s work. I immediately drew my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
 
@@ -40,7 +39,7 @@ Daniel’s studio is up on the second level of the studio complex, and it is thi
 
 The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
-![DSC_0087-min.jpg](/uploads/DSC_0087-min.jpg)
+![DSC_0086-min.jpg](/uploads/DSC_0086-min.jpg)
 
 His first ring came from what he called a “failed attempt” at a large scale sculpture in his old studio space at Panama Art Factory. Trejo started to work and then traveled  out of the country for Zona Maco, the biggest international art fair hosted in Mexico City. Upon coming back to California, the beginning stages of his work were to dry in order to continue being worked on, but the shape was so compelling,  he began to experiment with making similar forms. 
 
