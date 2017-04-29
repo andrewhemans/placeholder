@@ -8,9 +8,9 @@ tags:
 - stockton arts
 image: "/uploads/DSC_0093-min.jpg"
 author: Aida Lizalde
-description: 'Aida Lizalde visits the studio of Stockton-raised artist Daniel Trejo,
-  who explores the concepts of  absence and fragility through formal clay building
-  techniques with his pastel sculptural forms. '
+description: 'Aida Lizalde visited the studio of Stockton-raised artist Daniel Trejo,
+  who explores the concepts of absence and fragility through his pastel sculptural
+  forms. '
 author-block: true
 author-image: "/uploads/Aida.jpg"
 author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
