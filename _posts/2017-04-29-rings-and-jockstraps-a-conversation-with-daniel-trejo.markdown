@@ -33,7 +33,7 @@ We also talked about the politically charged term “Chicanx;” the frustration
 
 ![DSC_0075-min.jpg](/uploads/DSC_0075-min.jpg)
 
-Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the entire room seems curated to fit Trejo’s work. I immediately drew my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
+Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the entire room seems curated to fit Trejo’s work. I immediately drew my attention to two installed sculptures at the left corner and back wall one was a pile of shapes Trejo called jockstrap as a silly working title. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
 
 ![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
 
