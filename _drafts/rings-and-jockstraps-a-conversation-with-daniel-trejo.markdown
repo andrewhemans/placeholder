@@ -53,3 +53,5 @@ Trejo places special care on  color choices and their relationship to  shapes in
 
 My studio visit ended by making note of Trejo’s new interest in exploring alternative structures to display his rings and other installation forms. Incorporating other materials to clay work has always been a great fascination of mine, so I am looking forward to seeing how this new idea develops in his work.
 
+**Find out more** 
+**instagram:** @dnltrejo
