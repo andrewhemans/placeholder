@@ -23,7 +23,7 @@ Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for t
 
 Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas; the L.H. Horton Gallery in Stockton; the Panama Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
 
-![DSC_0089-min.jpg](/uploads/DSC_0089-min.jpg)
+![DSC_0089-min-4bdcfa.jpg](/uploads/DSC_0089-min-4bdcfa.jpg)
 
 Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ’60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
