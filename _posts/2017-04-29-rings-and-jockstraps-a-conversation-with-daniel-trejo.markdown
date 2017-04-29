@@ -6,9 +6,9 @@ categories:
 tags:
 - Art
 - stockton arts
-image: "/uploads/DSC_0093-min.jpg"
+image: "/uploads/DSC_0093-min-daadf4.jpg"
 author: Aida Lizalde
-description: 'Aida Lizalde visited the studio of Stockton native artist Daniel Trejo,
+description: 'Aida Lizalde visited the studio of Stockton-raised artist Daniel Trejo,
   who explores the concepts of absence and fragility through his pastel sculptural
   forms. '
 author-block: true
@@ -21,7 +21,7 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
 
 Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for the Arts. I was so excited to meet up that we started chatting in the lobby of Verge just as they were closing and did not stop talking for over two hours. 
 
-Daniel is a Stockto native artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas; the L.H. Horton Gallery in Stockton; the Panama Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
+Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas; the L.H. Horton Gallery in Stockton; the Panama Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
 
 ![DSC_0089-min-4bdcfa.jpg](/uploads/DSC_0089-min-4bdcfa.jpg)
 
@@ -33,7 +33,7 @@ We also talked about the politically charged term “Chicanx;” the frustration
 
 ![DSC_0075-min.jpg](/uploads/DSC_0075-min.jpg)
 
-Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the entire room seems curated to fit Trejo’s work. I immediately drew my attention to two installed sculptures at the left corner and back wall one was a pile of shapes Trejo called jockstrap as a silly working title. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
+Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the entire room seems curated to fit Trejo’s work. I immediately drew my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
 
 ![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
 
