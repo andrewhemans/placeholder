@@ -8,9 +8,8 @@ tags:
 - stockton arts
 image: "/uploads/heather-min.jpg"
 author: Aida Lizalde
-description: 'Aida Lizalde visited the studio of Stockton-raised artist Daniel Trejo,
-  who explores the concepts of absence and fragility through his pastel sculptural
-  forms. '
+description: 'Aida Lizalde visited the studio of Stockton native Daniel Trejo, who
+  explores the concepts of absence and fragility through his pastel sculptural forms. '
 author-block: true
 author-image: "/uploads/Aida.jpg"
 author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contributor
@@ -21,7 +20,7 @@ author-bio: Aida Lizalde is a Visual Arts Content Curator and occasional contrib
 
 Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for the Arts. I was so excited to meet up that we started chatting in the lobby of Verge just as they were closing and did not stop talking for over two hours. 
 
-Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas; the L.H. Horton Gallery in Stockton; the Panama Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
+Daniel is a Stockton native artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas; the L.H. Horton Gallery in Stockton; the Panama Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
 
 ![DSC_0089-min (1).jpg](/uploads/DSC_0089-min%20(1).jpg)
 
