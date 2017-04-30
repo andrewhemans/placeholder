@@ -8,7 +8,7 @@ tags:
 - Sacramento
 ---
 
-I am grateful and pleased to be able to show this work with more people in my last curated feature as Visual Arts Curator of Placeholder. I am making room for other amazing artists and administrators to gain the experience and contribute to the magazine but I'll leave with some words from Bella (a.k.a. Luz Silk), one of the most interesting and beautiful people I have met.I am sure many artists relate to her insights on her work. 
+I am grateful and pleased to be able to show this work in my last curated feature as Visual Arts Curator of Placeholder. I am making room for other amazing artists and administrators to gain the experience and contribute to the magazine but I'll leave with some words from Bella (a.k.a. Luz Silk), one of the most interesting and beautiful people I have met.I am sure many artists relate to her insights on her work. 
 
 "It's kind of hard for me to separate myself from my art. I don't really, everything is art to me. When I'm making art and living life I have a tendency to act quickly and figure it out later. It feels like I'm guinea pig and examiner of my own wacky life experiments. But yeah - I create art furiously and voraciously, I think about a lot in the process, and I see new things later on."
 
