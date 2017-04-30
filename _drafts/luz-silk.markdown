@@ -19,7 +19,7 @@ I am grateful and pleased to be able to show this work in my last curated featur
 
 ![4.jpg](/uploads/4.jpg)
 
-"I look inward and outward then weave those scenes on the page. "
+> "I look inward and outward then weave those scenes on the page."
 
 ![2.jpg](/uploads/2.jpg)
 
