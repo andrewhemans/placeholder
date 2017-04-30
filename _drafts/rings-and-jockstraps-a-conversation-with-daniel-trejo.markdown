@@ -1,12 +1,12 @@
 ---
 title: Rings & Jockstraps, A Studio Visit with Daniel Trejo
-date: 2017-04-29 14:22:00 -07:00
+date: 2017-04-29 10:00:00 -07:00
 categories:
 - arts
 tags:
 - Art
 - stockton arts
-image: "/uploads/DSC_0093-min-daadf4.jpg"
+image: "/uploads/5904d7fc190a516a8162f3a4-min%20(1).jpg"
 author: Aida Lizalde
 description: 'Aida Lizalde visited the studio of Stockton-raised artist Daniel Trejo,
   who explores the concepts of absence and fragility through his pastel sculptural
@@ -23,7 +23,7 @@ Last week I was welcomed by Daniel Trejo into his art studio  Verge Center for t
 
 Daniel is a Stockton-raised artist who is a San Joaquin Delta College and University of California, Davis alumni. His work is mostly focused on very contemporaneous and process-focused, ceramic sculpture, and it has been exhibited at the ATM Gallery/Studio in Austin, Texas; the L.H. Horton Gallery in Stockton; the Panama Art Factory in Sacramento, and the UC Davis Undergraduate Research Conference, among others.
 
-![DSC_0089-min (1).jpg](/uploads/DSC_0089-min%20(1).jpg)
+![DSC_0089-min-4bdcfa.jpg](/uploads/DSC_0089-min-4bdcfa.jpg)
 
 Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ’60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
@@ -35,11 +35,11 @@ We also talked about the politically charged term “Chicanx;” the frustration
 
 Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the entire room seems curated to fit Trejo’s work. I immediately drew my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
 
-![DSC_0078.jpg](/uploads/DSC_0078.jpg)
+![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
 
 The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
-![DSC_0086.jpg](/uploads/DSC_0086.jpg)
+![DSC_0086-min.jpg](/uploads/DSC_0086-min.jpg)
 
 His first ring came from what he called a “failed attempt” at a large scale sculpture in his old studio space at Panama Art Factory. Trejo started to work and then traveled  out of the country for Zona Maco, the biggest international art fair hosted in Mexico City. Upon coming back to California, the beginning stages of his work were to dry in order to continue being worked on, but the shape was so compelling,  he began to experiment with making similar forms. 
 
