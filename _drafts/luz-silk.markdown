@@ -36,7 +36,7 @@ I am grateful and pleased to be able to show this work in my last curated featur
 ![1.jpg](/uploads/1.jpg)
 
 
-The art is a voice.
+"The art is a voice.
 
 The artist finds self in multimedia work."
 
