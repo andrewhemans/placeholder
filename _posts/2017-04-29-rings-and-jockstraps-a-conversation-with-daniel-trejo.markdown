@@ -36,7 +36,11 @@ Daniel’s studio is up on the second level of the studio complex, and it is thi
 
 ![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
 
-The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
+The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility.
+
+> Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. 
+
+His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
 ![DSC_0086-min.jpg](/uploads/DSC_0086-min.jpg)
 
