@@ -6,6 +6,8 @@ categories:
 tags:
 - Art
 - Sacramento
+author-block: true
+author-image: "/uploads/Aida.jpg"
 ---
 
 I am grateful and pleased to be able to show this work in my last curated feature as Visual Arts Curator of Placeholder. I am making room for other amazing artists and administrators to gain the experience and contribute to the magazine but I'll leave with some words from Bella (a.k.a. Luz Silk), one of the most interesting and beautiful people I have met. I am sure many artists relate to her insights on her work. 
