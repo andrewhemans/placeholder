@@ -35,11 +35,11 @@ We also talked about the politically charged term “Chicanx;” the frustration
 
 Daniel’s studio is up on the second level of the studio complex, and it is this narrow, white-walled cube filled with pastel objects, wood, and clay dust. The colorfield of the entire room seems curated to fit Trejo’s work. I immediately drew my attention to two installed sculptures at the left corner and back wall. We continued talking about his forms, which he usually calls “Rings,” a term appropriated from a viewer’s response to them. 
 
-![DSC_0078-min.jpg](/uploads/DSC_0078-min.jpg)
+![DSC_0078.jpg](/uploads/DSC_0078.jpg)
 
 The rings are often confused for silhouettes of animals or creatures, but they are non-representational art objects. His rings are focused on absence, stability and fragility. Trejo achieves spatial coordination and stability, while having personal and emotional relationships to each of the forms. His building and firing process is intense; he goes through a tremendous amount of labor because of the fragility of the forms and the moving and firing process it takes to achieve them. He focuses on formal clay building techniques and continuous experimentation and perseverance. 
 
-![DSC_0086-min.jpg](/uploads/DSC_0086-min.jpg)
+![DSC_0086.jpg](/uploads/DSC_0086.jpg)
 
 His first ring came from what he called a “failed attempt” at a large scale sculpture in his old studio space at Panama Art Factory. Trejo started to work and then traveled  out of the country for Zona Maco, the biggest international art fair hosted in Mexico City. Upon coming back to California, the beginning stages of his work were to dry in order to continue being worked on, but the shape was so compelling,  he began to experiment with making similar forms. 
 
