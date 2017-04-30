@@ -27,7 +27,7 @@ Daniel is a Stockton-raised artist who is a San Joaquin Delta College and Univer
 
 Our conversation started by talking about our shared experience in TB9 (Temporary Building 9) the famous ceramics building at the UC Davis Art Department, where Robert Arneson, the father of Funk Art, taught back in the ’60s. This building is now a historical landmark in the National Register of Historic Places, and it is the domain of Annabeth Rosen, one of the toughest and most well-respected faculty and ceramic artists around.
 
-![DSC_0075-min-b6f687.jpg](/uploads/DSC_0075-min-b6f687.jpg)
+![DSC_0077-min-0e1886.jpg](/uploads/DSC_0077-min-0e1886.jpg)
 
 We also talked about the politically charged term “Chicanx;” the frustration of not seeing more contemporary work from Latinx, Chicanx (gender neutral ways to refer to Latin Americans and Mexican Americans, respectively) and Mexican artists around, and wanting more than the archetypes of Frida Kahlo and Day of the Dead imagery; our aspirations of moving to Mexico City because of its international significance in the current art world, and even about Stockton’s need for more gallery spaces and contemporary art. 
 
