@@ -43,7 +43,8 @@ I am grateful and pleased to be able to show this work in my last curated featur
 
 The artist finds self in multimedia work."
 
-
 ![5.jpg](/uploads/5.jpg)
+
+![6.jpg](/uploads/6.jpg)
 
 **Follow on Instagram:** @luzsilk
