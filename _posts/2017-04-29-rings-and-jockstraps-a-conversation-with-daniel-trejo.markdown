@@ -6,7 +6,7 @@ categories:
 tags:
 - Art
 - stockton arts
-image: "/uploads/5904d7fc190a516a8162f3a4-min%20(1).jpg"
+image: "/uploads/heather-min.jpg"
 author: Aida Lizalde
 description: 'Aida Lizalde visited the studio of Stockton-raised artist Daniel Trejo,
   who explores the concepts of absence and fragility through his pastel sculptural
