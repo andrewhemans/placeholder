@@ -17,17 +17,17 @@ I am grateful and pleased to be able to show this work in my last curated featur
 
 ![4.jpg](/uploads/4.jpg)
 
-"I look inward and outward then weave those scenes on the page. 
+"I look inward and outward then weave those scenes on the page. "
+
+![2.jpg](/uploads/2.jpg)
 
 Every image is a portal to: a time, a place, and a feeling. I don’t always title my work. To me, the image speaks for itself, more than words can express. The final work is always a kind of fine mess that is clear and cryptic, which I find to be an accurate depiction of perception. Life can be such a mess. There are so many pieces and factors; they don’t always seem to fit together or connect. I make connections on the page. I pull myself together out of the jigsaw soup of my experience.
+
+![1.jpg](/uploads/1.jpg)
 
 The art is a voice.
 
 The artist finds self in multimedia work."
-
-![2.jpg](/uploads/2.jpg)
-
-![1.jpg](/uploads/1.jpg)
 
 ![5.jpg](/uploads/5.jpg)
 
