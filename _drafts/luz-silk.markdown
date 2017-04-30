@@ -6,6 +6,8 @@ categories:
 tags:
 - Art
 - Sacramento
+image: "/uploads/5.jpg"
+author: Aida Lizalde
 author-block: true
 author-image: "/uploads/Aida.jpg"
 ---
