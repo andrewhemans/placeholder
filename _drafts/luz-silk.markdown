@@ -15,7 +15,7 @@ author-image: "/uploads/Aida.jpg"
 author-bio: 'Aida '
 ---
 
-I am grateful and pleased to be able to show this work in my last curated feature as Visual Arts Curator of Placeholder. I am making room for other amazing artists and administrators to gain the experience and contribute to the magazine to work more behind the scenes of the organization. I'll leave you all with some words from Bella (a.k.a. Luz Silk), one of the most interesting and beautiful people I have met in Sacramento. I am sure many artists relate to the insights she describes about her work. 
+I am grateful and pleased to show this work in my last feature as Visual Arts Curator of Placeholder. I am making room for other amazing artists and administrators to contribute an artistic voice to the magazine through a curatorial residency, and I am moving onto working behind the scenes of the organization. I'll leave you all with some words from Bella (a.k.a. Luz Silk), one of the most interesting and beautiful people I have met in Sacramento. I am sure many artists relate to the insights she describes about her work. 
 
 
 ![3.jpg](/uploads/3.jpg)
