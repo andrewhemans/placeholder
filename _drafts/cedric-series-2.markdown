@@ -82,7 +82,7 @@ Coming down from Bishop Pass into Leconte Canyon, one might notice this old unic
 
 When you live outside for a while you notice it suddenly—the change in seasons. You wake up one morning and realize that the air is colder, the flowers have a little less luster, and the aspens are changing color seemingly overnight. “It’s fall,” you realize, and the mountains are telling me it’s time to get to lower elevations.
 
-**#11 Joshua Trees/Amigos 2017**
+**#11 Joshua Trees/Amigos (2017)**
 
 ![CedricSeries2-img-11.jpg](/uploads/CedricSeries2-img-11.jpg)
 
