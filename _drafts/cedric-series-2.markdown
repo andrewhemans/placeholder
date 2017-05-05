@@ -1,5 +1,5 @@
 ---
-title: Cedric Series 2
+title: Snapshots from a Stocktonian Hiker
 date: 2017-04-25 10:48:00 -07:00
 categories:
 - Culture
@@ -13,9 +13,9 @@ tags:
 - California
 image: "/uploads/CedricSeries2-img-11.jpg"
 author: Cedric Cunningham
-description: Sharing the love for hiking, trails, California's region the Sierra Nevada,
-  traveling for work, finding lost hikers, photographing moments in the wild. A series
-  of photo-essays from Cedric Cunningham.
+description: 'Cedric Cunningham''s second series of photo-essays. From skating and
+  tattoo memories, hiking trails in California and snapshots of giant Junipers while
+  sleeping outdoors. '
 author-block: true
 author-image: "/uploads/Cedric-Bio-photo.jpg"
 author-bio: 'Cedric Cunningham is a trail maintenance worker and wilderness EMT for
