@@ -1,5 +1,5 @@
 ---
-title: DanO | DJ Whores | Whore24
+title: Daniel Osterhoff   DJ Whores
 date: 2017-05-07 20:15:00 -07:00
 categories:
 - Art
