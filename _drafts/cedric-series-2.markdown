@@ -14,8 +14,8 @@ tags:
 image: "/uploads/CedricSeries2-img-11.jpg"
 author: Cedric Cunningham
 description: 'Cedric Cunningham''s second series of photo-essays. Reminisces of skating
-  and tattoos, sleeping under trees, hiking trails in California mountains, and snapshots
-  of giant Junipers. '
+  and tattoos, sleeping outdoors, hiking trails in California mountains, and documenting
+  giant Junipers. '
 author-block: true
 author-image: "/uploads/Cedric-Bio-photo.jpg"
 author-bio: 'Cedric Cunningham is a trail maintenance worker and wilderness EMT for
