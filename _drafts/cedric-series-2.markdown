@@ -9,11 +9,13 @@ tags:
 - nature
 - hiking
 - wilderness
+- Sierra Nevada
+- California
 image: "/uploads/CedricSeries2-img-11.jpg"
 author: Cedric Cunningham
-description: A Stocktonian who wanders the Sierra Nevada, traveling for work, finding
-  lost hikers, photographing moments in the wild. A series of photo-essays from Cedric
-  Cunningham.
+description: Sharing love of hiking, trails,  the Sierra Nevada, traveling for work,
+  finding lost hikers, photographing moments in the wild. A series of photo-essays
+  from Cedric Cunningham.
 author-block: true
 author-image: "/uploads/Cedric-Bio-photo.jpg"
 author-bio: 'Cedric Cunningham is a trail maintenance worker and wilderness EMT for
