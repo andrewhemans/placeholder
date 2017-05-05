@@ -1,5 +1,5 @@
 ---
-title: California and the Sierra:Snapshots from a Stocktonian Hiker
+title: 'California and the Sierra: Snapshots from a Stocktonian Hiker'
 date: 2017-05-05 10:10:00 -07:00
 categories:
 - Culture
