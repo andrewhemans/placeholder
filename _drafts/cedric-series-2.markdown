@@ -1,6 +1,6 @@
 ---
 title: Snapshots from a Stocktonian Hiker
-date: 2017-04-25 10:48:00 -07:00
+date: 2017-05-05 10:10:00 -07:00
 categories:
 - Culture
 - Art
