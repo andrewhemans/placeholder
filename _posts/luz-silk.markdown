@@ -1,25 +1,5 @@
 ---
-title: "[NSFW] Luz Silk"
-date: 2017-04-30 19:48:00 -07:00
-categories:
-- Art
-tags:
-- Art
-- Sacramento
-image: "/uploads/5.jpg"
-author: Aida Lizalde
-description: '"The art is a voice. The artist finds self in multimedia work." Find
-  the sublime and the personal in Luz Silk''s visual works. '
-author-block: true
-author-image: "/uploads/Aida.jpg"
-<<<<<<< HEAD
-author-bio: Aida Lizalde was a Visual Arts Content Curator for Placeholder from December
-  2016 through April 2017. Lizalde was born and raised in Mexico until age 15, when
-  her family immigrated to Stockton, California. She currently attends the University
-  of California, Davis, in pursuit of her Bachelors in Studio Arts.
-=======
-author-bio: 'Aida '
->>>>>>> parent of 98ff47b... Updated Luz Silk
+title: 2017 04 30 Luz Silk
 ---
 
 I am grateful and pleased to show this work in my last feature as Visual Arts Curator of Placeholder. I am making room for other amazing artists and administrators to contribute an artistic voice to the magazine through a curatorial residency, and I am moving onto working behind the scenes of the organization. I'll leave you all with some words from Bella (a.k.a. Luz Silk), one of the most interesting and beautiful people I have met in Sacramento. I am sure many artists relate to the insights she describes about her work. 
