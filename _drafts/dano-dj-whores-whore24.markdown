@@ -8,6 +8,7 @@ tags:
 - muralist
 - djwhores
 - whore24
+image: "/uploads/Dano.Harlow-min.png"
 author: Carmel Dor
 description: 'Remembering prolific artist and DJ Daniel Osterhoff, known by many as
   DJ Whores. '
