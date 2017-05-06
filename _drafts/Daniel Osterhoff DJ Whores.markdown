@@ -44,7 +44,7 @@ His mark is embedded into the capital with his murals, a staple in the community
 
 ![DanO_BrandonSheets (40)-min.jpg](/uploads/DanO_BrandonSheets%20(40)-min.jpg)
 
-DanO lent his hand to the local arts organization M5 arts, where he created iconic logos for ArtHotel and ArtStreet. Striking, recognizable, and a symbol of home for many Sacramento artists. DanO’s handywork became a  beacon for artists and was imbued with a sense of home. His craft extends beyond beautifully transforming the names of shops, he uses his iconic lettering in his own artistic practice as well. 
+DanO lent his hand to the local arts organization M5 arts, where he created iconic logos for ArtHotel and ArtStreet. Striking, recognizable, and a symbol of home for many Sacramento artists. DanO’s handiwork became a  beacon for artists and was imbued with a sense of home. His craft extends beyond beautifully transforming the names of shops, he uses his iconic lettering in his own artistic practice as well. 
 
 ![DanO_BrandonSheets (2)-min.jpg](/uploads/DanO_BrandonSheets%20(2)-min.jpg)
 
