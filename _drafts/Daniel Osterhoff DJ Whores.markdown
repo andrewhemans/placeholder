@@ -28,9 +28,9 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-Daniel Osterhoff transcended this world on April 8th and left behind a wake of energy that radiates warmth throughout the Sacramento creative community. Many have not even met the man yet the sense community he created permeates daily life in the city.  
+Daniel Osterhoff transcended this world on April 8th and left behind a wake of energy that radiates warmth throughout the Sacramento creative community. Many have not even met the man yet the sense of belonging he created permeates daily life in the city.  
 
-DanO, better known as DJ Whores throughout the art and music scene, lived as an artist, DJ, a father, and a friend. He is the talent behind midtown rituals like *Grimey* and *Hump* at Midtown bars like the Press Club and Townhouse Lounge. In his SN&R interview with Nick Miller, DanO cites his mom’s influence on him, “Shoot, my mom had a wide range of music tastes, everything from jazz, funk, classic rock, blues rock—even, like, ’80s pop”. His playful mixes blend across musical styles to create a funky symphony for the sweaty central valley nights. 
+DanO, better known as DJ Whores throughout the art and music scene, lived as an artist, DJ, a father, and a friend. He is the talent behind Midtown rituals like *Grimey* and *Hump* nights at the Pressclub and the Townhouse Lounge. In his SN&R interview with Nick Miller, DanO cites his mom’s influence on him, “Shoot, my mom had a wide range of music tastes, everything from jazz, funk, classic rock, blues rock—even, like, ’80s pop”. His playful mixes blend across musical styles to create a funky symphony for the sweaty central valley nights. 
 
   
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fdjwhores%2Fdj-whores-summer-bass-mix-july-2009%2F&hide_cover=1&light=1" frameborder="0"></iframe>
@@ -44,7 +44,7 @@ His mark is embedded into the capital with his murals, a staple in the community
 
 ![DanO_BrandonSheets (40)-min.jpg](/uploads/DanO_BrandonSheets%20(40)-min.jpg)
 
-DanO lent his hand to the local arts organization M5 arts, where he created iconic logos for ArtHotel and ArtStreet. Striking, recognizable, and a symbol of home for many Sacramento artists. DanO’s handiwork became a  beacon for artists and was imbued with a sense of home. His craft extends beyond beautifully transforming the names of shops, he uses his iconic lettering in his own artistic practice as well. 
+DanO lent his hand to local arts organization M5 arts, where he created iconic logos for ArtHotel and ArtStreet. Striking, recognizable, and a symbol of home for many Sacramento artists. DanO’s handiwork became a  beacon for artists and was imbued with a sense of home. His craft extends beyond beautifully transforming the names of shops, he uses his iconic lettering in his own artistic practice as well. 
 
 ![DanO_BrandonSheets (2)-min.jpg](/uploads/DanO_BrandonSheets%20(2)-min.jpg)
 
