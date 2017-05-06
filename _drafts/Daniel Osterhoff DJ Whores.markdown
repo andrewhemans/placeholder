@@ -54,18 +54,19 @@ DanO lent his hand to the local arts organization M5 arts, where he created icon
 
 Most recently in his participation in the ArtStreet installation, he worked with artist John Dozier to create the mural *History Dies & Condos Rise*. Back in February, the transformed hanger-sized warehouse was home to this mural hidden in the center of the massive installation. The piece jabs at gentrification that is currently working its way through Sacramento while honoring the artists that are culture creators in these often-overlooked spaces. 
  
-DanO made himself accessible in a way that artists don’t have to, and many choose not to. Through his public art and DJ practice he was actively assisting in building spaces of congregation and shared experience. DanO’s permanent mark in Sacramento lies not only in his murals, but in the community he built through his craft. At his memorial in late April, Southside Park filled with bodies, old friends and new, to pay homage to the prolific Sacramento mixer and maker. A DJ stage blasted DJ Whores mixes and other DJs came to mix in his honor. The prickly dry lawn turned into a dance floor – we celebrated DanO with our bodies and by sharing stories of wild warehouse parties, late night adventures, and his glowing love. Even those who had never officially met DanO could feel that he was a healer.  His energy channeled through the crowd exuded welcoming warmth and a hunger for community. The way people preserve his presence in themselves, in their minds, and in their actions. What DanO did for the city of Sacramento is not gone, and it will continue in perpetuity as long as we cultivate space for each other and keep it grimy. 
+DanO made himself accessible in a way that artists don’t have to, and many choose not to. Through his public art and DJ practice he was actively assisting in building spaces of congregation and shared experience. DanO’s permanent mark in Sacramento lies not only in his murals, but in the community he built through his craft. At his memorial in late April, Southside Park filled with bodies, old friends and new, to pay homage to the prolific Sacramento mixer and maker. A DJ stage blasted DJ Whores mixes and other DJs came to mix in his honor. The prickly dry lawn turned into a dance floor – we celebrated DanO with our bodies and by sharing stories of wild warehouse parties, late night adventures, and his glowing love. Even those who had never officially met DanO could feel that he was a healer.  His energy channeled through the crowd exuded welcoming warmth and a hunger for community. The way people preserve his presence in themselves, in their minds, and in their actions. What DanO did for the city of Sacramento is not gone, and it will continue in perpetuity as long as we cultivate space for each other and keep it grimhy. 
 
 **To support Dan Osterhoff’s family:**
 
-https://www.gofundme.com/danos-fund
+[www.gofundme.com/danos-fund](https://www.gofundme.com/danos-fund)
 
 **Find out more:**
 
-@danielosterhoff
+[@danielosterhoff](https://www.instagram.com/danielosterhoff/)
 
-https://www.mixcloud.com/djwhores/
+[www.mixcloud.com/djwhores](https://www.mixcloud.com/djwhores/)
 
 
 Header image from Daniel Osterhoff’s Instagram.
-Photographs courtesy of Brandon Sheets Photography.
+
+Photographs courtesy of [Brandon Sheets Photography.](http://www.brandonsheetsphotography.com/)
