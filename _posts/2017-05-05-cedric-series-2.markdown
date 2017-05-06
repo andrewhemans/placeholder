@@ -11,7 +11,7 @@ tags:
 - wilderness
 - Sierra Nevada
 - California
-image: "/uploads/CedricSeries2-img-11.jpg"
+image: "/uploads/CedricSeries2-img-10.jpg"
 author: Cedric Cunningham
 description: 'Cedric Cunningham''s second series of photo-essays. Reminisces of skating
   and tattoos, sleeping outdoors, hiking trails in California mountains, and documenting
