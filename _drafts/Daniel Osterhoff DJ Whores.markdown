@@ -32,11 +32,9 @@ Daniel Osterhoff transcended this world on April 8th and left behind a wake of e
 
 DanO, better known as DJ Whores throughout the art and music scene, lived as an artist, DJ, a father, and a friend. He is the talent behind midtown rituals like *Grimey* and *Hump* at Midtown bars like the Press Club and Townhouse Lounge. In his SN&R interview with Nick Miller, DanO cites his mom’s influence on him, “Shoot, my mom had a wide range of music tastes, everything from jazz, funk, classic rock, blues rock—even, like, ’80s pop”. His playful mixes blend across musical styles to create a funky symphony for the sweaty central valley nights. 
 
-
-
+<>
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fdjwhores%2Fdj-whores-summer-bass-mix-july-2009%2F&hide_cover=1&light=1" frameborder="0"></iframe>
-
-
+<>
 
 His mark is embedded into the capital with his murals, a staple in the community. Walking through midtown, his murals are more than just labels for buildings, they build a sense of belonging. His artistic craft inherited from his dad, a prolific artist in his own right, mixes his signature style font with bright and dramatic color and flare. His work inspires pride in the city, a familiar yet iconic marker of our public art. Skating down S street around lunch time you’ll see a crowd surrounding Dad’s Sandwich Shop. The sky blue building adorned in his sharp lettering has been a visual haven among brutal office and state buildings. A little farther down the road, locals are grabbing a drink at the moody B-Sides bar, where DanO painted the radio style façade. His mural breaks up the monotonous line of structures and drenches the view in nostalgia. His work can also be seen at Dimple Records, the American Market and Deli, Amaro, Old Gold, Bottle and Barlow, LowBrau, Seasons Coffee, Anthony’s Barber Shop, Blvck Blvck Salon and Barber, and elsewhere around town. 
 
