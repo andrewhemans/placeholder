@@ -51,6 +51,7 @@ DanO lent his hand to the local arts organization M5 arts, where he created icon
 ![DanO_BrandonSheets (20)-min.jpg](/uploads/DanO_BrandonSheets%20(20)-min.jpg)
 
 ![History Dies and Condos Rise_DanOInstagram-min.jpg](/uploads/History%20Dies%20and%20Condos%20Rise_DanOInstagram-min.jpg)
+Photo sourced from Daniel Osterhoff's Instagram
 
 Most recently in his participation in the ArtStreet installation, he worked with artist John Dozier to create the mural *History Dies & Condos Rise*. Back in February, the transformed hanger-sized warehouse was home to this mural hidden in the center of the massive installation. The piece jabs at gentrification that is currently working its way through Sacramento while honoring the artists that are culture creators in these often-overlooked spaces. 
  
