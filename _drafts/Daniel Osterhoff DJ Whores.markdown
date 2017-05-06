@@ -32,9 +32,9 @@ Daniel Osterhoff transcended this world on April 8th, 2017 and left behind a wak
 
 DanO, better known as DJ Whores throughout the art and music scene, lived as an artist, DJ, a father, and a friend. He is the talent behind midtown rituals like *Grimey* and *Hump* at Midtown bars like Press Club and Townhouse Lounge. DanO’s playlists were influenced by his mother’s broad music taste, featuring playful mixes blended across musical styles to create a funky symphony on sweaty central valley nights.
 
-  
+<br /> 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fdjwhores%2Fdj-whores-summer-bass-mix-july-2009%2F&hide_cover=1&light=1" frameborder="0"></iframe>
-  
+<br />
 
 His mark is embedded into the capital with his murals, staples in Sacramento. Walking through the city, his murals are more than just labels for buildings, they build a sense of belonging. He inherited his artistic craft from his dad, a prolific artist in his own right, mixing his signature font with bright and dynamic color and flare. His work inspires pride in the city, a familiar yet iconic marker of our public art. Walking down S Street around lunch time you’ll see a crowd surrounding Dad’s Sandwich Shop. The sky blue building adorned in his sharp lettering is a visual haven among brutal office and state buildings. A little farther down the road, locals are grabbing a drink at the moody B-Sides bar, where DanO painted the radio style façade. His mural breaks up the monotonous line of structures and drenches the view in rich nostalgia. His mural work can also be seen at Dimple Records, the American Market and Deli, Amaro, Old Gold, Bottle and Barlow, LowBrau, Seasons Coffee, Anthony’s Barber Shop, Blvck Blvck Salon and Barber, and many other places around town including pop-up artist events.
 
@@ -61,18 +61,21 @@ At his memorial in late April, Southside Park filled with bodies, old friends an
 His energy that channeled through the crowd exuded welcoming warmth and a hunger for community. The way people preserve his presence in themselves, in their minds, and in their actions. What DanO did for the city of Sacramento is not gone, and it will continue in perpetuity as long as we cultivate space for each other and keep it Grimey.
 
  
-
+<br />
+<br />
 **To support Dan Osterhoff’s family:**
 
 [www.gofundme.com/danos-fund](https://www.gofundme.com/danos-fund)
 
+<br />
 **Find out more:**
 
 [@danielosterhoff](https://www.instagram.com/danielosterhoff/)
 
 [www.mixcloud.com/djwhores](https://www.mixcloud.com/djwhores/)
 
-
+<br />
+<br />
 Header image from Daniel Osterhoff’s Instagram.
 
 Photographs courtesy of [Brandon Sheets Photography.](http://www.brandonsheetsphotography.com/)
