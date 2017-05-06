@@ -28,7 +28,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-Daniel Osterhoff transcended this world on April 8th and left behind a wake of energy that radiates warmth throughout the Sacramento creative community. Many have not have even met the man yet the sense community he created permeates daily life in the city.  
+Daniel Osterhoff transcended this world on April 8th and left behind a wake of energy that radiates warmth throughout the Sacramento creative community. Many have not even met the man yet the sense community he created permeates daily life in the city.  
 DanO, better known as DJ Whores throughout the art and music scene, lived as an artist, DJ, a father, and a friend. He is the talent behind midtown rituals like Grimey and Hump at Midtown bars like the Press Club and Townhouse Lounge. In his SN&R interview with Nick Miller, DanO cites his mom’s influence on him, “Shoot, my mom had a wide range of music tastes, everything from jazz, funk, classic rock, blues rock—even, like, ’80s pop”. His playful mixes blend across musical styles to create a funky symphony for the sweaty central valley nights. 
 
 
