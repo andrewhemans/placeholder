@@ -35,7 +35,7 @@ Sometimes it manifests in a search for an untold story, sometimes it is just wit
 
 My most used medium has been disposable cameras because they are cheap and durable, but in more recent times I have experimented with Polaroids and 35mm point and shoot film cameras-mostly Olympus stylus. I enjoy the erratic nature of point and shoot cameras. I feel that it emulates the effect of a haiku, or a reflection on a moment in time, rather than the more rhyme schemed and metered results you get from high end digital or film cameras. 
 
-Any of these photos are available for sale as prints, e-mail me at [heycedric@gmail.com](heycedric@gmail.com) for pricing and sizing info. All prints will be made at either Gluskins on the Miracle Mile or Ulmers in downtown Stockton to keep money local and any profits made will be used to help fund a bike tour and photography ramble I am conducting through the American Southwest at this moment. Take care!
+Any of these photos are available for sale as prints, e-mail me at [heycedric@gmail.com](mailto:heycedric@gmail.com) for pricing and sizing info. All prints will be made at either Gluskins on the Miracle Mile or Ulmers in downtown Stockton to keep money local and any profits made will be used to help fund a bike tour and photography ramble I am conducting through the American Southwest at this moment. Take care!
 
 **#1 Rollie and Stick and Poke at Party in the Woods (2016)**
 
