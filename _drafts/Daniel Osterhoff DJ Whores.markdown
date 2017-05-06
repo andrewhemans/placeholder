@@ -8,6 +8,14 @@ tags:
 - muralist
 - djwhores
 - whore24
+- DJ
+- Grimy
+- Hump
+- ArtStreet
+- ArtHotel
+- Dads
+- Sacramento
+- Midtown
 image: "/uploads/Dano.Harlow-min.png"
 author: Carmel Dor
 description: 'Remembering prolific artist and DJ Daniel Osterhoff, known by many as
