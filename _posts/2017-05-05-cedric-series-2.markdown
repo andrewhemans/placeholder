@@ -38,6 +38,8 @@ My most used medium has been disposable cameras because they are cheap and durab
 
 Any of these photos are available for sale as prints, e-mail me at [heycedric@gmail.com](mailto:heycedric@gmail.com) for pricing and sizing info. All prints will be made at either Gluskins on the Miracle Mile or Ulmers in downtown Stockton to keep money local and any profits made will be used to help fund a bike tour and photography ramble I am conducting through the American Southwest at this moment. Take care!
 
+This post is part of a series, [see Part 1.](http://www.placeholdermag.com/culture/art/2017/03/13/backpacking-from-the-sierras-to-stockton.html)
+
 **#1 Rollie and Stick and Poke at Party in the Woods (2016)**
 
 ![CedricSeries2-img-1.jpg](/uploads/CedricSeries2-img-1.jpg)
