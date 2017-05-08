@@ -16,6 +16,7 @@ tags:
 - Dads
 - Sacramento
 - Midtown
+- Art
 image: "/uploads/Dano.Harlow-min.png"
 author: Carmel Dor
 description: 'Remembering prolific artist and DJ Daniel Osterhoff, known by many as
