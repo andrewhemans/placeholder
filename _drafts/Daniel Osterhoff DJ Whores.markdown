@@ -80,6 +80,6 @@ Donated funds support burial costs and build a  trust for his daughter, Harlow.
 <br />
 *Header image from Daniel Osterhoff’s Instagram.*
 
-*Photographs courtesy of* [Brandon Sheets Photography.](http://www.brandonsheetsphotography.com/)
+*Photographs courtesy of* [*Brandon Sheets Photography.*](http://www.brandonsheetsphotography.com/)
 
-[@eye.self](https://www.instagram.com/eye.self/?hl=en)
+[*@eye.self*](https://www.instagram.com/eye.self/?hl=en)
