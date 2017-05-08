@@ -64,6 +64,7 @@ His energy that channeled through the crowd exuded welcoming warmth and a hunger
 <br />
 <br />
 **To support Dan Osterhoff’s family:**
+
 Donated funds support burial costs and build a  trust for his daughter, Harlow.
 
 [www.gofundme.com/danos-fund](https://www.gofundme.com/danos-fund)
@@ -77,8 +78,8 @@ Donated funds support burial costs and build a  trust for his daughter, Harlow.
 
 <br />
 <br />
-*Header image from Daniel Osterhoff’s Instagram.
+*Header image from Daniel Osterhoff’s Instagram.*
 
-Photographs courtesy of [Brandon Sheets Photography.](http://www.brandonsheetsphotography.com/)
+*Photographs courtesy of* [Brandon Sheets Photography.](http://www.brandonsheetsphotography.com/)
 
-[@eye.self](https://www.instagram.com/eye.self/?hl=en)*
+[@eye.self](https://www.instagram.com/eye.self/?hl=en)
