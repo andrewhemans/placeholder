@@ -19,8 +19,8 @@ tags:
 - Art
 image: "/uploads/Dano.Harlow-min.png"
 author: Carmel Dor
-description: 'Remembering prolific artist and DJ Daniel Osterhoff, known by many as
-  DJ Whores. '
+description: 'A touching eulogy of the prolific artist and DJ: Daniel Osterhoff. His
+  murals and mixes were seen and heard throughout Sacramento. '
 author-block: true
 author-image: "/uploads/CarmelDor_BioPhoto.png"
 author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine.
@@ -59,7 +59,7 @@ DanO utilized his dramatic visual language to render the iconic logos for *ArtHo
 Most recently with his participation in an *ArtStreet* installation, he worked with artist John Dozier to create the mural featured above *History Dies & Condos Rise*. In February, the hangar-sized warehouse was home to this mural hidden in the center of the exhibition. The piece stabs at gentrification that is currently working its way through Sacramento while honoring the artists that are culture creators in the previously overlooked spaces.
 DanO opened himself up in a way that artists don’t have to, and many choose not to. Through his public art and DJ practice he was actively assisting in building spaces of congregation and shared experience. DanO’s permanent mark in Sacramento lies not only in his murals, but in the community he built through his creative practice.
 
-At his memorial in late April, Southside Park filled with bodies - old friends and new - to pay homage to the prolific Sacramento mixer and maker. A DJ stage blasted DJ Whores' mixes and other DJs came to mix in his honor. The prickly dry lawn turned into a dance floor and we celebrated DanO with our bodies and by sharing stories of wild warehouse parties, late-night adventures, and his glowing love. Even those who had never officially met DanO could feel that he was a healer.
+At his memorial in late April, Southside Park filled with bodies — old friends and new - to pay homage to the prolific Sacramento mixer and maker. A DJ stage blasted DJ Whores' mixes and other DJs came to mix in his honor. The prickly dry lawn turned into a dance floor and we celebrated DanO with our bodies and by sharing stories of wild warehouse parties, late-night adventures, and his glowing love. Even those who had never officially met DanO could feel that he was a healer.
 
 His energy that channeled through the crowd exuded a welcoming warmth and a hunger for community - the way people preserve his presence in themselves, in their minds, and in their actions. What DanO did for the city of Sacramento is not gone, and it will continue in perpetuity as long as we cultivate space for each other and keep it "Grimey".
 
