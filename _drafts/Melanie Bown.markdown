@@ -15,4 +15,9 @@ The last installation I did at Beatnik diverged from the making/production proce
 
 Choose your own adventure books are much like real life, so many different paths we could take, decisions to make, conversations to have.
 
+**Find out more:**
+[melaniebown.net](www.melaniebown.net)
+[@millybown](https://www.instagram.com/millybown/)
+
+
 Visual and written content by Melanie Bown, curated by Carmel Dor.
