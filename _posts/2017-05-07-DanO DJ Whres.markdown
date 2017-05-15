@@ -17,7 +17,7 @@ tags:
 - Sacramento
 - Midtown
 - Art
-image: "/uploads/Dano.Harlow-min.png"
+image: "/uploads/Dano-Harlow-min.png"
 author: Carmel Dor
 description: 'A touching eulogy of the prolific artist and DJ: Daniel Osterhoff. His
   murals and mixes were seen and heard throughout Sacramento. '
@@ -37,23 +37,23 @@ DanO, better known as DJ Whores throughout the art and music scene, lived as an 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fdjwhores%2Fdj-whores-summer-bass-mix-july-2009%2F&hide_cover=1&light=1" frameborder="0"></iframe>
 <br />
 
-His mark is embedded into the state capital with his murals, which are Sacramento staples. Found throughout the city, his murals are more than just labels for buildings; they build a sense of belonging. He inherited his artistic craft from his dad, a prolific artist in his own right, mixing his signature font with bright color and dynamic flare. His work inspires pride in the city. 
+His mark is embedded into the state capital with his murals, which are Sacramento staples. Found throughout the city, his murals are more than just labels for buildings; they build a sense of belonging. He inherited his artistic craft from his dad, a prolific artist in his own right, mixing his signature font with bright color and dynamic flare. His work inspires pride in the city.
 
-Around lunchtime you can see a crowd surrounding Dad’s Sandwich Shop. The sky blue building adorned in his sharp lettering is a visual haven among brutal office and state buildings. A little farther down the road, locals are grabbing drinks at B-Sides, a moody bar where DanO painted the radio style façade. His mural breaks up the monotonous line of structures drenching the view in rich nostalgia. 
+Around lunchtime you can see a crowd surrounding Dad’s Sandwich Shop. The sky blue building adorned in his sharp lettering is a visual haven among brutal office and state buildings. A little farther down the road, locals are grabbing drinks at B-Sides, a moody bar where DanO painted the radio style façade. His mural breaks up the monotonous line of structures drenching the view in rich nostalgia.
 
-![DanO_BrandonSheets (30)-min.jpg](/uploads/DanO_BrandonSheets%20(30)-min.jpg)
+![DanO_BrandonSheets-30-min.jpg](/uploads/DanO_BrandonSheets-30-min.jpg)
 
-![DanO_BrandonSheets (33)-min.jpg](/uploads/DanO_BrandonSheets%20(33)-min.jpg)
+![DanO_BrandonSheets-33-min.jpg](/uploads/DanO_BrandonSheets-33-min.jpg)
 
-![DanO_BrandonSheets (40)-min.jpg](/uploads/DanO_BrandonSheets%20(40)-min.jpg)
+![DanO_BrandonSheets-40-min.jpg](/uploads/DanO_BrandonSheets-40-min.jpg)
 
 DanO utilized his dramatic visual language to render the iconic logos for *ArtHotel* and *ArtStreet*, pop-up exhibitions by M5 Arts. His mural work can also be seen at Dimple Records, the American Market and Deli, Amaro, Old Gold, Bottle and Barlow, LowBrau, Seasons Coffee, Anthony’s Barber Shop, Blvck Blvck Salon and Barber, and many other places around town. Striking, recognizable, and a symbol of home for many Sacramento artists, DanO’s handiwork became a beacon for artists, a sigil uniting creators. His craft extends beyond beautifully transforming the names of shops into his own artistic practice.
 
-![DanO_BrandonSheets (2)-min.jpg](/uploads/DanO_BrandonSheets%20(2)-min.jpg)
+![DanO_BrandonSheets-2-min.jpg](/uploads/DanO_BrandonSheets-2-min.jpg)
 
-![DanO_BrandonSheets (20)-min.jpg](/uploads/DanO_BrandonSheets%20(20)-min.jpg)
+![DanO_BrandonSheets-20-min.jpg](/uploads/DanO_BrandonSheets-20-min.jpg)
 
-![History Dies and Condos Rise_DanOInstagram-min.jpg](/uploads/History%20Dies%20and%20Condos%20Rise_DanOInstagram-min.jpg)
+![History-Dies-and-Condos-Rise.jpg](/uploads/History-Dies-and-Condos-Rise.jpg)
 *Photo sourced from Daniel Osterhoff's Instagram*
 
 Most recently with his participation in an *ArtStreet* installation, he worked with artist John Dozier to create the mural featured above *History Dies & Condos Rise*. In February, the hangar-sized warehouse was home to this mural hidden in the center of the exhibition. The piece stabs at gentrification that is currently working its way through Sacramento while honoring the artists that are culture creators in the previously overlooked spaces.
