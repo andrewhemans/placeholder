@@ -39,7 +39,7 @@ DanO, better known as DJ Whores throughout the art and music scene, lived as an 
 
 His mark is embedded into the state capital with his murals, which are Sacramento staples. Found throughout the city, his murals are more than just labels for buildings; they build a sense of belonging. He inherited his artistic craft from his dad, a prolific artist in his own right, mixing his signature font with bright color and dynamic flare. His work inspires pride in the city.
 
-Around lunchtime you can see a crowd surrounding Dad’s Sandwich Shop. The sky blue building adorned in his sharp lettering is a visual haven among brutal office and state buildings. A little farther down the road, locals are grabbing drinks at B--Sides, a moody bar where DanO painted the radio style façade. His mural breaks up the monotonous line of structures drenching the view in rich nostalgia.
+Around lunchtime you can see a crowd surrounding Dad’s Sandwich Shop. The sky blue building adorned in his sharp lettering is a visual haven among brutal office and state buildings. A little farther down the road, locals are grabbing drinks at B-Sides, a moody bar where DanO painted the radio style facade. His mural breaks up the monotonous line of structures drenching the view in rich nostalgia.
 
 ![DanO_BrandonSheets-30-min.jpg](/uploads/DanO_BrandonSheets-30-min.jpg)
 
