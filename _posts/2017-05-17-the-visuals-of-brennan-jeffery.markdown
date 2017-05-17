@@ -36,31 +36,31 @@ Most of my work revolves around a central figure, fading from a haze or a shadow
 
 ![Brennan-Jeffery-Studio.jpg](/uploads/Brennan-Jeffery-Studio.jpg)
 
->“Once I learned how to mix colors, I took every art course I could.”
+> “Once I learned how to mix colors, I took every art course I could.”
 
 **Tell us about this series of latest work, the creature series.**
-These are just an exploration of, I guess, these different creatures that are very alien to me and are trying to understand their forms and recreate that through paint. All of these beings have unique qualities and textures. Take this one for example: 
+These are just an exploration of, I guess, these different creatures that are very alien to me and are trying to understand their forms and recreate that through paint. All of these beings have unique qualities and textures. Take this one for example:
 
 ![Brennan-Jeffery-Centipede.jpg](/uploads/Brennan-Jeffery-Centipede.jpg)
 
-This is a creature that may be terrifying to a lot of people—even my first reaction was repulse. But there are actually many beautiful parts to it. I realized when working on this that it has really elegant forms—from the armor plating on its back to the color transitions on its spindly legs. They’re just studies of these intricate things in the world that people don’t usually look at or admire, but I found painting them and spending so much time with them was a real intimate way to look at these creatures and admire their beauty. 
+This is a creature that may be terrifying to a lot of people—even my first reaction was repulse. But there are actually many beautiful parts to it. I realized when working on this that it has really elegant forms—from the armor plating on its back to the color transitions on its spindly legs. They’re just studies of these intricate things in the world that people don’t usually look at or admire, but I found painting them and spending so much time with them was a real intimate way to look at these creatures and admire their beauty.
 
 ![Brennan-creatures.jpg](/uploads/Brennan-creatures.jpg)
 
 **What is one of your earliest memories you have drawing or painting?**
-I don’t have a real specific one, but my earliest memories was drawing in church as a kid. My parents would give me pencils and paper so I would be quiet in church. I would draw people as they would go up to the podium—maybe that’s where my interest in portraiture comes from... wow, I haven’t thought about this in a while. My parents would always give us art supplies as presents for Christmas and things like that; they were really supportive of art endeavors. My dad is an artist too, I look up to him a lot. 
-**
-What are some of your influences as an artist?**
-It’s hard to pinpoint just one or pull somebody out that influences me right now. I follow a ton of artists online, and I have this constant stream of images flowing through my mind of pieces they’re producing. I’m sure all of that influences me in a way. I’m not sure who would float to the surface of that stream. Most of who I follow are either contemporary or classical figurative artists, and I’m influenced by both styles. My work—I like to think—sits somewhere between the two. Earliest on, the artist that blew me away and made me excited about art and what was possible was seeing [Chuck Close](http://chuckclose.com/)’s work and how grand of a scale he painted the human portrait. His use of depth and ability to make such intricate work were really cool to me. I get influences for art from movies, from music—it all influences me in some way. Someone that I hella like is [Vincent Desiderio](http://www.vincent-desiderio.com/), he’s badass. He’s amazing dude. 
-**
-What inspires you to make art? **
+I don’t have a real specific one, but my earliest memories was drawing in church as a kid. My parents would give me pencils and paper so I would be quiet in church. I would draw people as they would go up to the podium—maybe that’s where my interest in portraiture comes from...Wow, I haven’t thought about this in a while. My parents would always give us art supplies as presents for Christmas and things like that; they were really supportive of art endeavors. My dad is an artist too, I look up to him a lot.
+
+**What are some of your influences as an artist?**
+It’s hard to pinpoint just one or pull somebody out that influences me right now. I follow a ton of artists online, and I have this constant stream of images flowing through my mind of pieces they’re producing. I’m sure all of that influences me in a way. I’m not sure who would float to the surface of that stream. Most of who I follow are either contemporary or classical figurative artists, and I’m influenced by both styles. My work—I like to think—sits somewhere between the two. Earliest on, the artist that blew me away and made me excited about art and what was possible was seeing [Chuck Close](http://chuckclose.com/)’s work and how grand of a scale he painted the human portrait. His use of depth and ability to make such intricate work were really cool to me. I get influences for art from movies, from music—it all influences me in some way. Someone that I hella like is [Vincent Desiderio](http://www.vincent-desiderio.com/), he’s badass. He’s amazing dude.
+
+**What inspires you to make art? **
 I have this internal drive that when I’m not making art, I feel empty. I love painting to begin with—what drives me most now is the learning process. Each painting I do, I keep trying a different technique or a new approach, and I learn a lot from each new painting. I just try to create things that are beautiful and intriguing to me and learn from it. I like to see it unfold, to go through the process and see a piece come to fruition and create something from nothing.
 
 ![Brennan-Jeffery-Placeholder.jpg](/uploads/Brennan-Jeffery-Placeholder.jpg)
 
 To keep up with Brennan Jeffery’s work, follow him on Instagram: [@bre.nun](https://www.instagram.com/bre.nun/)
 
-Brennan Jeffery is putting on a solo art show as part of [The Sycamore’s Social Club](https://www.facebook.com/events/1818788141774290) in Stockton this Saturday. 
+Brennan Jeffery is putting on a solo art show as part of [The Sycamore’s Social Club](https://www.facebook.com/events/1818788141774290) in Stockton this Saturday.
 
 **What:** The Sycamore Social Club
 **When:** Saturday, May 20th, 2017 at 6pm
@@ -69,12 +69,12 @@ Brennan Jeffery is putting on a solo art show as part of [The Sycamore’s Socia
 Tickets are $5 and can be purchased beforehand at the following locations in Stockton:
 
 **Infinite.209**
-[522 E. Weber]
+\[522 E. Weber\]
 
 **Cast Iron Trading Co**
-[114 N San Joaquin]
+\[114 N San Joaquin\]
 
-**Huddle Co-work** 
-[110 N San Joaquin]
+**Huddle Co-work**
+\[110 N San Joaquin\]
 
 *Photography by [Ramiz Haddad](https://www.instagram.com/topramiz/)*
