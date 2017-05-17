@@ -24,9 +24,10 @@ author-bio: Ryan Camero is an arts activist and community organizer who believes
   in the transformative powers of visual storytelling, cross-cultural understanding,
   and inter-generational communication in achieving social justice. As a coalition-builder
   across many groups, Ryan works primarily with Restore the Delta, the statewide California
-  Student Sustainability Coalition, and the internationally known Beehive Design Collective.
-  He currently is based out of Stockton doing work on the statewide and national level
-  and was awarded the national Brower Youth Award in 2015.
+  Student Sustainability Coalition, Placeholder Magazine and the internationally known
+  Beehive Design Collective. He currently is based out of Stockton doing work on the
+  statewide and national level and was awarded the national Brower Youth Award in
+  2015.
 ---
 
 I first met Brennan Jeffery when we were students, the two of us huddled around in a room full of easels, in an early-morning beginning drawing class. Since then, I have been blown away by the distinctive style of his artwork— his recent portraiture work combining a superpower mixture of precise, real-life detail and surreal figures. While Jeffery grew up in Manteca, he is currently an artist living in Stockton. Jeffery is a former student of San Joaquin Delta College, the school where he started learning to paint. He spoke with me about the influence the arts department had on him: “Once I learned how to mix colors, I took every art course I could.” He then took classes in San Carlos with the [Bay Area Classical Art Atelier](http://www.bacaa.org/) (BACAA), in intimate atelier-style workshops, which teach a traditional approach to figurative painting, fine art, and classical technique using models. What strikes me as unique about Jeffery’s work are the subtle elements that make up the snapshots of his characters, in a strange world not seen anywhere else. From fuzzy half-shadows to intricate texture, I took time out to sit down with him to ask about the deeper meanings of these badass paintings.
