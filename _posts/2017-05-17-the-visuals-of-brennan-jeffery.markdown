@@ -54,7 +54,7 @@ I don’t have a real specific one, but my earliest memories was drawing in chur
 **What are some of your influences as an artist?**
 It’s hard to pinpoint just one or pull somebody out that influences me right now. I follow a ton of artists online, and I have this constant stream of images flowing through my mind of pieces they’re producing. I’m sure all of that influences me in a way. I’m not sure who would float to the surface of that stream. Most of who I follow are either contemporary or classical figurative artists, and I’m influenced by both styles. My work—I like to think—sits somewhere between the two. Earliest on, the artist that blew me away and made me excited about art and what was possible was seeing [Chuck Close](http://chuckclose.com/)’s work and how grand of a scale he painted the human portrait. His use of depth and ability to make such intricate work were really cool to me. I get influences for art from movies, from music—it all influences me in some way. Someone that I hella like is [Vincent Desiderio](http://www.vincent-desiderio.com/), he’s badass. He’s amazing dude.
 
-**What inspires you to make art? **
+**What inspires you to make art?**
 I have this internal drive that when I’m not making art, I feel empty. I love painting to begin with—what drives me most now is the learning process. Each painting I do, I keep trying a different technique or a new approach, and I learn a lot from each new painting. I just try to create things that are beautiful and intriguing to me and learn from it. I like to see it unfold, to go through the process and see a piece come to fruition and create something from nothing.
 
 ![Brennan-Jeffery-Placeholder.jpg](/uploads/Brennan-Jeffery-Placeholder.jpg)
