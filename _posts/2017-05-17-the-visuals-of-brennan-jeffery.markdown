@@ -29,7 +29,7 @@ author-bio: Ryan Camero is an arts activist and community organizer who believes
   and was awarded the national Brower Youth Award in 2015.
 ---
 
-I first met Brennan Jeffery when we were students, the two of us huddled around in a room full of easels, in an early-morning beginning drawing class. Since then, I have been blown away by the distinctive style of his artwork— his recent portraiture work combining a superpower mixture of precise, real-life detail and surreal figures. While Jeffery grew up in Manteca, he is currently an artist living in Stockton. Jeffery is a former student of San Joaquin Delta College, the school where he started learning to paint. He spoke with me about the influence the arts department had on him: “Once I learned how to mix colors, I took every art course I could.” He then took classes in San Carlos with the [Bay Area Classical Art Atelier](http://www.bacaa.org/)(BACAA), in intimate atelier-style workshops, which teach a traditional approach to figurative painting, fine art, and classical technique using models. What strikes me as unique about Jeffery’s work are the subtle elements that make up the snapshots of his characters, in a strange world not seen anywhere else. From fuzzy half-shadows to intricate texture, I took time out to sit down with him to ask about the deeper meanings of these badass paintings.
+I first met Brennan Jeffery when we were students, the two of us huddled around in a room full of easels, in an early-morning beginning drawing class. Since then, I have been blown away by the distinctive style of his artwork— his recent portraiture work combining a superpower mixture of precise, real-life detail and surreal figures. While Jeffery grew up in Manteca, he is currently an artist living in Stockton. Jeffery is a former student of San Joaquin Delta College, the school where he started learning to paint. He spoke with me about the influence the arts department had on him: “Once I learned how to mix colors, I took every art course I could.” He then took classes in San Carlos with the [Bay Area Classical Art Atelier](http://www.bacaa.org/) (BACAA), in intimate atelier-style workshops, which teach a traditional approach to figurative painting, fine art, and classical technique using models. What strikes me as unique about Jeffery’s work are the subtle elements that make up the snapshots of his characters, in a strange world not seen anywhere else. From fuzzy half-shadows to intricate texture, I took time out to sit down with him to ask about the deeper meanings of these badass paintings.
 
 **Generally, what do you see as a recurring theme in your work?**
 Most of my work revolves around a central figure, fading from a haze or a shadow. My focuses are mostly on the interplay between light and darkness and the interaction and manipulation of form in those settings. A question I get a lot from people are what these shadows are in my work. I wouldn’t see it as a shadow or darkness, but more of a transition—an expression of change. Something in my life that’s been huge to me has been growing up in a very tight-knit, religious family with a really narrow and small worldview. As I’ve gotten older, I have changed my perception about a lot of things. That’s been a theme for the last few years in my life, and I feel like my artwork reflects those in-between periods of transitioning, or this sense of change.
@@ -68,13 +68,13 @@ Brennan Jeffery is putting on a solo art show as part of [The Sycamore’s Socia
 
 Tickets are $5 and can be purchased beforehand at the following locations in Stockton:
 
-**Infinite.209
-**[522 E. Weber]
+**Infinite.209**
+[522 E. Weber]
 
-**Cast Iron Trading Co 
-**[114 N San Joaquin]
-**
-Huddle Co-work** 
+**Cast Iron Trading Co**
+[114 N San Joaquin]
+
+**Huddle Co-work** 
 [110 N San Joaquin]
 
 *Photography by [Ramiz Haddad](https://www.instagram.com/topramiz/)*
