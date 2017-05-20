@@ -1,6 +1,6 @@
 ---
 title: Rules & Regulations of Dating
-date: 2017-05-17 20:00:00 -07:00
+date: 2017-05-21 20:00:00 -07:00
 categories:
 - Art
 image: "/uploads/Melanie%20Bown%20(1)-min.jpg"
