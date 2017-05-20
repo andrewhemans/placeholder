@@ -19,7 +19,6 @@ When I first started making art as an adult, it was very much an internal conver
  > but what’s been most exciting to me lately has been creating art that feels more like a conversation with the viewer. 
 
 <br>
-<br>
 ![Melanie Bown (4).jpg](/uploads/Melanie%20Bown%20(4).jpg)
 <br>
 <br>
@@ -48,7 +47,6 @@ Choose your own adventure books are much like real life, so many different paths
 
 ![Melanie Bown (5).jpg](/uploads/Melanie%20Bown%20(5).jpg)
 
-<br>
 <br>
 <br>
 **Melanie Bown** has been a state worker, museum professional, gallery owner, art instructor, and through it all an artist. She has a fine arts degree from Bradley University, with an emphasis in printmaking. Bown is based out of Sacramento, California.
