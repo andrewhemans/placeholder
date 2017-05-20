@@ -3,7 +3,7 @@ title: Rules & Regulations of Dating
 date: 2017-05-17 20:00:00 -07:00
 categories:
 - Art
-image: "/uploads/Melanie%20Bown%20(1).jpg"
+image: "/uploads/wall%20(2)-min.jpg"
 author: Carmel Dor
 description: 'Melanie Bown works in flowcharts to stimulate new ways of understanding
   through art and guided sequences. '
@@ -16,7 +16,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
 ---
 
 When I first started making art as an adult, it was very much an internal conversation, dark, brooding, mysterious. As the years passed, I’ve been influenced by many people and places. Short Center North artists showed me how to loosen up, be more free with my mark making, layer with abandon, stop over-thinking, and add brightness and humor. Art making can still be my inner world leaking out, presented as some visual narrative,
- > but what’s been most exciting to me lately has been creating art that feels more like a conversation with the viewer. <
+ > but what’s been most exciting to me lately has been creating art that feels more like a conversation with the viewer. 
 
 <br>
 ![Melanie Bown (4).jpg](/uploads/Melanie%20Bown%20(4).jpg)
