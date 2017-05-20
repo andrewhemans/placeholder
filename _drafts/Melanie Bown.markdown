@@ -17,6 +17,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
 
 When I first started making art as an adult, it was very much an internal conversation, dark, brooding, mysterious. As the years passed, I’ve been influenced by many people and places. Short Center North artists showed me how to loosen up, be more free with my mark making, layer with abandon, stop over-thinking, and add brightness and humor. Art making can still be my inner world leaking out, presented as some visual narrative,
  > but what’s been most exciting to me lately has been creating art that feels more like a conversation with the viewer.
+
 <br>
 ![Melanie Bown (4).jpg](/uploads/Melanie%20Bown%20(4).jpg)
 <br>
