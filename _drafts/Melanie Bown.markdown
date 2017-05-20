@@ -39,7 +39,9 @@ Choose your own adventure books are much like real life, so many different paths
 Her work is currently viewable at FE Gallery, Uptown Studios, and Autonomous Love in Sacramento, California. 
 
 **Find out more:**
+
 [melaniebown.net](www.melaniebown.net)
+
 [@millybown](https://www.instagram.com/millybown/)
 
 
