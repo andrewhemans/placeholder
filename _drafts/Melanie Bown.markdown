@@ -3,7 +3,7 @@ title: Rules & Regulations of Dating
 date: 2017-05-21 20:00:00 -07:00
 categories:
 - Art
-image: "/uploads/Melanie%20Bown%20(1)-min.jpg"
+image: "/uploads/Melanie%20Bown%20(5).jpg"
 author: Carmel Dor
 description: 'Melanie Bown works in flowcharts to stimulate new ways of understanding
   through art and guided sequences. '
