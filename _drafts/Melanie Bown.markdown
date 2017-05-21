@@ -53,7 +53,7 @@ At Artspace 1616, I was able to install work that addressed the rushed creation 
 
 The last installation I did at Beatnik diverged from the making/production process and sought explanations for finding and keeping love. It was called “Rules & Regulations for Dating.” Intel was gathered from friends, from magazine articles, and from hard earned lessons.
 
-Choose your own adventure books are much like real life, so many different paths we could take, decisions to make, conversations to have.
+"Choose Your Own Adventure" books are much like real life: so many different paths we can take, decisions to make, conversations to have.
 <br>
 <br>
 
