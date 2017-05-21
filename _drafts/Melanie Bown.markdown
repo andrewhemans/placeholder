@@ -15,7 +15,7 @@ tags:
 - dating
 - rules
 - regulations
-image: "/uploads/MelanieBown-6-min.jpg"
+image: "/uploads/MelanieBown-6.min.jpg"
 author: Carmel Dor
 description: 'Melanie Bown works in flowcharts to stimulate new ways of understanding
   through art and guided sequences. '
