@@ -15,7 +15,7 @@ tags:
 - dating
 - rules
 - regulations
-image: "/uploads/Melanie%20Bown%20(1)-min.jpg"
+image: "/uploads/Melanie-Bown-1.jpg"
 author: Carmel Dor
 description: 'Melanie Bown works in flowcharts to stimulate new ways of understanding
   through art and guided sequences. '
@@ -31,7 +31,7 @@ When I first started making art as an adult, it was very much an internal conver
  > but what’s been most exciting to me lately has been creating art that feels more like a conversation with the viewer. 
 
 <br>
-![Melanie Bown (4).jpg](/uploads/Melanie%20Bown%20(4).jpg)
+![Melanie-Bown-4.jpg](/uploads/Melanie-Bown-4.jpg)
 <br>
 <br>
 
@@ -39,7 +39,7 @@ Flow charts seem to be a valid tool. A conversation can meander, go a little dee
 
 <br>
 <br>
-![Melanie Bown (3).jpg](/uploads/Melanie%20Bown%20(3).jpg)
+![Melanie-Bown-3.jpg](/uploads/Melanie-Bown-3.jpg)
 <br>
 <br>
 
@@ -47,7 +47,7 @@ At Artspace 1616, I was able to install work that addressed the crazy-making of 
 
 <br>
 <br>
-![Melanie Bown (2).jpg](/uploads/Melanie%20Bown%20(2).jpg)
+![Melanie-Bown-2.jpg](/uploads/Melanie-Bown-2.jpg)
 <br>
 <br>
 
@@ -57,7 +57,7 @@ Choose your own adventure books are much like real life, so many different paths
 <br>
 <br>
 
-![Melanie Bown (5).jpg](/uploads/Melanie%20Bown%20(5).jpg)
+![Melanie-Bown-5.jpg](/uploads/Melanie-Bown-5.jpg)
 
 <br>
 <br>
