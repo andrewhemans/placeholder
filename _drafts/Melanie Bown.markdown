@@ -15,7 +15,7 @@ tags:
 - dating
 - rules
 - regulations
-image: "/uploads/Melanie-Bown-1.jpg"
+image: "/uploads/Melanie-Bown-6-min.jpg"
 author: Carmel Dor
 description: 'Melanie Bown works in flowcharts to stimulate new ways of understanding
   through art and guided sequences. '
@@ -27,6 +27,9 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
+![Melanie Bown (1)-min.jpg](/uploads/Melanie%20Bown%20(1)-min.jpg)
+<br>
+<br>
 When I first started making art as an adult, it was very much an internal conversation; dark, brooding, mysterious. As the years passed, I’ve been influenced by many people and places. Short Center North artists showed me how to loosen up, be more free with my mark making, layer with abandon, stop overthinking, and add brightness and humor. Art making can still be my inner world leaking out, presented as some visual narrative,
  > but what’s been most exciting to me lately has been creating art that feels more like a conversation with the viewer. 
 
