@@ -35,7 +35,7 @@ When I first started making art as an adult, it was very much an internal conver
 <br>
 <br>
 
-Flow charts seem to be a valid tool. A conversation can meander, go a little deeper, ask questions, and I’m not limited to using only one medium to keep it coherent. It all started with the first show at *milk gallery* called “Cooking Up Something Real Good.” When I made a flow chart that explained what one could do with an idea. From there, Beatnik Gallery allowed me to do a solo show, “Flow Charts for Success,” where I got to use entire walls to house flowcharts, using artwork at its terminus. They talked about the art making process, getting stuck, preparing, and showing work.
+Flow charts seem to be a valid tool. A conversation can meander, go a little deeper, ask questions, and I’m not limited to using only one medium to keep it coherent. It all started with the first show at *milk gallery* called “Cooking Up Something Real Good” when I made a flow chart that explained what one could do with an idea. From there, Beatnik Gallery allowed me to do a solo show, “Flow Charts for Success,” where I got to use entire walls to house flowcharts, using artwork at its terminus. They talked about the art making process, getting stuck, preparing, and showing work.
 
 <br>
 <br>
