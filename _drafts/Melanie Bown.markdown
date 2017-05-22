@@ -27,7 +27,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-![Melanie Bown (1)-min.jpg](/uploads/Melanie%20Bown%20(1)-min.jpg)
+![Melanie-Bown-1.jpg](/uploads/Melanie-Bown-1.jpg)
 <br>
 <br>
 When I first started making art as an adult, it was very much an internal conversation; dark, brooding, mysterious. As the years passed, I’ve been influenced by many people and places. Short Center North artists showed me how to loosen up, be more free with my mark making, layer with abandon, stop overthinking, and add brightness and humor. Art making can still be my inner world leaking out, presented as some visual narrative,
