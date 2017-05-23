@@ -43,65 +43,64 @@ Textures<br>
 Material<br>
 Some would say<br>
 'What a shit wall, how'd that stand boy?'<br>
-But this the experiment I'd hold true to myself and I'd show to others 
-Each brick may sag or sink or shift
-Each will sag into another
-Sink only to be lifted up 
-Shift so others can keep that void filled
-Use of this wall has to portray our wild relationship too
-So it can't block 
-Or evict 
-Or isolate man
-We'll make a home from it, 
-One blessed by welcoming fellows 
-Who'll take others and love any 
-They will be the shields of many. 
+But this the experiment I'd hold true to myself and I'd show to others<br>
+Each brick may sag or sink or shift<br>
+Each will sag into another<br>
+Sink only to be lifted up<br> 
+Shift so others can keep that void filled<br>
+Use of this wall has to portray our wild relationship too<br>
+So it can't block<br>
+Or evict<br>
+Or isolate man<br>
+We'll make a home from it,<br> 
+One blessed by welcoming fellows<br>
+Who'll take others and love any<br> 
+They will be the shields of many.<br>
 
-<u>Vital news</u>
-
-If you want to play life like a fiddle 
-then throw out the fiddle 
-and buy a grand piano 
+<u>Vital news</u><br>
+If you want to play life like a fiddle<br> 
+then throw out the fiddle<br>
+and buy a grand piano<br>
 
 
 
 <u>Untamed</u>
 
-my hair
-it’s coarse, rough, always in bristles
-Why should I care
-But how did these sweet birds 
-come to swallow those hard whistles 
+my hair<br>
+it’s coarse, rough, always in bristles<br>
+Why should I care<br>
+But how did these sweet birds<br>
+come to swallow those hard whistles<br>
 
 
 <u>Staying Far away for Obvious and Not so Obvious reasons</u>
  
-To whom 
-and whom 
-should I make it out to?
-you wrote down an address 
-However just like the rest 
-you never gave me a picture of 
-the last sight you saw 
-when in dreary Ohio 
-Or in crisply starched New England. 
-You never gave me that lava-like kindness you felt in Vera Cruz 
-Or that warmth on the sides of your neck in Berlin 
-I am or we are 
-Dishearten to hear the news 
-the one you already knew 
-back when you were in homeschool 
-with that alcoholic father
-who only passed, he threw, the baton to mother. 
-You knew more then the next 
-but you let it slap from your sides 
-Only to lead to a new wild game of chutes and slides
-and slides 
-and sliding 
-into my life 
-That is exactly what you did 
-For the best of two futures you left that other to see
-that you needed me 
-And now 
-from this point on 
-Who should I make it out to son?
+To whom<br>
+and whom<br>
+should I make it out to?<br>
+you wrote down an address<br>
+However just like the rest<br>
+you never gave me a picture of<br> 
+the last sight you saw<br>
+when in dreary Ohio<br>
+Or in crisply starched New England.<br>
+You never gave me that lava-like kindness you felt in Vera Cruz<br>
+Or that warmth on the sides of your neck in Berlin<br>
+I am or we are<br>
+Dishearten to hear the news<br>
+the one you already knew<br>
+back when you were in homeschool<br> 
+with that alcoholic father<br>
+who only passed, he threw, the baton to mother.<br> 
+You knew more then the next<br>
+but you let it slap from your sides<br> 
+Only to lead to a new wild game of chutes and slides<br>
+and slides<br> 
+and sliding<br> 
+into my life<br>
+That is exactly what you did<br>
+For the best of two futures you left that other to see<br>
+that you needed me<br>
+And now<br>
+from this point on<br>
+Who should I make it out to son?<br>
