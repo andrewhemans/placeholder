@@ -11,8 +11,7 @@ author-bio: 'Jack Hawley is a current student at Humboldt State University in Ar
   by the Fall 2018 semester. '
 ---
 
-<u>Loose</u>
-
+<u>Loose</u><br>
 To be scared to say what I wanna say<br> 
 We're on that warming griddle<br>
 Just in the midst<br>
@@ -62,19 +61,14 @@ If you want to play life like a fiddle<br>
 then throw out the fiddle<br>
 and buy a grand piano<br>
 
-
-
-<u>Untamed</u>
-
+<u>Untamed</u><br>
 my hair<br>
 it’s coarse, rough, always in bristles<br>
 Why should I care<br>
 But how did these sweet birds<br>
 come to swallow those hard whistles<br>
 
-
-<u>Staying Far away for Obvious and Not so Obvious reasons</u>
- 
+<u>Staying Far away for Obvious and Not so Obvious reasons</u><br>
 To whom<br>
 and whom<br>
 should I make it out to?<br>
