@@ -1,11 +1,17 @@
 ---
-title: Sincerely, Jack R.T. Hawley
+title: Jack R.T. Hawley-Poetry
 date: 2017-05-23 11:21:00 -07:00
 author: Jack R.T. Hawley
 author-block: true
+author-image: "/uploads/Jack_R.T._Hawley.jpeg"
+author-bio: 'Jack Hawley is a current student at Humboldt State University in Arcata,
+  CA, but has lived in Stockton for nearly 15 years. Presently he studies oceanography
+  with an emphasis in geology, but has always enjoyed writing, reading and publicly
+  presenting poetry. In the future Jack Hawley hopes to graduate with a B.S. in oceanography
+  by the Fall 2018 semester. '
 ---
 
-_Loose_
+<u>Loose</u>
 
 To be scared to say what I wanna say 
 We're on that warming griddle 
@@ -51,7 +57,8 @@ One blessed by welcoming fellows
 Who'll take others and love any 
 They will be the shields of many. 
 
-Vital news
+<u>Vital news</u>
+
 If you want to play life like a fiddle 
 then throw out the fiddle 
 and buy a grand piano 
@@ -67,7 +74,8 @@ But how did these sweet birds
 come to swallow those hard whistles 
 
 
-Staying Far away for Obvious and Not so Obvious reasons 
+<u>Staying Far away for Obvious and Not so Obvious reasons</u>
+ 
 To whom 
 and whom 
 should I make it out to?
