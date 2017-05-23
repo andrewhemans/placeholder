@@ -31,7 +31,7 @@ But when we meet this velvet end<br>
 Like the top of one of those tables<br>
 You know<br>
 The one you see in your grandmother's place.<br>
-Was made in a time  with different tastes and feels and thoughts<br>
+Was made in a time with different tastes and feels and thoughts<br>
 In a moment where people seemed bigger and more foundational within this world and the next<br>
 Like layers of bricks and mortar<br>
 One held the other in a strong gravelly embrace<br>
