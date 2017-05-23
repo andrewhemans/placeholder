@@ -14,9 +14,9 @@ author-bio: 'Jack Hawley is a current student at Humboldt State University in Ar
 <u>Loose</u>
 
 To be scared to say what I wanna say 
-We're on that warming griddle 
-Just in the midst 
-Of those waiting ruby flames to lick every one of us 
+We're on that warming griddle
+Just in the midst
+Of those waiting ruby flames to lick every one of us
 We're warming 
 Warming fast 
 Or slow 
