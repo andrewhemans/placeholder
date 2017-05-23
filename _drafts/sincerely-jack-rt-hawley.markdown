@@ -37,12 +37,12 @@ Might have been taken away from you or I<br>
 Or we might have a fresh attempt at in our palms<br>
 To lay bricks of different<br>
 Colours<br>
-Sizes 
-Feels 
-Textures 
-Material 
-Some would say 
-'What a shit wall, how'd that stand boy?' 
+Sizes<br> 
+Feels<br>
+Textures<br>
+Material<br>
+Some would say<br>
+'What a shit wall, how'd that stand boy?'<br>
 But this the experiment I'd hold true to myself and I'd show to others 
 Each brick may sag or sink or shift
 Each will sag into another
