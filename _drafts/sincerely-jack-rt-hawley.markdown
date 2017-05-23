@@ -1,6 +1,10 @@
 ---
 title: Jack R.T. Hawley-Poetry
 date: 2017-05-23 11:21:00 -07:00
+categories:
+- Literature
+tags:
+- poetry
 author: Jack R.T. Hawley
 author-block: true
 author-image: "/uploads/Jack_R.T._Hawley.jpeg"
