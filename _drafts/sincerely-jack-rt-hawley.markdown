@@ -29,14 +29,14 @@ You know<br>
 The one you see in your grandmother's place.<br>
 Was made in a time  with different tastes and feels and thoughts<br>
 In a moment where people seemed bigger and more foundational within this world and the next<br>
-Like layers of bricks and mortar 
-One held the other in a strong gravelly embrace 
-Now though 
-I don't know what happened to that communal bricklaying
-Might have been taken away from you or I 
-Or we might have a fresh attempt at in our palms 
-To lay bricks of different 
-Colours
+Like layers of bricks and mortar<br>
+One held the other in a strong gravelly embrace<br>
+Now though<br>
+I don't know what happened to that communal bricklaying<br>
+Might have been taken away from you or I<br>
+Or we might have a fresh attempt at in our palms<br>
+To lay bricks of different<br>
+Colours<br>
 Sizes 
 Feels 
 Textures 
