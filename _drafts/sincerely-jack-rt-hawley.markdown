@@ -15,20 +15,20 @@ author-bio: 'Jack Hawley is a current student at Humboldt State University in Ar
 
 To be scared to say what I wanna say<br> 
 We're on that warming griddle<br>
-Just in the midst
-Of those waiting ruby flames to lick every one of us
-We're warming
-Warming fast
-Or slow
-And sow these seeds of resentment
-Towards myself towards these others I've felt
-That could have been my lovers and loyal friends
-But when we meet this velvet end
-Like the top of one of those tables
-You know
-The one you see in your grandmother's place.
-Was made in a time  with different tastes and feels and thoughts
-In a moment where people seemed bigger and more foundational within this world and the next
+Just in the midst<br>
+Of those waiting ruby flames to lick every one of us<br>
+We're warming<br>
+Warming fast<br>
+Or slow<br>
+And sow these seeds of resentment<br>
+Towards myself towards these others I've felt<br>
+That could have been my lovers and loyal friends<br>
+But when we meet this velvet end<br>
+Like the top of one of those tables<br>
+You know<br>
+The one you see in your grandmother's place.<br>
+Was made in a time  with different tastes and feels and thoughts<br>
+In a moment where people seemed bigger and more foundational within this world and the next<br>
 Like layers of bricks and mortar 
 One held the other in a strong gravelly embrace 
 Now though 
