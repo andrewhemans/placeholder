@@ -6,12 +6,13 @@ categories:
 tags:
 - poetry
 author: Jack R.T. Hawley
+description: Communal bricklaying
 author-block: true
 author-image: "/uploads/Jack_R.T._Hawley.jpeg"
 author-bio: 'Jack Hawley is a current student at Humboldt State University in Arcata,
-  CA, but has lived in Stockton for nearly 15 years. Presently he studies oceanography
-  with an emphasis in geology, but has always enjoyed writing, reading and publicly
-  presenting poetry. In the future Jack Hawley hopes to graduate with a B.S. in oceanography
+  CA, but has lived in Stockton for nearly 15 years. Presently he studies Oceanography
+  with an emphasis in Geology, but has always enjoyed writing, reading and publicly
+  presenting poetry. In the future Jack Hawley hopes to graduate with a B.S. in Oceanography
   by the Fall 2018 semester. '
 ---
 
