@@ -5,8 +5,12 @@ categories:
 - Literature
 tags:
 - poetry
+- Community
+- Relationship
+- Walls
+- Jack R.T. Hawley
 author: Jack R.T. Hawley
-description: Communal bricklaying
+description: Community building, bricklaying walls; poetry by Jack R.T. Hawley.
 author-block: true
 author-image: "/uploads/Jack_R.T._Hawley.jpeg"
 author-bio: 'Jack Hawley is a current student at Humboldt State University in Arcata,
