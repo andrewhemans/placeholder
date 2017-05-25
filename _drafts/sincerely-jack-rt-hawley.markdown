@@ -1,5 +1,5 @@
 ---
-title: Jack R.T. Hawley-Poetry
+title: Jack R.T. Hawley — Poetry
 date: 2017-05-23 11:21:00 -07:00
 categories:
 - Literature
@@ -10,6 +10,7 @@ tags:
 - Walls
 - Jack R.T. Hawley
 - Free Verse
+image: "/uploads/Javier-happy-harbor.JPG"
 author: Jack R.T. Hawley
 description: Community-building, bricklaying walls, and creating foundations for friendships
   and relationships; poetry by Jack R.T. Hawley.
