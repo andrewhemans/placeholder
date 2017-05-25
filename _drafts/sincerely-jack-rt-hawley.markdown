@@ -69,7 +69,7 @@ Who'll take others and love any<br>
 They will be the shields of many.<br>
 
 <br>
-<u>Vital newsNEWS</u><br>
+<u>Vital news</u><br>
 If you want to play life like a fiddle<br> 
 then throw out the fiddle<br>
 and buy a grand piano<br>
