@@ -115,3 +115,5 @@ from this point on<br>
 Who should I make it out to son?<br>
 
 Instagram: [@jacktheveganhawley](https://www.instagram.com/jacktheveganhawley/)
+
+*Cover photo by Javier Padilla Reyes*
