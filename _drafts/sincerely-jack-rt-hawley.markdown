@@ -68,11 +68,13 @@ One blessed by welcoming fellows<br>
 Who'll take others and love any<br> 
 They will be the shields of many.<br>
 
-<u>Vital news</u><br>
+<br>
+<u>Vital newsNEWS</u><br>
 If you want to play life like a fiddle<br> 
 then throw out the fiddle<br>
 and buy a grand piano<br>
 
+<br>
 <u>Untamed</u><br>
 my hair<br>
 it’s coarse, rough, always in bristles<br>
@@ -80,6 +82,7 @@ Why should I care<br>
 But how did these sweet birds<br>
 come to swallow those hard whistles<br>
 
+<br>
 <u>Staying Far away for Obvious and Not so Obvious reasons</u><br>
 To whom<br>
 and whom<br>
