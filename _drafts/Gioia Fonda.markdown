@@ -22,7 +22,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-In her own words, Gioia is, “a declarer of holidays, a transmitter of trivia, a cultural Argonaut and a faux anthropologist. [She is] simultaneously both neophyte and virtuoso of many skills. [She’s] a hypothetical historian, a connoisseur of tedium and a collector of flotsam. It’s by virtue of these proclivities that [she] create[s].
+In her own words, Gioia is, “a declarer of holidays, a transmitter of trivia, a cultural Argonaut and a faux anthropologist. [She is] simultaneously both neophyte and virtuoso of many skills. [She’s] a hypothetical historian, a connoisseur of tedium and a collector of flotsam. It’s by virtue of these proclivities that [she] create[s]."
 
 ![GioiaFonda-min1.jpeg](/uploads/GioiaFonda-min1.jpeg)
 
