@@ -22,9 +22,21 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-Test
+In her own words, Gioia is, “a declarer of holidays, a transmitter of trivia, a cultural Argonaut and a faux anthropologist. [She is] simultaneously both neophyte and virtuoso of many skills. [She’s] a hypothetical historian, a connoisseur of tedium and a collector of flotsam. It’s by virtue of these proclivities that [she] create[s].
+If you haven’t heard of Gioia Fonda, perhaps you have heard of Pink Week, an annual community celebration in the name of the color pink. Or maybe you’ve seen the Art Advice Booth at local arts spaces like ArtStreet or at the Red Museum. Gioia’s practice engages with community and invites you to actively join the experience.
+In her recent work, COLLIDE-O-SCOPE, Gioia gets meta and created an installation that looks at the community, and must be operated by utilizing your community. The giant-sized kaleidoscope depicts a wild variety of everyday people that you could encounter walking down the street. For the full experience, someone must stand on a ladder and turn the upper cylinder for the viewer crouched below. What you may see is a joyous colorful mixture of encounters repeatedly taking place right before your eyes. Where the news today may dull our perspective on the future, here Gioia reminds us to revel in ourselves and to “embrace our moments of collision - to make the most of when our paths meet with the paths of friends or strangers.”
+Gioia Fonda created this work in Spring of 2017 for Art Street with some technical assistance from Erwo, Eddie Stein, Sam Niver and Terry Peterson.       
 
-
+To see more work from this wonderful creator, check out the Art Advice Booth this summer around Sacramento, and the GIVE A FORK project which is projected to be installed by the end of Summer 2017. Gioia is also the founder of Pink Week, which will be celebrating its 24th annual iteration at ArtSpace 1616 this November. 
+ 
+Gioia Fonda is an interdisciplinary artist working primarily in two-dimensional media (painting, drawing, sewing and photography) with occasional forays in sculpture, performance and new media. Her subject matter is wide ranging from working in a colorful non-objective manner to directly addressing issues related to our food system. An active studio resident of Verge Center for the Arts, she is a dedicated member of the Sacramento art community. In addition to creating her art, she also occasionally serves as curator, jurist, mentor and collaborating artist. She has a bi-coastal art education earning a BFA at the California College of the Arts and an MFA at the School of Visual Arts in New York. She is a tenured professor of art at Sacramento City College.
+ 
+ 
+ 
 **Find out more:**
 
-Linkx
+[www.pinkweek.org](http://www.pinkweek.org/)
+
+[www.giveafork.net](http://www.giveafork.net/)
+
+[Follow Gioia on Facebook](https://www.facebook.com/Gioia-Fonda-artist-among-other-things-794018587328031/)
