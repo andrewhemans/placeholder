@@ -39,13 +39,13 @@ While you may not have heard of Gioia Fonda, you may have heard of [Pink Week](h
 ![GioiaFonda-min2.jpeg](/uploads/GioiaFonda-min2.jpeg)
 <br>
 <br>
-In her recent work, COLLIDE-O-SCOPE, Gioia gets meta and created an installation that looks at the community, and must be operated by utilizing your community. The giant-sized kaleidoscope depicts a wild variety of everyday people that you could encounter walking down the street. 
+In her recent work, COLLIDE-O-SCOPE, Gioia gets meta and creates an installation that looks at the community, and must be operated by utilizing your community. The giant-sized kaleidoscope depicts a wild variety of everyday people that you could encounter walking down the street. 
 <br>
 <br>
 ![GioiaFonda-min3.jpeg](/uploads/GioiaFonda-min3.jpeg)
 <br>
 <br>
-For the full experience, someone must stand on a ladder and turn the upper cylinder for the viewer crouched below. What you may see is a joyous colorful mixture of encounters repeatedly taking place right before your eyes. Where the news today may dull our perspective on the future, here Gioia reminds us to revel in ourselves and to “embrace our moments of collision - to make the most of when our paths meet with the paths of friends or strangers.”
+For the full experience, someone must stand on a ladder and turn the upper cylinder for the viewer crouched below. Participants can see a joyous, colorful mixture of encounters repeatedly taking place right before their eyes. Where the news today may dull our perspective on the future, here Gioia reminds us to revel in ourselves and to “embrace our moments of collision - to make the most of when our paths meet with the paths of friends or strangers.”
 <br>
 <br>
 ![GioiaFonda-min4.jpeg](/uploads/GioiaFonda-min4.jpeg)
