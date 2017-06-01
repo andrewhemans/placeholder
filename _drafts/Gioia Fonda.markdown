@@ -45,15 +45,15 @@ In her recent work, COLLIDE-O-SCOPE, Gioia gets meta and creates an installation
 ![GioiaFonda-min3.jpeg](/uploads/GioiaFonda-min3.jpeg)
 <br>
 <br>
-For the full experience, someone must stand on a ladder and turn the upper cylinder for the viewer crouched below. Participants can see a joyous, colorful mixture of encounters repeatedly taking place right before their eyes. Where the news today may dull our perspective on the future, here Gioia reminds us to revel in ourselves and to “embrace our moments of collision - to make the most of when our paths meet with the paths of friends or strangers.”
+For the full experience, someone must stand on a ladder and turn the upper cylinder for the viewer crouched below. Participants can see a joyous, colorful mixture of encounters repeatedly taking place right before their eyes. Where the news today may dull our perspective on the future, Gioia reminds us to revel in ourselves and to “embrace our moments of collision — to make the most of when our paths meet with the paths of friends or strangers.”
 <br>
 <br>
 ![GioiaFonda-min4.jpeg](/uploads/GioiaFonda-min4.jpeg)
 <br>
 <br>
-Gioia Fonda created this work in Spring of 2017 for Art Street with some technical assistance from Erwo, Eddie Stein, Sam Niver and Terry Peterson.       
+Gioia Fonda created this work in the spring of 2017 for Art Street with some technical assistance from Erwo, Eddie Stein, Sam Niver and Terry Peterson.       
 
-To see more work from this wonderful creator, check out the Art Advice Booth this summer around Sacramento, and the GIVE A FORK project which is projected to be installed by the end of Summer 2017. Gioia is also the founder of Pink Week, which will be celebrating its 24th annual iteration at ArtSpace 1616 this November. 
+To see more work from this whimsical creator, check out the Art Advice Booth this summer around Sacramento, and the [GIVE A FORK](http://www.giveafork.net/) project, which is projected to be installed by the end of summer 2017. Pink Week will be celebrating its 24th annual iteration at [ArtSpace 1616](https://www.facebook.com/artspace1616/) this November. 
  
 
 <br>
