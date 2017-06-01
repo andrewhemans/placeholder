@@ -10,6 +10,11 @@ tags:
 - artstreet
 - art
 - street
+- gioia
+- fonda
+- giveafork
+- collideoscope
+- strangers
 image: "/uploads/Gioia_Header-min.jpg"
 author: Carmel Dor
 description: 'Gioia Fonda, best known as the founder of Pink Week, continues her legacy
@@ -22,13 +27,13 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-In her own words, Gioia is, “a declarer of holidays, a transmitter of trivia, a cultural Argonaut and a faux anthropologist. [She is] simultaneously both neophyte and virtuoso of many skills. [She’s] a hypothetical historian, a connoisseur of tedium and a collector of flotsam. It’s by virtue of these proclivities that [she] create[s]."
+Gioia describes herself as “a declarer of holidays, a transmitter of trivia, a cultural Argonaut and a faux anthropologist. [She is] simultaneously both neophyte and virtuoso of many skills... a hypothetical historian, a connoisseur of tedium and a collector of flotsam. It’s by virtue of these proclivities that [she] create[s]."
 <br>
 <br>
 ![GioiaFonda-min1.jpeg](/uploads/GioiaFonda-min1.jpeg)
 <br>
 <br>
-If you haven’t heard of Gioia Fonda, perhaps you have heard of Pink Week, an annual community celebration in the name of the color pink. Or maybe you’ve seen the Art Advice Booth at local art spaces like ArtStreet or at the Red Museum. Gioia’s practice engages with the community and invites you to actively join the experience.
+While you may not have heard of Gioia Fonda, you may have heard of [Pink Week](http://www.pinkweek.org/), an annual community celebration in the name of the color pink. Or maybe you’ve seen the Art Advice Booth at local art spaces like [ArtStreet](http://www.m5arts.com/artstreet/) or the [Red Museum](https://www.facebook.com/pages/The-Red-Museum-Sacramento/1552968105021049). Gioia’s practice engages with the community and invites you to actively join the experience.
 <br>
 <br>
 ![GioiaFonda-min2.jpeg](/uploads/GioiaFonda-min2.jpeg)
