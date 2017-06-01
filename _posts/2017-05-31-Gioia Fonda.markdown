@@ -63,8 +63,4 @@ To see more work from this whimsical creator, check out the Art Advice Booth thi
 <br>
 **Find out more:**
 
-[www.pinkweek.org](http://www.pinkweek.org/)
-
-[www.giveafork.net](http://www.giveafork.net/)
-
 [Follow Gioia on Facebook](https://www.facebook.com/Gioia-Fonda-artist-among-other-things-794018587328031/)
