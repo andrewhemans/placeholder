@@ -16,6 +16,7 @@ tags:
 - failure
 - beauty
 - Photography
+image: "/uploads/JustinMarsh-Crashing-Header-min.jpeg"
 author: Carmel Dor
 description: 'Justin Marsh channels traumatic memories in his work to highlight the
   beauty within. '
