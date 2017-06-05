@@ -18,8 +18,8 @@ tags:
 - Photography
 image: "/uploads/JustinMarsh-Crashing-Header-min.jpeg"
 author: Carmel Dor
-description: 'Justin Marsh channels traumatic memories in his work to highlight the
-  beauty within. '
+description: 'Justin Marsh channels traumatic memories through his work to highlight
+  the beauty within. '
 author-block: true
 author-image: "/uploads/CarmelDor_BioPhoto.png"
 author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine.
