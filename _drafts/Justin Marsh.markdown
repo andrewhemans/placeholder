@@ -65,8 +65,6 @@ Justin’s work skirts the line between photorealism and surrealism. Through usi
 
 ![Pollack-Install-min.jpeg](/uploads/Pollack-Install-min.jpeg)
 
-<br>
-<br>
 
 **Justin Marsh** is a northern California native working professionally in the museum field while maintaining a studio practice in the visual arts. He lives in Sacramento CA.
 
