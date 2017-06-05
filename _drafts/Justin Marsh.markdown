@@ -1,6 +1,6 @@
 ---
 title: Justin Marsh
-date: 2017-06-04 20:08:00 -07:00
+date: 2017-06-05 20:08:00 -07:00
 categories:
 - Art
 tags:
