@@ -28,7 +28,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-Growing up in Lodi, California, afforded Justin Marsh an opportunity to become acquainted with disintegration. Through his familiarity with rusting landscapes  and his “grappling with trauma at a young age, [he] found that the development of [his] work is informed by characteristics of failure and collapse.”
+Growing up in Lodi, California, afforded Justin Marsh an opportunity to become acquainted with disintegration. Through his familiarity with rusting landscapes and his “grappling with trauma at a young age, [he] found that the development of [his] work is informed by characteristics of failure and collapse.”
 
 <br>
 <br>
