@@ -64,7 +64,7 @@ Justin’s work skirts the line between photorealism and surrealism. His warm, m
 <br>
 <br>
 
-To put yourself in front of these works, visit [Axis Gallery](http://axisgallery.org/) in Sacramento through June. To put yourself in front of these works with wine in your hand, attend the reception on Saturday, June 10th, 6-9pm. Looking forward, Justin is researching and working on his next project, The Four Humors, which he will showcase at Axis Gallery in 2018. 
+To put yourself in front of these works, visit [Axis Gallery](http://axisgallery.org/) in Sacramento through June. To put yourself in front of these works with wine in your hand, attend the reception on Saturday, June 10th, 6-9pm. Looking forward, Justin is researching and working on his next project, *The Four Humors*, which he will showcase at Axis Gallery in 2018. 
 
 <br>
 <br>
