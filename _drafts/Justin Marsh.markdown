@@ -28,7 +28,22 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-Grappling with trauma at a young age, I’ve found that the development of my work is informed by characteristics of failure and collapse. I intend to capture loss and imbue it with, what I believe to be, it’s inherent beauty. I move between forms of representations wherein paintings and photographs are beholden to one another.
+Growing up in Lodi, California afforded Justin Marsh an opportunity to become acquainted with disintegration. That and his “grappling with trauma at a young age, [he] found that the development of [his] work is informed by characteristics of failure and collapse.”
+<br>
+![JustinMarsh-Paul-Blanco6-min.jpg](/uploads/JustinMarsh-Paul-Blanco6-min.jpg)
+<br>
+![JustinMarsh-3Studies_Father-min.jpg](/uploads/JustinMarsh-3Studies_Father-min.jpg)
+<br>
+![JustinMarsh-Gran-Caribe15-min.jpg](/uploads/JustinMarsh-Gran-Caribe15-min.jpg)
+<br>
+Justin’s work skirts the line between photorealism and surrealism. Using warm murky tones, his work animates forgotten relics in a way that realizes their place and value on this earth. He plucks objects from reality and blends them in his memory-drenched visions giving them a new life that celebrates their beauty. In Justin’s words, “I intend to capture loss and imbue it with, what I believe to be, it’s inherent beauty.”
+
+<br>
+![JustinMarsh-Crashing-In-min.jpg](/uploads/JustinMarsh-Crashing-In-min.jpg)
+<br>
+![JustinMarsh-3Studies_Father-min.jpg](/uploads/JustinMarsh-3Studies_Father-min.jpg)
+<br>
+![Pollack-Install-min.jpeg](/uploads/Pollack-Install-min.jpeg)
 
 <br>
 <br>
