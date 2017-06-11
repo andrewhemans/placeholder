@@ -9,6 +9,16 @@ tags:
 - Mural
 - Festival
 - Abstract
+image: "/uploads/Cluster-min.jpg"
+author: Carmel Dor
+description: 'Waylon Horner''s paintings are a place for your imagination to take
+  hold. '
+author-block: true
+author-image: "/uploads/CarmelDor_BioPhoto.png"
+author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine.
+  They are a painter and museum professional, new to the latter – attempting to navigate
+  the former. Carmel earned a BA in Art Studio and Art History from the University
+  of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
 The art of Waylon Horner takes a special look at your innards. Literally. Through the gooey mush and into the cogs and gears that are slightly off kilter in the depths of the mind. His paintings fall under the broad category of abstract surrealism, but with a closer look, one could see some figures within. His style, reminiscent of early computer graphics mixed with Disney cartoons, draws you in before it immediately puts you in a space of discomfort and curiosity.
