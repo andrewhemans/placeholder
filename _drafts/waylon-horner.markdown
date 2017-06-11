@@ -1,5 +1,5 @@
 ---
-title: Waylon Horner
+title: Mind, Body, and Eternal Discomfort
 date: 2017-06-11 20:33:00 -07:00
 categories:
 - Art
