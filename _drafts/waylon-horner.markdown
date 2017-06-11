@@ -88,7 +88,7 @@ Waylon Horner is an abstract painter based in Sacramento. A self-taught artist w
 <br>
 **Find out more:**
 
-@waylonnnn
+[@waylonnnn](https://www.instagram.com/waylonnnn/?hl=en)
 
-waylonhorner.com
+[waylonhorner.com](http://waylonhorner.com/)
 
