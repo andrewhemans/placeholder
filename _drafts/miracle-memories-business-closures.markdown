@@ -1,5 +1,5 @@
 ---
-title: 'Miracle Memories: Business Closures'
+title: 'Miracle memories: nostalgia and a need for safety'
 date: 2017-06-11 12:17:00 -07:00
 categories:
 - Culture
