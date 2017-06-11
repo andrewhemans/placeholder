@@ -42,7 +42,7 @@ For those of us who are transplants, wanderers, or world travelers, we crave the
  
 On June 7, community staples were shuttered along Stockton’s Miracle Mile, a strip of shops and restaurants along Pacific Avenue. Some of the affected places include Casa Flores Restaurant, Centrale Kitchen & Bar, Gusty’s, the Mile, a Salon Serendipity and Empresso Coffeehouse, formerly known as Empire Theater. If social media is any indication as to how people are feeling about this recent news, people are extremely saddened by the loss of the original Empresso. Their caffeinated concoctions surpassed those of any other shop in town.
 
-[inside-empresso.JPG](/uploads/inside-empresso.JPG)
+[inside-empresso.JPG](/uploads/inside-empresso.JPG) 
 *Employees of Empresso Coffeehouse clearing out the famous theater lobby-turned-coffeehouse on Friday.*
 
 Nevertheless, when and where do we draw the line between nostalgia and safety?
