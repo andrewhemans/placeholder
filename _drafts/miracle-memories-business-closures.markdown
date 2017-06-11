@@ -5,6 +5,25 @@ categories:
 - Culture
 tags:
 - featured
+- empresso
+- menu
+- empresso209
+- empresso coffeehouse
+- salon serendipity
+- gustys
+- the mile
+- pacific ave
+- pacific
+- visit stockton
+- miracle mile
+- code violation
+- stockton fire
+- casa flores
+- centrale
+- espresso
+- miracle mile bars
+- miracle mile restaurants
+- mexican food
 image: "/uploads/business-closures-mile.JPG"
 author: Summer Migliori
 description: 'Nine Stockton businesses, including Empresso and Casa Flores, close
