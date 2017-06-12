@@ -1,7 +1,6 @@
 ---
 title: 'Miracle memories: nostalgia and a need for safety'
 date: 2017-06-11 12:17:00 -07:00
-published: false
 categories:
 - Culture
 tags:
@@ -70,4 +69,4 @@ Here’s to hoping that the individuals and businesses who rely on these spaces 
 ![front-empresso.JPG](/uploads/front-empresso.JPG)
 *While no one knows if the future of the iconic building, we hope the City does everything to help the affected businesses.*
 
-*Photos by Natalie Petersen unless otherwise noted*
+*Photos by Natalie Petersen unless otherwise noted.*
