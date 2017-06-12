@@ -71,7 +71,7 @@ For all we know the imagery could all be sourced from bodily explosions. As Wayl
 <br>
 <br>
 
-See Waylon’s tendrils surround you in his massive mural for Wide Open Walls Muralfest August 10th through the 20th, 2017.
+See Waylon’s tendrils surround you in his massive mural for [Wide Open Walls Muralfest](http://www.wow916.com/) August 10th through the 20th, 2017.
 
 <br>
 <br>
