@@ -61,7 +61,7 @@ And not to pull a Georgia-O’Keefe-esque Freudian-psychoanalysis, but Waylon’
 <br>
 <br>
 
-For all we know the imagery could all be sourced from bodily explosions. As Waylon says in his bio, his word is not meant to convey any message, rather it serves as a place for the viewer’s imagination to play… so maybe this review is more of a reflection on your author than anything else. 
+For all we know the imagery could all be sourced from bodily explosions. As Waylon says in his bio, his work is not meant to convey any message, rather it serves as a place for the viewer’s imagination to play… so maybe this review is more of a reflection on your author than anything else. 
 
 <br>
 <br>
