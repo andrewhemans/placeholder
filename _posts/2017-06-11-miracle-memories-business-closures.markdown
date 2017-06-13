@@ -31,11 +31,11 @@ description: 'Nine Stockton businesses, including Empresso and Casa Flores, clos
   against them. The violations echo those that occurred at Ghost Ship in Oakland. '
 author-block: true
 author-image: "/uploads/Summer%20Bio-min.JPG"
-author-bio: Summer Migliori is a Stockton native and graduate of media and English
-  at UC Berkeley. Currently the editor-in-chief for Placeholder's magazine, she can
-  be found writing for and editing various publications when she's not tweeting, criticizing
+author-bio: Summer Migliori is Placeholder's editor in chief. She is a Stockton native
+  and a graduate of Media Studies and English at UC Berkeley. Summer can be found
+  writing for and editing various publications when she's not tweeting, criticizing
   TV, petting stray cats, or working at the University's library. She's a firm believer
-  in getting the facts straight and the importance of memes.
+  in the importance of memes and facts in a post-fact world.
 ---
 
 For those of us who are transplants, wanderers, or world travelers, we crave the comforts of home. Some may long for bike rides through childhood neighborhoods, or lunch at high school haunts. But what do we do when those comforts and subtle reminders of the past are stolen from us? What happens when the places that hold the most meaning to us silently slip into a city’s history, where empty buildings serve solely as a tangible memory? Unfortunately, for many of us from Stockton, beloved establishments stand empty as the din of dishes, clattering cups, and snip of scissors recedes and is replaced by stillness.
