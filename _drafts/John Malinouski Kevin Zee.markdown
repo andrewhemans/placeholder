@@ -76,7 +76,6 @@ Here are two biological innovations swinging together in separate hemispheres in
 
 [kevinzee.com](http://kevinzee.com/)
 
-[Grill Cloth Bandcamp.com](https://grillcloth.bandcamp.com/)
+[Grill Cloth Bandcamp](https://grillcloth.bandcamp.com/)
 
-<br> 
 [Pelvic Dew Bandcamp](https://sip-hexperiments.bandcamp.com/)
