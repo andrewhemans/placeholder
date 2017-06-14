@@ -21,7 +21,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-The arts of John Anton Malinouski and Kevin Zee are an unlikely meditation. These two most broadly work in altered perceptions, reposition our conditioned minds to further engaged with our own embeded realities. Their collaboration on the video Eject under their pseudonym NODDER is something of a gift to the dormant mind. Their separate practices are prolific on their own and to better understand the layers of this video, we must look into each artist's process. 
+The arts of John Anton Malinouski and Kevin Zee are an unlikely meditation. These two most broadly work in altered perceptions, reposition our conditioned minds to further engaged with our own embedded realities. Their collaboration on the video Eject under their pseudonym NODDER is something of a gift to the dormant mind. Their separate practices are prolific on their own and to better understand the layers of this video, we must look into each artist's process. 
  
 <br>
 
@@ -29,7 +29,7 @@ The arts of John Anton Malinouski and Kevin Zee are an unlikely meditation. Thes
  
 <br>
 
-John Mal is a man with many talents including writing and incense making, but for the sake of space we will look closely at his musical experiments. Found online in his many forms collectively as Pelvic Dew, John has developed a discography of music that miraculously builds an environment in space and moves you through nonlinear passages. Soundscapes that carry with them a weight that novels take hundreds of pages to unfold. Hold that thought in your mind, now to Kevin. 
+John Mal is a man of many talents including writing and incense making, but for the sake of space we will look closely at his musical experiments. Found online in his many forms collectively as Pelvic Dew, John has developed a discography of music that miraculously builds an environment in space and moves you through nonlinear passages. Soundscapes that carry with them a weight that novels take hundreds of pages to unfold. Hold that thought in your mind, now to Kevin. 
  
 <br>
 
@@ -49,8 +49,8 @@ When these two artists come together, what they produce is somewhere between a t
 
 <br>
 
-When asked about this piece, Kevin and John wrote that they “...listened to a planned experiment with inevitable unseen variables...” They’re playfulness with their projects lends itself well to the daunting nature of most experimental art, allowing viewers to laugh with them as they consider and toy with time and movement within undefined environments. 
-In their other collaborative videos they continue to challenge themselves in molding spaces and navigating throughout them, as can be seen in their piece titled Skin.
+When asked about this piece, Kevin and John wrote that they “...listened to a planned experiment with inevitable unseen variables...” Their playfulness with their projects lends itself well to the daunting nature of most experimental art, allowing viewers to laugh with them as they consider and toy with time and movement within undefined environments. 
+In their other collaborative videos, they continue to challenge themselves in molding spaces and navigating throughout them, as can be seen in their piece titled Skin.
  
 <br>
 
@@ -58,7 +58,7 @@ In their other collaborative videos they continue to challenge themselves in mol
  
 <br>
 
-To meet these makers in Sacramento, come to the R Street Block Party on June 24th to support Vessel Incense by John. And for our readers in New York, Grill Cloth, featuring the musical stylings of Kevin, will be playing at Trans Pesos in Brooklyn on August 5th. 
+To meet these makers in Sacramento, come to the [R Street Block Party on June 24th](https://www.facebook.com/events/152506851927866/) to support Vessel Incense by John. And for our readers in New York, Grill Cloth, featuring the musical stylings of Kevin, will be playing at Trans Pesos in Brooklyn on August 5th. 
  
 <br> 
 <br>
@@ -70,7 +70,9 @@ Here are two biological innovations swinging together in separate hemispheres in
 **John Anton Malinouski** is a composer of words and sounds with a practice in making incense. He is the founder of Chapped, a national publication of creative writing by Replica Zines. He moves in mysterious ways. 
  
  
-Find out more:
+<br>
+
+**Find out more:**
 
 [kevinzee.com](http://kevinzee.com/)
 
