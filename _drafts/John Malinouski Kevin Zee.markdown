@@ -1,5 +1,5 @@
 ---
-title: Unlikely Meditation
+title: Contents Under Pressure
 date: 2017-06-14 20:57:00 -07:00
 categories:
 - Art
