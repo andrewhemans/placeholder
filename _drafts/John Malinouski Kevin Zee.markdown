@@ -1,5 +1,5 @@
 ---
-title: Mal Zee and Unlikely Meditation
+title: Unlikely Meditation
 date: 2017-06-14 20:57:00 -07:00
 categories:
 - Art
