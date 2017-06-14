@@ -55,7 +55,6 @@ In their other collaborative videos they continue to challenge themselves in mol
 <br>
 
 <iframe src="https://player.vimeo.com/video/159569702" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/159569702">skin</a> from <a href="https://vimeo.com/kevinzee">Kevin Zee</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  
 <br>
 
