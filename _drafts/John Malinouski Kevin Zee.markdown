@@ -9,6 +9,16 @@ tags:
 - john mal
 - experimental
 - music video
+image: "/uploads/Header-min.jpg"
+author: Carmel Dor
+description: John Malinouski and Kevin Zee experiment though music and video to create
+  meditative soundscapes.
+author-block: true
+author-image: "/uploads/CarmelDor_BioPhoto.png"
+author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine.
+  They are a painter and museum professional, new to the latter – attempting to navigate
+  the former. Carmel earned a BA in Art Studio and Art History from the University
+  of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
 The arts of John Anton Malinouski and Kevin Zee are an unlikely meditation. These two most broadly work in altered perceptions, reposition our conditioned minds to further engaged with our own embeded realities. Their collaboration on the video Eject under their pseudonym NODDER is something of a gift to the dormant mind. Their separate practices are prolific on their own and to better understand the layers of this video, we must look into each artist's process. 
