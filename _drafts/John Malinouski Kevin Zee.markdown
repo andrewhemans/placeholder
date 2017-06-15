@@ -21,7 +21,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-The arts of John Anton Malinouski and Kevin Zee are an unlikely meditation. These two most broadly work in altered perceptions, reposition our conditioned minds to further engaged with our own embedded realities. Their collaboration on the video Eject under their pseudonym NODDER is something of a gift to the dormant mind. Their separate practices are prolific on their own and to better understand the layers of this video, we must look into each artist's process. 
+The arts of John Anton Malinowski and Kevin Zee are an unlikely meditation. These two most broadly work in altered perceptions, reposition our conditioned minds to further engaged with our own embedded realities. Their collaboration on the video Eject under their pseudonym NODDER is something of a gift to the dormant mind. Their separate practices are prolific on their own and to better understand the layers of this video, we must look into each artist's process. 
  
 <br>
 
@@ -67,7 +67,7 @@ Here are two biological innovations swinging together in separate hemispheres in
  
 **Kevin Zee** finds tools to view ordinary objects through different perspectives and endlessly experiments until a natural pattern shows itself. His work now involves other artists just as much as himself. He incorporates efficiency and controlled experiments into his imagery. Kevin has an AA in Audio Production from American River College and a BA in Video Production from SFSU. 
  
-**John Anton Malinouski** is a composer of words and sounds with a practice in making incense. He is the founder of Chapped, a national publication of creative writing by Replica Zines. He moves in mysterious ways. 
+**John Anton Malinowski** is a composer of words and sounds with a practice in making incense. He is the founder of Chapped, a national publication of creative writing by Replica Zines. He moves in mysterious ways. 
  
  
 <br>
