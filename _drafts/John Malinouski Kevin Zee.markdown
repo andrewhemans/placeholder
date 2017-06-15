@@ -1,5 +1,5 @@
 ---
-title: Contents Under Pressure
+title: Kevin Zee and John Malinowski
 date: 2017-06-14 20:57:00 -07:00
 categories:
 - Art
@@ -9,7 +9,7 @@ tags:
 - john mal
 - experimental
 - music video
-image: "/uploads/Header-min.jpg"
+image: "/uploads/HeaderNODDER-min.jpg"
 author: Carmel Dor
 description: John Malinouski and Kevin Zee experiment though music and video to create
   meditative soundscapes.
