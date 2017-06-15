@@ -42,7 +42,7 @@ John Mal is a man of many talents including writing and incense making, but for 
  
 Yet another renaissance man, Kevin works primarily in photography and video, while also painting and making music. He works with a microscopic quality camera taking photos that take time to consume. To see what Kevin captures means to slow down and hone in focus. A meditation practice through slowing down time, these photos are a guided practice in crafting attentive appreciation. 
  
-
+<br>
  
 When these two artists come together, what they produce is somewhere between a trance experience and a meditation. Kevin slows us down as he guides us through time and space while John develops that space and gives that time a sense of importance. Their video provides us an opportunity to take time in unexpected spaces that are generally connoted with unfocused unsettled motion. 
  
