@@ -21,6 +21,9 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
+![Header-min.jpg](/uploads/Header-min.jpg)
+<br>
+
 The arts of John Anton Malinowski and Kevin Zee are an unlikely meditation. These two most broadly work in altered perceptions, reposition our conditioned minds to further engaged with our own embedded realities. Their collaboration on the video Eject under their pseudonym NODDER is something of a gift to the dormant mind. Their separate practices are prolific on their own and to better understand the layers of this video, we must look into each artist's process. 
  
 <br>
