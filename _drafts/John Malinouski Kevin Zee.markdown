@@ -32,7 +32,7 @@ The arts of John Anton Malinowski and Kevin Zee produce an unlikely state of med
  
 <br>
 
-John Mal is a man of many talents, including writing and incense making, but his musical experiments are found online as [Pelvic Dew](https://sip-hexperiments.bandcamp.com/), John has developed a discography of music that miraculously builds an environment in space and moves listeners through nonlinear passages. His soundscapes carry with them a weight and character that novels take hundreds of pages to unfold. Experiences like these trigger the sensory mind allowing it to arrive in dream-like spaces. The practice of space making is a common thread in Mal and Zee’s work.  
+John Mal is a man of many talents, including writing and incense making, but his musical experiments are found online as [Pelvic Dew](https://sip-hexperiments.bandcamp.com/), Mal has developed a discography of music that miraculously builds an environment in space and moves listeners through nonlinear passages. His soundscapes carry with them a weight and character that novels take hundreds of pages to unfold. Experiences like these trigger the sensory mind allowing it to arrive in dream-like spaces. The practice of space making is a common thread in Mal and Zee’s work.  
  
 <br>
 
