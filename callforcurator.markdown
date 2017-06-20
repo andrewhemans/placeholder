@@ -1,7 +1,6 @@
 ---
 title: Call for Visual Arts Curator
 date: 2017-06-19 17:14:00 -07:00
-published: false
 image: "/uploads/lendahand.jpg"
 ---
 
