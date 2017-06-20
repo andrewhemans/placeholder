@@ -1,10 +1,8 @@
 ---
-title: Call for Visual Arts Curator
+title: Call for Visual Arts Curator In Residency
 date: 2017-06-19 17:14:00 -07:00
 image: "/uploads/lendahand.jpg"
 ---
-
-# Visual Arts Curator in Residency
 
 We are extremely excited to announce our first open call for curators for visual arts content! Our residency offers the opportunity to work with a group of independent organizers, writers, and editors to create relevant artist features for our web-based magazine. 
  
