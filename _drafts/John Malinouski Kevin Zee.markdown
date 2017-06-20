@@ -24,7 +24,7 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
 ![Header-min.jpg](/uploads/Header-min.jpg)
 <br>
 
-The arts of John Anton Malinowski and Kevin Zee are an unlikely meditation. These two most broadly work in altered perceptions, reposition our conditioned minds to further engaged with our own embedded realities. Their collaboration on the video Eject under their pseudonym NODDER is something of a gift to the dormant mind. Their separate practices are prolific on their own and to better understand the layers of this video, we must look into each artist's process. 
+The arts of John Anton Malinowski and Kevin Zee produce an unlikely state of meditation. These two artists work in altered perceptions and reposition our conditioned minds to engage with our embedded realities. Mal and Zee collaborate as NODDER on the video “Eject,” giving a gift to the dormant mind. By examining each artist's prolific practice a better understanding of “Eject” is gained. 
  
 <br>
 
@@ -32,7 +32,7 @@ The arts of John Anton Malinowski and Kevin Zee are an unlikely meditation. Thes
  
 <br>
 
-John Mal is a man of many talents including writing and incense making, but for the sake of space we will look closely at his musical experiments. Found online in his many forms collectively as Pelvic Dew, John has developed a discography of music that miraculously builds an environment in space and moves you through nonlinear passages. Soundscapes that carry with them a weight that novels take hundreds of pages to unfold. Hold that thought in your mind, now to Kevin. 
+John Mal is a man of many talents, including writing and incense making, but his musical experiments are found online as [Pelvic Dew](https://sip-hexperiments.bandcamp.com/), Mal has developed a discography of music that miraculously builds an environment in space and moves listeners through nonlinear passages. His soundscapes carry with them a weight and character that novels take hundreds of pages to unfold. Experiences like these trigger the sensory mind allowing it to arrive in dream-like spaces. The practice of space making is a common thread in Mal and Zee’s work.  
  
 <br>
 
@@ -40,11 +40,11 @@ John Mal is a man of many talents including writing and incense making, but for 
 
 <br>
  
-Yet another renaissance man, Kevin works primarily in photography and video, while also painting and making music. He works with a microscopic quality camera taking photos that take time to consume. To see what Kevin captures means to slow down and hone in focus. A meditation practice through slowing down time, these photos are a guided practice in crafting attentive appreciation. 
+Yet another Renaissance man, Zee works primarily in photography and video, while also painting and making music. He works with a microscopic quality camera, capturing photos that take time to consume. The detail in Zee’s photos is astounding; close-ups of individual blood cells intermingling like a plasma, plant matter reveals itself as carved crystal at a microscopic scale, and bits of trash become sculptural through his careful photography. His work invites viewers into a world reserved for scientists or dreams. Through slowing down time, [Zee’s work](http://kevinzee.com/) crafts a practice of attentive appreciation. 
  
 <br>
  
-When these two artists come together, what they produce is somewhere between a trance experience and a meditation. Kevin slows us down as he guides us through time and space while John develops that space and gives that time a sense of importance. Their video provides us an opportunity to take time in unexpected spaces that are generally connoted with unfocused unsettled motion. 
+When Mal and Zee come together, they produce a trance-like experience. Zee slows the viewer down as he guides the viewer through time and space, while Mal develops that space and gives time a sense of importance. “Eject” provides us with an opportunity to take time in unexpected spaces hinting at unfocused, unsettled motion.  
  
 <br>
 
@@ -52,8 +52,7 @@ When these two artists come together, what they produce is somewhere between a t
 
 <br>
 
-When asked about this piece, Kevin and John wrote that they “...listened to a planned experiment with inevitable unseen variables...” Their playfulness with their projects lends itself well to the daunting nature of most experimental art, allowing viewers to laugh with them as they consider and toy with time and movement within undefined environments. 
-In their other collaborative videos, they continue to challenge themselves in molding spaces and navigating throughout them, as can be seen in their piece titled Skin.
+Creating problems to work through keeps their creative practice open and malleable. When asked how they went about this piece, Mal and Zee wrote that they “listened to a planned experiment with inevitable unseen variables.” They were guided by Mal’s musical composition divorced from the video content but when joined creating an aesthetic assemblage. Their playful approach to projects combats the daunting nature of most experimental art and creates a more accessible entry point for viewers. In their other collaborative videos, Zee and Mal continue to challenge themselves in molding spaces and navigating throughout them, as can be seen in their piece titled “Skin.”
  
 <br>
 
@@ -61,24 +60,14 @@ In their other collaborative videos, they continue to challenge themselves in mo
  
 <br>
 
-To meet these makers in Sacramento, come to the [R Street Block Party on June 24th](https://www.facebook.com/events/152506851927866/) to support Vessel Incense by John. And for our readers in New York, Grill Cloth, featuring the musical stylings of Kevin, will be playing at Trans Pesos in Brooklyn on August 5th. 
+To best experience these pieces, I suggest setting the videos to fullscreen, blasting the volume and putting all distractions at bay. Give yourself space to embark on an experience and be consumed by their work. To meet these makers in Sacramento, check out the [R Street Block Party](https://www.facebook.com/events/152506851927866/) on June 24th and support Vessel Incense by John Mal. And for our readers in New York, [Grill Cloth](https://grillcloth.bandcamp.com/), which features the musical stylings of Kevin Zee, will be playing at [Trans Pecos](http://www.thetranspecos.com/) in Brooklyn on August 5th.  
  
 <br> 
 <br>
  
 Here are two biological innovations swinging together in separate hemispheres in thanks.
  
-**Kevin Zee** finds tools to view ordinary objects through different perspectives and endlessly experiments until a natural pattern shows itself. His work now involves other artists just as much as himself. He incorporates efficiency and controlled experiments into his imagery. Kevin has an AA in Audio Production from American River College and a BA in Video Production from SFSU. 
+**Kevin Zee** finds tools to view ordinary objects through different perspectives, endlessly experimenting until a natural pattern shows itself. His work now involves other artists just as much as himself. He incorporates efficiency and controlled experiments into his imagery. Kevin has an AA in Audio Production from American River College and a BA in Video Production from SFSU.  
  
-**John Anton Malinowski** is a composer of words and sounds with a practice in making incense. He is the founder of Chapped, a national publication of creative writing by Replica Zines. He moves in mysterious ways. 
+**John Anton Malinowski** is a composer of words and sounds, with a practice in making incense. He is the founder of *Chapped*, a national publication of creative writing. He moves in mysterious ways. 
  
- 
-<br>
-
-**Find out more:**
-
-[kevinzee.com](http://kevinzee.com/)
-
-[Grill Cloth Bandcamp](https://grillcloth.bandcamp.com/)
-
-[Pelvic Dew Bandcamp](https://sip-hexperiments.bandcamp.com/)
