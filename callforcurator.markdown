@@ -28,5 +28,5 @@ Share the following materials in a Google Drive folder to submissions@placeholde
 4. Link to your website/LinkedIn/Instagram and/or Twitter
  
 ## Dates and Deadlines:
-Application Deadline: **July 15th, 2017 11:59pm Pacific Time**
+Application Deadline: **July 15th, 2017 11:59pm Pacific Time**<br/>
 Curatorial Residency: **August through September, 2017**
