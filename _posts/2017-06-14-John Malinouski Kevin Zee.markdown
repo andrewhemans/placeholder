@@ -9,10 +9,36 @@ tags:
 - john mal
 - experimental
 - music video
+- Sacramento
+- grill
+- cloth
+- Stockton
+- Brooklyn
+- New
+- York
+- SFSU
+- San
+- Francisco
+- American River College
+- Chapped
+- Trans Pecos
+- R Street
+- Block Party
+- video art
+- malinowski
+- vessel incense
+- Pelvic Dew
+- Music
+- meditation
+- california
+- art entertainment
+- art gallery
+- art faire
+- arts
 image: "/uploads/HeaderNODDER-min.jpg"
 author: Carmel Dor
-description: John Malinouski and Kevin Zee experiment though music and video to create
-  meditative soundscapes.
+description: 'Explore the meditative soundscapes created John Malinowski and Kevin
+  Zee through their experimental music and video work. '
 author-block: true
 author-image: "/uploads/CarmelDor_BioPhoto.png"
 author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine.
