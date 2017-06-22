@@ -35,6 +35,7 @@ tags:
 - art gallery
 - art faire
 - arts
+- featured
 image: "/uploads/HeaderNODDER-min.jpg"
 author: Carmel Dor
 description: 'Explore the meditative soundscapes created John Malinowski and Kevin
