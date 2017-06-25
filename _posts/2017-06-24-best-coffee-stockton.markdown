@@ -5,7 +5,7 @@ image: "/uploads/toot-min.jpg"
 author: Dana Al-Hindi
 description: 'Stockton is not just known for its art and asparagus, but also its coffee!
   Here are the top Stockton coffee shops favorited by locals. '
-author-block: false
+author-block: true
 author-bio: skjdhfkd
 author-links:
 - 'Twitter: @blah'
