@@ -4,6 +4,10 @@ date: 2017-06-24 16:21:00 -07:00
 image: "/uploads/toot-min.jpg"
 description: 'Stockton is not just known for its art and asparagus, but also its coffee!
   Here are the top Stockton coffee shops favorited by locals. '
+author-block: Dana Al-Hindi
+author-links:
+- 'Twitter: @blah'
+- 'Insta: @blah'
 ---
 
 For those of you who know, it’s the end of Ramadan, and Empresso Coffeehouse on the Miracle Mile has closed. And let me tell you, after not eating or drinking from sunrise to sunset, the first thing I run for after dinner is not dessert - it’s coffee. So naturally for me, hearing the [news about Empresso closing down](http://www.placeholdermag.com/culture/2017/06/11/miracle-memories-business-closures.html) was devastating for so many Stockton locals. Their theater held the first show I ever attended. It was the location of the high school film festival I put together, and where I spent many days studying for midterms and finals. It was also where I occasionally drove to after iftar (the dinner that breaks my sunrise-to-sunset fast), to get my fix of coffee. Since the closure of iconic theater-turned-coffeehouse, I made this list of other Stockton favorites with enjoyable atmospheres to help feed your coffee habit.
