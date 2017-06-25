@@ -7,7 +7,7 @@ image: "/uploads/lendahand.jpg"
 
 Subscribe to our artist newsletter to receive updates and opportunities from Placeholder!
 
-To get involved in the content creation of Placeholder, you may **submit your work**, or** apply as a contributor.**
+To get involved in the content creation of Placeholder, you may **submit your work**, or **apply as a contributor.**
 
 **Submit Your Work - Guidelines**
 
