@@ -83,7 +83,7 @@ Creating problems to work through keeps their creative practice open and malleab
  
 <br>
 
-<iframe src="https://player.vimeo.com/video/159569702"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="flex-video"><iframe src="https://player.vimeo.com/video/159569702"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
  
 <br>
 
