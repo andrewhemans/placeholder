@@ -2,9 +2,10 @@
 title: Best 6 Places in Stockton for a Cup of Joe
 date: 2017-06-24 16:21:00 -07:00
 image: "/uploads/toot-min.jpg"
+author: Dana Al-Hindi
 description: 'Stockton is not just known for its art and asparagus, but also its coffee!
   Here are the top Stockton coffee shops favorited by locals. '
-author-block: Dana Al-Hindi
+author-block: false
 author-bio: skjdhfkd
 author-links:
 - 'Twitter: @blah'
