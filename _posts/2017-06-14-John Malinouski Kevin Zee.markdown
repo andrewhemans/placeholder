@@ -75,7 +75,7 @@ When Mal and Zee come together, they produce a trance-like experience. Zee slows
  
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cz3OmIzXj58" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/cz3OmIzXj58" frameborder="0" allowfullscreen></iframe></div>
 
 <br>
 
