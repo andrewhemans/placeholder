@@ -55,7 +55,7 @@ The arts of John Anton Malinowski and Kevin Zee produce an unlikely state of med
  
 <br>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4042572400/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://sip-hexperiments.bandcamp.com/album/capsule">Capsule by Swamped</a></iframe>
+<iframe style="border: 0;" src="https://bandcamp.com/EmbeddedPlayer/album=4042572400/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://sip-hexperiments.bandcamp.com/album/capsule">Capsule by Swamped</a></iframe>
  
 <br>
 
@@ -75,7 +75,7 @@ When Mal and Zee come together, they produce a trance-like experience. Zee slows
  
 <br>
 
-<div class="flex-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/cz3OmIzXj58" frameborder="0" allowfullscreen></iframe></div>
+<div class="flex-video"><iframe src="https://www.youtube.com/embed/cz3OmIzXj58" frameborder="0" allowfullscreen></iframe></div>
 
 <br>
 
