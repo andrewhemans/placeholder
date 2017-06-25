@@ -9,7 +9,7 @@ Subscribe to our artist newsletter to receive updates and opportunities from Pla
 
 To get involved in the content creation of Placeholder, you may **submit your work**, or **apply as a contributor.**
 
-**Submit Your Work - Guidelines**
+## Submit Your Work - Guidelines
 
 Are you a writer, artist, graphic designer, illustrator, photographer, or all of the above? Placeholder features work from established and emerging creative talents.While our home base is in the Central Valley, we welcome art, literature, and insights into cultures from around the world.
 
@@ -29,22 +29,22 @@ To submit your work, please email us at [submissions@placeholdermag.com](mailto:
 
 * Videography 
 
-Non Fiction (1200 word limit)
+## Non Fiction (1200 word limit)
 
 Non-fiction includes news articles, opinion pieces, how-to articles, profile and interview pieces, exposés, human interest articles, essays, humor and satire, photo essays, historical articles, inspirational pieces, research articles, and round-ups. We’re open to all types of content. Surprise us!
 
-Fiction
+## Fiction
 
 Placeholder is open to all narrative styles and forms. Send us your masterpiece. Short stories must be under 3,000 words. 
 
-Poetry
+## Poetry
 
 We accept up to five poems in one submission.
 
-Visual Media
+## Visual Media
 
 Art and Photography must be sent as .jpeg files, 100 DPI, and must send a multiple images  of your work (e.g. different angles of your work or a set in a series).
 
-Videography
+## Videography
 
 We feature new, interesting videos every Wednesday through our "Black Box Wednesday" feature. Send us some interesting videos and information to go along with them!
