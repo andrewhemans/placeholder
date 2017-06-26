@@ -15,6 +15,7 @@ tags:
 - Murals
 - Painting
 - Installation
+- featured
 image: "/uploads/TheLoser-min.jpg"
 author: Carmel Dor
 description: Jared Tharp paints for himself and is the definition of positive selfishness.
