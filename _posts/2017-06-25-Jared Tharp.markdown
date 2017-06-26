@@ -1,5 +1,5 @@
 ---
-title: Jared Tharp
+title: Jared Tharp's Corporeal Illustrations
 date: 2017-06-25 20:12:00 -07:00
 categories:
 - Art
