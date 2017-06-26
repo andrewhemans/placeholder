@@ -60,8 +60,10 @@ The ambiance of this location is much different than the recently-closed Empress
  
 They’re open everyday from 6am until midnight in [College Square](https://www.google.com/maps/place/1231+W+March+Ln,+Stockton,+CA+95207/data=!4m2!3m1!1s0x80900c4d38ca68d3:0xd166659af867ab17?sa=X&ved=0ahUKEwiAyZLoytfUAhWJ5oMKHXlOA5wQ8gEIIzAA). 
 
+
  
 **2. Trail Coffee Roasters (aka “The Alley”)**
+
 
 
 ![trail-1-min.jpg](/uploads/trail-1-min.jpg)
@@ -73,6 +75,8 @@ Ah, the Trail… You really do feel as though you’re following a trail down an
 Current popular drinks are the cold brew coffee and lavender latte. If you’re into tea, I personally recommend their peppermint and orange blend on ice. This drink is perfect for hot summer days, because the peppermint naturally cools your body down. Their teas are purchased from Green’s Nutrition on Pacific Ave, and the blends are hand crafted by the owners.To top it off, all of their goodies are made in-house! Everyday there is a different flavored scone available. Even their simple syrups are homemade. After two and a half years at their Miner Ave’s location, this roaster is looking to move to a bigger location with plenty of outlets to accommodate students off California and Main St. this upcoming fall.
 
 ![trail-3-min.jpg](/uploads/trail-3-min.jpg)
+
+
 
 
 **3. Blackwater Delicatessen**
@@ -87,6 +91,8 @@ The coffee is absolutely delicious. Want something iced? Don’t worry about it 
 
 ![blackwater-3-min.jpg](/uploads/blackwater-3-min.jpg)
 
+
+
  
 **4. Freedom Coffee**
 
@@ -98,6 +104,10 @@ After talking to the owner, Darrell Griffin, it seems Freedom Coffee was inspire
 
 If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)  taste of Freedom. Their caramel vanilla latte is-- without a doubt-- exquisite and flavorful! They’ve also got a mint green tea that’s so good you’ll want another, and there are plenty of treats to pair with it. It’s open from 7am-1pm on weekdays only, making it ideal for those of you working downtown. Check it out next time you get a morning thirst for caffeine at [22 N San Joaquin St](https://www.google.com/maps/place/22+N+San+Joaquin+St,+Stockton,+CA+95202/@37.9536385,-121.2891415,17z/data=!3m1!4b1!4m5!3m4!1s0x8090129892acc86b:0x35e1ead8a0bcbab6!8m2!3d37.9536385!4d-121.2869528). See you tomorrow. ;)      
  
+
+
+
+
 **5. Toot Sweets **
 
 ![toot-1-min.jpg](/uploads/toot-1-min.jpg)
@@ -109,6 +119,8 @@ Just as the name suggests, this sweet, simple Stockton treasure has it all - cof
 It’s open from 6:30am-5:30pm during the weekdays, and 7am-4pm on weekends. 
 
  
+
+
 **6. La Boulangerie** 
 
 ![la-bou-1-min.jpg](/uploads/la-bou-1-min.jpg)
