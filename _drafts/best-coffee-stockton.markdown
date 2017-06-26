@@ -101,9 +101,8 @@ After talking to the owner, Darrell Griffin, it seems Freedom Coffee was inspire
 
 ![freedom-2-min.jpg](/uploads/freedom-2-min.jpg)
 
-If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)  taste of Freedom. Their caramel vanilla latte is-- without a doubt-- exquisite and flavorful! They’ve also got a mint green tea that’s so good you’ll want another, and there are plenty of treats to pair with it. It’s open from 7am-1pm on weekdays only, making it ideal for those of you working downtown. Check it out next time you get a morning thirst for caffeine at [22 N San Joaquin St](https://www.google.com/maps/place/22+N+San+Joaquin+St,+Stockton,+CA+95202/@37.9536385,-121.2891415,17z/data=!3m1!4b1!4m5!3m4!1s0x8090129892acc86b:0x35e1ead8a0bcbab6!8m2!3d37.9536385!4d-121.2869528). See you tomorrow. ;)      
+If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)  taste of Freedom. Their caramel vanilla latte is-- without a doubt-- exquisite and flavorful! They’ve also got a mint green tea that’s so good you’ll want another, and there are plenty of treats to pair with it. It’s open from 7am-1pm on weekdays only, making it ideal for those of you working downtown. Check it out next time you get a morning thirst for caffeine at [22 N San Joaquin St](https://www.google.com/maps/place/22+N+San+Joaquin+St,+Stockton,+CA+95202/@37.9536385,-121.2891415,17z/data=!3m1!4b1!4m5!3m4!1s0x8090129892acc86b:0x35e1ead8a0bcbab6!8m2!3d37.9536385!4d-121.2869528). See you tomorrow. ;)
  
-
 
 
 
@@ -118,7 +117,6 @@ Just as the name suggests, this sweet, simple Stockton treasure has it all - cof
 It’s open from 6:30am-5:30pm during the weekdays, and 7am-4pm on weekends. 
 
  
-
 
 ## 6. La Boulangerie
 
