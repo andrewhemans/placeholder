@@ -116,3 +116,7 @@ It’s open from 6:30am-5:30pm during the weekdays, and 7am-4pm on weekends.
 The La Boulangerie has been around for over 30 years, and it’s a cafe that holds many of my childhood memories. My father and his friends played cards here day and night. I’m able to recall being overjoyed  when he would take me with him, because I knew it meant I was going to eat one of their soft, flakey croissants and get a chocolate milk. Nowadays, I go still  in and snag that warm croissant with melted swiss, but I’ll pair it with a nice tall glass of black tea or coffee instead. Their outside seating is covered in string lights and embraced by jasmine bushes that make it a perfect place to meet up with friends or enjoy a book with a breeze. Located at [2324 Grand Canal Blvd # 1](https://www.google.com/maps/place/La+Boulangerie/@37.9839256,-121.3384386,17z/data=!3m1!4b1!4m5!3m4!1s0x80900dcb493b0a29:0xa0be0362062b02c4!8m2!3d37.9839256!4d-121.3362499), they are open 6am-4pm everyday. 
 
 ![la-bou-2-min.jpg](/uploads/la-bou-2-min.jpg)
+
+*All photos are taken and provided by Dana Al-Hindi*
+
+
