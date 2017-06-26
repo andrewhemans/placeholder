@@ -85,7 +85,9 @@ Yup, it’s open again! The die-hard Blackwater is now a deli/cafe, thanks to th
 
 ![blackwater-sandwhich-dana.jpg](/uploads/blackwater-sandwhich-dana.jpg)
 
-The coffee is absolutely delicious. Want something iced? Don’t worry about it getting watered down-- Blackwater’s cubes are made of coffee! This place is mad cute and has such a great vibe. From the local art covering the walls, to the delicious food and coffee being served, it’s absolutely worth visiting. Like the past incarnations of Blackwater, Monday nights feature live jazz. Patrick and Gina aren’t stopping there, though. They have big things planned for Blackwater, so stay updated! Check them out around 7am-3pm on weekdays, and 8am-3pm on weekends, at [912 N Yosemite St](https://www.google.com/maps/place/912+N+Yosemite+St,+Stockton,+CA+95203/data=!4m2!3m1!1s0x80900d78c8c61fbb:0x9f261ea654a41b1a?sa=X&ved=0ahUKEwip14vZy9fUAhVC0oMKHSW9As4Q8gEIIzAA).
+The coffee is absolutely delicious. Want something iced? Don’t worry about it getting watered down-- Blackwater’s cubes are made of coffee! This place is mad cute and has such a great vibe. From the local art covering the walls, to the delicious food and coffee being served, it’s absolutely worth visiting. Like the past incarnations of Blackwater, Monday nights feature live jazz. Patrick and Gina aren’t stopping there, though. They have big things planned for Blackwater, so stay updated! 
+
+Check them out around 7am-3pm on weekdays, and 8am-3pm on weekends, at [912 N Yosemite St](https://www.google.com/maps/place/912+N+Yosemite+St,+Stockton,+CA+95203/data=!4m2!3m1!1s0x80900d78c8c61fbb:0x9f261ea654a41b1a?sa=X&ved=0ahUKEwip14vZy9fUAhVC0oMKHSW9As4Q8gEIIzAA).
 
 ![blackwater-coffee-dana.jpg](/uploads/blackwater-coffee-dana.jpg)
 
@@ -100,7 +102,9 @@ After talking to the owner, Darrell Griffin, it seems Freedom Coffee was inspire
 
 ![freedom-tea-dana.jpg](/uploads/freedom-tea-dana.jpg)
 
-If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)  taste of Freedom. Their caramel vanilla latte is-- without a doubt-- exquisite and flavorful! They’ve also got a mint green tea that’s so good you’ll want another, and there are plenty of treats to pair with it. It’s open from 7am-1pm on weekdays only, making it ideal for those of you working downtown. Check it out next time you get a morning thirst for caffeine at [22 N San Joaquin St](https://www.google.com/maps/place/22+N+San+Joaquin+St,+Stockton,+CA+95202/@37.9536385,-121.2891415,17z/data=!3m1!4b1!4m5!3m4!1s0x8090129892acc86b:0x35e1ead8a0bcbab6!8m2!3d37.9536385!4d-121.2869528). See you tomorrow. ;)
+If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)  taste of Freedom. Their caramel vanilla latte is-- without a doubt-- exquisite and flavorful! They’ve also got a mint green tea that’s so good you’ll want another, and there are plenty of treats to pair with it. It’s open from 7am-1pm on weekdays only, making it ideal for those of you working downtown. 
+
+Check it out next time you get a morning thirst for caffeine at [22 N San Joaquin St](https://www.google.com/maps/place/22+N+San+Joaquin+St,+Stockton,+CA+95202/@37.9536385,-121.2891415,17z/data=!3m1!4b1!4m5!3m4!1s0x8090129892acc86b:0x35e1ead8a0bcbab6!8m2!3d37.9536385!4d-121.2869528). See you tomorrow. ;)
  
 
 
@@ -109,7 +113,9 @@ If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)
 
 ![toots-sweet-coffee.jpg](/uploads/toots-sweet-coffee.jpg)
 
-Just as the name suggests, this sweet, simple Stockton treasure has it all - coffee, wifi, food, gifts, and plenty of desserts. This bakery and cafe has been around for 28 years, and their carmelitas with a black coffee have never gotten old. Toot Sweets also has the most adorable small cakes! They serve one called “Just Like It,” which is meant to be like a Ho-Ho cake, as well as a mouth watering strawberry shortcake. Though they don’t stop at desserts; Toot Sweets has a large menu of savory foods to order. It’s truly a one-stop sweet spot, so check it out at [4755 Quail Lakes Dr](https://www.google.com/maps/place/Toot+Sweets+Bakery+Cafe/@37.9862632,-121.3425782,17z/data=!3m1!4b1!4m5!3m4!1s0x80900c3249e7674d:0xab5a6a572d60fe09!8m2!3d37.986259!4d-121.3403895). 
+Just as the name suggests, this sweet, simple Stockton treasure has it all - coffee, wifi, food, gifts, and plenty of desserts. This bakery and cafe has been around for 28 years, and their carmelitas with a black coffee have never gotten old. Toot Sweets also has the most adorable small cakes! They serve one called “Just Like It,” which is meant to be like a Ho-Ho cake, as well as a mouth watering strawberry shortcake. Though they don’t stop at desserts; Toot Sweets has a large menu of savory foods to order. 
+
+It’s truly a one-stop sweet spot, so check it out at [4755 Quail Lakes Dr](https://www.google.com/maps/place/Toot+Sweets+Bakery+Cafe/@37.9862632,-121.3425782,17z/data=!3m1!4b1!4m5!3m4!1s0x80900c3249e7674d:0xab5a6a572d60fe09!8m2!3d37.986259!4d-121.3403895). 
 
 ![toot-2-min-0dabfa.jpg](/uploads/toot-2-min-0dabfa.jpg)
 
@@ -121,7 +127,10 @@ It’s open from 6:30am-5:30pm during the weekdays, and 7am-4pm on weekends.
 
 ![la-boulangerie-dana-stk.jpg](/uploads/la-boulangerie-dana-stk.jpg)
 
-The La Boulangerie has been around for over 30 years, and it’s a cafe that holds many of my childhood memories. My father and his friends played cards here day and night. I’m able to recall being overjoyed  when he would take me with him, because I knew it meant I was going to eat one of their soft, flakey croissants and get a chocolate milk. Nowadays, I go still  in and snag that warm croissant with melted swiss, but I’ll pair it with a nice tall glass of black tea or coffee instead. Their outside seating is covered in string lights and embraced by jasmine bushes that make it a perfect place to meet up with friends or enjoy a book with a breeze. Located at [2324 Grand Canal Blvd # 1](https://www.google.com/maps/place/La+Boulangerie/@37.9839256,-121.3384386,17z/data=!3m1!4b1!4m5!3m4!1s0x80900dcb493b0a29:0xa0be0362062b02c4!8m2!3d37.9839256!4d-121.3362499), they are open 6am-4pm everyday. 
+The La Boulangerie has been around for over 30 years, and it’s a cafe that holds many of my childhood memories. My father and his friends played cards here day and night. I’m able to recall being overjoyed  when he would take me with him, because I knew it meant I was going to eat one of their soft, flakey croissants and get a chocolate milk. Nowadays, I go still  in and snag that warm croissant with melted swiss, but I’ll pair it with a nice tall glass of black tea or coffee instead. Their outside seating is covered in string lights and embraced by jasmine bushes that make it a perfect place to meet up with friends or enjoy a book with a breeze. 
+
+Located at [2324 Grand Canal Blvd # 1](https://www.google.com/maps/place/La+Boulangerie/@37.9839256,-121.3384386,17z/data=!3m1!4b1!4m5!3m4!1s0x80900dcb493b0a29:0xa0be0362062b02c4!8m2!3d37.9839256!4d-121.3362499), they are open 6am-4pm everyday.
+ 
 ![la-boulangerie-dana-pastry.jpg](/uploads/la-boulangerie-dana-pastry.jpg)
 
 *All photos are taken and provided by Dana Al-Hindi*
