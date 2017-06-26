@@ -3,6 +3,30 @@ title: Best 6 Places in Stockton for a Cup of Joe
 date: 2017-06-26 16:21:00 -07:00
 categories:
 - Culture
+tags:
+- "#toot sweets"
+- stockton
+- stockton food
+- sockton coffee
+- stockton restaurants
+- coffee shops
+- coffee
+- latte
+- empresso
+- miracle mile
+- blackwater
+- la boulangerie
+- freedom coffee
+- trail coffee roasters
+- huddle
+- placeholder
+- art mag
+- zine
+- sandwiches
+- delta college
+- central valley
+- California
+- eats
 image: "/uploads/toot-min.jpg"
 author: Dana Al-Hindi
 description: 'Stockton is not just known for its art and asparagus, but also its coffee!
