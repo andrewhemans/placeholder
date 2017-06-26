@@ -45,7 +45,7 @@ author-links:
 For those of you who know, it’s the end of Ramadan, and Empresso Coffeehouse on the Miracle Mile has closed. And let me tell you, after not eating or drinking from sunrise to sunset, the first thing I run for after dinner is not dessert - it’s coffee. So naturally for me, hearing the [news about Empresso closing down](http://www.placeholdermag.com/culture/2017/06/11/miracle-memories-business-closures.html) was devastating for so many Stockton locals. Their theater held the first show I ever attended. It was the location of the high school film festival I put together, and where I spent many days studying for midterms and finals. It was also where I occasionally drove to after iftar (the dinner that breaks my sunrise-to-sunset fast), to get my fix of coffee. Since the closure of iconic theater-turned-coffeehouse, I made this list of other Stockton favorites with enjoyable atmospheres to help feed your coffee habit.
  
  
-**1. Empresso (say what?!)**
+## 1. Empresso (say what?!)
 
 ![Empresso-1-min.jpg](/uploads/Empresso-1-min.jpg)
 
@@ -62,8 +62,7 @@ They’re open everyday from 6am until midnight in [College Square](https://www.
 
 
  
-**2. Trail Coffee Roasters (aka “The Alley”)**
-
+## 2. Trail Coffee Roasters (aka “The Alley”)
 
 
 ![trail-1-min.jpg](/uploads/trail-1-min.jpg)
@@ -79,7 +78,7 @@ Current popular drinks are the cold brew coffee and lavender latte. If you’re 
 
 
 
-**3. Blackwater Delicatessen**
+## 3. Blackwater Delicatessen
 
 ![blackwater-1-min.jpg](/uploads/blackwater-1-min.jpg)
 
@@ -94,7 +93,7 @@ The coffee is absolutely delicious. Want something iced? Don’t worry about it 
 
 
  
-**4. Freedom Coffee**
+## 4. Freedom Coffee
 
 ![freedom-1-min.jpg](/uploads/freedom-1-min.jpg)
 
@@ -108,7 +107,7 @@ If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)
 
 
 
-**5. Toot Sweets**
+## 5. Toot Sweets
 
 ![toot-1-min.jpg](/uploads/toot-1-min.jpg)
 
@@ -121,7 +120,7 @@ It’s open from 6:30am-5:30pm during the weekdays, and 7am-4pm on weekends.
  
 
 
-**6. La Boulangerie** 
+## 6. La Boulangerie
 
 ![la-bou-1-min.jpg](/uploads/la-bou-1-min.jpg)
 
