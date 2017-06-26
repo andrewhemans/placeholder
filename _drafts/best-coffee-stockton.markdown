@@ -108,7 +108,7 @@ If you stop by, pick up a book from their bookshelf and enjoy the cool (or hot!)
 
 
 
-**5. Toot Sweets **
+**5. Toot Sweets**
 
 ![toot-1-min.jpg](/uploads/toot-1-min.jpg)
 
