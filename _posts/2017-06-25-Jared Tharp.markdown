@@ -48,7 +48,7 @@ When it comes to painting, Tharp’s hopes to recreate “that feeling when you'
 <br>
 
 
-![ArtStreetProject-min.jpg](/uploads/ArtStreetProject-min.jpg)ing)
+![ArtStreetProject-min.jpg](/uploads/ArtStreetProject-min.jpg)
  
 <br>
 <br>
