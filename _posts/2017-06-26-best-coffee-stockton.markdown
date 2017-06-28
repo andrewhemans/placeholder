@@ -42,7 +42,7 @@ author-links:
 - 'Insta: @da.nuh'
 ---
 
-For those of you who know, it’s the end of Ramadan, and Empresso Coffeehouse on the Miracle Mile has closed. And let me tell you, after not eating or drinking from sunrise to sunset, the first thing I run for after dinner is not dessert—it’s coffee. Naturally, hearing the [news about Empresso closing down](http://www.placeholdermag.com/culture/2017/06/11/miracle-memories-business-closures.html) was devastating for so many Stockton locals, including myself. Their theater held the first show I ever attended. It was the location of the high school film festival I put together, and where I spent many days studying for midterms and finals. It was also where I occasionally drove to after iftar (the dinner that breaks my sunrise-to-sunset fast) to get my fix of coffee. Since the closure of the iconic theater-turned-coffeehouse, I made this list of other Stockton favorites with enjoyable atmospheres to help feed your coffee habit.
+For those of you who know, it’s the end of Ramadan, and Empresso Coffeehouse on the Miracle Mile has closed. And let me tell you, after not eating or drinking from sunrise to sunset, the first thing I run for after dinner is not dessert—it’s coffee. Naturally, hearing the [news about Empresso closing down](http://www.placeholdermag.com/culture/2017/06/11/miracle-memories-business-closures.html) was devastating for so many Stockton locals, including myself. Their theater held the first show I ever attended. It was the location of the high school film festival I put together and where I spent many days studying for midterms and finals. It was also where I occasionally drove to after iftar (the dinner that breaks my sunrise-to-sunset fast) to get my fix of coffee. Since the closure of the iconic theater-turned-coffeehouse, I made this list of other Stockton favorites with enjoyable atmospheres to help feed your coffee habit.
  
  
 ## 1. Empresso (say what?!)
@@ -53,7 +53,7 @@ For starters: Empresso Coffeehouse! Believe it or not, I didn’t know they had 
 
 ![Empresso-coffee-dana.jpg](/uploads/Empresso-coffee-dana.jpg)
 
-The ambiance of this location is much different than the recently-closed Empresso. The walls include large wall-to-wall windows that wrap around the building, inviting the sunlight to come in and sip some brew. Their location may have changed, but their coffee hasn't. Their most popular drinks right now are the iced caramella and iced cold brewed coffee, although my personal favorite will always be their chai latte (I’ve literally never had a better chai latte than theirs). Out of the tea selections, the jasmine tea is the most favored. But let’s not forget Cinnamonday! Empresso offers a free cinnamon roll to customers when they purchase a drink on Mondays. However, time is of the essence because they typically run out by noon.
+The ambiance of this location is much different than the recently-closed Empresso. The walls include large wall-to-wall windows that wrap around the building, inviting the sunlight to come in and sip some brew. Their location may have changed, but their coffee hasn't. Their most popular drinks right now are the iced caramella and iced cold-brewed coffee, although my personal favorite will always be their chai latte (I’ve literally never had a better chai latte than theirs). Out of the tea selections, the jasmine tea is the most favored. But let’s not forget Cinnamonday! Empresso offers a free cinnamon roll to customers when they purchase a drink on Mondays. However, time is of the essence because they typically run out by noon.
 
 ![Empresso-3-min-fb8209.jpg](/uploads/Empresso-3-min-fb8209.jpg)
  
@@ -70,7 +70,7 @@ Ah, the Trail… You really do feel as though you’re following a trail down an
 
 ![trail-roasters-dana.jpg](/uploads/trail-roasters-dana.jpg)	
 
-Current popular drinks are the cold brew coffee and lavender latte. If you’re into tea, I personally recommend their peppermint and orange blend on ice. This drink is perfect for hot summer days, because the peppermint naturally cools your body down. Their teas are purchased from Green’s Nutrition on Pacific Ave, and the blends are hand-crafted by the owners.To top it off, all of their goodies are made in-house! Everyday there is a different flavored scone available. Even their simple syrups are homemade. After two and a half years at their Miner Ave’s location, this roaster is looking to move to a bigger location with plenty of outlets to accommodate students off California and Main St. this upcoming fall.
+Current popular drinks are the cold brew coffee and lavender latte. If you’re into tea, I personally recommend their peppermint and orange blend on ice. This drink is perfect for hot summer days, because the peppermint naturally cools your body down. Their teas are purchased from Green’s Nutrition on Pacific Ave, and the blends are hand-crafted by the owners. To top it off, all of their goodies are made in-house! Everyday there is a different flavored scone available. Even their simple syrups are homemade. After two and a half years at their Miner Ave’s location, this roaster is looking to move to a bigger location with plenty of outlets to accommodate students off California and Main Sts. this upcoming fall.
 
 ![trail-alley-cafe-dana.jpg](/uploads/trail-alley-cafe-dana.jpg)
 
@@ -81,7 +81,7 @@ Current popular drinks are the cold brew coffee and lavender latte. If you’re 
 
 ![blackwater-deli-dana.jpg](/uploads/blackwater-deli-dana.jpg)
 
-Yup, it’s open again! The die-hard Blackwater is now a deli/cafe, thanks to the new owners, Patrick Salisbury and Gina Hornibrook; they have cleaned up Blackwater and given it a new look that still holds much nostalgia. Once you walk in, you’re embraced by a savory, flavorful aroma that hovers the room. The balsamic chicken sandwich is favored among many, including myself! The sunrise wrap and breakfast sandwiches are also a hit. 
+Yup, it’s open again! The die-hard Blackwater is now a deli/cafe, thanks to the new owners, Patrick Salisbury and Gina Hornibrook; they have cleaned up Blackwater and given it a new look that still holds much nostalgia. Once you walk in, you’re embraced by a savory, flavorful aroma that hovers the room. The balsamic chicken sandwich is favored among many, including myself! The sunrise wrap and breakfast sandwiches are also hits. 
 
 ![blackwater-sandwhich-dana.jpg](/uploads/blackwater-sandwhich-dana.jpg)
 
@@ -127,7 +127,7 @@ It’s open from 6:30am-5:30pm during the weekdays, and 7am-4pm on weekends.
 
 ![la-boulangerie-dana-stk.jpg](/uploads/la-boulangerie-dana-stk.jpg)
 
-The La Boulangerie has been around for over 30 years, and it’s a cafe that holds many of my childhood memories. My father and his friends played cards here day and night. I’m able to recall being overjoyed  when he would take me with him, because I knew it meant I was going to eat one of their soft, flakey croissants and get a chocolate milk. Nowadays, I go in still and snag that warm croissant with melted swiss, but I’ll pair it with a nice tall glass of black tea or coffee instead. Their outside seating is covered in string lights and embraced by jasmine bushes that make it a perfect place to meet up with friends or enjoy a book with a breeze. 
+The La Boulangerie has been around for over 30 years, and it’s a cafe that holds many of my childhood memories. My father and his friends played cards here day and night. I’m able to recall being overjoyed  when he would take me with him, because I knew it meant I was going to eat one of their soft, flakey croissants and get a chocolate milk. Nowadays, I still go in and snag that warm croissant with melted swiss, but I’ll pair it with a nice tall glass of black tea or coffee instead. Their outside seating is covered in string lights and embraced by jasmine bushes that make it a perfect place to meet up with friends or enjoy a book with a breeze. 
 
 Located at [2324 Grand Canal Blvd # 1](https://www.google.com/maps/place/La+Boulangerie/@37.9839256,-121.3384386,17z/data=!3m1!4b1!4m5!3m4!1s0x80900dcb493b0a29:0xa0be0362062b02c4!8m2!3d37.9839256!4d-121.3362499), they are open 6am-4pm everyday.
  
