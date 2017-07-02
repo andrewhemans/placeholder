@@ -28,7 +28,8 @@ Sticky sweet summertime possibility intersected by entanglement in a web of mola
 
 <br>
 <br>
-[IMG-4339-min.JPG](/uploads/IMG-4339-min.JPG)<br>
+[IMG-4339-min.JPG](/uploads/IMG-4339-min.JPG)
+<br>
 <br>
 
 Her mesmerizing sculptures combine repetitive textures with motifs of the psyche to expand in the realm of consciousness. Delicate petals and insect wings painted in light tones are uplifting and trancelike. Otherworldly imagery overlaid and organized within shadowbox frames focus the viewer’s gaze, like a portal these works take viewers into an introspective moment. 
