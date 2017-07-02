@@ -10,8 +10,8 @@ tags:
 - Bay Area
 - California
 - Artist
-- ArtHotel
 - ArtStreet
+- ArtHotel
 image: "/uploads/IMG_8552-min.jpg"
 author: Carmel Dor
 description: 'Sacramento artist Franceska Gamez creates portals for the introspective
