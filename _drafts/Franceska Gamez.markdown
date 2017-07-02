@@ -28,8 +28,7 @@ Sticky sweet summertime possibility intersected by entanglement in a web of mola
 
 <br>
 <br>
-[IMG_4339-min.JPG](/uploads/IMG_4339-min.JPG)
-<br>
+[IMG-4339-min.JPG](/uploads/IMG-4339-min.JPG)<br>
 <br>
 
 Her mesmerizing sculptures combine repetitive textures with motifs of the psyche to expand in the realm of consciousness. Delicate petals and insect wings painted in light tones are uplifting and trancelike. Otherworldly imagery overlaid and organized within shadowbox frames focus the viewer’s gaze, like a portal these works take viewers into an introspective moment. 
@@ -56,7 +55,7 @@ Gamez takes the position of open mediator between the viewer and their own thoug
 <br>
 <br>
  
-Extending her multimedia hand, Gamez has also produced murals and installations. Her expression is not limited as it expresses limitlessness with swirling lines that encompass viewers transcending reality with her light floating colors. To see her in action, look out for Gamez working with the Asian American Women Artists Association in the Richmond District of San Francisco. Along with the Mural Muses, she will be painting a mural over the summer, more details forthcoming on their Indigogo page. 
+Extending her multimedia hand, Gamez has also produced murals and installations. Her expression is not limited as it expresses limitlessness with swirling lines that encompass viewers transcending reality with her light floating colors. To see her in action, look out for Gamez working with the [Asian American Women Artists Association](http://aawaa.net/) in the Richmond District of San Francisco. Along with the Mural Muses, she will be painting a mural over the summer, more details forthcoming on their [Indigogo page](https://www.indiegogo.com/projects/the-first-mural-for-asian-american-women-artists#/). 
  
 <br> 
 <br>
@@ -68,6 +67,6 @@ Extending her multimedia hand, Gamez has also produced murals and installations.
 
 Born in Manila and raised in the Bay Area, Franceska Gamez now currently resides in Sacramento where she practices in mixed media sculptures and mural painting. Upon receiving her degree in Fine Art at California State University Sacramento, she has continued to dedicate full time to her trade. Her willful practice in the arts has led to dynamic bouts in music, writing, curation, art conservation, and project organization. She has existing murals in Sacramento, Bay Area, and Washington DC, Amsterdam and Barcelona. Along with being a full-time artist, she is currently the co-director of 1810 Gallery and member of M5 Arts Collective. She was one of the contributing artists at the Art Hotel 916 as well as ArtStreet. As part of M5, she provides creative support for project groundwork- from brainstorming framework to hands-on building. 
  
-To find out more check out Franceska Gamez’s Instagram and Facebook pages. 
+To find out more check out Franceska Gamez’s [Instagram ](https://www.instagram.com/ewfrank/)and [Facebook ](https://www.facebook.com/franceskaart/)pages. 
  
  
