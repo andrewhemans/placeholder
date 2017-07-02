@@ -28,7 +28,7 @@ Sticky sweet summertime possibility intersected by entanglement in a web of mola
 
 <br>
 <br>
-[IMG-4339-min.JPG](/uploads/IMG-4339-min.JPG)
+![FrankieRedPiece-min.jpg](/uploads/FrankieRedPiece-min.jpg)
 <br>
 <br>
 
