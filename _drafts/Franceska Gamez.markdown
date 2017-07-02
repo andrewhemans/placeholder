@@ -48,7 +48,7 @@ Working meticulously, her linework intermingles and adorns her subjects - hintin
 <br>
 <br>
 
-Gamez takes the position of open mediator between the viewer and their own thoughts. While the work holds a therapeutic purpose for the artist herself, it is abstracted enough that viewers can become immersed in themselves through reflecting on her work. Especially with her anthropomorphic work, one may enter the work through aesthetic admiration, but at some point, the process of viewing turns into almost like looking in a mirror and moments recognizing the cogs of the mind reveal themselves. 
+Gamez takes the position of open mediator between the viewer and their own thoughts. While the work holds a therapeutic purpose for the artist herself, it is abstracted enough that viewers can immerse themselves reflecting in her work. Especially with her anthropomorphic work, one may enter the work through aesthetic admiration, but at some point, the process of viewing turns into almost like looking in a mirror and moments recognizing the cogs of the mind reveal themselves. 
 
 <br>
 <br>
