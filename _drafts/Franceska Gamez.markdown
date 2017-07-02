@@ -56,7 +56,7 @@ Gamez takes the position of open mediator between the viewer and their own thoug
 <br>
 <br>
  
-Extending her multimedia hand, Gamez has also produced murals and installations. Her expression is not limited as it expresses limitlessness with swirling lines that encompass viewers transcending reality with her light floating colors. To see her in action, look out for Gamez working with the [Asian American Women Artists Association](http://aawaa.net/) in the Richmond District of San Francisco. Along with the Mural Muses, she will be painting a mural over the summer, more details forthcoming on their [Indigogo page](https://www.indiegogo.com/projects/the-first-mural-for-asian-american-women-artists#/). 
+Extending her multimedia hand, Gamez has also produced murals and installations. Her expression is not limited as it expresses limitlessness through swirling lines that encompass viewers transcending reality in light floating colors. To see her in action, look out for Gamez working with the [Asian American Women Artists Association](http://aawaa.net/) in the Richmond District of San Francisco. Along with the [Mural Muses](https://www.streetartsf.com/blog/mural-muses/), she will be painting a mural over the summer, more details forthcoming on their [Indigogo page](https://www.indiegogo.com/projects/the-first-mural-for-asian-american-women-artists#/). 
  
 <br> 
 <br>
