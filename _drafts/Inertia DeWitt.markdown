@@ -15,4 +15,3 @@ author-bio: Carmel Dor is a Visual Arts Content Curator for Placeholder Magazine
   of California at Davis in 2015. They currently live in Sacramento, CA.
 ---
 
-[WonderWoman Reel.mp4](/uploads/WonderWoman%20Reel.mp4)
