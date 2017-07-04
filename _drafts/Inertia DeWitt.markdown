@@ -49,13 +49,12 @@ Interia DeWitt’s multidisciplinary, performance-art protest piece AMERICAN WON
 Her full feature work is 37 minute long and is composed of music videos, satirical commercials, culminating as a powerful gesture towards social consciousness and collaborative action. After seeing her work it is hard to sit still, and not only because of the epic flash mob! A major question DeWitt has been mulling over is “What does it mean to become a hero?” Her answer is not a simple one but she found that making a stance with your values and doing little acts of protest every day is a manageable and productive way to move our society forward. She prompts viewers to think about their skills and ability to apply them. From everyday social interactions as a barista to leading a march as a community organizer, what is your form of protest? Here is a preview reel of DeWitt’s video piece AMERICAN WONDER to give you a taste of what I’m talking about.
  
 <iframe src="https://player.vimeo.com/video/223870600" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/223870600">AMERICAN WONDER - Reel</a> from <a href="https://vimeo.com/americanwonderwoman">American Wonder Woman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 To see her full work, go to the corner of K and 10th Street in Midtown, Sacramento. There on the corner building will be her full film on loop from 8pm to 2am between July 3-8, 2017. For those who are not local, follow American Wonder Woman online on [Facebook ](www.facebook.com/americanwonderwoman)or [Instagram ](www.instagram.com/americanwonderwoman)to catch more of this video project in the future. Take action and be a part of a flashmob with American Wonder Woman by following [Wonder Woman Unite](https://www.facebook.com/events/1509531419103168/) or support her project on [Patreon](www.patreon.com/americanwonderwoman). 
 
 
 <iframe src="https://player.vimeo.com/video/218536817" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/218536817">Join the VIP Squad!</a> from <a href="https://vimeo.com/americanwonderwoman">American Wonder Woman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 <br>
 <br>
@@ -63,9 +62,3 @@ To see her full work, go to the corner of K and 10th Street in Midtown, Sacramen
 ![American-Woman-min.jpg](/uploads/American-Woman-min.jpg)
 
 **Inertia QED DeWitt** is a multidisciplinary, performance-artist currently based in Sacramento, CA. She holds an MFA in Dance from Arizona State University and is currently completing an MA in Counseling Psychology from Pacifica Graduate Institute.
-
-
-**Find out more:**
-www.facebook.com/americanwonderwoman |
-www.instagram.com/americanwonderwoman |
-www.patreon.com/americanwonderwoman
