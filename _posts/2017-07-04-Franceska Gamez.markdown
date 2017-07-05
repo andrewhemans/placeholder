@@ -58,7 +58,7 @@ Working meticulously, Gamez’s linework intermingles and adorns her subjects, h
 <br>
 <br>
 
-Gamez takes the position of open mediator between viewers and their thoughts. While the work holds a therapeutic purpose for the artist herself, her pieces are abstracted enough that viewers can immerse themselves in her sculptural creations. Especially with her anthropomorphic pieces, one may enter the work through admiration of the her aesthetic. However, the after brief meditation in the portal, the world fades away and reveals the cogs in the mind and their complex motions. 
+Gamez takes the position of open mediator between viewers and their thoughts. While the work holds a therapeutic purpose for the artist herself, her pieces are abstracted enough that viewers can immerse themselves in her sculptural creations. Especially with her anthropomorphic pieces, one may enter the work through admiration of her aesthetic. However, the after brief meditation in the portal, the world fades away and reveals the cogs in the mind and their complex motions. 
 
 <br>
 <br>
@@ -68,7 +68,7 @@ Gamez takes the position of open mediator between viewers and their thoughts. Wh
  
 Extending her multimedia hand, Gamez has also produced murals and installations. Her expression is not limited, as swirling lines express limitlessness, and her use of light, floating colors lead viewers to transcend reality.
 
-Gamez is currently working with the [Asian American Women Artists Association](http://aawaa.net/) in the Richmond District of San Francisco. Along with the [Mural Muses](https://www.streetartsf.com/blog/mural-muses/), she will be painting a mural over the summer, which is detailed on their[Indigogo page](https://www.indiegogo.com/projects/the-first-mural-for-asian-american-women-artists#/). 
+Gamez is currently working with the [Asian American Women Artists Association](http://aawaa.net/) in the Richmond District of San Francisco. Along with the [Mural Muses](https://www.streetartsf.com/blog/mural-muses/), she will be painting a mural over the summer, which is detailed on their [Indigogo page](https://www.indiegogo.com/projects/the-first-mural-for-asian-american-women-artists#/). 
  
 <br> 
 <br>
