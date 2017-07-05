@@ -25,6 +25,7 @@ tags:
 - Video
 - black box wednesday
 - bbw
+- featured
 image: "/uploads/Wrapped-in-flag-min.jpg"
 author: Carmel Dor
 description: Interia DeWitt’s performance-art protest AMERICAN WONDER is a biting
