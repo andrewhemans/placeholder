@@ -1,6 +1,6 @@
 ---
 title: Exploring Possibility with Franceska Gamez
-date: 2017-07-02 20:05:00 -07:00
+date: 2017-07-04 20:05:00 -07:00
 categories:
 - Art
 tags:
@@ -12,6 +12,15 @@ tags:
 - Artist
 - ArtStreet
 - ArtHotel
+- sculpture
+- surreal
+- Barcelona
+- Murals
+- muralist
+- mural
+- portal
+- bugs
+- entomology
 image: "/uploads/IMG_8552-min.jpg"
 author: Carmel Dor
 description: 'Sacramento artist Franceska Gamez creates portals for the introspective
