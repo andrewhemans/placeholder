@@ -75,3 +75,5 @@ For those who are not local, follow American Wonder Woman online on [Facebook ](
 ![American-Woman-min.jpg](/uploads/American-Woman-min.jpg)
 
 **Inertia QED DeWitt** is a multidisciplinary, performance artist currently based in Sacramento, CA. She holds an MFA in Dance from Arizona State University and is currently completing an MA in Counseling Psychology from Pacifica Graduate Institute.
+
+Photography by Alyssa Loren.
