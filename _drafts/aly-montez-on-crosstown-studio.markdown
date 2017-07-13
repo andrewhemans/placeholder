@@ -37,7 +37,7 @@ I love how fluid art is— you can make something that is hot and someone else w
 
 But pertaining to your question— I guess I never thought about my work being perceivably feminist because over the past 5 or so years I have learned to just be. I very rarely sit down to develop a concept and think to myself "I want to address feminism, or x, y, and z movements." I guess what I'm saying is, if I place those types of undertones, [they’re] never calculated, it comes from a really raw place of opinions and beliefs. I don't really spend time compartmentalizing my work, so it's always really interesting to hear what other people get from it. 
 
-**Do you see your work as relating to any current movement or direction in visual art or culture? ** 
+**Do you see your work as relating to any current movement or direction in visual art or culture?** 
 
 I'm extremely inspired by anti-fashion. It's really weird to step back and really play connect the dots with how my ideas come to fruition, but overall my work supports the deconstruction of social norms regarding, again, sexuality, and even more so the stigma that surrounds mental illness. The psychological undertones you mentioned before are my way of releasing what I personally deal with. There's a component of my work that is actually very selfish. 
 
