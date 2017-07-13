@@ -13,7 +13,7 @@ tags:
 image: "/uploads/Placeholder3-min.jpg"
 author: Aida Lizalde
 description: 'Aida Lizalde and Aly Montez meet up to talk about Crosstown Studio,
-  femmes, music, and the Central Valley art scene. '
+  femmes, music, mental health and the creative process. '
 author-block: true
 author-image: "/uploads/Aida.jpg"
 author-bio: 'Aida Lizalde is the Art Programs Coordinator and occasional contributor
