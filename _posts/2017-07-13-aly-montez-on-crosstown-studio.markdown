@@ -1,6 +1,6 @@
 ---
 title: Aly Montez & Crosstown Studio
-date: 2017-07-13 10:09:00 -07:00
+date: 2017-07-13 13:02:00 -07:00
 categories:
 - Art
 tags:
