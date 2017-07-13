@@ -27,7 +27,9 @@ I'm 25 and self-taught. My interest in the arts started with music, but I can't 
 
 ![Placeholder1-min.jpg](/uploads/Placeholder1-min.jpg)
 
-Opening Crosstown has allowed me to widen my client base and explore the world of traditional photography in more depth than I had before. I took it a step further and decided I wanted to provide the platform of having a studio that’s available to other photographers. I believe there's a different level of comfort you can give a client when bringing them into a private space, and I believe it aids in the transition to a relationship with that person. I can count on two fingers how many times I've photographed someone and just completely lost touch with them. I guess what I'm getting at is I've noticed a significant change in the way my relationships develop from having the studio than how they did when I was bringing people into my spare bedroom with sheets for backgrounds. I want to be able to make that available to other Central Valley photographers. We just don't have much of that here, and when photographers go to Los Angeles or San Francisco we sometimes end up paying hundreds of dollars. I feel like that creates so much separation within the artistic community, and to be real, it's not even because of talent; it's because of money. So in my mind I think "Let's make this more accessible, and drop the elitist attitudes and watch people glow up and just support one another."
+Opening Crosstown has allowed me to widen my client base and explore the world of traditional photography in more depth than I had before. I took it a step further and decided I wanted to provide the platform of having a studio that’s available to other photographers. I believe there's a different level of comfort you can give a client when bringing them into a private space, and I believe it aids in the transition to a relationship with that person. I can count on two fingers how many times I've photographed someone and just completely lost touch with them. I guess what I'm getting at is I've noticed a significant change in the way my relationships develop from having the studio than how they did when I was bringing people into my spare bedroom with sheets for backgrounds. 
+
+I want to be able to make that available to other Central Valley photographers. We just don't have much of that here, and when photographers go to Los Angeles or San Francisco we sometimes end up paying hundreds of dollars. I feel like that creates so much separation within the artistic community, and to be real, it's not even because of talent; it's because of money. So in my mind I think "Let's make this more accessible, and drop the elitist attitudes and watch people glow up and just support one another."
 
 **You seem to photograph mostly femmes with seductive, yet highly psychological undertones. How much do identity politics and feminism have to do with your work?**
 
@@ -66,5 +68,7 @@ I'm bringing out my colored lighting and working with a great artist on producin
 
 
 **More info**
+
 Website: https://www.crosstownphotography.com/
+
 Instagram: @alymontez
