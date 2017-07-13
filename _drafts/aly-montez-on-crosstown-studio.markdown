@@ -45,7 +45,11 @@ I'm extremely inspired by anti-fashion. It's really weird to step back and reall
 
 **Which other artists might your work be in conversation with?**
   
-Regarding outside inspiration, music and fashion are always at the forefront.>  I connect fashion the way I do because of the psychological process that I believe goes hand in hand with what we wear, but I've yet to be able to figure out a way to appropriately explain that, so we can save that for another time. But on that point, artists such as Alexander McQueen—may he Rest In Peace—and people like Rick Owens and Rei Kawakubo, their work resonates with who I am internally and really kind of fuels my courage to be a little more out there. On the music front, Björk plays a huge role in how broad I've allowed my work to become. 
+Regarding outside inspiration, music and fashion are always at the forefront.
+
+> I connect fashion the way I do because of the psychological process that I believe goes hand in hand with what we wear. 
+
+I've yet to be able to figure out a way to appropriately explain that, so we can save that for another time. But on that point, artists such as Alexander McQueen—may he Rest In Peace—and people like Rick Owens and Rei Kawakubo, their work resonates with who I am internally and really kind of fuels my courage to be a little more out there. On the music front, Björk plays a huge role in how broad I've allowed my work to become. 
 
 **What are you presently inspired by— are there particular things you are reading, listening to or looking at to fuel your work?**
 
