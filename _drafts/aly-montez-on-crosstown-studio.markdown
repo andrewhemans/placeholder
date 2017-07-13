@@ -21,9 +21,7 @@ author-bio: 'Aida Lizalde is the Art Programs Coordinator and occasional contrib
   of California at Davis and works as a Preparator at the Manetti Shrem Museum. '
 ---
 
-**Can you tell us a little bit about yourself and about Crosstown Studio?**
-
-I'm 25 and self-taught. My interest in the arts started with music, but I can't make music for the life of me, so I've since turned to hoarding it. From there i turned to drawing, and once I grew tired of that medium I picked up a camera and realized that I could create almost tangible pieces of what goes on in my head. Photography has since became an outlet that I'm extremely dependent on. Crosstown Studio happened when what I wanted to create outgrew where I was, and it happened quite beautifully. 
+I'm 25 and self-taught. My interest in the arts started with music, but I can't make music for the life of me, so I've since turned to hoarding it. From there I turned to drawing, and once I grew tired of that medium I picked up a camera and realized that I could create almost tangible pieces of what goes on in my head. Photography has since became an outlet that I'm extremely dependent on. Crosstown Studio happened when what I wanted to create outgrew where I was, and it happened quite beautifully. 
 
 ![Placeholder1-min.jpg](/uploads/Placeholder1-min.jpg)
 
