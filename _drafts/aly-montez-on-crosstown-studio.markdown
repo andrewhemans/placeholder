@@ -59,3 +59,8 @@ I've been inspired by the Central Valley. I was born in Stockton but grew up eve
 **Do you have any news/shows/projects/appearances etc. you'd like us to add to the feature?**
 
 I'm bringing out my colored lighting and working with a great artist on producing a unique background to create a special one-night-only Photo Booth to celebrate Symposium’s one year anniversary! It’s also going to be my first studio wardrobe release. So I’m really excited for that.
+
+
+**More info**
+Website: https://www.crosstownphotography.com/
+Instagram: @alymontez
