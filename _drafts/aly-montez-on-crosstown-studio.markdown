@@ -68,7 +68,7 @@ I've been inspired by the Central Valley. I was born in Stockton but grew up eve
 
 Check out Aly Montez and her one-night-only Photo Booth at Symposium’s one year anniversary tomorrow, where she will be releasing her first studio wardrobe.
 
-**More info**
+**More info:**
 
 Website: https://www.crosstownphotography.com/
 
