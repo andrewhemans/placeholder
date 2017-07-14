@@ -70,6 +70,7 @@ Check out Aly Montez and her one-night-only Photo Booth at Symposium’s one yea
 
 **More info:**
 
-Website: https://www.crosstownphotography.com/
+Website: http://www.alymontez.com &
+https://www.crosstownphotography.com/
 
 Instagram: @alymontez
