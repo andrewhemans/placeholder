@@ -43,7 +43,11 @@ AH: Yeah, It’s a four-piece band. Tonight at the [Aaron Draplin] show that you
  
 AH: It was really cool; we only released it on Spotify so far, so it’s just digital. I’ve gotten a lot of good feedback from people that I know and even strangers. It’s been cool that people that I’ve never interacted with just email me out of nowhere, “Hey I heard your album and I really like it.” I follow the numbers of plays, and when we first released [“Total Bummer”], we were getting a lot of plays, but now it’s dying down, and it’s affecting my emotions. I’m like, “Aww man I wish we were getting as many plays as we got when we first released it,” but that’s a marketing problem, and I’m not a marketer.
 
-This is my hobby. This is my passion. This is what I do to unwind from work and life. Music is my therapy—I always say that, so > I’ll never make money off of it, but what I do want from it is just for people to listen, you know? That’s all I want.
+This is my hobby. This is my passion. This is what I do to unwind from work and life. Music is my therapy—I always say that, so 
+
+> I’ll never make money off of it, but what I do want from it is just for people to listen, 
+
+you know? That’s all I want.
 
 ![LosBeekeepers1-min.jpg](/uploads/LosBeekeepers1-min.jpg)
 
