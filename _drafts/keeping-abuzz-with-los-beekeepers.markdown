@@ -19,7 +19,7 @@ Spearheaded by product designer/musician Andrew Hemans (vocals, guitar, piano), 
 
 <iframe src="https://open.spotify.com/embed/track/4zZuD60c5gA5tkPAAsmJDE" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
  
-AR: Could you tell me more about Los Beekeepers? What’s the history of the band, and how did you guys get started?
+*AR: Could you tell me more about Los Beekeepers? What’s the history of the band, and how did you guys get started?*
  
 AH: Me and Oscar and Mike—Oscar plays drums and Mike plays lead guitar—we’ve been playing together for probably about 10 years now. I knew Oscar from high school...and Mike is someone that I met through a mutual friend. We just started jamming and working together, and we brought it all together. 
 
@@ -29,17 +29,17 @@ I decided to book a show under a different band name, and I chose “Los Beekeep
  
 ![LosBeekeepers2-min.jpg](/uploads/LosBeekeepers2-min.jpg)
 
-AR: What is your songwriting process like? How does the band go about writing music and then recording it?
+*AR: What is your songwriting process like? How does the band go about writing music and then recording it?*
  
 AH: Traditionally, I always write the songs on my own, just on acoustic guitar or piano. Then [I] teach it to the band in some way, and every song is different as far as the songwriting process. With the last album [“Total Bummer”], I wrote and demoed everything myself. I wrote all of the songs over about 2-3 years when I was in college. I just did everything acoustic;  I would record it on my phone, and then I would send it to the guys and they would get familiar with it. But we didn’t really write other parts and learn things until it came time to record the album. I ran through everything with Oscar; he wrote all the drum parts. Then we went and recorded the drums and my rhythm guitar stuff. From there, I wrote lead guitar parts to some of the songs; anything I didn’t write lead guitar parts, Mike wrote—either a month or so before he recorded them, or just in the studio he would come up with them, and I would give him feedback. He does a phenomenal job of coming up with stuff on the spot that is catchy, and he really creates this layer of energy in all of his songs. 
 
 On the last album, we split bass duties. So, I recorded bass for half the songs and he recorded bass for half the songs. That’s kind of our songwriting process, which is interesting,  because we wrote as a three piece. We have rhythm guitar on the record, [and] lead guitar, which is kind of layered, [so] there’s multiple lead parts. We needed a fourth person to play these songs live. So my friend Brandon, who’s band I used to play bass for, he learned all the bass parts that we needed to play live—Mike sat down with him and taught him all the parts, or he came up with stuff to play live. So it’s pretty cool. I’m really happy to have him in the band, he’s a full member even though he didn’t get to write with us.  
 
-AR: Oh...So you’re not a 3-person band, but actually a 4-person band? That’s pretty cool.
+*AR: Oh...So you’re not a 3-person band, but actually a 4-person band? That’s pretty cool.*
  
 AH: Yeah, It’s a four-piece band. Tonight at the [Aaron Draplin] show that you saw, Mike couldn’t make it.
  
-AR: Right. So going back to your album, “Total Bummer,” how do you feel about its release?”
+*AR: Right. So going back to your album, “Total Bummer,” how do you feel about its release?*
  
 AH: It was really cool; we only released it on Spotify so far, so it’s just digital. I’ve gotten a lot of good feedback from people that I know and even strangers. It’s been cool that people that I’ve never interacted with just email me out of nowhere, “Hey I heard your album and I really like it.” I follow the numbers of plays, and when we first released [“Total Bummer”], we were getting a lot of plays, but now it’s dying down, and it’s affecting my emotions. I’m like, “Aww man I wish we were getting as many plays as we got when we first released it,” but that’s a marketing problem, and I’m not a marketer.
 
