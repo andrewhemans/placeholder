@@ -8,6 +8,9 @@ tags:
 - Stockton
 - Los Beekeepers
 - Indie Rock
+- Interview
+- Total Bummer
+- Andrew Hemans
 image: "/uploads/LosBeekeepers1-min.jpg"
 author: Angie Rodriguez
 author-block: true
