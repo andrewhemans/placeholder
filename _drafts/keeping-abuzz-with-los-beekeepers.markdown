@@ -16,6 +16,12 @@ author: Angie Rodriguez
 description: 'Los Beekeepers'' Andrew Hemans chats with Placeholder about the band''s
   Central Valley roots and their recent album "Total Bummer," available on Spotify. '
 author-block: true
+author-image: "/uploads/Angie-profile-pic.jpg"
+author-bio: Angie is the Fiction/Non-fiction Editor for Placeholder Magazine. She
+  is a native of Stockton, CA and graduated from UC Santa Cruz in 2015 with a B.A.
+  in Spanish Studies, and a Minor in Literature. Outside Placeholder, Angie enjoys
+  learning more about book publishing, watching political podcasts and improving her
+  web design skills. She’s traveled to Spain and wants to visit New England by train.
 ---
 
 Business development firm [Tuleburg recently brought](http://tuleburg.co/aaron-draplin/) graphic designer Aaron Draplin to Stockton, where the renowned designer gave an entertaining lecture about all things graphic design and promoted his new book, “[Draplin Design Co.: Pretty Much Everything.](http://www.draplin.com/ddc_book/)” The event, which took place in downtown Stockton’s Federal Building, was nothing short of lively—an evening bursting with inspiring design talk, Draplin’s comical presentation style, but more importantly, I was able to catch up with Stockton-based indie band [Los Beekeepers](https://losbeekeepers.bandcamp.com/).  
