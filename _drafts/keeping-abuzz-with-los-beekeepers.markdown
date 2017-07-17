@@ -1,9 +1,13 @@
 ---
 title: Keeping Abuzz with Los Beekeepers
 date: 2017-07-16 19:52:00 -07:00
+categories:
+- Culture
 tags:
 - Music
 - Stockton
+- Los Beekeepers
+- Indie Rock
 image: "/uploads/LosBeekeepers1-min.jpg"
 author: Angie Rodriguez
 author-block: true
@@ -23,9 +27,9 @@ AH: Me and Oscar and Mike—Oscar plays drums and Mike plays lead guitar—we’
 
 We used to have a different name—we used to be called The Yankee Racers, and that was a reference to this movie Rushmore, which is my favorite movie. Then for some reason at some show I was like, “Let’s book it under a different name, just for fun,” because no one knew who we were anyway, and I had always booked shows under my name or under Andrew Hemans and the Yankee Racers. 
 
-I decided to book a show under a different band name, and I chose “Los Beekeepers” because there’s a [beekeeping] club in that same movie Rushmore, the Rushmore Beekeepers—their logo is the bee, and then “Los” because I didn’t want to be like “The Beekeepers” or anything like that. So just something a little different. We actually recorded two albums. The first one is called “Growing Up Grizzly,” which is on Spotify as well [as “Total Bummer” which is our newest album.]
+I decided to book a show under a different band name, and I chose “Los Beekeepers” because there’s a [beekeeping] club in that same movie Rushmore, the Rushmore Beekeepers—their logo is the bee, and then “Los” because I didn’t want to be like “The Beekeepers” or anything like that. So just something a little different. We actually recorded two albums. The first one is called “[Growing Up Grizzly](https://open.spotify.com/album/5YcP8BEed4EpYZl47HImqj),” which is on Spotify as well [as “Total Bummer” which is our newest album.]
  
-[insert image]
+![LosBeekeepers2-min.jpg](/uploads/LosBeekeepers2-min.jpg)
 
 AR: What is your songwriting process like? How does the band go about writing music and then recording it?
  
@@ -39,12 +43,13 @@ AH: Yeah, It’s a four-piece band. Tonight at the [Aaron Draplin] show that you
  
 AR: Right. So going back to your album, “Total Bummer,” how do you feel about its release?”
  
-AH: It was really cool; we only released it on Spotify so far, so it’s just digital. I’ve gotten a lot of good feedback from people that I know and even strangers. It’s been cool that people that I’ve never interacted with just email me out of nowhere, “Hey I heard your album and I really like it.” I follow the numbers of plays, and when we first released [“Total Bummer”], we were getting a lot of plays, but now it’s dying down, and it’s affecting my emotions. I’m like, “Aww man I wish we were getting as many plays as we got when we first released it,” but that’s a marketing problem, and I’m not a marketer. 
+AH: It was really cool; we only released it on Spotify so far, so it’s just digital. I’ve gotten a lot of good feedback from people that I know and even strangers. It’s been cool that people that I’ve never interacted with just email me out of nowhere, “Hey I heard your album and I really like it.” I follow the numbers of plays, and when we first released [“Total Bummer”], we were getting a lot of plays, but now it’s dying down, and it’s affecting my emotions. I’m like, “Aww man I wish we were getting as many plays as we got when we first released it,” but that’s a marketing problem, and I’m not a marketer.
+
 This is my hobby. This is my passion. This is what I do to unwind from work and life. Music is my therapy—I always say that, so I’ll never make money off of it, but what I do want from it is just for people to listen, you know? That’s all I want.
 
-[insert image]
+![LosBeekeepers1-min.jpg](/uploads/LosBeekeepers1-min.jpg)
 
-[insert image]
+![LosBeekeepers3-min.jpg](/uploads/LosBeekeepers3-min.jpg)
  
 AR: I thought you did well today at the show. How do you feel about the band’s performance? 
  
@@ -54,7 +59,7 @@ AR: Do you think, or has where you’re from kind of affected your music?
  
 AH: Yeah, definitely. Our newest album, “Total Bummer,” is more personal and about relationships that I’ve been in. But our first album, “Growing Up Grizzly,” has a lot of songs about my family, but there’s also a lot of things that are really, allusions to growing up in Stockton. Some songs, like “The Wrath of Man,” which we played tonight, is about growing up in Stockton and the house I grew up in, my parents selling that house, and the emotions that have to do with that. So, Stockton has affected us, and I love telling people I’m from Stockton, because I’ve always loved being from here—the good and the bad, you know? You have to take it for what it is and sometimes it’s really hard to deal with the bad things in Stockton, or in the past when the music scene wasn’t really that great and people weren’t coming out to shows. That was really hard. But I’ve actually found that since I’ve moved away, I find myself coming back a lot. People here are so much more excited and interested in music and the arts than they were six years ago.
  
-[insert image]
+![LosBeekeepers4-min.jpg](/uploads/LosBeekeepers4-min.jpg)
 
 AR: So what’s next for Los Beekeepers? What do you hope for the future?
  
@@ -62,12 +67,7 @@ AH: We released our album digitally. We’re gonna have cassette tapes of the al
 
 [embed second audio clip]
 
-Los Beekeepers is scattered all over the interwebs. Check them out on their Facebook, follow them on Instagram, and listen to their music on Spotify and Soundcloud. Los Beekeepers is passionate about creating music and sharing it with everyone around them. They’re always looking for new shows to play at too, so if you want them to perform for your event, let ‘em know! Their email is...
+Los Beekeepers is scattered all over the interwebs. Check them out on their [Facebook](https://www.facebook.com/losbeekeepers/), follow them on [Instagram](https://www.instagram.com/losbeekeepers/?hl=en), and listen to their music on [Spotify](https://open.spotify.com/artist/49tgukqUFSOie2JlxCTlLH) and [Soundcloud](https://soundcloud.com/losbeekeepers). Los Beekeepers is passionate about creating music and sharing it with everyone around them. They’re always looking for new shows to play at too, so if you want them to perform for your event, let 'em know!
 
-Facebook  
- 
-Instagram
- 
-Soundcloud
 
 
