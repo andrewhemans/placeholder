@@ -28,6 +28,7 @@ We used to have a different name—we used to be called The Yankee Racers, and t
 I decided to book a show under a different band name, and I chose “Los Beekeepers” because there’s a [beekeeping] club in that same movie Rushmore, the Rushmore Beekeepers—their logo is the bee, and then “Los” because I didn’t want to be like “The Beekeepers” or anything like that. So just something a little different. We actually recorded two albums. The first one is called “[Growing Up Grizzly](https://open.spotify.com/album/5YcP8BEed4EpYZl47HImqj),” which is on Spotify as well [as “Total Bummer” which is our newest album.]
  
 ![LosBeekeepers2-min.jpg](/uploads/LosBeekeepers2-min.jpg)
+*Los Beekeepers live at Blackwater. Photo by Jonathan Jennings.*
 
 **AR: What is your songwriting process like? How does the band go about writing music and then recording it?**
  
@@ -50,9 +51,11 @@ This is my hobby. This is my passion. This is what I do to unwind from work and 
 you know? That’s all I want.
 
 ![LosBeekeepers1-min.jpg](/uploads/LosBeekeepers1-min.jpg)
+*Total Bummer album artwork. Photography and concept by Andrew Hemans.*
 
 ![LosBeekeepers3-min.jpg](/uploads/LosBeekeepers3-min.jpg)
- 
+*Oscar Mata tracking guitar for "We're All Going To Die" Ben Hirschfield Recording. Photo by Andrew Hemans.*
+
 **AR: I thought you did well today at the show. How do you feel about the band’s performance?**
  
 AH: (laughs) I really miss Mike. I wish we had our lead guitarist. I miss that, and I know that it’s kind of a weird room, and we didn’t do a sound check, so the volume was off on some things. Since I live in Hayward, and the rest of the band lives in Stockton and Lodi, we don’t get to practice as much. My friend Shawn, who I was talking to earlier—I love him and I respect him as a musician, he’s a really good musician—came up to me and said some really nice words to me and that made me feel a lot better. 
