@@ -66,6 +66,7 @@ You know what I mean? A lot of shows I play I’m always like, “That was the w
 AH: Yeah, definitely. Our newest album, “Total Bummer,” is more personal and about relationships that I’ve been in. But our first album, “Growing Up Grizzly,” has a lot of songs about my family, but there’s also a lot of things that are really, allusions to growing up in Stockton. Some songs, like “The Wrath of Man,” which we played tonight, is about growing up in Stockton and the house I grew up in, my parents selling that house, and the emotions that have to do with that. So, Stockton has affected us, and I love telling people I’m from Stockton, because I’ve always loved being from here—the good and the bad, you know? You have to take it for what it is and sometimes it’s really hard to deal with the bad things in Stockton, or in the past when the music scene wasn’t really that great and people weren’t coming out to shows. That was really hard. But I’ve actually found that since I’ve moved away, I find myself coming back a lot. People here are so much more excited and interested in music and the arts than they were six years ago.
  
 ![LosBeekeepers4-min.jpg](/uploads/LosBeekeepers4-min.jpg)
+*Left to right: Mike Gonzales, Andrew Hemans, Oscar Mata, Brandon Morgan. Photo by Abigail Hemans.*
 
 **AR: So what’s next for Los Beekeepers? What do you hope for the future?**
  
