@@ -49,17 +49,17 @@ This is my hobby. This is my passion. This is what I do to unwind from work and 
 
 ![LosBeekeepers3-min.jpg](/uploads/LosBeekeepers3-min.jpg)
  
-AR: I thought you did well today at the show. How do you feel about the band’s performance? 
+*AR: I thought you did well today at the show. How do you feel about the band’s performance?*
  
 AH: (laughs) I really miss Mike. I wish we had our lead guitarist. I miss that, and I know that it’s kind of a weird room, and we didn’t do a sound check, so the volume was off on some things. Since I live in Hayward, and the rest of the band lives in Stockton and Lodi, we don’t get to practice as much. My friend Shawn, who I was talking to earlier—I love him and I respect him as a musician, he’s a really good musician—came up to me and said some really nice words to me and that made me feel a lot better. You never know how good you do until someone else tells you. You know what I mean? A lot of shows I play I’m always like, “That was the worst show I’ve ever played.” So it is what it is, it’s just the emotions of being a musician. You know you’re always your own worst critic.
  
-AR: Do you think, or has where you’re from kind of affected your music?
+*AR: Do you think, or has where you’re from kind of affected your music?*
  
 AH: Yeah, definitely. Our newest album, “Total Bummer,” is more personal and about relationships that I’ve been in. But our first album, “Growing Up Grizzly,” has a lot of songs about my family, but there’s also a lot of things that are really, allusions to growing up in Stockton. Some songs, like “The Wrath of Man,” which we played tonight, is about growing up in Stockton and the house I grew up in, my parents selling that house, and the emotions that have to do with that. So, Stockton has affected us, and I love telling people I’m from Stockton, because I’ve always loved being from here—the good and the bad, you know? You have to take it for what it is and sometimes it’s really hard to deal with the bad things in Stockton, or in the past when the music scene wasn’t really that great and people weren’t coming out to shows. That was really hard. But I’ve actually found that since I’ve moved away, I find myself coming back a lot. People here are so much more excited and interested in music and the arts than they were six years ago.
  
 ![LosBeekeepers4-min.jpg](/uploads/LosBeekeepers4-min.jpg)
 
-AR: So what’s next for Los Beekeepers? What do you hope for the future?
+*AR: So what’s next for Los Beekeepers? What do you hope for the future?*
  
 AH: We released our album digitally. We’re gonna have cassette tapes of the album pretty soon, so we’ll have some physical version. We might get CDs—I’m not sure about that, but we will definitely have vinyl sometime this year; I just don’t know when, so that’s the next big thing for us. And we just want to play a lot of shows anywhere we can, you know Stockton, Bay Area, Sacramento…. I’m kind of writing new stuff, but I’m not really focused on that or worried about it yet. I really want to support this album since we put a lot into it, and we’re really happy with it. And another big exciting thing is Mike, our guitarist, is having a baby in July, so that’s exciting. It’s not really Los Beekeepers related as much but I’m just excited about that and happy for him.
 
