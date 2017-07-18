@@ -8,7 +8,6 @@ author: Ulysses Nemo
 
 Music Selection: “Lost in the World” by Kanye West ft. Bon Iver
 
-<iframe src="https://open.spotify.com/embed/track/2Im64pIz6m0EJKdUe6eZ8r" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 Chapter –
 It’s a tired you can’t sleep off. A pain you can’t massage away. A hunger you can’t eat through. A thirst you can’t drown. A light you can’t see. But it’s there all the same. Unending. Blinding.
