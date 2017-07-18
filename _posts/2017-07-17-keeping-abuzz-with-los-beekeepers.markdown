@@ -11,6 +11,7 @@ tags:
 - Interview
 - Total Bummer
 - Andrew Hemans
+- featured
 image: "/uploads/LosBeekeepers1-min.jpg"
 author: Angie Rodriguez
 description: 'Los Beekeepers'' Andrew Hemans chats with Placeholder about the band''s
