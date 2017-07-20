@@ -20,9 +20,6 @@ description: On a white canvas, in blinding agony, artist Poe streaks up a paint
 author-block: true
 ---
 
-Music Selection: “Lost in the World” by Kanye West ft. Bon Iver
-
-
 Chapter –
 *It’s a tired you can’t sleep off. A pain you can’t massage away. A hunger you can’t eat through. A thirst you can’t drown. A light you can’t see. But it’s there all the same. Unending. Blinding.*
 
