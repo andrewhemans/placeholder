@@ -8,20 +8,25 @@ tags:
 - Fiction
 - Abstract
 - Ulysses Nemo
-- White light
-- Blinding
 - Agony
 - Painting
 - surreal
+- literature
+- short stories
+- Stockton
+- Central Valley
+- mixology
+- oscar wilde
+- justin marsh
+- Artist Spaces
+- art
+- gin recipes
+- gin
 image: "/uploads/Cloudy-dark-bird-min.jpg"
 author: Ulysses Nemo
-description: On a white canvas, in blinding agony, artist Poe streaks up a painting,
-  his best work yet. A work of fiction by Ulysses Nemo.
+description: An artist streaks up a painting borne of agony, his best work yet. A
+  work of fiction by Ulysses Nemo.
 author-block: true
-author-image: "/uploads/Ulysses-Nemo-profile-pic-min.jpg"
-author-bio: Ulysses Nemo is from Los Angeles, and has a bad habit of not reading.
-  He’s barely employable and drinks too much. This story was written in Santa Cruz,
-  CA and the title isn’t aesthetical but true.
 ---
 
 Chapter –
