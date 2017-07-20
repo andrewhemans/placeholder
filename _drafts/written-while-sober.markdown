@@ -12,8 +12,11 @@ tags:
 - Blinding
 - Agony
 - Painting
+- surreal
 image: "/uploads/Cloudy-dark-bird-min.jpg"
 author: Ulysses Nemo
+description: On a white canvas, in blinding agony, artist Poe streaks up a painting,
+  his best work yet. A work of fiction by Ulysses Nemo.
 author-block: true
 ---
 
