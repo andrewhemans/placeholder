@@ -22,6 +22,9 @@ tags:
 - art
 - gin recipes
 - gin
+- placeholder
+- placeholder mag
+- placeholder magazine
 image: "/uploads/Cloudy-dark-bird-min.jpg"
 author: Ulysses Nemo
 description: An artist streaks up a painting borne of agony, his best work yet. A
