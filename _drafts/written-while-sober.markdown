@@ -1,8 +1,17 @@
 ---
 title: Written While Sober
-date: 2017-07-17 22:08:00 -07:00
+date: 2017-07-20 22:08:00 -07:00
 categories:
 - Literature
+tags:
+- Poe
+- Fiction
+- Abstract
+- Ulysses Nemo
+- White light
+- Blinding
+- Agony
+- Painting
 image: "/uploads/Cloudy-dark-bird-min.jpg"
 author: Ulysses Nemo
 author-block: true
