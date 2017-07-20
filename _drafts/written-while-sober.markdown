@@ -68,3 +68,5 @@ It’s fairly easy to paint when you have both hands.
 
 
 *Cover photo by Javier Padilla Reyes*
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
