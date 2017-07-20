@@ -3,7 +3,9 @@ title: Written While Sober
 date: 2017-07-17 22:08:00 -07:00
 categories:
 - Literature
+image: "/uploads/Cloudy-dark-bird-min.jpg"
 author: Ulysses Nemo
+author-block: true
 ---
 
 Music Selection: “Lost in the World” by Kanye West ft. Bon Iver
