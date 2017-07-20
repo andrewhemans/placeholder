@@ -1,6 +1,6 @@
 ---
 title: Written While Sober
-date: 2017-07-20 22:08:00 -07:00
+date: 2017-07-20 14:00:00 -07:00
 categories:
 - Literature
 tags:
