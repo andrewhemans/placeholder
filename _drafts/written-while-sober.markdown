@@ -30,6 +30,10 @@ author: Ulysses Nemo
 description: An artist streaks up a painting borne of agony, his best work yet. A
   work of fiction by Ulysses Nemo.
 author-block: true
+author-image: "/uploads/Ulysses-Nemo-profile-pic-min.jpg"
+author-bio: Ulysses Nemo is from Los Angeles, CA and has a bad habit of not reading.
+  He’s barely employable and drinks too much. This story was written in Santa Cruz,
+  CA and the title isn’t aesthetical, but true.
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255766442&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
