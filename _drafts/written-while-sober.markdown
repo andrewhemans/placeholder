@@ -18,6 +18,10 @@ author: Ulysses Nemo
 description: On a white canvas, in blinding agony, artist Poe streaks up a painting,
   his best work yet. A work of fiction by Ulysses Nemo.
 author-block: true
+author-image: "/uploads/Ulysses-Nemo-profile-pic-min.jpg"
+author-bio: Ulysses Nemo is from Los Angeles, and has a bad habit of not reading.
+  He’s barely employable and drinks too much. This story was written in Santa Cruz,
+  CA and the title isn’t aesthetical but true.
 ---
 
 Chapter –
