@@ -1,17 +1,45 @@
 ---
 title: Written While Sober
-date: 2017-07-17 22:08:00 -07:00
+date: 2017-07-20 14:00:00 -07:00
 categories:
 - Literature
+tags:
+- Poe
+- Fiction
+- Abstract
+- Ulysses Nemo
+- Agony
+- Painting
+- surreal
+- literature
+- short stories
+- Stockton
+- Central Valley
+- mixology
+- oscar wilde
+- justin marsh
+- Artist Spaces
+- art
+- gin recipes
+- gin
+- placeholder
+- placeholder mag
+- placeholder magazine
 image: "/uploads/Cloudy-dark-bird-min.jpg"
 author: Ulysses Nemo
+description: An artist streaks up a painting borne of agony, his best work yet. A
+  work of fiction by Ulysses Nemo.
 author-block: true
+author-image: "/uploads/Ulysses-Nemo-profile-pic-min.jpg"
+author-bio: Ulysses Nemo is from Los Angeles, CA and has a bad habit of not reading.
+  He’s barely employable and drinks too much. This story was written in Santa Cruz,
+  CA and the title isn’t aesthetical, but true.
 ---
 
-Music Selection: “Lost in the World” by Kanye West ft. Bon Iver
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255766442&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Chapter –
+
 *It’s a tired you can’t sleep off. A pain you can’t massage away. A hunger you can’t eat through. A thirst you can’t drown. A light you can’t see. But it’s there all the same. Unending. Blinding.*
 
 Poe sits at the edge of his bed, facing his work desk and the blank canvas on it. It’s well lit, a hard white in his otherwise dark room. How long had he been playing music? Poe searches for his phone on the bed, but he can’t find it. He didn’t have any other clocks, either. Only thing on his nightstand is a bottle of gin, a bottle of pain pills, a leather bound bible that belonged to his mother, and a couple random pens he had found.
@@ -44,3 +72,5 @@ It’s fairly easy to paint when you have both hands.
 
 
 *Cover photo by Javier Padilla Reyes*
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
