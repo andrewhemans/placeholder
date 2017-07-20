@@ -32,9 +32,10 @@ description: An artist streaks up a painting borne of agony, his best work yet. 
 author-block: true
 ---
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255766442&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255766442&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Chapter –
+
 *It’s a tired you can’t sleep off. A pain you can’t massage away. A hunger you can’t eat through. A thirst you can’t drown. A light you can’t see. But it’s there all the same. Unending. Blinding.*
 
 Poe sits at the edge of his bed, facing his work desk and the blank canvas on it. It’s well lit, a hard white in his otherwise dark room. How long had he been playing music? Poe searches for his phone on the bed, but he can’t find it. He didn’t have any other clocks, either. Only thing on his nightstand is a bottle of gin, a bottle of pain pills, a leather bound bible that belonged to his mother, and a couple random pens he had found.
