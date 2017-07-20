@@ -41,3 +41,6 @@ He rolls his wrist for the first time in what feels like a decade, each tiny mov
 “Of course you do,” the gin bottle comments from behind him.
 
 It’s fairly easy to paint when you have both hands.
+
+
+*Cover photo by Javier Padilla Reyes*
