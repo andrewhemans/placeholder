@@ -1,6 +1,22 @@
 ---
 title: "'Stockton Rocks' Leaves No Stone Unturned"
 date: 2017-07-22 13:00:00 -07:00
+categories:
+- Culture
+tags:
+- Stockton
+- California
+- rocks
+- rock painting
+- stockton rocks
+- Artist Spaces
+- Art
+- culture
+- community
+- playground
+- fires
+- family
+- creative
 image: "/uploads/LauraGodiApple.jpg"
 author: Summer Migliori
 description: Painted rocks surge in popularity in Stockton, Calif. Spreading positivity
@@ -12,9 +28,9 @@ author-bio: Summer Migliori is Placeholder's editor in chief. She is a Stockton 
   writing for and editing various publications when she's not tweeting, criticizing
   TV, petting stray cats, or working in philanthropy. She's a firm believer in the
   importance of memes and facts in a post-fact world.
-author-links:
-  Instagram: "@sumomigs"
-  Twitter: "@sumomigs"
+author-links: |-
+  Twitter: @sumomigs
+  Instagram: @sumomigs
 ---
 
 Painted rocks have been popping up in unexpected places across California’s Central Valley.
