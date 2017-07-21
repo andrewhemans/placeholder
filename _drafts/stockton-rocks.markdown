@@ -28,8 +28,8 @@ author-image: "/uploads/Screen%20Shot%202017-07-20%20at%2010.54.35%20PM.png"
 author-bio: |-
   Summer Migliori is Placeholder's editor in chief. She is a Stockton native and a graduate of Media Studies and English at UC Berkeley. Summer can be found writing for and editing various publications when she's not tweeting, criticizing TV, petting stray cats, or working in philanthropy. She's a firm believer in the importance of memes and facts in a post-fact world.
 
-  Twitter: @sumomigs
-  Instagram: @sumomigs
+  <a href="https://www.twitter.com/sumomigs/"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://www.instagram.com/sumomigs/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 ---
 
 Painted rocks have been popping up in unexpected places across California’s Central Valley.
