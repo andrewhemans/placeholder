@@ -70,4 +70,19 @@ For many, hiding the rocks is nearly as fun as finding them. When group members 
 
 ***Special thanks to the wonderful members of Stockton Rocks for sharing their stories and for letting Placeholder Magazine use their photos. Keep spreading that positivity!***
 
+![KristenKiteRock.jpg](/uploads/KristenKiteRock.jpg)
+*Courtesy of Kristen Kite*
+
+![LauraGodiBirch-4d3472.jpg](/uploads/LauraGodiBirch-4d3472.jpg)
+*Courtesy of Laura Godi Birch*
+
+![LucyDemandanteDoll-75ef2d.jpg](/uploads/LucyDemandanteDoll-75ef2d.jpg)
+*Courtesy of Lucy Demandante Doll*
+
+![ShortyMata.jpg](/uploads/ShortyMata.jpg)
+*Courtesy of Shorty Mata*
+
+![VanessaMoreno.jpg](/uploads/VanessaMoreno.jpg)
+*Courtesy of Vanessa Moreno*
+
 
