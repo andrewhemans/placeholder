@@ -4,6 +4,7 @@ date: 2017-07-22 13:00:00 -07:00
 image: "/uploads/LauraGodiApple.jpg"
 author: Summer Migliori
 author-block: true
+author-image: "/uploads/Screen%20Shot%202017-07-20%20at%2010.54.35%20PM.png"
 ---
 
 Painted rocks have been popping up in unexpected places across California’s Central Valley.
