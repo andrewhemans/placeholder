@@ -23,12 +23,9 @@ description: Painted rocks surge in popularity in Stockton, Calif. Spreading pos
   as they pass hands, the rocks bring communities closer together.
 author-block: true
 author-image: "/uploads/Screen%20Shot%202017-07-20%20at%2010.54.35%20PM.png"
-author-bio: Summer Migliori is Placeholder's editor in chief. She is a Stockton native
-  and a graduate of Media Studies and English at UC Berkeley. Summer can be found
-  writing for and editing various publications when she's not tweeting, criticizing
-  TV, petting stray cats, or working in philanthropy. She's a firm believer in the
-  importance of memes and facts in a post-fact world.
-author-links: |-
+author-bio: |-
+  Summer Migliori is Placeholder's editor in chief. She is a Stockton native and a graduate of Media Studies and English at UC Berkeley. Summer can be found writing for and editing various publications when she's not tweeting, criticizing TV, petting stray cats, or working in philanthropy. She's a firm believer in the importance of memes and facts in a post-fact world.
+
   Twitter: @sumomigs
   Instagram: @sumomigs
 ---
