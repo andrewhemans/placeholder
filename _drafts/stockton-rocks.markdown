@@ -1,7 +1,9 @@
 ---
 title: "'Stockton Rocks' Leaves No Stone Unturned"
-date: 2017-07-20 22:32:00 -07:00
+date: 2017-07-22 13:00:00 -07:00
 image: "/uploads/LauraGodiApple.jpg"
+author: Summer Migliori
+author-block: true
 ---
 
 Painted rocks have been popping up in unexpected places across California’s Central Valley.
@@ -16,6 +18,7 @@ Mendiola started the page when her son found a painted rock while vacationing in
  
  
 ![AaronChandler.jpg](/uploads/AaronChandler.jpg)
+*Courtesy of Aaron Chandler*
 
 Every time a group member hides a rock, he or she leaves a part of themselves behind to be embraced by someone in the community. One member created stones of remembrance and recognition for victims of colon cancer, while others leave their own names or memories. Sharing colorful mementos of personal expression brings communities closer, as they come to learn and understand each other through art. 
 
@@ -33,7 +36,4 @@ Painting rocks not only brings people together, but the creative activity has br
  
 For many, hiding the rocks is nearly as fun as finding them. When group members see their rocks posted to the group page, they feel satisfied knowing they’ve brought joy to a fellow Stocktonian’s day. However, elation doesn’t end when a rock is found; for every one rock that is found, one must be hidden. This cycle of hide-and-seek aims to include everyone in on the fun, with an equal opportunity of unearthing a not-so-clandestine art.
 
-
- 
-![NinaWardSmile.jpg](/uploads/NinaWardSmile.jpg)
 
