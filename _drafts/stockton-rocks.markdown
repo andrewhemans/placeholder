@@ -29,10 +29,14 @@ As of July 6, 2017, Stockton has been the setting for [twenty-three homicides](h
 In one heartfelt post, group member Maryann Merritt describes the recent loss of her brother and how an artist left her a token of compassion. The minute she received the call of her brother’s passing, she saw the rock. Merritt writes, “I was so upset at that moment, but [I] reached out to Stockton Rocks, and the artist of this rock made me another one.” A cheerful yellow bee was painted on the front of the rock with the words “Bee Happy.” On the back was a dedication to Merritt’s brother.
  
 ![MaryannMerritt.jpg](/uploads/MaryannMerritt.jpg)
+*Courtesy of Maryann Merritt*
 
 Another poster, Jesse Lopez-Recomio, recounts how a Ghostbusters rock inspired her grandson, who has autism, to take interest in art and rocks. When he saw the rock with the iconic Ghostbusters logo, he was “so excited that he asked me if he could draw it,” Lopez-Recomio writes. Her grandson painted a new rock with the logo and was immensely proud of himself when it was used in a school’s rock hunt. 
 
 Painting rocks not only brings people together, but the creative activity has brought out people’s inventive talents. Designs range from realistic looking fruit, to caricatures of celebrities and cartoons, to Mod Podged magazine clippings and stickers. Others include inspirational sayings for those who need them most. Whenever someone designs a rock, there will often be a message on the back: “Post to Stockton Rocks.”
+
+![NinaWardSmile.jpg](/uploads/NinaWardSmile.jpg)
+*Courtesy of Nina Ward*
  
 For many, hiding the rocks is nearly as fun as finding them. When group members see their rocks posted to the group page, they feel satisfied knowing they’ve brought joy to a fellow Stocktonian’s day. However, elation doesn’t end when a rock is found; for every one rock that is found, one must be hidden. This cycle of hide-and-seek aims to include everyone in on the fun, with an equal opportunity of unearthing a not-so-clandestine art.
 
