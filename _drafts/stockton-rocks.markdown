@@ -40,4 +40,8 @@ Painting rocks not only brings people together, but the creative activity has br
  
 For many, hiding the rocks is nearly as fun as finding them. When group members see their rocks posted to the group page, they feel satisfied knowing they’ve brought joy to a fellow Stocktonian’s day. However, elation doesn’t end when a rock is found; for every one rock that is found, one must be hidden. This cycle of hide-and-seek aims to include everyone in on the fun, with an equal opportunity of unearthing a not-so-clandestine art.
 
+*Cover image courtesy of Laura Godi*
+
+***Special thanks to the wonderful members of Stockton Rocks for sharing their stories and for letting Placeholder Magazine use their photos. Keep spreading that positivity!***
+
 
