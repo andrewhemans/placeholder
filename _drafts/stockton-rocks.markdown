@@ -73,7 +73,7 @@ For many, hiding the rocks is nearly as fun as finding them. When group members 
 ![KristenKiteRock.jpg](/uploads/KristenKiteRock.jpg)
 *Courtesy of Kristen Kite*
 
-![LauraGodiBirch-4d3472.jpg](/uploads/LauraGodiBirch-4d3472.jpg)
+<img src="/uploads/LauraGodiBirch-4d3472.jpg" width="100%"/>
 *Courtesy of Laura Godi Birch*
 
 ![LucyDemandanteDoll-75ef2d.jpg](/uploads/LucyDemandanteDoll-75ef2d.jpg)
@@ -81,6 +81,9 @@ For many, hiding the rocks is nearly as fun as finding them. When group members 
 
 ![ShortyMata.jpg](/uploads/ShortyMata.jpg)
 *Courtesy of Shorty Mata*
+
+![kathyworkman.png](/uploads/kathyworkman.png)
+*Courtesy of Kathy Workman*
 
 ![VanessaMoreno.jpg](/uploads/VanessaMoreno.jpg)
 *Courtesy of Vanessa Moreno*
