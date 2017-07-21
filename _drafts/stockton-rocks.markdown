@@ -82,7 +82,7 @@ For many, hiding the rocks is nearly as fun as finding them. When group members 
 ![ShortyMata.jpg](/uploads/ShortyMata.jpg)
 *Courtesy of Shorty Mata*
 
-![kathyworkman.png](/uploads/kathyworkman.png)
+<img src="/uploads/kathyworkman.png" width="100%"/>
 *Courtesy of Kathy Workman*
 
 ![VanessaMoreno.jpg](/uploads/VanessaMoreno.jpg)
