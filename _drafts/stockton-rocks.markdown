@@ -17,6 +17,8 @@ tags:
 - fires
 - family
 - creative
+- summer migliori
+- featured
 image: "/uploads/LauraGodiApple.jpg"
 author: Summer Migliori
 description: Painted rocks surge in popularity in Stockton, Calif. Spreading positivity
