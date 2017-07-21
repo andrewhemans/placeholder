@@ -74,10 +74,10 @@ For many, hiding the rocks is nearly as fun as finding them. When group members 
 *Courtesy of Kristen Kite*
 
 <img src="/uploads/LauraGodiBirch-4d3472.jpg" width="100%"/>
-*Courtesy of Laura Godi Birch*
+*Courtesy of Laura Godi*
 
 ![LucyDemandanteDoll-75ef2d.jpg](/uploads/LucyDemandanteDoll-75ef2d.jpg)
-*Courtesy of Lucy Demandante Doll*
+*Courtesy of Lucy Demandante*
 
 ![ShortyMata.jpg](/uploads/ShortyMata.jpg)
 *Courtesy of Shorty Mata*
