@@ -17,7 +17,7 @@ author: Angie Rodriguez
 description: 'Los Beekeepers'' Andrew Hemans chats with Placeholder about the band''s
   Central Valley roots and their recent album "Total Bummer," available on Spotify. '
 author-block: true
-author-image: "/uploads/Angie-profile-pic.jpg"
+author-image: "/uploads/Angie-profile-pic-min.jpg"
 author-bio: 'Angie is the Fiction/Non-fiction Editor for Placeholder Magazine. She
   is a native of Stockton, CA and graduated from UC Santa Cruz in 2015 with a B.A.
   in Spanish Studies, and a Minor in Literature. She’s studied abroad in Madrid and
