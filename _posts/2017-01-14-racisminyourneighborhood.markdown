@@ -51,7 +51,7 @@ The FHA explicitly practiced a policy of redlining--methodologically denying or 
 
 Recently, a team of scholars from four universities put together an interactive map titled “Mapping Inequality” which digitized over 150 HOLC’s maps and descriptions in high-resolution. The project, which is hosted by the University of Richmond, overlays these historic maps with a current map of US streets and symbols.
 
-[You can click here to find the interactive maps here.](https://dsl.richmond.edu/panorama/redlining/#loc=8/38.163/-122.426&opacity=0.95)
+[You can find the interactive maps here.](https://dsl.richmond.edu/panorama/redlining/#loc=8/38.163/-122.426&opacity=0.95)
 
 When looking at the site, you can select a city to reveal its historic maps, the rankings, and the reasons why neighborhoods were graded a particular way.
 
