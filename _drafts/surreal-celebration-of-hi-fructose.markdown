@@ -57,8 +57,8 @@ _top right: Gehard Demetz How Do You Feed Spirits? (2012) limewood and acrylic p
 _middle right: Tiffany Bozic Metronome (2007) acrylic on maple panel._
 _bottom right: Audrey Kawasaki It Was You (2014) oil and graphite on wood._
 
-__Where:__ Crocker Art Museum
-__Running until September 17th 2017__
+__Where:__ [Crocker Art Museum](https://www.crockerart.org/)
+__"Hi-Fructose: The First Ten Years" is running until September 17th 2017__
 
 Some more great work from the show:
 ![beth-cavener.jpg](/uploads/beth-cavener.jpg)
