@@ -1,6 +1,6 @@
 ---
 title: Surreal Celebration of Hi-Fructose
-date: 2017-07-25 09:34:00 -07:00
+date: 2017-07-26 09:34:00 -07:00
 categories:
 - Art
 tags:
