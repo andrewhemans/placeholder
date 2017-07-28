@@ -60,12 +60,12 @@ Kawasaki, Bozic, Dettmer, and Demetz are a few of the artists who pulled me into
 
 ![crocker-hi-fructose.jpg](/uploads/crocker-hi-fructose.jpg)
 _From left to right: Brian Dettmer Log 2, (2007) altered book._
-_top right: Gehard Demetz How Do You Feed Spirits? (2012) limewood and acrylic paint._
-_middle right: Tiffany Bozic Metronome (2007) acrylic on maple panel._
-_bottom right: Audrey Kawasaki It Was You (2014) oil and graphite on wood._
+_Top right: Gehard Demetz How Do You Feed Spirits? (2012) limewood and acrylic paint._
+_Middle right: Tiffany Bozic Metronome (2007) acrylic on maple panel._
+_Bottom right: Audrey Kawasaki It Was You (2014) oil and graphite on wood._
 
 __Where:__ [Crocker Art Museum](https://www.crockerart.org/)
-__"Hi-Fructose: The First Ten Years" is running until September 17th 2017__
+__"Hi-Fructose: The First Ten Years" is running until September 17th 2017.__
 
 Some more great work from the show:
 ![beth-cavener.jpg](/uploads/beth-cavener.jpg)
