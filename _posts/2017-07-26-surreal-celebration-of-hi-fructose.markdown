@@ -59,7 +59,7 @@ Kawasaki, Bozic, Dettmer, and Demetz are a few of the artists who pulled me into
 
 
 ![crocker-hi-fructose.jpg](/uploads/crocker-hi-fructose.jpg)
-_from left to right: Brian Dettmer Log 2, (2007) altered book._
+_From left to right: Brian Dettmer Log 2, (2007) altered book._
 _top right: Gehard Demetz How Do You Feed Spirits? (2012) limewood and acrylic paint._
 _middle right: Tiffany Bozic Metronome (2007) acrylic on maple panel._
 _bottom right: Audrey Kawasaki It Was You (2014) oil and graphite on wood._
