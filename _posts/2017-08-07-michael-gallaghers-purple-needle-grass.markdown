@@ -75,7 +75,7 @@ _- OKJ-SKN 716_
 
 **RC: What are some of your influences as an artist?** <br>
 
-MG: Like I said, Ishmael Reed is really good. Roberto Bolano, he’s a Chilean poet that writes surreal poetry but a lot of it is rooted in real life experiences and local folklore. There’s this Spanish poet, [Federico Garcia Lorca](https://www.poemhunter.com/poem/dawn-86/), who is really good, too. Surrealists like [Leonora Carrington](http://www.leocarrington.com/) and Tristan Tzara. Emily Dickinson does hella stuff about nature, and it’s hella symbolic and whatnot. There’s a lot of poems of hers about the moon and certain trees and flowers. I’m also influenced by classical and jazz music, graffiti and skating; these are some of the core things that I translate into my writing. Also, hip-hop! I’m a huge Aesop Rock fan and his wordplay is like candy for writers.. So many words.
+MG: Like I said, Ishmael Reed is really good. Roberto Bolano, he’s a Chilean poet that writes surreal poetry but a lot of it is rooted in real life experiences and local folklore. There’s this Spanish poet, [Federico Garcia Lorca](https://www.poemhunter.com/poem/dawn-86/), who is really good, too. Surrealists like [Leonora Carrington](http://www.leocarrington.com/) and Tristan Tzara. Emily Dickinson does hella stuff about nature, and it’s hella symbolic and whatnot. There’s a lot of poems of hers about the moon and certain trees and flowers. I’m also influenced by classical and jazz music, graffiti and skating; these are some of the core things that I translate into my writing. Also, hip-hop! I’m a huge Aesop Rock fan and his wordplay is like candy for writers...So many words.
 
 
 **RC: What do you hope readers take away out of reading your work in Purple Needle Grass?** <br>
