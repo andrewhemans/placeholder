@@ -24,40 +24,63 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of course it would be. It had been nearly three years since Andrew moved to L.A. and began working ten to twelve hour days, five days a week. His success may have seemed to be produced by hard work and dreams, but only part of that statement was true. Prior to this, he envisioned his life only coming to a few conclusions, and coloring hair was certainly not one.<br>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were other possibilities for how his life might’ve ended up, like the ones that came from growing up in a little Midwestern town and spending summers on Lake Michigan. Then there was Sam. She was definitely a possibility, before he dropped out of Ohio State and drove across the country with her. Once they hit Oklahoma, it was the farthest Andrew had ever been from home. They watched the landscape become parched, and then open up to the water’s edge. However, none of those details even mattered to Andrew anymore. He lived a life far from what he once considered masculine, far from what he thought couldn’t get any lonelier.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following week his mother did not arrive at ten. Glancing back and forth between his wristwatch and his client’s head, Andrew convinced himself nothing was wrong. For as long as he knew his mother, she had been a pragmatic woman. She had long blonde hair and skin that remained tan throughout the change in seasons. Along with Andrew’s younger sister, she raised her children alone in a small apartment that was painted a dull yellow on the outside. It was exactly the type of place that would condition Andrew to come to only one conclusion about his life.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Good Lord," his mother sighed heavily when she rushed in the salon, "I’m so sorry. I took that cab driver all over God’s creation to find this place."<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Good Lord," his mother sighed heavily when she rushed in the salon, "I’m so sorry. I took that cab driver all over God’s creation to find this place."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leanne took over what Andrew was doing. Andrew’s mother was draped with a black robe that had the salon’s emblem stitched above the left breast. When taking her seat, she was given water with fresh mint. Before they could hug, Andrew gave her a quick peck on the cheek and started to sift through her long hair.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After slurping the rest of her drink she said, "You know what people are saying about you sweetie," her face became scrunched, and she glanced around as her voice became quieter, "breaking up with Sam and working at this place?"<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I don’t really care. Besides, Sam broke up with me."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Well there you go," she raised her eyebrows and cleared her throat, setting her empty glass on the vanity. "And I’m not gossiping. I’m making a statement."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mom, your roots have grown in horribly. And your hair has been cut asymmetrically."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Then cut it."<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mom, I don’t *cut*. Only color."<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"God, what the hell was wrong with Sam, leaving you? She had two bachelor’s degrees. Too bad she didn’t have a brain to go with ’em."<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"God, what the hell was wrong with Sam, leaving you? She had two bachelor’s degrees. Too bad she didn’t have a brain to go with ’em."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After six hours, Andrew’s mother’s hair was turned into something that would “grow out nicely.” But Andrew worried if his mother had been polished into someone he didn’t recognize. How many trips did it take for people to visit the salon and turn into identical versions of each other? Andrew wasn’t quite sure. He knew there was a process to follow; that it took time to look into the mirror and see a reflection of L.A. When he got a new client he never knew how long the process would take, but always recognized it once achieved.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A week later Andrew left Los Angeles for New York City after the day ended. Alone, he traveled in the back of a yellow cab to LAX. Leanne told him she'd meet him at the airport. They had worked together for two years and were used to frequent rushed work trips departing late at night. Andrew was lucky enough to maintain relationships with multiple salons, creating a bicoastal client base. His only piece of luggage had been neatly packed since the night before. All day it stayed at his feet while he worked under the clear Los Angeles light. A notebook poked out of its side.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Andrew saw Audrey’s photo on the front display of a bookstore’s magazine rack in LAX; a thick copy of *Vogue* with her name stamped across the bottom. They had known each other back when she still had a day job, when she still fumbled through her words. Yet he still hadn’t seen any of her work. He eyed the photograph of her and the hair he touched so many times, just like so many other clients. It was as if he could feel it, the thin pieces gliding between the spaces of his fingers like silken straw waves. Styled in a white-collared shirt and dark high-waisted pants, she had a look of both seriousness and lightness that lacked any self-doubt. A quiet smile spread over his face. Eager to leave he slid the magazine into his leather bag after he purchased it.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He did not see Leanne until after he was seated on the plane. "I made it!" she exclaimed, plopping down next to him. At five minutes past eleven, they were taxiing and ready for take off. After Leanne asked how many clients were booked for New York, she fell asleep almost immediately.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Four days later they flew back west. He remembered the magazine and fumbled through his bag to find it. Serious reading for Andrew, since moving to L.A., consisted of glances at nutrition labels, or the occasional freeway sign. The article left a sinking feeling in his heart that he was familiar with, but it was never induced in that way. The plane landed smoothly on the ground. Andrew said goodbye to Leanne. He hailed a taxi in the early Los Angeles light. There was something he felt he would never be able to get from the city, a sense of being grounded. Everything in Los Angeles seemed to be perpetually new. And even if it was old, there would be new light that would fall on it the next day. What he felt wasn't sadness, but he knew it was something like it.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following day, Andrew was with another client when Audrey came into the salon for an appointment. Stopping briefly from applying a gloss to a client's head,, he watched her walk in. Abruptly, the lingering grogginess from his trip to New York City had faded. Audrey was noticeably thinner. Her skin was more golden. Andrew thought about the first time he saw her, over-processed hair with bangs cut too high on a pale forehead; the memory she left was always endearing.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initially it was refreshing to look at wild eyebrows, baggy clothes that seemed to cling to uncertainty, and a slightly plump face. But he knew it was inevitable, that she would become groomed, plucked, and thinner. After her third appointment, he saw it. The fabric she wore aimed to make a statement. Her skin looked freshly scrubbed. After six hours of vanity, the light from the windows and skylights had fallen dark. The glow from around the mirror exposed an unexpected self-satisfaction.<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initially it was refreshing to look at wild eyebrows, baggy clothes that seemed to cling to uncertainty, and a slightly plump face. But he knew it was inevitable, that she would become groomed, plucked, and thinner. After her third appointment, he saw it. The fabric she wore aimed to make a statement. Her skin looked freshly scrubbed. After six hours of vanity, the light from the windows and skylights had fallen dark. The glow from around the mirror exposed an unexpected self-satisfaction.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"But fading is inevitable," Andrew said. "Your hair will turn brassy and orange again." He watched her grin disappear as she looked at her reflection. A worried expression spread over her face, and she asked when she should come back. He laughed, "Whenever it bothers you."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the assistants walked Audrey back to where Andrew worked. "Leanne," he pointed to a young woman's head, "Can you finish up this gloss?"<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At that moment he hesitated, standing there in khakis with hair dye stains speckled down his long legs. He began to untie the leather apron hanging loosely around his neck. Despite this, Audrey dutifully sat in the empty chair next to Andrew. Slowly he sipped the espresso one of the assistants set on the table next to them, and he began to study her profile. Licking his thumb, he rubbed it against his forefinger, and with a pinch, glided it down one of her locks. Then he stood behind her as he combed his hand through her hair, grazing the top of her scalp. At this point he usually called Leanne over and told her the verdict, paced around with his hand on his chin and murmured hair dye formulas for her to mix up, which she quickly wrote down. Only then would he tell Audrey how he thought her hair should be colored. Usually Audrey did not say a word; it was as if she did not mind paying to be the vision he wanted her to be.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This time was different. He couldn’t manage to tell her that he read the article in *Vogue* about the latest film she would appear in and her aspirations as a playwright. Dropping out of college left him with a feeling that his life had been permanently misdirected. Coloring hair could never correct this, even if he did charge three hundred dollars just to touch someone's head. When he told Audrey, her cheeks became flushed with a warm pink, and she said, "I would have given you a copy."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next Tuesday she would turn twenty-nine years old. Next month she would go to New York to meet with her literary agent. She wanted to discuss details. After much deliberation her play was being turned into a *film*. Not a movie, but a film. It would be an art house blockbuster. There would be a cameo where Audrey would sit on an open windowsill. Bold letters would appear in the beginning and end, reading, "BASED ON THE PLAY WRITTEN BY AUDREY HEEMSON," on a lit moving screen for just a flash, unknown to the audience sitting in front of it.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"That is, at least how I imagine it," Audrey said. "We will see what happens when I go to New York next week and talk with my agent."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Either way, I’m sure you’ll do great," Andrew concluded.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Do you ever have trouble relating to the people you grew up with?" Audrey said, an audible shift in her focus.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Of course, it's all 'this person is marrying her,' 'new baby' that."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audrey laughed. "Now that's a life that is difficult to imagine." Her face became void of expression, and she squinted into the mirror. "It's more difficult to imagine than getting Botox at twenty-five."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simultaneously, Andrew worked on four other clients while Leanne checked Audrey’s foils and set the timer. Audrey sat with the other clients waiting for the dye to transform their heads. Some were under circular blow dryers, and others were staring blankly out the window. A timer went off and none of the employees were nearby. A silent look of fear passed among them.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Is this okay?" Leanne asked Andrew. She slid the foil off Audrey's hair and wiped it clean.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"It’s not there yet. I said banana. The inside of a banana."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eventually the salon began to clear out. Friday nights were reserved for regulars. While walking into the other room, Andrew caught a glimpse of Audrey staring at him. Initially he knew Audrey assumed he was gay. This was a commonly held prejudice in his profession. Just to pay rent, he created hair that made God jealous.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Towards the end of Audrey’s second appointment, he mentioned that he went on a date with a girl he met at a photoshoot, and then he felt it break. There was a sudden awareness to her actions. Whenever he placed his hand gently on her shoulder or swiveled her chair around so she had nowhere to rest her leg but against his, he felt it. It was like a magnet pulling back.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At this point the music grew louder, some of the stylists and colorists started to dance with each other and make plans for Friday night. An assistant walked up to Audrey and asked if she wanted anything to drink. "We have gin and tonic," she said with a grin. Andrew looked over at Audrey and said they'd take two.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When she returned, Andrew thanked her and asked how she was doing. Gloria was about five-foot-two. Her green eyes were subtle compared to the brightness of her smile.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"It's fine, Andrew."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Bueno?"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Sí," she laughed. "Tell me what you want to say, and I'll translate. How are you doing?"<br>
@@ -66,25 +89,36 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"How do I say 'living the dream?' That’s what I wanna say."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Estoy vivendo en un sueño?" She said it quickly and had a look on her face as if she just ate a sour lemon.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yeah… Estoy vivendo en un sueño." He nodded smoothly as he continued to apply the dye on Audrey’s head. Gloria laughed. Andrew did not realize he had said, "I'm living in a dream."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audrey took the final sip of her drink. Andrew walked over to look at how the color was developing. He let out a roar of a yawn, and Audrey said, "You must be tired."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Do you ever have trouble falling asleep?"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She hesitated. "Sometimes." She let out a brief sigh and leaned back further into her seat. "But only when I concentrate too much. You know—when I start counting days instead of letting them pass by."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He felt the gin wash away any feeling of restraint and he asked, "Do you ever get lonely living by yourself?" After he said it, he realized Sam had been the only other person he had posed that question to. After a few months of living in L.A., they were friendless, struggling to pay the high rent, and he still had anxiety about driving across the six lanes on the freeway. Of course, Sam laughed at the question. Loneliness is not something that is supposed to come with a life on the Golden Coast.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Why did you come out to L.A. anyway, Andrew?" Audrey asked.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He exhaled with a sigh of defeat, "Honestly, because of my ex-girlfriend, Sam." The way he said "ex" was final. Still, he held onto her name for just a little too long.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once Andrew finished the second application of highlights, Audrey stepped outside to smoke a cigarette. As she walked out the door, there was a mane of silver foils around her head that bounced with each step. Just as she walked away Andrew called out, "Feel free to make another drink!"<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Andrew only had two semesters left of college before he decided to leave for L.A. with Sam. She was a year older and about to graduate with a job already lined up. When they arrived, all of their belongings were unpacked within a day. Their modest one-bedroom apartment was settled into within a week. When Andrew got to L.A. he had apprehensions about driving on the busy streets and worried if maybe some people were just meant for different roads. Immediately, he began to look for work. Perhaps it was the vivid uncertainty in his life that pushed him to succeed, but within a few weeks, he enrolled in a beauty college. When he was about to graduate, he landed an assistantship with a top stylist, then about six months later he had his own business card at a Beverly Hills salon.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sam and Andrew’s relationship grew more tenuous the farther west they went. Sam made it easy, though. After work one night, he found a note along with the following month’s rent. As he looked around the apartment he noticed a few of her things missing, like the vase her mother brought back from Spain. Not knowing what to do, he sat in his room in silence tracing the outline of his foot onto the carpet while listening to the traffic roll along the streets of Santa Monica. Eventually he fell asleep, the space next to him cold and empty. The bedroom door was left open.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When he woke around three in the morning his mind had not been wiped clean of deep sleep, and he wondered if it happened at all. He went into the bathroom and brushed his fingers against a towel on the drying rack that was still slightly damp and smelled distinctly of her scent.<br>
 
-*She had two bachelor’s degrees. Too bad she didn’t have a brain to go with 'em.*<br>
+*She had two bachelor’s degrees. Too bad she didn’t have a brain to go with 'em.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Andrew held Audrey’s head while he scrubbed the rest of the lightener off her hair, even though that's what he paid Leanne for. Audrey was a client before he got an assistant, so he had difficulty letting go—at least that’s what he told himself. "I got you," he said when he first washed her hair while her neck was stiff, unwavering. It was said not as a statement, but as consolation. That was three years ago.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But that's not what he thought about. Instead, he focused on the feeling of the nape of her neck and the bubbles that started to collect while he scrubbed her head. Her eyes were closed, a smile widened across her face, droplets of water fell on her cheeks. No one else was in the room, and Andrew said, "I can tell you've been taking good care of your hair."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He wrapped a towel around the ends of her locks and rolled it up into a tight bun on top of her head. Audrey asked, "Do you think I need to get it cut?"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"How many months has it been?" he counted on his fingers. "Nah, you’re fine."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Then I have more free time tonight than expected."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once he turned the blow dryer off, Audrey’s hair fell obediently around her face. Andrew ran the comb through for the final time.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"It’s perfect." Audrey said.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"You always say that."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"And you always tell me that it’s going to fade."<br>
