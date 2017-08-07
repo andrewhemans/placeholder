@@ -46,11 +46,11 @@ MG: Definitely growing up in Stockton, for sure. Even Oakland in some aspects, t
 
 This work is really the opposite of glamorous, ‘cause a lot of it is addressing these negative issues… I wouldn’t see it as inherently negative, though. I think there’s good reason to show people things they don’t want to see sometimes, because then if we don’t show it, then we can’t solve it. The environmental element is important, too, because we are just watching the world around us get fucked over, and I wanted to speak about that. Some of it is like a bad trip, but I wouldn’t say it’s terrifying work. For aesthetic reasons, I wanted to share these perspectives that aren’t really seen or thought of as beautiful. There’s a lot of layered concepts in my work that may not initially be seen, but I love being able to stack multiple meanings in my poetry. I don’t really have a clear structure of when I make poems. I start off with feelings and streams of consciousness and let them form; once they’ve been written, I trim them to make them coherent. 
 
-_our whispering tongues melt_
-_the skin from charred bone_
-_secrets in the ears of leaders_
-_hit like psychic sniper fire_
-_- Guerilla Wordfare_
+_our whispering tongues melt_<br>
+_the skin from charred bone_<br>
+_secrets in the ears of leaders_<br>
+_hit like psychic sniper fire_<br>
+_- Guerilla Wordfare_<br>
 
 **RC: How did you get into writing poetry?**
 MG: Fosho.. I first started writing when I wrote lyrics to a song in the first band I was in, Udder Nonsense. I remember I wrote it and looked up hella words to make it, and people were like, “This was actually really good!” As a kid, I remember being known as a really good reader and writer, and I would write a ton of short stories in my elementary school class. They would give us prompts, and I would write hella crazy stories. The spoken word scene in Stockton really got me going by being involved with the [With Our Words collective](https://www.facebook.com/withourwords/). They helped me take myself seriously as a writer. With the spoken word scene, it wasn’t that it was guaranteed to make you a better writer, but it put writing in front of you every day. You would go to these events and leave super inspired by what someone else recited that night. Later, when I went to California [College for the Arts](https://www.cca.edu/) (CCA) for writing and literature, I was able to read a ton of different genres of work, and it broadened my understanding of what was possible in literature. I studied under master writers at that school, like [Ishmael Reed](http://ishmaelreed.org/), and it was really inspiring.
