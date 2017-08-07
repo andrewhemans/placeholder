@@ -15,6 +15,7 @@ tags:
 - Poet
 - Brave New Voices
 - bay area
+- featured
 image: "/uploads/michael-gallagher.jpg"
 author: Ryan Camero
 description: From the Valley to the Bay, Michael Gallagher's debut collection of poetry
