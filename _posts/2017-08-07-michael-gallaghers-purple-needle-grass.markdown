@@ -65,14 +65,14 @@ MG: Fosho.. I first started writing when I wrote lyrics to a song in the first b
 
 MG: Because I grew up in the Central Valley and moved to Oakland, I often move between the two places. Kinda symbolically as a stream, I’ve been moving back and forth and have been trying to build communications and connections with them. I feel like these places are similar and are part of a larger region, like parts of a brain. Our tributaries are kinda like that. I write a lot about Stockton and Oakland and places between the two. One of my poems, “Abandoned Ships,” was inspired by the Carquinez bridge and San Pablo Bay, which have these [sunken ships](http://www.businessinsider.com/mothball-fleet-of-decaying-ships-off-coast-of-san-francisco-2014-10/#ch-of-the-fleet-that-heiden-photographed-has-already-been-scrapped-this-attack-cargo-ship-the-uss-tulare-was-held-inside-a-larger-mining-barge-in-the-fleet-until-2012-when-it-was-sent-to-be-dismantled-5), and some of them are half-submerged. These are places that no one sees and are kinda bleak-looking. I feel like my poems kinda come in with the tide-- when it comes in is when I write it all down.
 
-_graffiti fungus infects_
-_spreads parasitic spores_
-_over cancerous industries_
-_where homesick riders see inside_
-_exhausted fringe machines_
-_endless rusted guts boil_
-_to synthetic metal bounce_
-_- OKJ-SKN 716_
+_graffiti fungus infects_<br>
+_spreads parasitic spores_<br>
+_over cancerous industries_<br>
+_where homesick riders see inside_<br>
+_exhausted fringe machines_<br>
+_endless rusted guts boil_<br>
+_to synthetic metal bounce_<br>
+_- OKJ-SKN 716_<br>
 
 **RC: What are some of your influences as an artist?** <br>
 
