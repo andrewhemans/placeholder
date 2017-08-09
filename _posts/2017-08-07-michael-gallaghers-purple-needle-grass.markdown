@@ -66,19 +66,12 @@ MG: Fosho.. I first started writing when I wrote lyrics to a song in the first b
 MG: Because I grew up in the Central Valley and moved to Oakland, I often move between the two places. Kinda symbolically as a stream, I’ve been moving back and forth and have been trying to build communications and connections with them. I feel like these places are similar and are part of a larger region, like parts of a brain. Our tributaries are kinda like that. I write a lot about Stockton and Oakland and places between the two. One of my poems, “Abandoned Ships,” was inspired by the Carquinez bridge and San Pablo Bay, which have these [sunken ships](http://www.businessinsider.com/mothball-fleet-of-decaying-ships-off-coast-of-san-francisco-2014-10/#ch-of-the-fleet-that-heiden-photographed-has-already-been-scrapped-this-attack-cargo-ship-the-uss-tulare-was-held-inside-a-larger-mining-barge-in-the-fleet-until-2012-when-it-was-sent-to-be-dismantled-5), and some of them are half-submerged. These are places that no one sees and are kinda bleak-looking. I feel like my poems kinda come in with the tide-- when it comes in is when I write it all down.
 
 _graffiti fungus infects_<br>
-
 _spreads parasitic spores_<br>
-
 _over cancerous industries_<br>
-
 _where homesick riders see inside_<br>
-
 _exhausted fringe machines_<br>
-
 _endless rusted guts boil_<br>
-
 _to synthetic metal bounce_<br>
-
 _- OKJ-SKN 716_<br>
 
 **RC: What are some of your influences as an artist?** <br>
@@ -91,15 +84,10 @@ MG: Like I said, Ishmael Reed is really good. Roberto Bolano, he’s a Chilean p
 MG: I hope that they just listen closer to everyday life, maybe, and find deeper meanings in the ordinary than just surface-level experiences. I hope that they take more notice of the environment around them, the uncontrollable forces of nature… ‘cause it’s not only just the environmental nature, but human nature, too. Lastly, I hope that people read more poetry, or more books in general. I think that poetry is an important art form in society, because it has a lot to do with reflection, whether it’s reflecting about things around you or inside you. That’s important for anyone, regardless of who they are. In still water, you can literally see your reflection. 
 
 _I watch the swirling leaves_
-
 _the currents dancing their number_
-
 _for the theatre of ancient waterways_ 
-
 _is a performance that never fails_
-
 _to ripple the river of souls_
-
 _- Ancient Waterways_
 
 
