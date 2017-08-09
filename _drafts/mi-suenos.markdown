@@ -18,6 +18,8 @@ tags:
 - beauty
 - destruction
 author: Lauren Hook
+description: 'The story of Andrew and Audrey, strangers seeking love in Los Angeles.
+  A work of fiction by Lauren Hook. '
 author-block: true
 author-image: "/uploads/lauren-hook-min.jpg"
 author-bio: Lauren is a writer, and at this moment, most likely dancing to Montreal
