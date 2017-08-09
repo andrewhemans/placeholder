@@ -17,9 +17,13 @@ tags:
 - Los Angeles
 - beauty
 - destruction
+- heartbreak
+- fading color
+- dreams
 author: Lauren Hook
-description: 'The story of Andrew and Audrey, strangers seeking love in Los Angeles.
-  A work of fiction by Lauren Hook. '
+description: 'Living within dreams of California love and beauty, L.A. transplant
+  Andrew finds instead heartbreak and solace through fading color. A work of fiction
+  by Lauren Hook. '
 author-block: true
 author-image: "/uploads/lauren-hook-min.jpg"
 author-bio: Lauren is a writer, and at this moment, most likely dancing to Montreal
@@ -74,7 +78,7 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Four days later they flew back west. He remembered the magazine and fumbled through his bag to find it. Serious reading for Andrew, since moving to L.A., consisted of glances at nutrition labels, or the occasional freeway sign. The article left a sinking feeling in his heart that he was familiar with, but it was never induced in that way. The plane landed smoothly on the ground. Andrew said goodbye to Leanne. He hailed a taxi in the early Los Angeles light. There was something he felt he would never be able to get from the city, a sense of being grounded. Everything in Los Angeles seemed to be perpetually new. And even if it was old, there would be new light that would fall on it the next day. What he felt wasn't sadness, but he knew it was something like it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following day, Andrew was with another client when Audrey came into the salon for an appointment. Stopping briefly from applying a gloss to a client's head,, he watched her walk in. Abruptly, the lingering grogginess from his trip to New York City had faded. Audrey was noticeably thinner. Her skin was more golden. Andrew thought about the first time he saw her, over-processed hair with bangs cut too high on a pale forehead; the memory she left was always endearing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following day, Andrew was with another client when Audrey came into the salon for an appointment. Stopping briefly from applying a gloss to a client's head, he watched her walk in. Abruptly, the lingering grogginess from his trip to New York City had faded. Audrey was noticeably thinner. Her skin was more golden. Andrew thought about the first time he saw her, over-processed hair with bangs cut too high on a pale forehead; the memory she left was always endearing.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initially it was refreshing to look at wild eyebrows, baggy clothes that seemed to cling to uncertainty, and a slightly plump face. But he knew it was inevitable, that she would become groomed, plucked, and thinner. After her third appointment, he saw it. The fabric she wore aimed to make a statement. Her skin looked freshly scrubbed. After six hours of vanity, the light from the windows and skylights had fallen dark. The glow from around the mirror exposed an unexpected self-satisfaction.
 
