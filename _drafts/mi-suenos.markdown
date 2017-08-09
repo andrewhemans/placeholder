@@ -228,6 +228,8 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 
 <div align="center">*</div>
 
+![Mis-Sueños-2-min.jpg](/uploads/Mis-Suen%CC%83os-2-min.jpg)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the beginning, it wasn’t apparent to me. Was I as obvious as the girls who would leave their number along with your tip? Perhaps. After I first went to the salon I was confused because your kindness didn’t make sense to me. There wasn’t any other way I could justify the great deal of care you gave me, other than pity. But then you got in my car, and we drove to Jalama Road.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I never told anyone about you, but they sensed it in my voice. Often, I would think of you when I’d go a day without eating, or when I’d get out of the shower and push my nail bed back further. Then I thought maybe it was something more when I would lie in bed at night. Above the silence, I thought about what your breath might sound like during sleep. But no one finds love in a Beverly Hills salon.
