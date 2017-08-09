@@ -178,6 +178,8 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They headed west. The drinks they had were forgotten about. It didn't occur to Andrew that maybe they shouldn't be driving. As they started down the road, Audrey seemed preoccupied. Finally she said, "I want to go somewhere new."
 
+![Mis-Sueños-1-min.jpg](/uploads/Mis-Suen%CC%83os-1-min.jpg)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They didn’t say much. Instead, they listened to the crash of waves, the buzz of cars, and the music that played through the speakers that only worked in the front of the car. Their bodies slid back and forth across the seats as they sped through the Pacific Coast Highway’s curves.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No barrier stood between the two opposite moving lanes on the highway. Slowly, Audrey drifted into oncoming traffic but quickly corrected herself. Turning to Andrew she smiled, spreading her upper lip as if she found the whole ordeal funny. Her gray tank top exposed small collarbones and a guarded display of how her body shook when amused. She lit a cigarette and turned up the radio, then tightened her grip around the steering wheel. Andrew chuckled too, but not out of amusement; it was something more like resilience.
