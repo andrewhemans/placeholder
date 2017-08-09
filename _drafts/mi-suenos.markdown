@@ -1,6 +1,6 @@
 ---
 title: Mis Sueños
-date: 2017-07-29 22:58:00 -07:00
+date: 2017-08-09 22:58:00 -07:00
 categories:
 - Literature
 tags:
@@ -9,6 +9,14 @@ tags:
 - placeholder mag
 - Mis Sueños
 - Lauren Hook
+- Fiction
+- Love
+- Relationship
+- strangers
+- california
+- Los Angeles
+- beauty
+- destruction
 author: Lauren Hook
 author-block: true
 author-image: "/uploads/lauren-hook-min.jpg"
