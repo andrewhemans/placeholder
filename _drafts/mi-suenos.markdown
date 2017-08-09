@@ -3,6 +3,12 @@ title: Mis Sueños
 date: 2017-07-29 22:58:00 -07:00
 categories:
 - Literature
+tags:
+- placeholder
+- placeholder magazine
+- placeholder mag
+- Mis Sueños
+- Lauren Hook
 author: Lauren Hook
 author-block: true
 author-image: "/uploads/lauren-hook-min.jpg"
@@ -125,17 +131,25 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"What are you doing with the rest of your night?"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We could go on a drive," she said. As she smiled her top teeth rested on her bottom lip.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yeah," he said softly, "I'd like that." Audrey collected her things and took off the salon’s robe. Andrew put his phone in his pocket, grabbed his bag, and told Leanne to finish everyone up. They walked outside, both forgetting that Audrey didn’t pay.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once in Audrey's car, they manually cranked the windows down and turned left on Pico. While admiring the shiny oldness of her car, he ran his finger down the side of the door. "How much did this thing cost?" he asked.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She laughed. "Too much. More than it’s worth," she said, staring ahead, stepping on the brakes at a red light. They lightly screeched under her feet.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They headed west. The drinks they had were forgotten about. It didn't occur to Andrew that maybe they shouldn't be driving. As they started down the road, Audrey seemed preoccupied. Finally she said, "I want to go somewhere new."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They didn’t say much. Instead, they listened to the crash of waves, the buzz of cars, and the music that played through the speakers that only worked in the front of the car. Their bodies slid back and forth across the seats as they sped through the Pacific Coast Highway’s curves.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No barrier stood between the two opposite moving lanes on the highway. Slowly, Audrey drifted into oncoming traffic but quickly corrected herself. Turning to Andrew she smiled, spreading her upper lip as if she found the whole ordeal funny. Her gray tank top exposed small collarbones and a guarded display of how her body shook when amused. She lit a cigarette and turned up the radio, then tightened her grip around the steering wheel. Andrew chuckled too, but not out of amusement; it was something more like resilience.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Behind her, through the window, Andrew watched the ocean, sandy rocks, and horizon. All of it sped by, turning the scenery into a linear gradient with Audrey's profile as a foreground silhouette. He reached for the camera that was in the well-worn bag at his feet. Pointing his camera at Audrey, he focused the lens, and clicked.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sun started to fall, but they kept going. Past Malibu, past the hills with dried grass that looked like straws poked into the thirsty earth, and past the burnt hillside of Point Mugu. The sky gradually turned black. This was the California coast that had not been played over and over again across windshields Andrew has sat behind.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A few hours had passed by the time they hit Lompoc. "You can really see the stars tonight," Andrew said, craning his neck so his face would not be smashed against the windshield.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I'm going to have to get gas soon." Even though it was dark Andrew knew she spoke through grinning lips.<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While she pumped gas into her car, he got out and walked to the edge of the road. Little pieces of gravel were kicked out from under his feet while he checked his phone. After he bought a small bottle of vodka and lemonade from the convenience store, they continued into the night. Andrew poured the vodka into the bottle, and they passed it back and forth. Audrey hit a curb, but the rattle it made was masked by the music and their laughter, and was eventually forgotten.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audrey pressed the turn signal down, and the steering wheel made a slithering noise as it glided over her fingers when they veered left. They had gotten to the point where the highway drifted away from the shore. At first Andrew was worried she was turning into a field. "I wanted to go back towards the coast," she said. "This road will take us to a beach."<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By that point it was eleven o'clock at night. Andrew had never been down Jalama Road. It was winding and woody at times. He found it difficult to keep awake as the car slowly hummed along. Childhood was the last time he felt the lull of a long road trip. Driving slowly, the car’s headlights illuminated groves of live oak trees and tired-looking barns with deep red paint chipping off. The scene was bucolic and reminiscent of his Midwestern youth. The tires rolled over train tracks, and although he couldn't see anything, he felt the road open up. Rolling down his window further, he heard the faint whisper of the coast. He looked over at Audrey and took her hand.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The parking lot was spread out at the edge of the sand. Audrey's eyes were heavy from alcohol and the pull of sleep. Andrew was relieved to no longer hear the hum of the car. A damp breeze blew from the water, and they didn't have anywhere to sleep. Andrew opened his door and walked towards the ocean. The waves were small, and their timing was spaced out. The oil rigs produced a distant glow off the coast, but other than that, only the stars could be seen.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When he returned, Audrey was curled up on the hood of the car using an oversized towel as a blanket. "It's still warm," she said. Andrew got on the car and the warm metal pressed against his back, half of his legs dangling off the edge. "At night, the ocean reminds me of the place between dreams and sleep." There was a weakness in Audrey's voice when she said this, and she appeared to be giving in, as her breath grew shallower.<br>
