@@ -243,3 +243,4 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All I wanted was to look effortless in a photograph. I didn’t know you never learned to swim, or that Lake Michigan never provided you with an opportunity to understand the Pacific undertow. That morning, the early sun rays held on tightly to your eyes. Eventually, though, it would fade. You told me that. The light we see eventually disappears.
 
+*Cover photo by Andrea Careaga*
