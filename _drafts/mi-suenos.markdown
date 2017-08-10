@@ -23,8 +23,8 @@ tags:
 image: "/uploads/Mis-Suen%CC%83os-cover-min.jpg"
 author: Lauren Hook
 description: 'Living within dreams of California love and beauty, L.A. transplant
-  Andrew finds instead heartbreak and solace through fading color. A work of fiction
-  by Lauren Hook. '
+  Andrew finds instead heartbreak, solace, and fading color. A work of fiction by
+  Lauren Hook. '
 author-block: true
 author-image: "/uploads/lauren-hook-min.jpg"
 author-bio: Lauren is a writer, and at this moment, most likely dancing to Montreal
