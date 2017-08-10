@@ -20,10 +20,11 @@ tags:
 - heartbreak
 - fading color
 - dreams
+image: "/uploads/Mis-Suen%CC%83os-cover-min.jpg"
 author: Lauren Hook
 description: 'Living within dreams of California love and beauty, L.A. transplant
-  Andrew finds instead heartbreak and solace through fading color. A work of fiction
-  by Lauren Hook. '
+  Andrew finds instead heartbreak, solace, and fading color. A work of fiction by
+  Lauren Hook. '
 author-block: true
 author-image: "/uploads/lauren-hook-min.jpg"
 author-bio: Lauren is a writer, and at this moment, most likely dancing to Montreal
@@ -185,6 +186,7 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They headed west. The drinks they had were forgotten about. It didn't occur to Andrew that maybe they shouldn't be driving. As they started down the road, Audrey seemed preoccupied. Finally she said, "I want to go somewhere new."
 
 ![Mis-Sueños-1-min.jpg](/uploads/Mis-Suen%CC%83os-1-min.jpg)
+*Photo by Angie Rodriguez*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They didn’t say much. Instead, they listened to the crash of waves, the buzz of cars, and the music that played through the speakers that only worked in the front of the car. Their bodies slid back and forth across the seats as they sped through the Pacific Coast Highway’s curves.
 
@@ -235,6 +237,7 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 <div align="center">*</div>
 
 ![Mis-Sueños-2-min.jpg](/uploads/Mis-Suen%CC%83os-2-min.jpg)
+*Photo by Andrea Careaga*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the beginning, it wasn’t apparent to me. Was I as obvious as the girls who would leave their number along with your tip? Perhaps. After I first went to the salon I was confused because your kindness didn’t make sense to me. There wasn’t any other way I could justify the great deal of care you gave me, other than pity. But then you got in my car, and we drove to Jalama Road.
 
@@ -242,3 +245,4 @@ author-bio: Lauren is a writer, and at this moment, most likely dancing to Montr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All I wanted was to look effortless in a photograph. I didn’t know you never learned to swim, or that Lake Michigan never provided you with an opportunity to understand the Pacific undertow. That morning, the early sun rays held on tightly to your eyes. Eventually, though, it would fade. You told me that. The light we see eventually disappears.
 
+*Cover photo by Andrea Careaga*
