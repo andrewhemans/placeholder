@@ -20,6 +20,7 @@ tags:
 - heartbreak
 - fading color
 - dreams
+image: "/uploads/Mis-Suen%CC%83os-cover-min.jpg"
 author: Lauren Hook
 description: 'Living within dreams of California love and beauty, L.A. transplant
   Andrew finds instead heartbreak and solace through fading color. A work of fiction
