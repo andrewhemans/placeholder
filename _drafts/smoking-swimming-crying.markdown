@@ -21,8 +21,6 @@ author-bio: Aida Lizalde is the Art Programs Coordinator and occasional contribu
   of California at Davis and works as an Art Handler at the Manetti Shrem Museum.
 ---
 
-An insight on Dana Schutz’ exhibition at the Institute of Contemporary Art in Boston.
-
 “Open Casket” (2006)  is a of depiction of [Emmett Till, the 14-year-old black boy who was abducted by two white men, brutally beaten, and murdered in Mississippi in 1955.](http://time.com/4008545/emmett-till-history/) But as I walked through galleries at the [Institute of Contemporary Art, in Boston,](https://www.icaboston.org/) I looked around and noticed the hyper-alert attendants. Most were white, wide-eyed, and dressed in black. A queer brown boy came and switched places with one of them, and as I approached a painting taller than myself, I heard him speaking on his radio. “Someone just left, and they were crying.” I looked at Roman, my curly-haired companion, incredulous. “Did you hear that?!” I said. Indifferent to the controversy, he laughed and confirmed what I’d heard. The tall painting, “Shame” (2017), still glistened. It was recently painted, almost wet, was it created after this year's [Whitney Biennial?](http://whitney.org/Exhibitions/2017Biennial)
 
 Maybe you don’t know Dana Schutz, “Open Casket,” or the scandal surrounding it. [But like the majority of the artists shown at the Whitney,](https://hyperallergic.com/199215/breaking-down-the-demographics-of-the-new-whitney-museums-inaugural-exhibition/) Schutz is white. She grew up in a milky neighborhood near Detroit, earned her MFA from Columbia, and is now based in Brooklyn. > What right does she have, to depict a broken, black body, to portray the unfathomable experience of black people in America?
