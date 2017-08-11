@@ -1,5 +1,5 @@
 ---
-title: Smoking, Swimming, Crying
+title: Smoking, Swimming, Crying; The Struggle of Representation in the Art World
 date: 2017-08-11 10:31:00 -07:00
 categories:
 - Art
