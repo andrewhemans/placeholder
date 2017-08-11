@@ -37,6 +37,7 @@ As I continued through the corridors, it became clearer what Schutz was about â€
 I feel that struggle even while writing this. Who am I to speak on the effects of unwanted white contributions to the black narrative? I am somewhat versed in the art community, I understand oppression and representation as a minority, yet I am not black. 
 
 ![danaschutz3.jpg](/uploads/danaschutz3.jpg)
+*Conflict,* 2017
 
 Dana Schutz was contributing to the narrative by representing a black person who was a victim of a hate crime; social representation and visual representation go hand in hand. Should Schutz use her platform to speak for an event she did not experience tied to a community she does not belong to? 
 
