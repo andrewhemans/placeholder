@@ -14,6 +14,8 @@ tags:
 - police brutality
 image: "/uploads/20170805_153025.jpg"
 author: Aida Lizalde
+description: An insight on Dana Schutz’ exhibition at the Institute of Contemporary
+  Art in Boston.
 author-block: true
 author-image: "/uploads/andres.jpg"
 author-bio: Aida Lizalde is the Art Programs Coordinator and occasional contributor
@@ -39,7 +41,7 @@ I feel that struggle even while writing this. Who am I to speak on the effects o
 
 Dana Schutz was contributing to the narrative by representing a black person who was a victim of a hate crime; social representation and visual representation go hand in hand. Should Schutz use her platform to speak for an event she did not experience tied to a community she does not belong to? 
 
-Even as a Mexican artist and an immigrant, I cannot speak for all Mexican artists, or all immigrants, or all women. I can only make work about my personal experience. I keep this line in my work to stay true to myself and not capitalize from others’ struggle. 
+Even as a Mexican artist and an immigrant, I cannot speak for all Mexican artists, or all immigrants, or all women. I can only make work about my personal experience. I keep this line in my work to stay true to myself and not capitalize from others’ struggle. But artists are not obliged to uphold morality in or through their work. 
 
 ![danaschutz4.jpg](/uploads/danaschutz4.jpg)
 *Smoking, Swimming, Crying,* 2009
