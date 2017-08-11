@@ -59,3 +59,6 @@ Although I found the show compelling and left less apprehensive of her work, non
  
 
 Roman Merino Franco contributed to this article. 
+
+Post Script: 
+I would like to mention that I got into the ICA for free, I would not have payed to see this artist's work. Also I made the choice to use this platform to show Schutz' paintings because looking at them in person gave me a deeper perspective to why she may have painted Emmett Till. 
