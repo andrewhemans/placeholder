@@ -34,7 +34,9 @@ I wanted to understand why she painted Till. I read countless descriptions of he
 ![danaschutz.jpg](/uploads/danaschutz.jpg)
 *Slow Motion Shower*, 2015
  
-As I continued through the corridors, it became clearer what Schutz was about —Discomfort. I realized this staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word. And despite the rawness described by all the art critics, I only reacted to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
+> As I continued through the corridors, it became clearer what Schutz was about —Discomfort. 
+
+I realized this staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word. And despite the rawness described by all the art critics, I only reacted to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
 
 I feel that struggle even while writing this. Who am I to speak on the effects of unwanted white contributions to the black narrative? I am somewhat versed in the art community, I understand oppression and representation as a minority, yet I am not black. 
 
