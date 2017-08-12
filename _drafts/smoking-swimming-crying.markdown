@@ -3,7 +3,6 @@ title: Smoking, Swimming, Crying, Through Identity Politics
 date: 2017-08-14 10:30:00 -07:00
 categories:
 - Art
-- Culture
 tags:
 - identity
 - black lives matter
