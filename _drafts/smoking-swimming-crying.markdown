@@ -15,7 +15,7 @@ tags:
 image: "/uploads/20170805_153025-min.jpg"
 author: Aida Lizalde
 description: 'An insight on Dana Schutz’ exhibition at the Institute of Contemporary
-  Art in Boston, its identity politics and the role of the artist. '
+  Art in Boston, its relationship to identity politics and the role of the artist. '
 author-block: true
 author-image: "/uploads/andres.jpg"
 author-bio: Aida Lizalde is the Art Programs Coordinator and occasional contributor
@@ -56,7 +56,7 @@ I have a tremendous inclination to support disenfranchised and offended groups, 
 
 Regardless of whether a minority group was in the wrong by censoring artworks in a museum, I support them, hoping to ensure power structures move toward equality by assisting minorities to re-gain power over their own representation,. After all, [museums don’t have the best record of just, cultural diversity](https://251d2191a60056d6ba74-1671eccf3a0275494885881efb0852a4.ssl.cf1.rackcdn.com/12223012_daily-links-guerrilla-girls-edition_td17aedb6.jpg).
 
-There are a lot of stereotypes about what artists are. But art has been redefined and expanded so many times that in this age of pluralism and globalization we don’t have to elevate culture, better society or uphold morality. We don’t have to be social justice warriors. Take [Santiago Sierra](http://www.santiago-sierra.com/index_1024.php), who exploits people as an art form. He paid someone to masturbate inside of a cardboard box for ten hours, and paid someone else to be trapped inside a gallery covered with  brick for almost two weeks. He paid poor women to stand facing a wall, and prostitutes to get a line tattooed on their back. Sierra is an exceptional artist, but not in a good versus evil way. It’s more crude, effective, and real. A visceral way to portray his concepts to the world. (1)
+There are a lot of stereotypes about what artists are. But art has been redefined and expanded so many times that in this age of pluralism and globalization we don’t have to elevate culture, better society or uphold morality. We don’t have to be social justice warriors. Take [Santiago Sierra](http://www.santiago-sierra.com/index_1024.php), who exploits people as an art form. He paid someone to masturbate inside of a cardboard box for ten hours, and paid someone else to be trapped inside a gallery covered with  brick for almost two weeks. He paid poor women to stand facing a wall, and prostitutes to get a line tattooed on their back. Sierra is an exceptional artist, but not in a good versus evil way. It’s more crude, effective, and real. A visceral way to portray his concepts to the world. (Schoofs, 2013)
 
 ![danaschutz2-min.jpg](/uploads/danaschutz2-min.jpg)
 *Shame, 2017* 
@@ -65,7 +65,8 @@ Although I found the show compelling and left less apprehensive of her work, non
  
 Roman Merino Franco contributed to this article. 
 
-(1)Schoofs, M. (2013). Santiago Sierra. Skulptur, Fotografie, Film. Köln: Kunsthalle Tübingen.
+Citation:
+Schoofs, M. (2013). Santiago Sierra. Skulptur, Fotografie, Film. Köln: Kunsthalle Tübingen.
 
 Post Script: 
 I would like to mention that I got into the ICA for free. I would not have payed to see this artist's work. Also I made the choice to use this platform to show Schutz' paintings because looking at them in person gave me a deeper perspective to why she may have painted Emmett Till. 
