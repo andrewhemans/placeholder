@@ -62,11 +62,12 @@ There are a lot of stereotypes about what artists are. But art has been redefine
 *Shame, 2017* 
 
 Although I found the show compelling and left less apprehensive of her work, none of my questions about identity and representation were answered. I regret being caught up in it, rather than focusing on the wonderful curation in the surrounding galleries, an incredible array of artists of color, like [Steve McQueen](http://www.thomasdanegallery.com/artists/45-steve-mcqueen/works/), the director of “12 Years a Slave,” and [Nari Ward](http://www.nariwardstudio.com/), who stole the show with [“Naturalization Drawing Table” (2004)](https://www.icaboston.org/events/nari-wards-naturalization-table).
- 
-Roman Merino Franco contributed to this article. 
 
 Citation:
 Schoofs, M. (2013). Santiago Sierra. Skulptur, Fotografie, Film. Köln: Kunsthalle Tübingen.
+
+Roman Merino Franco contributed to this article. 
+All photographs taken by the author. 
 
 Post Script: 
 I would like to mention that I got into the ICA for free. I would not have payed to see this artist's work. Also I made the choice to use this platform to show Schutz' paintings because looking at them in person gave me a deeper perspective to why she may have painted Emmett Till. 
