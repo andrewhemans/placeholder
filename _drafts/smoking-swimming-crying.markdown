@@ -1,5 +1,5 @@
 ---
-title: Smoking, Swimming, Crying, trough Identity Politics
+title: Smoking, Swimming, Crying, Trough Identity Politics
 date: 2017-08-14 10:30:00 -07:00
 categories:
 - Art
