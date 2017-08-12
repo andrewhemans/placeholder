@@ -12,7 +12,7 @@ tags:
 - dana schutez
 - emmett till
 - police brutality
-image: "/uploads/20170805_153025.jpg"
+image: "/uploads/20170805_153025-min.jpg"
 author: Aida Lizalde
 description: An insight on Dana Schutz’ exhibition at the Institute of Contemporary
   Art in Boston.
