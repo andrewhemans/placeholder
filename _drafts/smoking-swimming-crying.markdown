@@ -14,8 +14,8 @@ tags:
 - police brutality
 image: "/uploads/20170805_153025-min.jpg"
 author: Aida Lizalde
-description: An insight on Dana Schutz’ exhibition at the Institute of Contemporary
-  Art in Boston.
+description: 'An insight on Dana Schutz’ exhibition at the Institute of Contemporary
+  Art in Boston, its identity politics and the role of the artist. '
 author-block: true
 author-image: "/uploads/andres.jpg"
 author-bio: Aida Lizalde is the Art Programs Coordinator and occasional contributor
