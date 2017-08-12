@@ -8,10 +8,15 @@ tags:
 - identity
 - black lives matter
 - identity politics
-- art world
-- dana schutez
 - emmett till
 - police brutality
+- Angst
+- contemporary art
+- cigarettes
+- protests
+- Racism
+- Activism
+- dana schutz
 image: "/uploads/20170805_153025-min.jpg"
 author: Aida Lizalde
 description: 'An insight on Dana Schutz’ exhibition at the Institute of Contemporary
