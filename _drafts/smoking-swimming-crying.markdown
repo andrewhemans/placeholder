@@ -66,7 +66,7 @@ There are a lot of stereotypes about what artists are. But art has been redefine
 ![danaschutz2-min.jpg](/uploads/danaschutz2-min.jpg)
 *Shame, 2017* 
 
-Although I found the show compelling and left less apprehensive of her work, none of my questions about identity and representation were answered. I regret being caught up in it, rather than focusing on the wonderful curation in the surrounding galleries, an incredible array of artists of color, like [Steve McQueen](http://www.thomasdanegallery.com/artists/45-steve-mcqueen/works/), the director of “12 Years a Slave,” and [Nari Ward](http://www.nariwardstudio.com/), who stole the show with [“Naturalization Drawing Table” (2004)](https://www.icaboston.org/events/nari-wards-naturalization-table).
+Although I found the show compelling and left less apprehensive of her work, but not necessarily about her intentions and insensitivity. None of my questions about identity and representation were answered. I regret being caught up in it, rather than focusing on the wonderful curation in the surrounding galleries, an incredible array of artists of color, like [Steve McQueen](http://www.thomasdanegallery.com/artists/45-steve-mcqueen/works/), the director of “12 Years a Slave,” and [Nari Ward](http://www.nariwardstudio.com/), who stole the show with [“Naturalization Drawing Table” (2004)](https://www.icaboston.org/events/nari-wards-naturalization-table).
 
 Citation:
 Schoofs, M. (2013). Santiago Sierra. Skulptur, Fotografie, Film. Köln: Kunsthalle Tübingen.
