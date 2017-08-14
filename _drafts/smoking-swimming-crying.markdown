@@ -27,13 +27,13 @@ author-bio: Aida Lizalde is the Art Programs Coordinator and occasional contribu
   of California at Davis and works as an Art Handler at the Manetti Shrem Museum.
 ---
 
-“Open Casket” (2006)  is a of depiction of [Emmett Till, the 14-year-old black boy who was abducted by two white men, brutally beaten, and murdered in Mississippi in 1955.](http://time.com/4008545/emmett-till-history/) But as I walked through galleries at the [Institute of Contemporary Art, in Boston,](https://www.icaboston.org/) I looked around and noticed the hyper-alert attendants. Most were white, wide-eyed, and dressed in black. A chubby, queer, brown boy came and switched places with one of them, and as I approached a painting taller than myself, I heard him speaking on his radio. “Someone just left, and they were crying.” I looked at Roman, my curly-haired companion, incredulous. 
+As I walked through galleries at the [Institute of Contemporary Art](https://www.icaboston.org/), in Boston, I looked around and noticed the hyper-alert attendants. Most were white, wide-eyed, and dressed in black. A chubby, queer, brown boy came and switched places with one of them, and as I approached a painting taller than myself, I heard him speaking on his radio. “Someone just left, and they were crying.” I looked at Roman, my curly-haired companion, incredulous. 
 
 “Did you hear that?!” I said. Indifferent to the controversy, he laughed and confirmed what I’d heard. The tall painting, “Shame” (2017), still glistened. It was recently painted, almost wet, created a decade after the more controversial work that was shown at this year’s [Whitney Biennial.](http://whitney.org/Exhibitions/2017Biennial)
  
-Maybe you don’t know Dana Schutz, “Open Casket,” or the scandal surrounding it. [But like a majority of the artists usually shown at the Whitney](https://hyperallergic.com/199215/breaking-down-the-demographics-of-the-new-whitney-museums-inaugural-exhibition/), Schutz is white. She grew up in a milky neighborhood near Detroit, earned her MFA from Columbia, and is now based in Brooklyn. 
+Maybe you don’t know Dana Schutz, or the scandal surrounding her painting “Open Casket” (2006), a of depiction of [Emmett Till](http://time.com/4008545/emmett-till-history/), the 14-year-old black boy who was abducted by two white men, brutally beaten, and murdered in Mississippi in 1955. Like [a majority of the artists usually shown at the Whitney](https://hyperallergic.com/199215/breaking-down-the-demographics-of-the-new-whitney-museums-inaugural-exhibition/), Schutz is white. She grew up in a milky neighborhood near Detroit, earned her MFA from Columbia, and is now based in Brooklyn. 
 
->What right does she have, to depict a broken, black body, to portray the unfathomable experience of black people in America?
+>What right does she have, to depict a broken, black body, to portray the unfathomable experience of blacks in America?
 
 I wanted to understand why she painted Till. I read countless descriptions of her work and was bombarded with charged words—visceral, grotesque, raw. Till wasn’t the only black icon Schutz painted. The others were pop-stars, sensational interpretations of the black community. She portrayed Jay-Z in an elevator fight, and painted Michael Jackson on the autopsy table. Was Till an attempt to develop empathy, or was this all a stunt for attention, an easy way to further her career through black exploitation?
 
@@ -42,21 +42,22 @@ I wanted to understand why she painted Till. I read countless descriptions of he
  
 > As I continued through the corridors, it became clearer what Schutz was about: Discomfort. 
 
-I realized thi while staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word. And despite the rawness described by all the art critics, I only reacted to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
+As I continued through the corridors, it became clearer what Schutz was about: discomfort. I realized thi while staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word itself. And despite the rawness described by all the art critics, I only reacted emotionally to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
  
 I feel that struggle even while writing this. Who am I to speak on the effects of unwanted white contributions to the black narrative? I am somewhat versed in the art community, I understand oppression and representation as a minority, yet I am not black. 
 
 ![danaschutz4-min.jpg](/uploads/danaschutz4-min.jpg)
 *Conflict,* 2017
 
-Dana Schutz was contributing to the narrative by representing a black person who was a victim of a hate crime; social representation and visual representation go hand in hand. Should Schutz use her platform to speak for an event she did not experience tied to a community she does not belong to? 
+Dana Schutz was contributing to the narrative by representing a black person who was a victim of a hate crime; social representation and visual representation go hand-in-hand. Should Schutz use her platform to speak for an event she did not experience tied to a community to which she does not belong? 
 
-Even as a Mexican artist and an immigrant, I cannot speak for all Mexican artists, or all immigrants, or all women. I can only make work about my personal experience. I keep this line in my work to stay true to myself and not capitalize from others’ struggle. But artists are not obliged to uphold morality in or through their work. 
+Even as a female Mexican artist and an immigrant, I cannot speak for all Mexican artists, or all immigrants, or all women. I can only make work about my personal experience. I keep this line in my work to stay true to myself and not capitalize from others’ struggles. But artists are not obliged to uphold morality in or through their work. 
 
 ![danaschutz3-min.jpg](/uploads/danaschutz3-min.jpg)
 *Smoking, Swimming, Crying,* 2009
 
-I have a tremendous inclination to support disenfranchised and offended groups, rather than privileged, white painters. Earlier this year, I declined a studio visit as a form of low-key resistance. The invited artist was white—an old, male abstract-painter, just like the other 84 percent of guest speakers at the [UC Davis Visiting Artist Lecture Series, since 2011.](http://arts.ucdavis.edu/visiting-artist-lecture-series-previous-years) I am a sculptor and new-media brown female artist, and I also had work that day. I would have sacrificed the income for an artist that somehow I felt some connection with, like [Pia Camil](http://piacamil.me/) or [Sadie Barnette](http://www.sadiebarnette.com/), but not for another old white dude painter. 
+I have a tremendous inclination to support disenfranchised and oppressed groups, rather than privileged, white painters. Earlier this year, I declined a studio visit as a form of low-key resistance. The invited artist was white—an old, male abstract-painter, just like the other 84 percent of guest speakers at the [UC Davis Visiting Artist Lecture Series, since 2011.](http://arts.ucdavis.edu/visiting-artist-lecture-series-previous-years) I would have called into work for meeting with an artist that I felt some connection with, like [Pia Camil](http://piacamil.me/) or [Sadie Barnette](http://www.sadiebarnette.com/), but not for another old white dude painter. 
+
 
 Regardless of whether a minority group was in the wrong by censoring artworks in a museum, I support them, hoping to ensure power structures move toward equality by assisting minorities to re-gain power over their own representation,. After all, [museums don’t have the best record of just, cultural diversity](https://251d2191a60056d6ba74-1671eccf3a0275494885881efb0852a4.ssl.cf1.rackcdn.com/12223012_daily-links-guerrilla-girls-edition_td17aedb6.jpg).
 
@@ -72,6 +73,3 @@ Schoofs, M. (2013). Santiago Sierra. Skulptur, Fotografie, Film. Köln: Kunstha
 
 Roman Merino Franco contributed to this article. 
 All photographs taken by the author. 
-
-Post Script: 
-I would like to mention that I got into the ICA for free. I would not have payed to see this artist's work. Also I made the choice to use this platform to show Schutz' paintings because looking at them in person gave me a deeper perspective to why she may have painted Emmett Till. 
