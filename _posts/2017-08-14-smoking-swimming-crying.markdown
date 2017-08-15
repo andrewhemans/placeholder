@@ -31,7 +31,7 @@ As I walked through galleries at the [Institute of Contemporary Art](https://www
 
 “Did you hear that?!” I said. Indifferent to the controversy, he laughed and confirmed what I’d heard. The tall painting, “Shame” (2017), still glistened. It was recently painted, almost wet, created a decade after the more controversial work that was shown at this year’s [Whitney Biennial.](http://whitney.org/Exhibitions/2017Biennial)
  
-Maybe you don’t know Dana Schutz, or the scandal surrounding her painting “Open Casket” (2006), a of depiction of [Emmett Till](http://time.com/4008545/emmett-till-history/), the 14-year-old black boy who was abducted by two white men, brutally beaten, and murdered in Mississippi in 1955. Like [a majority of the artists usually shown at the Whitney](https://hyperallergic.com/199215/breaking-down-the-demographics-of-the-new-whitney-museums-inaugural-exhibition/), Schutz is white. She grew up in a milky neighborhood near Detroit, earned her MFA from Columbia, and is now based in Brooklyn. 
+Maybe you don’t know Dana Schutz, or the scandal surrounding her painting “Open Casket” (2006), a depiction of [Emmett Till](http://time.com/4008545/emmett-till-history/), the 14-year-old black boy who was abducted by two white men, brutally beaten, and murdered in Mississippi in 1955. Like [a majority of the artists usually shown at the Whitney](https://hyperallergic.com/199215/breaking-down-the-demographics-of-the-new-whitney-museums-inaugural-exhibition/), Schutz is white. She grew up in a milky neighborhood near Detroit, earned her MFA from Columbia, and is now based in Brooklyn. 
 
 >What right does she have, to depict a broken, black body, to portray the unfathomable experience of blacks in America?
 
@@ -42,7 +42,7 @@ I wanted to understand why she painted Till. I read countless descriptions of he
  
 > As I continued through the corridors, it became clearer what Schutz was about: Discomfort. 
 
-As I continued through the corridors, it became clearer what Schutz was about: discomfort. I realized thi while staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word itself. And despite the rawness described by all the art critics, I only reacted emotionally to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
+As I continued through the corridors, it became clearer what Schutz was about: discomfort. I realized this while staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word itself. And despite the rawness described by all the art critics, I only reacted emotionally to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
  
 I feel that struggle even while writing this. Who am I to speak on the effects of unwanted white contributions to the black narrative? I am somewhat versed in the art community, I understand oppression and representation as a minority, yet I am not black. 
 
