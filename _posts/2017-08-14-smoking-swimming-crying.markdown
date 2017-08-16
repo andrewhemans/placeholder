@@ -27,7 +27,7 @@ author-bio: Aida Lizalde is the Art Programs Coordinator and occasional contribu
   of California at Davis and works as an Art Handler at the Manetti Shrem Museum.
 ---
 
-As I walked through galleries at the [Institute of Contemporary Art](https://www.icaboston.org/), in Boston, I looked around and noticed the hyper-alert attendants. Most were white, wide-eyed, and dressed in black. A queer brown boy came and switched places with one of them, and as I approached a painting taller than myself, I heard him speaking on his radio. “Someone just left, and they were crying.” I looked at Roman, my curly-haired companion, incredulous. 
+As I walked through galleries at the [Institute of Contemporary Art](https://www.icaboston.org/) in Boston, I looked around and noticed the hyper-alert attendants. Most were white, wide-eyed, and dressed in black. A queer brown boy came and switched places with one of them, and as I approached a painting taller than myself, I heard him speaking on his radio. “Someone just left, and they were crying.” I looked at Roman, my curly-haired companion, incredulous. 
 
 “Did you hear that?!” I said. Indifferent to the controversy, he laughed and confirmed what I’d heard. The tall painting, “Shame” (2017), still glistened. It was recently painted, almost wet, created a decade after the more controversial work that was shown at this year’s [Whitney Biennial.](http://whitney.org/Exhibitions/2017Biennial)
  
