@@ -57,7 +57,7 @@ Lange Luntao wrote a powerful article of [the destruction of Little Manila in St
 
 
 <img src="/uploads/little-manila-stockton.png" width="100%"/>
-*In this image, you can see the construction of the Crosstown Freeway cutting through what was left of Little Manila (in yellow), Chinatown, and other historically diverse areas of Stockton.*
+*In this image from the 70s, you can see the construction of the Crosstown Freeway cutting through what was left of Little Manila (in yellow), Chinatown, and other historically diverse areas of Stockton.*
 
 Eventually, the passing of the [Fair Housing Act of 1968](https://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/progdesc/title8) at the height of the Civil Rights movement put an end to the policies and institutions that were explicitly discriminating against people of color in housing. 
 
