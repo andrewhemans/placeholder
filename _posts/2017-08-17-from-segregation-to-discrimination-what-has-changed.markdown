@@ -1,6 +1,6 @@
 ---
-title: From Segregation to Discrimination, What has Changed?
-date: 2017-08-17 18:38:00 -07:00
+title: What has Changed? From Segregation to Discrimination
+date: 2017-08-17 06:38:00 -07:00
 categories:
 - Culture
 tags:
@@ -19,8 +19,12 @@ tags:
 - epa
 - CalEnviroScreen
 - environmental justice issues
+- featured
 image: "/uploads/stockton-redlining-cover.jpg"
 author: Javier Padilla Reyes
+description: The most polluted neighborhoods in California are in the Central Valley,
+  how did we get here? Who lives there and why? Find out through these interactive
+  maps.
 author-block: true
 author-image: "/uploads/javier%20bio.JPG"
 author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockton,
@@ -67,9 +71,8 @@ Although most of it is destroyed, the areas where Little Manila once existed are
 
 Of the top ten most polluted and socioeconomically burdened census tracts, [seven are in the Central Valley](https://oehha.ca.gov/media/downloads/calenviroscreen/document/ces3results.xlsx), the majority of which are located in Fresno and Stockton.
 
-I created the following slider to show the relationship of redlining and these newly created maps. On the left are the redlining maps from the 30s and 40s, which impeded investment on communities of color (in red). The green and blue areas are the “most desirable.” On the right is a map from CalEnviroScreen, a science-based tool prepared by CalEPA’s Office of Environmental Health Hazard Assessment (OEHHA). The mapping tool uses environmental, health, and socioeconomic information to produce scores for every census tract in the state to compare different communities in a more equitable manner. Over 20 indicators contribute to this tool including ozone pollution, groundwater contamination, pesticides, traffic, asthma rates, education level, language isolation, and more. 
-
-Essentially, a red area with a high score experiences a much higher pollution and socioeconomic burden than green areas with low scores.
+**Map Legend**
+I created the following slider to show the relationship of redlining and these newly created maps. On the left are the redlining maps from the 30s and 40s, which impeded investment on communities of color (highlighted in red). The green and blue areas are the “most desirable.” On the right is a map from CalEnviroScreen, a science-based tool prepared by CalEPA’s Office of Environmental Health Hazard Assessment (OEHHA). The mapping tool uses environmental, health, and socioeconomic information to produce scores for every census tract in the state to compare different communities in a more equitable manner. Over 20 indicators contribute to this tool including ozone pollution, groundwater contamination, pesticides, traffic, asthma rates, education level, language isolation, and more. Essentially, a red area with a high score experiences a much higher pollution and socioeconomic burden than green areas with low scores.
 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="570" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=67166a4e-7886-11e7-b5f8-0edaf8f81e27"></iframe>
