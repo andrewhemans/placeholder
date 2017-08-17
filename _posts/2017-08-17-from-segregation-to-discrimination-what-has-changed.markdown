@@ -57,7 +57,7 @@ Lange Luntao wrote a powerful article of [the destruction of Little Manila in St
 
 
 <img src="/uploads/little-manila-stockton.png" width="100%"/>
-*In this image, you can see the construction of the Crosstown Freeway cutting through what was left of Little Manila (in yellow), Chinatown, and other historically diverse areas of Stockton.*
+*In this image from the 70s, you can see the construction of the Crosstown Freeway cutting through what was left of Little Manila (in yellow), Chinatown, and other historically diverse areas of Stockton.*
 
 Eventually, the passing of the [Fair Housing Act of 1968](https://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/progdesc/title8) at the height of the Civil Rights movement put an end to the policies and institutions that were explicitly discriminating against people of color in housing. 
 
@@ -74,18 +74,18 @@ Of the top ten most polluted and socioeconomically burdened census tracts, [seve
 **Map Legend**
 I created the following slider to show the relationship of redlining and these newly created maps. **On the left** are the redlining maps from the 30s and 40s, which impeded investment on communities of color (highlighted in red). The green and blue areas are the “most desirable.” **On the right** is a map from CalEnviroScreen, a science-based tool prepared by CalEPA’s Office of Environmental Health Hazard Assessment (OEHHA). The mapping tool uses environmental, health, and socioeconomic information to produce scores for every census tract in the state to compare different communities in a more equitable manner. Over 20 indicators contribute to this tool including ozone pollution, groundwater contamination, pesticides, traffic, asthma rates, education level, language isolation, and more. 
 
-*Essentially, a red area with a high score experiences a much higher pollution and socioeconomic burden than green areas with low scores.*
+Essentially, a red area with a high score experiences a much higher pollution and socioeconomic burden than green areas with low scores.
 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="570" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=67166a4e-7886-11e7-b5f8-0edaf8f81e27"></iframe>
-*Sacramento’s West End continues to be disproportionately polluted and socioeconomically burdened places in California. East Sacramento, Land Park, Curtis Park, and Arden Village (not pictured) are all some of the least polluted and expensive places in Sacramento as well as least racially diverse, with over two-thirds of the population being white.*
+Sacramento’s West End continues to be disproportionately polluted and socioeconomically burdened places in California. East Sacramento, Land Park, Curtis Park, and Arden Village (not pictured) are all some of the least polluted and expensive places in Sacramento as well as least racially diverse, with over two-thirds of the population being white.
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="570" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=33ecf728-7881-11e7-b5f8-0edaf8f81e27"></iframe>
-*Stockton’s downtown is home to two of the ten most polluted neighborhoods in the State (outlined in blue). Both are at the crossroads of the Crosstown Freeway and I-5. Some of the more affluent neighborhoods in Stockton have retained their status since the 30s, South of University of the Pacific (UOP), around American Legion, East of Victory Park, Brookside, Spanos (not pictured), and Lincoln. Although Stockton is predominantly Hispanic, those neighborhoods are the least racially mixed. South of UOP is the only census tract with a slight majority white population in Stockton.*
+Stockton’s downtown is home to two of the ten most polluted neighborhoods in the State (outlined in blue). Both are at the crossroads of the Crosstown Freeway and I-5. Some of the more affluent neighborhoods in Stockton have retained their status since the 30s, South of University of the Pacific (UOP), around American Legion, East of Victory Park, Brookside, Spanos (not pictured), and Lincoln. Although Stockton is predominantly Hispanic, those neighborhoods are the least racially mixed. South of UOP is the only census tract with a slight majority white population in Stockton.
 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="570" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=7a0dfa90-78a4-11e7-b5f8-0edaf8f81e27"></iframe>
-*Fresno claims half of the ten most burdened communities in California (outlined in blue). Here you can see most of the city in red, with the least burdened neighborhoods further north and east, away from the city center. Zooming out on the image below, places like Clovis, Gordon, North & Southeast Growth Area, Bullard are some of the suburbs that continue to expand Fresno’s borders. These suburbs have the highest real estate value, least amount of pollution, and whitest population (nearly 80% in some places).*
+Fresno claims half of the ten most burdened communities in California (outlined in blue). Here you can see most of the city in red, with the least burdened neighborhoods further north and east, away from the city center. Zooming out on the image below, places like Clovis, Gordon, North & Southeast Growth Area, Bullard are some of the suburbs that continue to expand Fresno’s borders. These suburbs have the highest real estate value, least amount of pollution, and whitest population (nearly 80% in some places).
 
 Don’t take my word for it, [explore the redlining maps here](https://dsl.richmond.edu/panorama/redlining/#loc=4/36.71/-96.93&opacity=0.8), or [check out CalEnviroScreen for yourself](https://oehha.maps.arcgis.com/apps/webappviewer/index.html?id=4560cfbce7c745c299b2d0cbb07044f5).
 
