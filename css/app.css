@@ -625,6 +625,10 @@ blockquote, blockquote p {
 	padding-top: 4px;
 }
 
+.non-profit p {
+	font-size: .75em;
+	margin-bottom: 0;
+}
 
 @media screen and (max-width: 63.9375em) {
 	.footer-bottom {
