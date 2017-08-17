@@ -72,7 +72,7 @@ I created the following slider to show the relationship of redlining and these n
 Essentially, a red area with a high score experiences a much higher pollution and socioeconomic burden than green areas with low scores.
 
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="950" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=67166a4e-7886-11e7-b5f8-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="570" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=67166a4e-7886-11e7-b5f8-0edaf8f81e27"></iframe>
 *Sacramento’s West End continues to be disproportionately polluted and socioeconomically burdened places in California. East Sacramento, Land Park, Curtis Park, and Arden Village (not pictured) are all some of the least polluted and expensive places in Sacramento as well as least racially diverse, with over two-thirds of the population being white.*
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="950" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=33ecf728-7881-11e7-b5f8-0edaf8f81e27"></iframe>
