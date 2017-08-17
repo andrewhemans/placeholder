@@ -74,7 +74,7 @@ Of the top ten most polluted and socioeconomically burdened census tracts, [seve
 **Map Legend**
 I created the following slider to show the relationship of redlining and these newly created maps. **On the left** are the redlining maps from the 30s and 40s, which impeded investment on communities of color (highlighted in red). The green and blue areas are the “most desirable.” **On the right** is a map from CalEnviroScreen, a science-based tool prepared by CalEPA’s Office of Environmental Health Hazard Assessment (OEHHA). The mapping tool uses environmental, health, and socioeconomic information to produce scores for every census tract in the state to compare different communities in a more equitable manner. Over 20 indicators contribute to this tool including ozone pollution, groundwater contamination, pesticides, traffic, asthma rates, education level, language isolation, and more. 
 
-*Essentially, a red area with a high score experiences a much higher pollution and socioeconomic burden than green areas with low scores.*
+Essentially, a red area with a high score experiences a much higher pollution and socioeconomic burden than green areas with low scores.
 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="570" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=67166a4e-7886-11e7-b5f8-0edaf8f81e27"></iframe>
