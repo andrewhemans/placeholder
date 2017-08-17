@@ -51,7 +51,8 @@ Shortly after, the construction of the Interstate Highway System became the scal
 
 Lange Luntao wrote a powerful article of [the destruction of Little Manila in Stockton](http://www.placeholdermag.com/culture/2014/09/03/a-city-with-no-center.html), once home to the largest population of Filipinos outside of the Philippines. All that is left of the neighborhood and its memories is a stretch of concrete that connects I-5 with 99 called the Crosstown Freeway. This historically rich and diverse community was destroyed for the sake of convenience. The story is nearly identical in most cities with concentrated communities of color including [Sacramento’s West End](http://explore.regionalchange.ucdavis.edu/CapitalizingEJintheSacRegion.pdf), [West Fresno and its Chinatown](https://www.krisclarke.net/chinatown-and-west-fresno), [San Francisco’s Fillmore](http://hoodline.com/2016/01/how-urban-renewal-destroyed-the-fillmore-in-order-to-save-it), and many others.
 
-![little-manila-stockton.png](/uploads/little-manila-stockton.png)
+
+<img src="/uploads/little-manila-stockton.png" width="100%"/>
 *In this image, you can see the construction of the Crosstown Freeway cutting through what was left of Little Manila (in yellow), Chinatown, and other historically diverse areas of Stockton.*
 
 Eventually, the passing of the [Fair Housing Act of 1968](https://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/progdesc/title8) at the height of the Civil Rights movement put an end to the policies and institutions that were explicitly discriminating against people of color in housing. 
