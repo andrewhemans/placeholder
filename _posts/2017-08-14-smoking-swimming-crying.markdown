@@ -27,7 +27,7 @@ author-bio: Aida Lizalde is the Art Programs Coordinator and occasional contribu
   of California at Davis and works as an Art Handler at the Manetti Shrem Museum.
 ---
 
-As I walked through galleries at the [Institute of Contemporary Art](https://www.icaboston.org/), in Boston, I looked around and noticed the hyper-alert attendants. Most were white, wide-eyed, and dressed in black. A chubby, queer, brown boy came and switched places with one of them, and as I approached a painting taller than myself, I heard him speaking on his radio. “Someone just left, and they were crying.” I looked at Roman, my curly-haired companion, incredulous. 
+As I walked through galleries at the [Institute of Contemporary Art](https://www.icaboston.org/) in Boston, I looked around and noticed the hyper-alert attendants. Most were white, wide-eyed, and dressed in black. A queer brown boy came and switched places with one of them, and as I approached a painting taller than myself, I heard him speaking on his radio. “Someone just left, and they were crying.” I looked at Roman, my curly-haired companion, incredulous. 
 
 “Did you hear that?!” I said. Indifferent to the controversy, he laughed and confirmed what I’d heard. The tall painting, “Shame” (2017), still glistened. It was recently painted, almost wet, created a decade after the more controversial work that was shown at this year’s [Whitney Biennial.](http://whitney.org/Exhibitions/2017Biennial)
  
@@ -42,7 +42,7 @@ I wanted to understand why she painted Till. I read countless descriptions of he
  
 > As I continued through the corridors, it became clearer what Schutz was about: Discomfort. 
 
-As I continued through the corridors, it became clearer what Schutz was about: discomfort. I realized this while staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word itself. And despite the rawness described by all the art critics, I only reacted emotionally to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
+I realized this while staring at “Slow Motion Shower” (2015). But her work didn’t make me uncomfortable, it was more like I was just reading the word itself. And despite the rawness described by all the art critics, I only reacted emotionally to one work, “Smoking, Swimming, Crying” (2009). It was funny, in a terribly relatable, self-deprecating struggle kind of way.
  
 I feel that struggle even while writing this. Who am I to speak on the effects of unwanted white contributions to the black narrative? I am somewhat versed in the art community, I understand oppression and representation as a minority, yet I am not black. 
 
@@ -66,7 +66,7 @@ There are a lot of stereotypes about what artists are. But art has been redefine
 ![danaschutz2-min.jpg](/uploads/danaschutz2-min.jpg)
 *Shame, 2017* 
 
-Although I found the show compelling and left less apprehensive of her work, I did not necessarily feel less so about her intentions and insensitivity. None of my questions about identity and representation were answered. I regret being caught up in it, rather than focusing on the wonderful curation in the surrounding galleries, an incredible array of artists of color, like [Steve McQueen](http://www.thomasdanegallery.com/artists/45-steve-mcqueen/works/), the director of “12 Years a Slave,” and [Nari Ward](http://www.nariwardstudio.com/), who stole the show with [“Naturalization Drawing Table” (2004)](https://www.icaboston.org/events/nari-wards-naturalization-table).
+Although I found the show compelling and left less apprehensive about her work, I did not necessarily feel less so about her intentions and insensitivity. None of my questions about identity and representation were answered. I regret being caught up in it, rather than focusing on the wonderful curation in the surrounding galleries, an incredible array of artists of color, like [Steve McQueen](http://www.thomasdanegallery.com/artists/45-steve-mcqueen/works/), the director of “12 Years a Slave,” and [Nari Ward](http://www.nariwardstudio.com/), who stole the show with [“Naturalization Drawing Table” (2004)](https://www.icaboston.org/events/nari-wards-naturalization-table).
 
 Citation:
 Schoofs, M. (2013). Santiago Sierra. Skulptur, Fotografie, Film. Köln: Kunsthalle Tübingen.
