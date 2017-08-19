@@ -2,7 +2,6 @@
 title: B.R.E.A.D. Backing Resources for Emerging Artists Democratically
 date: 2017-07-19 14:23:00 -07:00
 permalink: bread
-published: false
 image: "/uploads/bread_pita_small.png"
 description: How to apply for BREAD and get $1000 for your community art project!
 ---
