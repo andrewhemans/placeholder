@@ -1,5 +1,5 @@
 ---
-title: bread
+title: B.R.E.A.D. Backing Resources for Emerging Artists Democratically
 date: 2017-08-18 17:02:00 -07:00
 image: "/uploads/bread_pita_small.png"
 ---
