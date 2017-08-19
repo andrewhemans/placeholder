@@ -1,5 +1,5 @@
 ---
-title: B.R.E.A.D. Backing Resources for Emerging Artists Democratically
+title: B.R.E.A.D. Fundraiser
 date: 2017-08-18 17:02:00 -07:00
 image: "/uploads/bread_pita_small.png"
 description: Break BREAD with us! An innovative experience where YOU pick the community
