@@ -2,8 +2,28 @@
 title: B.R.E.A.D. Backing Resources for Emerging Artists Democratically
 date: 2017-08-18 17:02:00 -07:00
 image: "/uploads/bread_pita_small.png"
-description: How to apply for BREAD and get $1000 for your community art project!
+description: Break BREAD with us! An innovative experience where YOU pick the community
+  arts project you want to support. Buy your tickets or learn how to apply for BREAD
+  and get $1000 for your community art project!
 ---
+
+What is B.R.E.A.D.? It's a grant and fundraising experiment. It's a put-your-money-where-your-mouth-is for people who want to see more public art in Stockton. 
+
+BREAD stands for Backing Resources for Emerging Artists Democratically (B.R.E.A.D) and it is our first fundraiser dinner party. Think Shark Tank, but anti-capitalist, democratic, and with a goal of supporting the arts community in Stockton.
+
+**SEPT. 23 | 5PM | STOCKTON**
+
+Come break BREAD with us. The proceeds from ticket sales are used to fund creative projects that feed Stockton arts and culture, as well as Placeholder Magazine’s operations.
+
+Attendees will have a gastronomical experience by LoMade, enjoy refreshments, experience entertainment, and hear presentations from three finalists.
+
+>One ticket = one vote. You will pick the project you support.
+
+Through this democratic system, patrons of the arts will be directly involved in supporting the arts community. We hope to provide a $1000 grant for an original community-based project, helping the proposal become a reality. 
+
+[Purchase your tickets here.](https://www.artful.ly/store/events/12547)
+
+Do you have a community arts project that could use $1,000? Find out how to apply below. **Deadline for proposals Aug. 31**
 
 ## Call for Proposals for B.R.E.A.D.
 
@@ -34,7 +54,7 @@ Share the following materials in a google drive folder or zip file to submission
 *Link to websites/link-in/instagram or anything that may help us get to know you better.
 
 ## Dates and Deadlines:
-**Application Deadline:** August 18th, 2017
+**Application Deadline:** August 31th, 2017
 **Finalists Announced:** September 9th, 2017
 **Fundraiser Dinner:** September 23rd, 2017 5-9pm 
 **Checks mailed to grantee:** October 13th, 2017
