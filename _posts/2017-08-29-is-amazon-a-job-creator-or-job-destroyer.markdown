@@ -27,9 +27,9 @@ description: 'With six warehouses planned for the Central Valley, will Amazon br
 author-block: true
 author-image: "/uploads/Cruz.jpg"
 author-bio: Cruz Arredondo is a Texas-born Stocktonian and organizer for Placeholder
-  Magazine; she loves dogs and is the owner of [@stocktondogs.](https://www.instagram.com/stocktondogs/)
-  Javier Padilla is an Oakland resident and geographer that analyses people, places,
-  trends, and statistics spatially and occasionally writes about them.
+  Magazine; she loves dogs and is the owner of @stocktondogs instagram. Javier Padilla
+  is an Oakland resident and geographer that analyses places, people, trends, and
+  statistics spatially and occasionally writes about them.
 ---
 
 On Aug. 22, 2017, [Amazon announced the coming of a warehouse](http://fox40.com/2017/08/22/amazons-new-stockton-facility-expected-to-create-more-than-1000-full-time-jobs/) to Southside Stockton. Many see this as good news— after all, it’s touted to bring over a thousand jobs to the city. These jobs pay above the minimum wage, include benefits, and require a variety of skillsets. There will be a need for “pickers” and “packers,” but there will also be demand for security guards, drivers, IT specialists, medical services, janitors, and every other type of job needed to fill and operate a 600,000 plus-square-foot warehouse. 
