@@ -18,6 +18,7 @@ tags:
 - robocup 2017
 - Michael Tubbs
 - Agriculture
+- featured
 image: "/uploads/employee.png"
 author: Cruz Arredondo & Javier Padilla
 description: 'With six warehouses planned for the Central Valley, will Amazon bring
