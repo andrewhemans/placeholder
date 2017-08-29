@@ -58,7 +58,7 @@ Large, yellow shelving towers seemed to float towards my station, until I notice
 
 
 ![employee.png](/uploads/employee.png)
-*I nearly turned into a robot. They call these robots Kiva, which were introduced in 2014. The bots reduced the time it would take to fulfill an order from 90 to 15 minutes.*
+*I nearly turned into a robot. They call these robots Kiva, [which were introduced in 2014](https://www.cnet.com/news/meet-amazons-busiest-employee-the-kiva-robot/). The bots reduced the time it would take to fulfill an order from 90 to 15 minutes.*
 
 
 We are not far off when Amazon will replace its fleshy employees for a handsy silicone robot. The company is committed to solving that problem. They just announced their [second annual competition](https://www.robocup2017.org/eng/amazon_robitics.html) in Tokyo where participants will try to solve this problem for a prize of $250,000, in addition to a possible partnership with Amazon. How close are we until we develop robots that can substitute pickers and packers? [About 5 years. ](https://www.wired.com/story/grasping-robots-compete-to-rule-amazons-warehouses/)
