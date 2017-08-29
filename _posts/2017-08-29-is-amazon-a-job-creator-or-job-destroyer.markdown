@@ -65,7 +65,7 @@ We are not far off when Amazon will replace its fleshy employees for a handsy si
 
 
 ![Kiva-robot.jpg](/uploads/Kiva-robot.jpg)
-They’re kind of cute.
+*They’re kind of cute.*
 
 
 Make no mistake, these robots will replace humans just to save us an extra two or three dollars on this bag of [unicorn farts](https://www.amazon.com/Unicorn-Cotton-Unique-Friends-Birthday/dp/B01E9D0OR2). And when that happens, we can only hope that our mentality and economy has adjusted so that we don’t have to compete with robots, but we can improve our quality of life. Or perhaps it’s time for all of us to vote with our dollar, if we want to keep a small business open, maybe we could spare the extra five dollars.
