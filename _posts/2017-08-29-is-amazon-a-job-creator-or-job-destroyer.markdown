@@ -19,7 +19,7 @@ tags:
 - Michael Tubbs
 - Agriculture
 - featured
-image: "/uploads/employee.png"
+image: "/uploads/Kiva-robot.jpg"
 author: Cruz Arredondo & Javier Padilla
 description: 'With six warehouses planned for the Central Valley, will Amazon bring
   good jobs or just a fleet of robots? Having worked in one of these warehouses, we
@@ -38,7 +38,7 @@ In many ways, these jobs will bring some security to residents in Stockton and s
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Breaking news Amazon to bring 1000 jobs to Stockton with a new 600,000 sq ft. facility! <a href="https://twitter.com/hashtag/reinventStockton?src=hash">#reinventStockton</a></p>&mdash; Michael Tubbs (@MichaelDTubbs) <a href="https://twitter.com/MichaelDTubbs/status/900078992601997312">August 22, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-Mayor Michael Tubbs celebrating Amazon bringing 1,000 jobs to southside Stockton. 
+*Mayor Michael Tubbs celebrating Amazon bringing 1,000 jobs to southside Stockton.*
 
 Amazon has nationally out-competed big-box stores (e.g. Sears, Circuit City, Sports Authority, and Borders) and countless mom-and-pop shops. Over [60,000 retail positions were cut](http://www.challengergray.com/press/press-releases/2017-june-job-cut-report-31105-june-cuts-retail-leads) in the first half of 2017 alone. [According to a report from 2016,](http://www.challengergray.com/press/press-releases/2017-june-job-cut-report-31105-june-cuts-retail-leads) “counting all the jobs in Amazon distribution centers, Amazon sales produced a net loss of 222,000 retail jobs (an increase of 29 percent) nationwide.” Not only that, but the closure of physical stores over its digital competitors lead to a loss of property tax, rent rates, and property values.
 
@@ -58,7 +58,7 @@ Large, yellow shelving towers seemed to float towards my station, until I notice
 
 
 ![employee.png](/uploads/employee.png)
-*I nearly turned into a robot. They call these robots Kiva, which were introduced in 2014. The bots reduced the time it would take to fulfill an order from 90 to 15 minutes.*
+*I nearly turned into a robot. They call these robots Kiva, [which were introduced in 2014](https://www.cnet.com/news/meet-amazons-busiest-employee-the-kiva-robot/). The bots reduced the time it would take to fulfill an order from 90 to 15 minutes.*
 
 
 We are not far off when Amazon will replace its fleshy employees for a handsy silicone robot. The company is committed to solving that problem. They just announced their [second annual competition](https://www.robocup2017.org/eng/amazon_robitics.html) in Tokyo where participants will try to solve this problem for a prize of $250,000, in addition to a possible partnership with Amazon. How close are we until we develop robots that can substitute pickers and packers? [About 5 years. ](https://www.wired.com/story/grasping-robots-compete-to-rule-amazons-warehouses/)
