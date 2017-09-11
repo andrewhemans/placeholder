@@ -11,7 +11,7 @@ What is B.R.E.A.D.? It's a grant and fundraising experiment. It's a put-your-mon
 
 BREAD stands for Backing Resources for Emerging Artists Democratically (B.R.E.A.D) and it is our first fundraiser dinner party. Think Shark Tank, but anti-capitalist, democratic, and with a goal of supporting the arts community in Stockton.
 
-**SEPT. 23** | **5PM** | **STOCKTON**
+**SEPT. 23** | **6PM-9PM** | **STOCKTON**
 
 Come break BREAD with us. The proceeds from ticket sales are used to fund creative projects that feed Stockton arts and culture, as well as Placeholder Magazine’s operations.
 
@@ -21,7 +21,7 @@ Attendees will have a gastronomical experience by LoMade, enjoy refreshments, ex
 
 Through this democratic system, patrons of the arts will be directly involved in supporting the arts community. We hope to provide a $1000 grant for an original community-based project, helping the proposal become a reality. 
 
-[Purchase your tickets here.](https://www.artful.ly/store/events/12547)
+>[Purchase your tickets here.](https://www.artful.ly/store/events/12547)
 
 Do you have a community arts project that could use $1,000? Find out how to apply below. **Deadline for proposals Aug. 31**
 
