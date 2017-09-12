@@ -49,14 +49,16 @@ __July 2 2017— Sep 10th 2017__
 [L.A. County Museum of Art](http://www.lacma.org/carne-y-arena#sobre-la-exposicin)  
 Iñárritu is a Mexican artist and director who literally created a virtual reality so people can experience what it feels like to cross the border between Mexico and the U.S.  
     
+    
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cAFhIlQOrqE?rel=0" frameborder="0" allowfullscreen></iframe>   
     
 ## [“Talking to Power / Hablándole al Poder”](http://www.lacma.org/carne-y-arena#sobre-la-exposicin) by Tania Bruguera
 __June 16 2017 — Oct. 29 2017__   
 [Yerba Buena Center for the Arts, San Francisco
 ](http://www.lacma.org/carne-y-arena#sobre-la-exposicin)  
-Bruguera is a political activist and social practice artist who was banned from showing her work in Cuba, her motherland, she will present a series of works and workshops about dismantling or re-distributing power structures.  
+Bruguera is a political activist and social practice artist who was banned from showing her work in Cuba, her motherland, she will present a series of works and workshops about dismantling or re-distributing power structures.   
 
+        
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sbMaJRhlqaA?rel=0" frameborder="0" allowfullscreen></iframe>  
 
 ## [“Radical Women: Latin American Art, 1960–1985”](http://www.lacma.org/carne-y-arena#sobre-la-exposicin)  
@@ -65,9 +67,10 @@ __Sept. 15 2017— Dec. 31, 2017__
 ](http://www.lacma.org/carne-y-arena#sobre-la-exposicin)  
 A survey of over 100 artists from 15 different countries including works in photography, video and other mediums. Includes works by artists like lygia Clark, Ana Mendieta, and Marta Minujin.   
    
+    
 <iframe src="https://player.vimeo.com/video/181671106?color=ffffff&portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
     
-[“BORDERS”, Los Angeles](https://www.facebook.com/events/1387257648054209/)   
+## [“BORDERS”, Los Angeles](https://www.facebook.com/events/1387257648054209/)   
 __Sept. 14, 2017 at 6 PM__   
 [Hosted by FA4 Collective and Cynthia Lujan
 ](https://www.facebook.com/events/1387257648054209/)   
