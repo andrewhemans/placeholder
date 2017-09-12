@@ -22,6 +22,7 @@ tags:
 - Border wall
 - Trump
 - 9/11
+- featured
 image: "/uploads/COVER-what-a-time.jpg"
 author: Aida Lizalde
 description: With the ending of DACA, the orders to build a wall, and the attack on
