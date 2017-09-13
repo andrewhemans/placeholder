@@ -41,8 +41,8 @@ Poetry can be of any length, style, or topic. You may send up to 5 poems at a ti
 
 **Visual Media**
 
-Art and Photography must be sent as .jpeg files (quality of 300 DPI) and must have a description of the work.
-
+Art and Photography must be sent as .jpeg files (quality of 300 DPI) and must have a description of the work.  
+   
 Contributors retain the right to their work. To view our release form, [click here.](https://drive.google.com/file/d/0B02r54Tr7I5qMW5MbTBIQ1lwLTQ/view?usp=sharing)
 
 
