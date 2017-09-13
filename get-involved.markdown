@@ -21,23 +21,30 @@ By opening our organization up to outside submissions, we hope to not only widen
 To submit your work, please email us at [submissions@placeholdermag.com](mailto:submissions@placeholdermag.com) Please include the type of submission in the subject line (Example: Opinion Submission, Photo Submission, Satire Submission, etc.)
 
 We accept submissions for:
-Visual media
-Non-fiction
-Fiction
-Photography
-Videography
+* Visual media
+* Non-fiction
+* Fiction
+* Poetry
+* Photography
+* Videos
 
 **Non Fiction**
 
-Non-fiction includes news articles, opinion pieces, how-to articles, profile and interview pieces, exposés, human interest articles, essays, humor and satire, historical articles, inspirational pieces, research articles, and round-ups. We’re open to a lot. Surprise us!
+Nonfiction includes news articles, opinion pieces, how-to articles, profile and interview pieces, exposés, human interest articles, essays, humor and satire, historical articles, inspirational pieces, research articles, and round-ups. We’re open to a lot. Surprise us!
 
 **Fiction**
 
-Placeholder is open to all narrative styles and forms. Send us your masterpiece. Short stories must be under 6,000 words. Poetry may be sent in as a single or a set (up to 5 poems).
+Placeholder is open to all narrative styles and forms. Send us your masterpiece. Short stories must be under 6,000 words. Poetry may be sent in as a single or a set (up to 5 poems).  
+
+**Poetry**  
+Poetry can be of any length, style, or topic. You may send up to 5 poems at a time.
 
 **Visual Media**
 
-Art and Photography must be sent as .jpeg files (quality of 300 DPI)
+Art and Photography must be sent as .jpeg files (quality of 300 DPI) and must have a description of the work.
+
+Contributors retain the right to their work. To view our release form, [click here.](https://drive.google.com/file/d/0B02r54Tr7I5qMW5MbTBIQ1lwLTQ/view?usp=sharing)
+
 
 <h2 id="intern">Become an Intern</h2>
 
