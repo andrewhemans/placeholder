@@ -850,3 +850,76 @@ blockquote, blockquote p {
 		top: -19px;
 	}
 }
+
+/*Mailing List*/
+
+.reveal {
+	border: none;
+	border-radius: 0;
+	padding: 2rem;
+	background-color: #f9f9f9;
+	background-image: url("/images/flowers.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+#mc_embed_signup_scroll > p {
+	font-family: 'proxima-nova', sans-serif;
+}
+
+.mc-field-group > label {
+	font-family: 'proxima-nova', sans-serif;
+}
+
+.mc-field-group > p {
+	font-family: 'proxima-nova', sans-serif;
+}
+
+.mc-field-group > ul {
+  list-style-type: none;
+	padding: 0;
+	margin: 0;
+	font-family: 'proxima-nova', sans-serif;
+}
+
+[type='text'], [type='password'], [type='date'], [type='datetime'], [type='datetime-local'], [type='month'], [type='week'], [type='email'], [type='number'], [type='search'], [type='tel'], [type='time'], [type='url'], [type='color'],
+textarea {
+	border: 1px solid #d0d0d0;
+	border-radius: 0;
+	box-shadow: none;
+	font-family: 'proxima-nova', sans-serif;
+
+}
+
+.scroll {
+  width: 75px;
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  z-index: 1000;
+	display: none;
+}
+
+.ml-button {
+	border-radius: 50%;
+	background-color: #000000;
+	color: #fff;
+	cursor: pointer;
+	transition: background-color 0.25s ease-out, color 0.25s ease-out;
+	font-size: 0.9rem;
+	padding: 30px 0px;
+}
+
+
+.ml-button:hover, .ml-button:focus {
+  background-color: #333;
+  color: #fff; }
+
+@media print, screen and (min-width: 40em){
+.reveal {
+    width: 420px;
+    max-width: 62.5rem;
+}

@@ -14,3 +14,13 @@ $(function() {
     }
   });
 });
+
+
+$(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 800) {
+    $('.scroll').fadeIn();
+  } else {
+    $('.scroll').fadeOut();
+  }
+});
