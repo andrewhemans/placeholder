@@ -922,4 +922,11 @@ textarea {
 .reveal {
     width: 420px;
     max-width: 62.5rem;
+	}
+}
+
+@media print, screen and (max-width: 39.9375em) {
+	.mailing-button {
+		display: none;
+	}
 }
