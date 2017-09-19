@@ -63,6 +63,6 @@ author-bio: C.T. Walker is a Stockton local and SFSU grad working their way towa
 
 ![stockton-empresso-min-769093.JPG](/uploads/stockton-empresso-min-769093.JPG)
 
-*Photography courtesy of Javier Padilla Reyes*
+*Photos courtesy of Javier Padilla Reyes*
 
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
