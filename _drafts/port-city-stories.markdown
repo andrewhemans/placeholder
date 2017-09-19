@@ -18,6 +18,7 @@ tags:
 - Port City
 - C.T. Walker
 - Mr. Cashmere
+- California
 image: "/uploads/port-city-stories-pic7.jpg"
 author: C.T. Walker
 author-block: true
