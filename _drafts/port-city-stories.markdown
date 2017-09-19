@@ -62,3 +62,7 @@ author-bio: C.T. Walker is a Stockton local and SFSU grad working their way towa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We never spoke of the event to each other, though the toll it took on each of us was obvious. That fall we walked around with deep black bags ever-present beneath our eyes. Our once beloved fields now set the stage for one of our most heinous nightmares. Each remaining missing persons’ poster we passed was a morbid reminder of a distorted face our eyes could never unsee. For months, my dreams were plagued by visions of Mr. Cashmere's bloated face appearing in different settings. Sometimes a vision of his body would appear at swim practice, his figure racing horizontal beneath me as I cut through the water, unable to shake him. I once saw him in my bathtub in a tangled mess of Delta weeds. Eventually the dreams stopped. Spring brought color back to the fields and to our faces, and our misadventure drifted away into our subconsciousness, a dreaded memory of suburban obscurity.
 
 ![stockton-empresso-min-769093.JPG](/uploads/stockton-empresso-min-769093.JPG)
+
+*Photography courtesy of Javier Padilla Reyes*
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
