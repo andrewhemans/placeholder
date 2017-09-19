@@ -34,3 +34,5 @@ PARK(ing) Day was originally designed to help people rethink the meaning of publ
 
 ![parking-day.jpg](/uploads/parking-day.jpg)
 _Garrett Daniells' Des(s)ert: Cornucopia, 2017 taking up all of the parking space._
+
+_Cover image by [Garrett Daniells](https://www.instagram.com/sonofasignman/)_
