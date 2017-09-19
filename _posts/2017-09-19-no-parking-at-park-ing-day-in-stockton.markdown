@@ -1,6 +1,6 @@
 ---
 title: '"No Parking" at PARK(ing) Day in Stockton'
-date: 2017-09-17 20:53:00 -07:00
+date: 2017-09-19 11:07:00 -07:00
 categories:
 - Culture
 tags:
