@@ -25,7 +25,7 @@ For the first time in a long time, I woke up with that little-kid, Christmas mor
 
 I first heard about PARK(ing) Day when I was working for a hotel on 7th and Mission in San Francisco, which is *technically* in SOMA, but it felt a lot more like the Tenderloin. It was considered an undesirable area of the city, mostly because it was industrial, had its fair share of abandoned buildings, and lacked any public space. Our neighbors at Rebar, a design firm and founders of PARK(ing) Day, told us about the event and asked if we wanted to participate. They said PARK(ing) Day was a way to show what’s possible when public space takes the place of parking space. All we needed to do was pay the meter in front of our hotel and use the space to create something interesting. 
 
-[saveourcity-parkingday.JPG](/uploads/saveourcity-parkingday.JPG)
+![saveourcity-parkingday.JPG](/uploads/saveourcity-parkingday.JPG)
 _Spotted on PARK(ing) Day in Stockton_
 
 On the day of the event, we set out a rug, a few chairs, and a coffee table. We also wheeled out the hotel’s photo booth. People that worked in the area stopped in for a chat and those that couldn’t stop at least greeted us with a smile. Hotel employees came out on their break and talked about things besides laundry and obnoxious guests. Many people from the neighborhood appreciated the photo booth—some of them hadn’t seen a picture of themselves in years. 
