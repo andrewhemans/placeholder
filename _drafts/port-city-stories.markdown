@@ -18,6 +18,7 @@ tags:
 - Port City
 - C.T. Walker
 - Mr. Cashmere
+image: "/uploads/stockton-empresso-min.JPG"
 author: C.T. Walker
 author-block: true
 author-image: "/uploads/CT-Walker-profile-pic.png"
