@@ -19,6 +19,13 @@ description: PARK(ing) Day forces viewers and participants to rethink public spa
   Started in San Francisco and now in Stockton.
 author-block: true
 author-image: "/uploads/emily-o.jpg"
+author-bio: After graduating with a BA in American History from UC Santa Cruz, Emily
+  spent many years honing her skills as a Sales and Event Manager with Joie de Vivre
+  Hospitality in San Francisco. From there, she took the lead as the Director of Marketing
+  and Events for the DISPOSABLE FILM FESTIVAL. Emily also ran her own event business
+  in her woodshop/gallery space in the Mission District of SF. She now lives in Stockton
+  with her husband, Jared Rusten, and a big pup and she serves on the board for Placeholder
+  Magazine, SJBC, Third City Coalition, and the Stockton Arts Commission.
 ---
 
 For the first time in a long time, I woke up with that little-kid, Christmas morning feeling. It was Stockton’s first PARK(ing) Day, and I couldn’t wait for the downtown community to wake up and see what awaited them.  
