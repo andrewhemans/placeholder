@@ -18,7 +18,7 @@ tags:
 - Port City
 - C.T. Walker
 - Mr. Cashmere
-image: "/uploads/stockton-empresso-min.JPG"
+image: "/uploads/port-city-stories-pic7.jpg"
 author: C.T. Walker
 author-block: true
 author-image: "/uploads/CT-Walker-profile-pic.png"
@@ -33,6 +33,8 @@ author-bio: C.T. Walker is a Stockton local and SFSU grad working their way towa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stockton, California is the 8th most dangerous city in America; growing up here you learn real quick which parts of town to avoid. At least once a month the news will show reports of a body being found at a local playground, park, or neighborhood. If you manage to make it through high school without knowing someone who got pregnant, joined a gang, or got friendly with some rocks or a needle, then you are either lucky, or your family is from one of the two nice neighborhoods. A man once explained to me that most cities are made up of good, friendly places, with sparse pockets of bad areas that drag down the whole city's reputation. He told me, "Stockton is not one of those places; you need to look very hard to find a nice place around here."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After the housing market took a bad turn in the early 2000s, Stockton was the largest city to ever declare bankruptcy, until 2013 when Detroit stole that title from us. We are home to over 70 gangs that push the drugs on our streets and put the bullets in our storefronts and homes. I've heard stories that our city was once a thriving metropolis — home to a major port, booming businesses, and miles of farmland that supplied the world with fresh produce. If you search hard enough, you can see remnants of that time: an abandoned military base, long empty skyscrapers downtown; they stand tall, serving as the brick and steel headstones for our brief age of industry. Under some of the older homes and buildings lie dormant bomb shelters. Relics from the Red Scare when, as a city, we were considered important enough to be obliterated.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The port bottomed out around the late 50s, but a few of the farms are still here. In the summers, my friends and I would run amok in the fields; we weren’t allowed to play in our front yards for fear of being gunned down or hit by the street racers. Crushing the heads of ripe tomatoes under our faded kicks, we would set off towards adventure: catching lizards, climbing hay bales, and playing hide and seek in the wavy green corn fields. We wouldn't return home until the sun began to sink low over the top of Mt. Diablo. Looking back, it's hard to believe that by making your way around one rickety old fence, you could find yourself so far removed from the grime that seemed to be imbedded in the city. Stockton isn't like most cities where kids are free to safely enjoy their youth. Growing up we had to carve our own lush, safe, little pocket in an otherwise grim concrete existence.<br>
+
+![port-city-stories-pic5-min.jpg](/uploads/port-city-stories-pic5-min.jpg)
  
 <div align="center"><b>The Missing Mr. Cashmere:</b></div>
  
