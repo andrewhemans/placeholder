@@ -20,6 +20,7 @@ tags:
 - California
 - Nostalgia
 - waterways
+- featured
 image: "/uploads/port-city-stories-pic7.jpg"
 author: C.T. Walker
 description: The Delta waterways, Stockton's port, and the city's suburban obscurity
