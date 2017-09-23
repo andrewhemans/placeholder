@@ -7,6 +7,8 @@ description: Break BREAD with us! An innovative experience where YOU pick the co
   and get $1000 for your community art project!
 ---
 
+## BREAD IS SOLD OUT
+
 What is B.R.E.A.D.? It's a grant and fundraising experiment. It's a put-your-money-where-your-mouth-is for people who want to see more public art in Stockton. 
 
 BREAD stands for Backing Resources for Emerging Artists Democratically (B.R.E.A.D) and it is our first fundraiser dinner party. Think Shark Tank, but anti-capitalist, democratic, and with a goal of supporting the arts community in Stockton.
