@@ -57,3 +57,5 @@ A group of community-based organizations in Stockton has started to coalesce aro
 A [public meeting will be held](https://www.eventbrite.com/e/transformative-climate-communities-stockton-meeting-tickets-37769999084) at Stockton’s Civic Auditorium from 6 to 8 p.m. this Tuesday, Sept. 26.    
 
 There will be food, childcare, and translation services available. At this meeting, information on the TCC Program, as well as a proposed planning area based on CalEnviroScreen data, will be presented. As a member of this TCC planning group, and as a resident of Stockton, I urge anyone who may be interested to make a visit to learn more about this program and how it could benefit our community. It is time for our city to “walk the walk” as it pertains to climate change, and ensure that our future investments both protect and empower those who have been left vulnerable to environmental racism and injustice.
+
+_Cover image by [Dave Sizer](https://www.flickr.com/photos/aphid00/7023178457)_
