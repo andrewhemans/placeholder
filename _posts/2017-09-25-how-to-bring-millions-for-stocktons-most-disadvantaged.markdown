@@ -20,7 +20,7 @@ image: "/uploads/dave-sizer-smoke-stack.jpg"
 author: Kristine Williams
 description: Stockton has a chance to receive hundreds of thousands to millions from
   State's Climate Change programs. Kristine Williams explains Cap-and-Trade, Transformative
-  Climate Communities, and tomorrow's public meeting.
+  Climate Communities and how to be involved.
 author-block: true
 author-image: "/uploads/kristine.jpg"
 author-bio: I'm interested in promoting equitable, climate-conscious development in
