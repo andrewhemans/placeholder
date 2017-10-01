@@ -27,6 +27,11 @@ author-bio: " Marion Deutsche Cohen is the author of 26 collections of poetry or
   four grown children, and five grands. Her website is  marioncohen.net"
 ---
 
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { margin-right: none; }
+</style>")
+
 **Great Fear of Death**
 
 I cannot believe my body won’t mind being cremated, and then ashes, scattered or not,<br>
