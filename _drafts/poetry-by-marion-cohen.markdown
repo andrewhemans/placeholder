@@ -27,11 +27,6 @@ author-bio: " Marion Deutsche Cohen is the author of 26 collections of poetry or
   four grown children, and five grands. Her website is  marioncohen.net"
 ---
 
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-a { margin-right: none; }
-</style>")
-
 **Great Fear of Death**
 
 I cannot believe my body won’t mind being cremated, and then ashes, scattered or not,<br>
@@ -42,7 +37,7 @@ I imagine I’ll be in a hospital, having what’s known as a peaceful, painless
 Everyone doing their best for my body — morphine or whatever, maybe massaging<br>
 And loving, even if none of them are my loved or loving ones.<br>
 I hope I don’t think for even a smidgen that all that very best for my body will, once<br>
-dying has become death, turn into the very worst;<br>
+&nbsp;&nbsp;dying has become death, turn into the very worst;<br>
 I cannot believe the sheet over my face won’t suffocate,<br>
 Nor the wheeling of me out of the room won’t frighten<br>
 Nor the rest of it<br>
@@ -51,6 +46,8 @@ Again, I hope, on my deathbed, I forget about all that.<br>
 I’m not forgetting now but I hope I forget later
 Hope I forget lat*est*<br>
 My very latest of all.<br>
+
+![Marion-Cohen-poetry-1.jpg](/uploads/Marion-Cohen-poetry-1.jpg)
 
 **Mousetraps Circa 1940’s**
 
@@ -63,6 +60,8 @@ The mouse scampered out among the wildflowers.<br>
 “’Bye, little mousie,” my father crooned. “Bye bye, mousie.”<br>
 The straight line that the mouse scampered along got longer and longer.<br>
 I guessed it knew where it was going.<br>
+
+![Marion-Cohen-poetry-5.jpg](/uploads/Marion-Cohen-poetry-5.jpg)
 
 **Bangles**
 
@@ -89,7 +88,10 @@ There’s no good position for that arm.<br>
 But that’s only lately.<br>
 Am I getting too old for bangles?<br>
 Do I have to start wearing those twiddly, weak, weightless, insipid, museum-type<br>
-bracelets?<br>
+&nbsp;&nbsp;bracelets?<br>
 
 The kind you can barely see?<br>
 The kind you can barely touch?<br>
+
+
+[marioncohen.net](marioncohen.net)
