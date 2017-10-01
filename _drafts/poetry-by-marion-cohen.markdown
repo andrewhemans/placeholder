@@ -9,6 +9,7 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+image: "/uploads/Marion-Cohen-poetry-3.jpg"
 author: Marion Cohen
 author-block: true
 author-image: "/uploads/Marion-Cohen-bio-pic.jpg"
@@ -26,69 +27,70 @@ author-bio: " Marion Deutsche Cohen is the author of 26 collections of poetry or
   four grown children, and five grands. Her website is  marioncohen.net"
 ---
 
-Great Fear of Death
+**Great Fear of Death**
 
 
-I cannot believe my body won’t mind being cremated, and then ashes, scattered or not,
-Cannot believe my body won’t feel it, won’t have a mind and a con-
-   ciousness to go with it.
-And I wonder whether, on my deathbed, I’ll think about that; I hope I don’t.
-I imagine I’ll be in a hospital, having what’s known as a peaceful, painless dying;
-Everyone doing their best for my body — morphine or whatever, maybe massaging
-And loving, even if none of them are my loved or loving ones.
-I hope I don’t think for even a smidgen that all that very best for my body will, once 
-   dying has become death, turn into the very worst;
-I cannot believe the sheet over my face won’t suffocate,
-Nor the wheeling of me out of the room won’t frighten 
-Nor the rest of it
-The rest of it;
-Again, I hope, on my deathbed, I forget about all that.
+I cannot believe my body won’t mind being cremated, and then ashes, scattered or not,<br>
+Cannot believe my body won’t feel it, won’t have a mind and a con-<br>
+   ciousness to go with it.<br>
+And I wonder whether, on my deathbed, I’ll think about that; I hope I don’t.<br>
+I imagine I’ll be in a hospital, having what’s known as a peaceful, painless dying;<br>
+Everyone doing their best for my body — morphine or whatever, maybe massaging<br>
+And loving, even if none of them are my loved or loving ones.<br>
+I hope I don’t think for even a smidgen that all that very best for my body will, once<br> 
+   dying has become death, turn into the very worst;<br>
+I cannot believe the sheet over my face won’t suffocate,<br>
+Nor the wheeling of me out of the room won’t frighten<br> 
+Nor the rest of it<br>
+The rest of it;<br>
+Again, I hope, on my deathbed, I forget about all that.<br>
 I’m not forgetting now but I hope I forget later
-Hope I forget latest
-My very latest of all.
+Hope I forget lat*est*<br>
+My very latest of all.<br>
 
 
-Mousetraps Circa 1940’s
+**Mousetraps Circa 1940’s**
 
 
-Sometimes my parents heard mice scurrying about in the attic.
-They set traps, the old-fashioned kind — the kind that snap on their tails.
-Whenever one of them worked, my father would put the whole kit-‘n’-caboodle in a paper bag and head for the fields.
-Once he took me with him. I watched him open the bag and then the trap.
-The mouse scampered out among the wildflowers.
-“’Bye, little mousie,” my father crooned. “Bye bye, mousie.”
-The straight line that the mouse scampered along got longer and longer.
-I guessed it knew where it was going.
+Sometimes my parents heard mice scurrying about in the attic.<br>
+They set traps, the old-fashioned kind — the kind that snap on their tails.<br>
+Whenever one of them worked, my father would put the whole kit-‘n’-caboodle in a<br> 
+paper bag and head for the fields.<br>
+Once he took me with him. I watched him open the bag and then the trap.<br>
+The mouse scampered out among the wildflowers.<br>
+“’Bye, little mousie,” my father crooned. “Bye bye, mousie.”<br>
+The straight line that the mouse scampered along got longer and longer.<br>
+I guessed it knew where it was going.<br>
 
 
-Bangles
+**Bangles**
 
 
-Ample, firm, pudgy, dramatic
-and visible from any distance.
-They’re the only bracelets I wear.
+Ample, firm, pudgy, dramatic<br>
+and visible from any distance.<br>
+They’re the only bracelets I wear.<br>
 
- Lately, though, there’s been a problem:
-They keep touching some part of my arm.
-They make that part feel annoyed.
+ Lately, though, there’s been a problem:<br>
+They keep touching some part of my arm.<br>
+They make that part feel annoyed.<br>
 
-And if I raise my arm,
-keep it vertical,
-they touch that entire cross-section.
+And if I raise my arm,<br>
+keep it vertical,<br>
+they touch that entire cross-section.<br>
 
-If I lower my arm (upside-down vertical)
-they sit on my hand like water.
-They won’t leave my hand alone.
+If I lower my arm (upside-down vertical)<br>
+they sit on my hand like water.<br>
+They won’t leave my hand alone.<br>
 
-They make my arm tired.
-They’ll give it gangrene.
-There’s no good position for that arm.
+They make my arm tired.<br>
+They’ll give it gangrene.<br>
+There’s no good position for that arm.<br>
 
-But that’s only lately.
-Am I getting too old for bangles?
-Do I have to start wearing those twiddly, weak, weightless, insipid, museum-type
-   bracelets?
+But that’s only lately.<br>
+Am I getting too old for bangles?<br>
+Do I have to start wearing those twiddly, weak, weightless, insipid, museum-type<br>
+   bracelets?<br>
 
-The kind you can barely see?
-The kind you can barely touch?
+The kind you can barely see?<br>
+The kind you can barely touch?<br>
 
