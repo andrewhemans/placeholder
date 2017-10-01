@@ -29,7 +29,7 @@ author-bio: " Marion Deutsche Cohen is the author of 26 collections of poetry or
 
 **Great Fear of Death**
 
-I can't believe my body won’t mind being cremated, and then ashes, scattered or not,<br>
+I can't believe my body won’t mind being cremated, and then ashes, scattered or not<br>
 Cannot believe my body won’t feel it, won’t have a mind and a con-<br>
 &nbsp;&nbsp;ciousness to go with it.<br>
 And I wonder whether, on my deathbed, I’ll think about that; I hope I don’t.<br>
