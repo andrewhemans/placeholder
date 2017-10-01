@@ -31,7 +31,7 @@ author-bio: " Marion Deutsche Cohen is the author of 26 collections of poetry or
 
 I cannot believe my body won’t mind being cremated, and then ashes, scattered or not,<br>
 Cannot believe my body won’t feel it, won’t have a mind and a con-<br>
-ciousness to go with it.<br>
+&nbsp;&nbsp;ciousness to go with it.<br>
 And I wonder whether, on my deathbed, I’ll think about that; I hope I don’t.<br>
 I imagine I’ll be in a hospital, having what’s known as a peaceful, painless dying;<br>
 Everyone doing their best for my body — morphine or whatever, maybe massaging<br>
