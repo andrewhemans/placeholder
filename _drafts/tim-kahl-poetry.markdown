@@ -24,41 +24,41 @@ author-bio: Tim Kahl [http://www.timkahl.com] is the author of Possessing Yourse
   Sacramento, where he sings lieder while walking on campus between classes.
 ---
 
-Indomitable City
+**Indomitable City**
 
-It's as though the city center has withstood
-wave after wave of ransacking Visigoths,
-like it has fended off the envy of an angry Folsom,
-shielded itself from Stockton's sneak attacks.
-Would it be wrong for anyone to think guards
-should be posted at the open air market
-underneath the interstate? The heathens have
-come to conquer our kumquats, our fancy plums,
-our coveted spaghetti squash. Or are we really
-talking about that dominatrix the rain
-who arrives in winter to punish us with flooding?
-So the levees were constructed to serve as
-fortresses and then the summers drop in
-to bake the brain and scorch the earth.
-So the houses are built of brick and we learn
-to wear a floppy hat. We're a nation of scarecrows
-succeeding in an era of Valley feudalism.
-They'll never capture the flag at the top of 
-the capitol and bring it to their castle in Davis —
-not if we can help it. But if it should happen
-and this insurmountable town shall be
-ridden into the dustbin of history alongside
-all those other mining cities — Poker Flat,
-Seven Forks, Jackass Hill, Angel's Camp —
-then let it resound from Chico,
-all the way to mighty Bakersfield,
-that we were once the home of the Kings.
+It's as though the city center has withstood<br>
+wave after wave of ransacking Visigoths,<br>
+like it has fended off the envy of an angry Folsom,<br>
+shielded itself from Stockton's sneak attacks.<br>
+Would it be wrong for anyone to think guards<br>
+should be posted at the open air market<br>
+underneath the interstate? The heathens have<br>
+come to conquer our kumquats, our fancy plums,<br>
+our coveted spaghetti squash. Or are we really<br>
+talking about that dominatrix the rain<br>
+who arrives in winter to punish us with flooding?<br>
+So the levees were constructed to serve as<br>
+fortresses and then the summers drop in<br>
+to bake the brain and scorch the earth.<br>
+So the houses are built of brick and we learn<br>
+to wear a floppy hat. We're a nation of scarecrows<br>
+succeeding in an era of Valley feudalism.<br>
+They'll never capture the flag at the top of<br>
+the capitol and bring it to their castle in Davis —<br>
+not if we can help it. But if it should happen<br>
+and this insurmountable town shall be<br>
+ridden into the dustbin of history alongside<br>
+all those other mining cities — Poker Flat,<br>
+Seven Forks, Jackass Hill, Angel's Camp —<br>
+then let it resound from Chico,<br>
+all the way to mighty Bakersfield,<br>
+that we were once the home of the Kings.<br>
 
-Those of Us Who Grew Up in the Valley
+**Those of Us Who Grew Up in the Valley**
 
-Those of us who grew up in The Valley always bring our permits wherever we go. Whether they be for traditional dinners or the slow intrusion of saltwater into the fields, we know to be ready to display official paper, or some interrogator will stop us in our tracks to ask us Which way to the mistletoe in the trees? or Where are the silty rivers that have safely whisked away the years? Oh my, yes, those were hopeful days when our penknives stayed folded and we drank coffee from styrofoam cups like churchgoers. The parades brought together men and their cigarettes, and the marchers carried on loudly about the survival of the Delta’s fish. The seeing-eye dogs led the blind away from their discontentedness. But today an unhappy man came to the conclusion he should strangle one of his balls with a phone charging cord. No one has done him any favors since. He wanders the path to the wind-sculpted oaks with a limp. He throws his arms around the one that looks like a witch. He weeps, and at that moment he knows that our permission courses through him. It lives in his viscera, in his head. He wears it like a rainstorm tamed by the ten tongues of the wind. We feel him as a string around our necks. A card attached . . . something written on it that none of us can read.
+Those of us who grew up in The Valley always bring our permits wherever we go. Whether they be for traditional dinners or the slow intrusion of saltwater into the fields, we know to be ready to display official paper, or some interrogator will stop us in our tracks to ask us *Which way to the mistletoe in the trees?* or *Where are the silty rivers that have safely whisked away the years?* Oh my, yes, those were hopeful days when our penknives stayed folded and we drank coffee from styrofoam cups like churchgoers. The parades brought together men and their cigarettes, and the marchers carried on loudly about the survival of the Delta’s fish. The seeing-eye dogs led the blind away from their discontentedness. But today an unhappy man came to the conclusion he should strangle one of his balls with a phone charging cord. No one has done him any favors since. He wanders the path to the wind-sculpted oaks with a limp. He throws his arms around the one that looks like a witch. He weeps, and at that moment he knows that our permission courses through him. It lives in his viscera, in his head. He wears it like a rainstorm tamed by the ten tongues of the wind. We feel him as a string around our necks. A card attached . . . something written on it that none of us can read.
 
-*Lento Doloroso*
+***Lento Doloroso***
 
 The night rain intrudes slowly
 like a remote acquaintance offering
