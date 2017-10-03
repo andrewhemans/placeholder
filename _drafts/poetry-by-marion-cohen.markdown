@@ -109,7 +109,6 @@ Do I have to start wearing those twiddly, weak, weightless, insipid, museum-type
 The kind you can barely see?<br>
 The kind you can barely touch?<br>
 
-![Marion-Cohen-poetry-5.jpg](/uploads/Marion-Cohen-poetry-5.jpg) 
-<br>
+![Marion-Cohen-poetry-5.jpg](/uploads/Marion-Cohen-poetry-5.jpg)
 
 [marioncohen.net](marioncohen.net)
