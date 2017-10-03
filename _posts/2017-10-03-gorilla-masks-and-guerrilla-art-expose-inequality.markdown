@@ -42,8 +42,7 @@ author-bio: Connie Reyes is currently an undergraduate student at California Sta
 Political, raw, and feminist? Yes, [Guerrilla Girls](https://www.guerrillagirls.com/) are just that. Since 1985, the Guerrilla Girls have created public art that addresses politics, gender, and inequality that women throughout the world experience. They call themselves Guerrilla because of their tactics, placing large scale banners on billboards and using projectors on the side of  buildings.  They create a conversation of equality between gender and artists of color, particularly in the arts.   
      
   
-![guerrilla-SUNDAY.jpg](/uploads/guerrilla-SUNDAY.jpg)   
-    
+![guerrilla-CBLBARNESFOUNDATION.jpg](/uploads/guerrilla-CBLBARNESFOUNDATION.jpg)    
    
 The group also wears gorilla masks in public to remain anonymous. While they are public in their art and expression, they remain mysterious about their own identities. Anonymity keeps them safe and adds to their message; anyone could be a Guerrilla Girl, and they are everyone.   
    
