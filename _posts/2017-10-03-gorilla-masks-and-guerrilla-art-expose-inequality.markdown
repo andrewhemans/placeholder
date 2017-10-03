@@ -25,7 +25,7 @@ tags:
 - graphic design
 - political art
 - Activism
-image: "/uploads/guerrilla-CBLBARNESFOUNDATION.jpg"
+image: "/uploads/guerrilla-SUNDAY.jpg"
 author: Connie Reyes
 description: The Guerrilla Girls are in Sacramento with an exhibit at Verge and a
   lecture in Sac State. The gorilla-masked feminist group that challenges the status
@@ -60,4 +60,4 @@ Their display of works is done so with an alarming amount of statistics. One pos
 ![guerrilla-girls-mfc.jpg](/uploads/guerrilla-girls-mfc.jpg)
 _Ask yourself, "How many women exhibitions has my local art museum or gallery had?" "How many women are featured at the Crocker Art Museum or Haggin Museum right now?"_
    
-In addition, to their exhibition at Verge, they also will be giving a lecture at California State University, Sacramento, on Oct. 5.  The event will take place at the University Union at 7:30pm. The event is FREE. [Find more information here.](https://theuniversityunion.com/unique/event/guerrilla-girls)
+**In addition, to their exhibition at Verge, they also will be giving a lecture at California State University, Sacramento, on Oct. 5.  The event will take place at the University Union at 7:30pm. The event is FREE. [Find more information here.](https://theuniversityunion.com/unique/event/guerrilla-girls)**
