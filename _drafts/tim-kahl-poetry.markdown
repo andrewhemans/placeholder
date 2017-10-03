@@ -56,7 +56,9 @@ Seven Forks, Jackass Hill, Angel's Camp —<br>
 then let it resound from Chico,<br>
 all the way to mighty Bakersfield,<br>
 that we were once the home of the Kings.<br>
-</div>
+</div><br>
+
+<hr>
 
 **Those of Us Who Grew Up in the Valley**
 
@@ -68,6 +70,7 @@ Those of us who grew up in The Valley always bring our permits wherever we go. W
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343775777&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
+<div style="margin-left: 150px">
 The night rain intrudes slowly<br>
 like a remote acquaintance offering<br>
 an opportunity from afar. A man arrives<br>
@@ -113,6 +116,7 @@ the best way in to ruin the tables, chairs,<br>
 lamps, and beds from that time when<br> 
 he once lay pleased with himself during<br>
 those gracious days of wine and fruit.<br>
+</div>
 
 [http://www.timkahl.com](www.timkahl.com)
 
