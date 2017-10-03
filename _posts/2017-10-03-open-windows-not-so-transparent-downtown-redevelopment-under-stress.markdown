@@ -23,7 +23,7 @@ tags:
 - housing crisis
 - rising rents
 - general plan
-image: "/uploads/ten-space-lienproperties.jpg"
+image: "/uploads/javi-dowtownstk.jpg"
 author: Jasmine Leek
 description: An ambitious downtown redevelopment project in Stockton is under scrutiny
   for lack of transparency after city officials shell out millions of dollars.
