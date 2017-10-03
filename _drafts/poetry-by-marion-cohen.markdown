@@ -9,8 +9,16 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+- Great Fear of Death
+- Moustraps Circa 1940's
+- Bangles
+- Death
+- Consciousness
+- Bracelets
 image: "/uploads/Marion-Cohen-poetry-3.jpg"
 author: Marion Cohen
+description: 'Consciousness during death, old-fashioned mousetraps, and dramatic,
+  yet annoying, bracelets. Poetry by Marion Cohen. '
 author-block: true
 author-image: "/uploads/Marion-Cohen-bio-pic.jpg"
 author-bio: " Marion Deutsche Cohen is the author of 26 collections of poetry or memoir;
@@ -102,5 +110,6 @@ The kind you can barely see?<br>
 The kind you can barely touch?<br>
 
 ![Marion-Cohen-poetry-5.jpg](/uploads/Marion-Cohen-poetry-5.jpg) 
+<br>
 
 [marioncohen.net](marioncohen.net)
