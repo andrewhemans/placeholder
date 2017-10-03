@@ -60,51 +60,51 @@ Those of us who grew up in The Valley always bring our permits wherever we go. W
 
 ***Lento Doloroso***
 
-The night rain intrudes slowly
-like a remote acquaintance offering
-an opportunity from afar. A man arrives
-with his insight from a different world,
-where complex machinery churns out
-its line of utilitarian trinkets.
-High speed transit eliminates 
-the domain of openness. The celebrated
-network establishes enterprise and
-accelerates the franchise and the license.
-The raindrops are disciplining the roof.
-The tile and stucco wait for their
-separate treatment. Everything that’s wet
-begins to understand seepage,
-the pooling in the hidden crevices,
-the drip drip on galvanized tin
-that is the sonata for water
-down the drainpipe.
+The night rain intrudes slowly<br>
+like a remote acquaintance offering<br>
+an opportunity from afar. A man arrives<br>
+with his insight from a different world,<br>
+where complex machinery churns out<br>
+its line of utilitarian trinkets.<br>
+High speed transit eliminates<br> 
+the domain of openness. The celebrated<br>
+network establishes enterprise and<br>
+accelerates the franchise and the license.<br>
+The raindrops are disciplining the roof.<br>
+The tile and stucco wait for their<br>
+separate treatment. Everything that’s wet<br>
+begins to understand seepage,<br>
+the pooling in the hidden crevices,<br>
+the drip drip on galvanized tin<br>
+that is the sonata for water<br>
+down the drainpipe.<br>
 
-The night rain offends only when
-its melody of hurt plays for
-the in-the-bushes sleeper, lying on 
-his tarp near the American River, his tent
-threatened with upset and intimidation.
-He lives in his city of fortune seekers
-and travelers and cardboard collectors.
-The thieves are careful to avoid the noses
-of certain dogs that can smell violence.
-Nevertheless, he is beaten flat in the night,
-the history of the dark encroaching,
-preparing him for the appendectomy of
-his hope while he soaks in his sleeping bag
-waiting for some lucky sleep.
+The night rain offends only when<br>
+its melody of hurt plays for<br>
+the in-the-bushes sleeper, lying on<br> 
+his tarp near the American River, his tent<br>
+threatened with upset and intimidation.<br>
+He lives in his city of fortune seekers<br>
+and travelers and cardboard collectors.<br>
+The thieves are careful to avoid the noses<br>
+of certain dogs that can smell violence.<br>
+Nevertheless, he is beaten flat in the night,<br>
+the history of the dark encroaching,<br>
+preparing him for the appendectomy of<br>
+his hope while he soaks in his sleeping bag<br>
+waiting for some lucky sleep.<br>
 
-He wakes up into the capsized day, 
-orange peels piling up at the base of an oak, 
-his thank-you to the god of citrus. 
-The bright skin glows, a luminous  
-signal of some indefatigable absence.
-The night rain keeps up its discipline.
-It’s militant, an intruder slowly sizing up 
-the best way in to ruin the tables, chairs,
-lamps, and beds from that time when 
-he once lay pleased with himself during
-those gracious days of wine and fruit.
+He wakes up into the capsized day,<br> 
+orange peels piling up at the base of an oak,<br> 
+his thank-you to the god of citrus.<br> 
+The bright skin glows, a luminous<br>  
+signal of some indefatigable absence.<br>
+The night rain keeps up its discipline.<br>
+It’s militant, an intruder slowly sizing up<br> 
+the best way in to ruin the tables, chairs,<br>
+lamps, and beds from that time when<br> 
+he once lay pleased with himself during<br>
+those gracious days of wine and fruit.<br>
 
 [http://www.timkahl.com](www.timkahl.com)
 
