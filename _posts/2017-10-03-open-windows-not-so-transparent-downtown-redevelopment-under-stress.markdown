@@ -1,5 +1,5 @@
 ---
-title: 'Open Windows not so Transparent: Downtown Redevelopment Under Stress'
+title: 'Open Windows not so Transparent: Downtown Under Stress'
 date: 2017-10-03 15:04:00 -07:00
 categories:
 - Culture
