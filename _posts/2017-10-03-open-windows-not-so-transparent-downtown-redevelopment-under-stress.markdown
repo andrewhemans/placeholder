@@ -23,6 +23,7 @@ tags:
 - housing crisis
 - rising rents
 - general plan
+- featured
 image: "/uploads/javi-dowtownstk.jpg"
 author: Jasmine Leek
 description: An ambitious downtown redevelopment project in Stockton is under scrutiny
