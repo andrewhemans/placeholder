@@ -26,7 +26,7 @@ author-bio: Tim Kahl [http://www.timkahl.com] is the author of Possessing Yourse
 
 **Indomitable City**
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344287776&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344287776&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><br>
 
 <div style="margin-left: 160px">
 It's as though the city center has withstood<br>
@@ -60,13 +60,13 @@ that we were once the home of the Kings.<br>
 
 **Those of Us Who Grew Up in the Valley**
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343776370&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343776370&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><br>
 
 Those of us who grew up in The Valley always bring our permits wherever we go. Whether they be for traditional dinners or the slow intrusion of saltwater into the fields, we know to be ready to display official paper, or some interrogator will stop us in our tracks to ask us *Which way to the mistletoe in the trees?* or *Where are the silty rivers that have safely whisked away the years?* Oh my, yes, those were hopeful days when our penknives stayed folded and we drank coffee from styrofoam cups like churchgoers. The parades brought together men and their cigarettes, and the marchers carried on loudly about the survival of the Delta’s fish. The seeing-eye dogs led the blind away from their discontentedness. But today an unhappy man came to the conclusion he should strangle one of his balls with a phone charging cord. No one has done him any favors since. He wanders the path to the wind-sculpted oaks with a limp. He throws his arms around the one that looks like a witch. He weeps, and at that moment he knows that our permission courses through him. It lives in his viscera, in his head. He wears it like a rainstorm tamed by the ten tongues of the wind. We feel him as a string around our necks. A card attached . . . something written on it that none of us can read.
 
 ***Lento Doloroso***
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343775777&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343775777&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><br>
 
 <div style="margin-left: 160px">
 The night rain intrudes slowly<br>
