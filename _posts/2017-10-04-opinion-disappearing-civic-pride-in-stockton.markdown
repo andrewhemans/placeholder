@@ -43,4 +43,4 @@ Not so.
 
 One must think beyond the physical investment and to the larger investment into city pride. There are other, more visible issues in our beautiful city, but just once, it would be nice to see the leaders double down on preservation. 
 
-It is not the easy way out, but it is easily the most rewarding
+It is not the easy way out, but it is easily the most rewarding.
