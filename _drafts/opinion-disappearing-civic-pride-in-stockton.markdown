@@ -23,6 +23,7 @@ author: Anthony Corradi
 description: The City of Stockton approves the abandonment of historic City Hall in
   favor of waterfront towers. Anthony Corradi explores the move's implications in
   his letter to the editor.
+author-block: true
 author-image: "/uploads/CorradiAnthony.jpg"
 ---
 
