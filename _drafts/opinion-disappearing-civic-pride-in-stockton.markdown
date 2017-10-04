@@ -25,6 +25,7 @@ description: The City of Stockton approves the abandonment of historic City Hall
   his letter to the editor.
 author-block: true
 author-image: "/uploads/CorradiAnthony.jpg"
+author-bio: Guest Contributor
 ---
 
 Sorry, city leaders, but the decision to purchase the waterfront towers as the new City Hall is unacceptable. There is no "civic pride" in entering a nondescript, glassy tower lacking any architectural thought. 
