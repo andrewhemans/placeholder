@@ -1,6 +1,6 @@
 ---
 title: Poetry by Marion Cohen
-date: 2017-10-04 12:00:00 -07:00
+date: 2017-10-04 13:30:00 -07:00
 categories:
 - Literature
 tags:
@@ -15,6 +15,7 @@ tags:
 - Death
 - Consciousness
 - Bracelets
+- featured
 image: "/uploads/Marion-Cohen-poetry-3.jpg"
 author: Marion Cohen
 description: 'Consciousness during death, old-fashioned mousetraps, and dramatic,
