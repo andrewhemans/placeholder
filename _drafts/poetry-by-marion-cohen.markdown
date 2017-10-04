@@ -1,6 +1,6 @@
 ---
 title: Poetry by Marion Cohen
-date: 2017-10-02 20:53:00 -07:00
+date: 2017-10-04 12:00:00 -07:00
 categories:
 - Literature
 tags:
@@ -112,3 +112,5 @@ The kind you can barely touch?<br>
 ![Marion-Cohen-poetry-5.jpg](/uploads/Marion-Cohen-poetry-5.jpg)
 
 [marioncohen.net](marioncohen.net)
+
+*Photography courtesy of Saskia Hatvany*
