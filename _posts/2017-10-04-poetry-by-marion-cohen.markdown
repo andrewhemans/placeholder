@@ -15,6 +15,7 @@ tags:
 - Death
 - Consciousness
 - Bracelets
+- featured
 image: "/uploads/Marion-Cohen-poetry-3.jpg"
 author: Marion Cohen
 description: 'Consciousness during death, old-fashioned mousetraps, and dramatic,
