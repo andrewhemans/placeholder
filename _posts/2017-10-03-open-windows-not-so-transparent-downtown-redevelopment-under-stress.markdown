@@ -59,7 +59,7 @@ On Feb. 23, 2016, the City of Stockton approved a master development plan for [O
    
 To the lone community member who spoke up at the public meeting addressing concerns of access, the developer stated that inclusionary housing was a priority that was taken very seriously by the firm. At the same meeting, the City waived the need for the developer to conduct a detailed review of environmental effects due to construction.   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9HXFngGOZXk" frameborder="0" allowfullscreen></iframe>   
+<div class="flex-video"><iframe src="https://www.youtube.com/embed/9HXFngGOZXk" frameborder="0" allowfullscreen></iframe></div>   
 _Not much information aside from this video can be found on the [developer's website.](http://tenspacedev.com/projects/)_
 
 Eight months later, on Oct. 18, 2016, the City approved its first DIIIRA with the developer, OWP. The full agreement [can be found here.](http://stockton.legistar.com/gateway.aspx?M=F&ID=f68b19a4-ef3b-4ed8-b7e0-312255437e37.pdf)   
