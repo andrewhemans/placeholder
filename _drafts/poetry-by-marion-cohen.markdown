@@ -24,15 +24,15 @@ author-image: "/uploads/Marion-Cohen-bio-pic.jpg"
 author-bio: " Marion Deutsche Cohen is the author of 26 collections of poetry or memoir;
   her latest poetry collection is “New Heights in Non-Structure” (about homeschooling
   and other ideas about engaging with children). She is also the author of two controversial
-  memoirs about spousal chronic illness, and of “Crossing the Equal Sign,” about the
-  experience of mathematics. She teaches math and writing at Arcadia University in
-  Glenside PA (USA), where she has developed the course, Mathematics in Literature.
-  A chapbook of poetry, “Truth and Beauty,” about the interaction in that course among
-  students and teacher, was released in December 2016 from WordTech Editions. She
-  is currently working on a poetry collection about her experience with extreme back
-  pain, diagnosis (nerve/disc thing), and treatment (steroid injection plus physical
-  therapy). Other interests are classical piano, singing, Scrabble, thrift-shopping,
-  four grown children, and five grands. "
+  memoirs about spousal chronic illness, and of “Crossing the Equal Sign,” which is
+  about the experience of mathematics.  A chapbook of poetry, “Truth and Beauty,”
+  about the interaction in that course among students and teacher, was released in
+  December 2016 from WordTech Editions. She is currently working on a poetry collection
+  about her experience with extreme back pain diagnosis (nerve/disc thing) and treatment
+  (steroid injection, plus physical therapy). Other interests include classical piano,
+  singing, Scrabble, thrift-shopping, four grown children, and five grands. She teaches
+  math and writing at Arcadia University in Glenside, PA, where she has developed
+  the course Mathematics in Literature."
 ---
 
 **Great Fear of Death**
