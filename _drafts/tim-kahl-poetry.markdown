@@ -9,6 +9,7 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+image: "/uploads/tim-kahl-7.jpg"
 author: Tim Kahl
 author-block: true
 author-bio: Tim Kahl [http://www.timkahl.com] is the author of Possessing Yourself
