@@ -1,6 +1,6 @@
 ---
 title: Tim Kahl Poetry
-date: 2017-09-30 21:03:00 -07:00
+date: 2017-09-22 21:03:00 -07:00
 categories:
 - Literature
 tags:
@@ -9,6 +9,9 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+- Indomitable City
+- Those of Us Who Grew Up in the Valley
+- Lento Doloroso
 image: "/uploads/tim-kahl-7.jpg"
 author: Tim Kahl
 author-block: true
@@ -116,6 +119,8 @@ lamps, and beds from that time when<br>
 he once lay pleased with himself during<br>
 those gracious days of wine and fruit.<br>
 </div>
+
+![tim-kahl-9.jpg](/uploads/tim-kahl-9.jpg)
 
 [http://www.timkahl.com](www.timkahl.com)
 
