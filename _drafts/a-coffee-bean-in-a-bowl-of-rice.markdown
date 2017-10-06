@@ -18,8 +18,9 @@ tags:
 - citizenship
 - illegal
 author: Elizabeth Jaeger
-description: A teacher illustrates the life of an undocumented student, who transforms
-  the concept of an "illegal immigrant" into one of pride and understanding.
+description: A teacher illustrates the academic and personal experiences of an undocumented
+  Guatemalan student, who transforms the concept of an "illegal immigrant" into one
+  of pride and understanding.
 author-block: true
 ---
 
