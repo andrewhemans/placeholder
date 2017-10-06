@@ -6,11 +6,11 @@ categories:
 tags:
 - Non-fiction
 - A Coffee Bean in a Bowl of Rice
-- Elizabeth Jaegar
 - placeholder
 - placeholder mag
 - placeholder magazine
-author: Elizabeth Jaegar
+- Elizabeth Jaeger
+author: Elizabeth Jaeger
 author-block: true
 ---
 
