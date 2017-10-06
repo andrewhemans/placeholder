@@ -10,7 +10,16 @@ tags:
 - placeholder mag
 - placeholder magazine
 - Elizabeth Jaeger
+- DACA
+- Immigration
+- literature
+- undocumented
+- american dream
+- citizenship
+- illegal
 author: Elizabeth Jaeger
+description: A teacher illustrates the life of an undocumented student, who transforms
+  the concept of an "illegal immigrant" into one of pride and understanding.
 author-block: true
 ---
 
