@@ -1,6 +1,6 @@
 ---
 title: A Coffee Bean in a Bowl of Rice
-date: 2017-10-05 16:14:00 -07:00
+date: 2017-10-06 15:00:00 -07:00
 categories:
 - Culture
 tags:
