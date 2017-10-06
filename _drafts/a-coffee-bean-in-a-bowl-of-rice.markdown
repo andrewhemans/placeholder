@@ -17,6 +17,7 @@ tags:
 - american dream
 - citizenship
 - illegal
+image: "/uploads/A%20Coffee%20Bean%20in%20a%20Bowl%20of%20Rice@2x-min.png"
 author: Elizabeth Jaeger
 description: A teacher illustrates the academic and personal experiences of an undocumented
   Guatemalan student, who transforms the concept of an "illegal immigrant" into one
