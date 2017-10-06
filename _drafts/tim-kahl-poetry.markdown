@@ -3,6 +3,7 @@ title: Tim Kahl Poetry
 date: 2017-09-22 21:03:00 -07:00
 categories:
 - Literature
+- Poetry
 tags:
 - Poetry
 - Tim Kahl
@@ -12,6 +13,9 @@ tags:
 - Indomitable City
 - Those of Us Who Grew Up in the Valley
 - Lento Doloroso
+- Spoken word
+- Music
+- poetry and music
 image: "/uploads/tim-kahl-7.jpg"
 author: Tim Kahl
 author-block: true
