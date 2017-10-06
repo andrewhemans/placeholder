@@ -19,6 +19,7 @@ tags:
 image: "/uploads/tim-kahl-7.jpg"
 author: Tim Kahl
 author-block: true
+author-image: "/uploads/TimAnselmKiefer-min.JPG"
 author-bio: Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
   of Travel (CW Books, 2012) and The String of Islands (Dink, 2015). His work has
   been published in Prairie Schooner, Drunken Boat, Mad Hatters' Review, Indiana Review,
