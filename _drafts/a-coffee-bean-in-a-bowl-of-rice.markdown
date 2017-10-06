@@ -22,6 +22,15 @@ description: A teacher illustrates the academic and personal experiences of an u
   Guatemalan student, who transforms the concept of an "illegal immigrant" into one
   of pride and understanding.
 author-block: true
+author-image: "/uploads/Author%20Pic-min.jpg"
+author-bio: Elizabeth Jaeger holds an MFA in Creative Writing from Fairleigh Dickinson
+  University. Her work has been published in Parentheses Journal, Brush Talks, Waypoints,
+  Foliate Oak Literary Magazine, Peacock Journal, Boston Accent Lit, Damfino, Inside
+  the Bell Jar, Blue Planet Journal, Italian Americana, Yellow Chair Review, Drowing
+  Gull, Icarus Down Review, Linden Avenue Literary Journal, Atticus Review, and Literary
+  Explorer. She has published book reviews in TLR Online and has participated in an
+  episode of No, YOU Tell It! When she isn’t writing, she enjoys hiking and reading
+  with her young son.
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are relatively few people I genuinely admire. Alex is one of them. His intelligence, resiliency and determination are enviable. His ability to persevere and succeed in the face of discrimination and adversity is remarkable. I met Alex nearly eleven years ago when he walked into my English literature classroom. At the time, he was just another body, a person to whom I would have to teach Marquez, Golding, Shakespeare, and Borges. Now I think of him as the kid who taught *me*. And because of him, I am a better person.<br>
