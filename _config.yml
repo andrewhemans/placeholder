@@ -49,7 +49,19 @@ twitter_username: PlaceholderMag
 github_username: andrewhemans
 markdown: kramdown
 plugins:
+
+  # - jekyll-paginate-v2
+  - jekyll-paginate
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+
+# Produces a cleaner folder structure when using categories
+# permalink: /:year/:month/:title.html
+
+# Explicitly turn off the old code
+=======
 - jekyll-paginate
-permalink: "/:year/:month/:title.html"
+# permalink: "/:year/:month/:title.html"
 paginate: 10
 paginate_path: "/legacy/page:num/"
