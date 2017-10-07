@@ -56,7 +56,7 @@ plugins:
 #   - Gemfile.lock
 
 # Produces a cleaner folder structure when using categories
-permalink: /:year/:month/:title.html
+# permalink: /:year/:month/:title.html
 
 # Explicitly turn off the old code
 paginate: 10
