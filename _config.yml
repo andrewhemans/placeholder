@@ -48,3 +48,8 @@ url: www.placeholdermag.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
 markdown: kramdown
+plugins:
+- jekyll-paginate
+permalink: "/:year/:month/:title.html"
+paginate: 10
+paginate_path: "/legacy/page:num/"
