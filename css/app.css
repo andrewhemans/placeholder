@@ -930,3 +930,15 @@ textarea {
 		display: none;
 	}
 }
+
+/*Pagination*/
+
+.pager li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+.pagination {
+	margin: 0 auto;
+}

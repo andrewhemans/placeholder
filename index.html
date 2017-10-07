@@ -1,10 +1,12 @@
 ---
 layout: default
+pagination:
+  enabled: true
 ---
 
 <div class="home">
 
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <div class="large-6 columns article end">
     <a href="{{ post.url }}"><div class="article-image" style="background-image: url({{ post.image }});">
     </div></a>
@@ -17,6 +19,23 @@ layout: default
   </div>
   {% endfor %}
 
+
+<div class="small-12 columns pagination">
+  {% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
+</div>
 
 
 </div>
