@@ -43,7 +43,7 @@ email: placeholdermag@gmail.com
 description: A fiercely independent critical voice covering contemporary arts, culture
   and literature magazine featuring emerging creatives with featured articles, blogs,
   video, and more.
-baseurl:
+baseurl: 
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
@@ -52,5 +52,4 @@ plugins:
 - jekyll-paginate
 paginate: 10
 paginate_path: "/legacy/page:num/"
-
-category_page: '/categories/'
+category_page: "/categories/"
