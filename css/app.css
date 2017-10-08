@@ -933,12 +933,10 @@ textarea {
 
 /*Pagination*/
 
-.pager li {
-	display: inline;
-	list-style-type: none;
-	padding-right: 20px;
+ul.pager {
+	margin: 0;
 }
 
-.pagination {
+/*.pagination {
 	margin: 0 auto;
-}
+}*/
