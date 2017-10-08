@@ -938,7 +938,7 @@ ul.pager {
 }
 
 .pagination li {
-    min-width: 112px;
+    min-width: 120px;
 }
 
 /*.pagination {
