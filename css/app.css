@@ -941,6 +941,20 @@ ul.pager {
     min-width: 120px;
 }
 
-/*.pagination {
+
+/*Categories*/
+
+.cat-content {
+  max-width: 800px;
+  position: relative;
+  padding: 80px 50px 50px 50px;
+  font-size: 20px;
 	margin: 0 auto;
-}*/
+}
+
+
+@media screen and (max-width: 39.9375em) {
+	.cat-content {
+		padding: 30px 24px;
+	}
+}
