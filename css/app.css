@@ -937,6 +937,10 @@ ul.pager {
 	margin: 0;
 }
 
+.pagination li {
+    min-width: 112px;
+}
+
 /*.pagination {
 	margin: 0 auto;
 }*/
