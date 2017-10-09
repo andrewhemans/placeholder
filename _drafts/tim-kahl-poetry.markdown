@@ -137,3 +137,5 @@ that we were once the home of the Kings.<br>
 [http://www.timkahl.com](www.timkahl.com)
 
 [http://www.cladesong.com](www.cladesong.com/)
+
+*Photography courtesy of Penny Kline*
