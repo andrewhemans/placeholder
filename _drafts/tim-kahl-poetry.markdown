@@ -19,6 +19,7 @@ tags:
 - Central Valley
 - Sacramento
 - Homelessness
+- featured
 image: "/uploads/tim-kahl-7.jpg"
 author: Tim Kahl
 description: Night rain intruding the homeless, Valley discontentedness, and Sacramento,
