@@ -34,10 +34,10 @@ Nonfiction includes news articles, opinion pieces, how-to articles, profile and 
 
 **Fiction**
 
-Placeholder is open to all narrative styles and forms. Send us your masterpiece. Short stories must be under 6,000 words. Poetry may be sent in as a single or a set (up to 5 poems).  
+Placeholder is open to all narrative styles and forms. Send us your masterpiece. Short stories must be under 3,000 words. Poetry may be sent in as a single or a set (up to 3 poems).  
 
 **Poetry**  
-Poetry can be of any length, style, or topic. You may send up to 5 poems at a time.
+Poetry can be of any length, style, or topic. You may send up to 3 poems at a time.
 
 **Visual Media**
 
