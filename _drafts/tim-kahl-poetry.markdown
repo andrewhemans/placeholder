@@ -1,5 +1,5 @@
 ---
-title: Central Valley Poetry-Tim Kahl
+title: Central Valley Poetry—Tim Kahl
 date: 2017-09-22 21:03:00 -07:00
 categories:
 - Literature
