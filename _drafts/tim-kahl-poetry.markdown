@@ -1,6 +1,6 @@
 ---
 title: Central Valley Poetry—Tim Kahl
-date: 2017-09-22 21:03:00 -07:00
+date: 2017-10-09 13:00:00 -07:00
 categories:
 - Literature
 - Poetry
@@ -16,8 +16,12 @@ tags:
 - Spoken word
 - Music
 - poetry and music
+- Central Valley
+- Sacramento
+- Homelessness
 image: "/uploads/tim-kahl-7.jpg"
 author: Tim Kahl
+description: 'Night rain intrusion, '
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
 author-bio: Tim Kahl [http://www.timkahl.com] is the author of Possessing Yourself
