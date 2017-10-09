@@ -21,7 +21,8 @@ tags:
 - Homelessness
 image: "/uploads/tim-kahl-7.jpg"
 author: Tim Kahl
-description: 'Night rain intrusion, '
+description: Night rain intruding the homeless, Valley discontentedness, and Sacramento,
+  mining towards insurmountable greatness. Original poems by Tim Kahl.
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
 author-bio: Tim Kahl [http://www.timkahl.com] is the author of Possessing Yourself
