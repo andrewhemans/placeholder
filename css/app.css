@@ -958,3 +958,43 @@ ul.pager {
 		padding: 30px 24px;
 	}
 }
+
+/*Positions*/
+table {
+    background-color: transparent;
+		border-collapse: collapse;
+		border: 0;
+}
+
+
+
+table thead {
+    background: transparent;
+		border-bottom: 1px solid pink;
+		font-family: 'proxima-nova', sans-serif;
+		font-weight: 400!important;
+		font-size: 1.25rem;
+		font-variant-caps: all-petite-caps;
+}
+
+table thead, table tbody, table tfoot {
+    border: none;
+    background-color: transparent;
+}
+
+tr {
+	font-family: 'proxima-nova', sans-serif;
+	border-bottom: 1px solid #cdcdcd;
+	font-weight: 300;
+	font-size: 1rem;
+}
+
+table.unstriped tbody tr {
+    border-bottom: 0;
+    border-bottom: 1px solid #cdcdcd;
+    background-color: none;
+}
+
+table tbody th, table tbody td {
+    padding: 0.75rem 0.625rem 0.625rem;
+}
