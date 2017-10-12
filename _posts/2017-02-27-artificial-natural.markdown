@@ -2,7 +2,7 @@
 title: Fabricated Landscape
 date: 2017-02-27 18:11:00 -08:00
 categories:
-- arts
+- Art
 - Culture
 tags:
 - conceptual art
