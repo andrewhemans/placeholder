@@ -2,7 +2,7 @@
 title: 'Black Box Wednesday: Wizard Apprentice'
 date: 2017-02-15 13:47:00 -08:00
 categories:
-- video
+- Video
 tags:
 - Wizard Apprentice
 - art
