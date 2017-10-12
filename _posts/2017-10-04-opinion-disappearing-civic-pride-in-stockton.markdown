@@ -2,9 +2,7 @@
 title: 'OPINION: Disappearing ''Civic Pride'' in Stockton'
 date: 2017-10-04 08:00:00 -07:00
 categories:
-- culture
-- opinion
-- guest contributor
+- Culture
 tags:
 - Stockton
 - town hall

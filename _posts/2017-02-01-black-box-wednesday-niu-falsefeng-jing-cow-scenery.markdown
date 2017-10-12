@@ -2,7 +2,7 @@
 title: 'Black Box Wednesday: 牛の風景 - cow scenery'
 date: 2017-02-01 18:07:00 -08:00
 categories:
-- video
+- Video
 tags:
 - video
 - dystopia

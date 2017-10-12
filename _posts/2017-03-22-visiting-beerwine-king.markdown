@@ -3,7 +3,7 @@ title: Visiting Beerwine King
 date: 2017-03-22 12:51:00 -07:00
 categories:
 - Culture
-- video
+- Video
 tags:
 - Music
 - Oakland

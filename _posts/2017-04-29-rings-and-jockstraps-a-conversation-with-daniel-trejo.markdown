@@ -2,7 +2,7 @@
 title: Rings & Jockstraps, A Studio Visit with Daniel Trejo
 date: 2017-04-29 20:12:00 -07:00
 categories:
-- arts
+- Art
 tags:
 - Art
 - stockton arts

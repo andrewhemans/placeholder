@@ -3,7 +3,7 @@ title: 'Re: Construcción'
 date: 2017-04-03 16:12:00 -07:00
 categories:
 - Culture
-- video
+- Video
 tags:
 - Multimedia
 - Journalism
