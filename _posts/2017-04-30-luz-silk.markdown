@@ -2,7 +2,7 @@
 title: Luz Silk
 date: 2017-04-30 19:00:00 -07:00
 categories:
-- arts
+- Art
 tags:
 - art
 image: "/uploads/5-min-1915e3.jpg"
