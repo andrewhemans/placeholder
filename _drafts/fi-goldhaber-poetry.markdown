@@ -9,6 +9,7 @@ tags:
 - placeholder
 - placeholder magazine
 - placeholder mag
+author: F.I. Goldhaber
 ---
 
 Braving a Hostile World
