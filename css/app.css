@@ -1003,7 +1003,7 @@ ul.line-separated
 
 	 }
 	.category-title {
-		margin: 40px 0 10px 0 ;
+		padding-top: 80px;
 	}
 
 	a.post-tag {
