@@ -17,7 +17,7 @@ author-bio: "Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The
   on campus between classes."
 ---
 
-A Gilded Elsewhere<br>
+**A Gilded Elsewhere**<br>
 
 A hedge fund lobbies against a mid-size company.<br>
 It wants more regulation to drive the stock price<br>
@@ -56,7 +56,7 @@ market crusade will lead to anything good.<br>
 <br>
 <br>
 <br>
-The Coffin<br>
+**The Coffin**<br>
 
 The ritual burial by jurisprudence<br>
 begins during the process of jury selection<br>
