@@ -267,7 +267,7 @@ a.button, a.button:hover, a.button:focus {
 /*header*/
 
 .parallax-background {
-  background-color: #f5f5f5;
+  background-color: #000000;
 	height: 100vh;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -277,10 +277,11 @@ a.button, a.button:hover, a.button:focus {
 	background-position: center;
 	position: fixed;
 	width: 100%;
+	opacity: .9;
 }
 
 .parallax-background-post {
-  background-color: #f5f5f5;
+  background-color: #000000;
 	height: 100vh;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -290,13 +291,14 @@ a.button, a.button:hover, a.button:focus {
 	background-position: center;
 	position: fixed;
 	width: 100%;
+	opacity: .9;
 }
 
 .intro-container {
 	font-size: 50px;
 	color: #fff;
 	text-align: center;
-	margin-top: 40vh;
+	margin-top: 25vh;
 	position: absolute;
 	z-index: 100;
 	width: 100%;
@@ -479,12 +481,11 @@ a.button, a.button:hover, a.button:focus {
 	margin: 0 auto;
 }
 
-.post-content::first-line {
-	font-variant-caps: small-caps;
+/*.post-content::first-line {
+	font-variant-caps: titling-caps;
 	font-weight: bolder;
 	font-size: 1.25em;
-
-	}
+	}*/
 
 @media screen and (max-width: 39.9375em) {
 	.post-content {
@@ -982,6 +983,72 @@ ul.pager {
 		padding: 30px 24px;
 	}
 }
+
+/*Positions*/
+table {
+    background-color: transparent;
+		border-collapse: collapse;
+		border: 0;
+}
+
+
+
+table thead {
+    background: transparent;
+		border-bottom: 1px solid pink;
+		font-family: 'proxima-nova', sans-serif;
+		font-weight: 400!important;
+		font-size: 1.25rem;
+		font-variant-caps: all-petite-caps;
+}
+
+table thead, table tbody, table tfoot {
+    border: none;
+    background-color: transparent;
+}
+
+tr {
+	font-family: 'proxima-nova', sans-serif;
+	border-bottom: 1px solid #cdcdcd;
+	font-weight: 300;
+	font-size: 1rem;
+}
+
+table.unstriped tbody tr {
+    border-bottom: 0;
+    border-bottom: 1px solid #cdcdcd;
+    background-color: none;
+}
+
+table tbody th, table tbody td {
+    padding: 0.75rem 0.625rem 0.625rem;
+}
+
+.join-title {
+	padding-top: 80px;
+}
+
+.join-text {
+	max-width: 500px;
+	text-align: center;
+}
+
+.join-button {
+	font-family: 'proxima-nova', sans-serif;
+}
+
+.cool {
+	font-family: 'proxima-nova', sans-serif;
+	font-size: 1rem;
+}
+
+.join-card-inner {
+		background-color: #f5f5f5;
+		padding: 30px;
+		text-align: center;
+		margin-right: 0;
+}
+
 ul {
 	margin-left: 0;
 }
@@ -1003,7 +1070,7 @@ ul.line-separated
 
 	 }
 	.category-title {
-		margin: 40px 0 10px 0 ;
+		padding-top: 80px;
 	}
 
 	a.post-tag {
