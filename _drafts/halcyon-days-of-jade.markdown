@@ -1,6 +1,6 @@
 ---
 title: Halcyon Days of Jade
-date: 2017-10-11 13:46:00 -07:00
+date: 2017-10-24 13:46:00 -07:00
 categories:
 - Culture
 tags:
@@ -10,6 +10,7 @@ tags:
 - placeholder mag
 - placeholder magazine
 - Philip Kobylarz
+image: "/uploads/library-javier.jpg"
 author: 'Philip Kobylarz '
 ---
 
