@@ -70,10 +70,9 @@ There's no time to waste worrying if this<br>
 market crusade will lead to anything good.<br>
 </div><br>
 <br>
-<br>
-<br>
 
-![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)
+![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)<br>
+<br>
 
 **The Coffin**<br>
 
