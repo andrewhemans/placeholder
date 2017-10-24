@@ -3,29 +3,41 @@ title: Central Valley Poetry Pt. 2— Tim Kahl
 date: 2017-10-24 13:00:00 -07:00
 categories:
 - Literature
+- Culture
 tags:
 - Tim Kahl
 - Poetry
+- placeholder
+- placeholder mag
+- placeholder magazine
 - A Gilded Elsewhere
 - The Coffin
-- Central Valley
-- Sacramento
+- Spoken word
 - Music
+- poetry and music
+- featured
+- stock market
+- injustice
+- financial pitfalls
+- moral courage
+- judicial system
 image: "/uploads/Cemetary-min.jpg"
 author: Tim Kahl
+description: Financial pitfalls for millennials, investors come out on top, and moral
+  courage within the judicial system. Original poetry by Tim Kahl.
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
-author-bio: Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
+author-bio: "Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
   of Travel (CW Books, 2012) and The String of Islands (Dink, 2015). His work has
   been published in Prairie Schooner, Drunken Boat, Mad Hatters' Review, Indiana Review,
-  Metazen, Ninth Letter, Sein und Werden, Notre Dame Review, The Really System, Konundrum
-  Engine Literary Magazine, The Journal, The Volta, Parthenon West Review, Caliban
-  and many other journals in the U.S. He is also editor of Clade Song. He is the vice
-  president and events coordinator of The Sacramento Poetry Center. He also has a
-  public installation in Sacramento {In Scarcity We Bare The Teeth}. He plays flutes,
-  guitars, ukuleles, charangos and cavaquinhos. He currently teaches at California
-  State University, Sacramento, where he sings lieder while walking on campus between
-  classes.
+  Metazen, Ninth Letter, Sein und Werden, \nNotre Dame Review, The Really System,
+  Konundrum Engine Literary Magazine, The Journal, The Volta, Parthenon West Review,
+  Caliban and many other journals in the U.S. He is also editor of Clade Song. He
+  is the vice president and events coordinator of The Sacramento Poetry Center. He
+  also has a public installation in Sacramento {In Scarcity We Bare The Teeth}. He
+  plays flutes, guitars, ukuleles, charangos and cavaquinhos. He currently teaches
+  at California State University, Sacramento, where he sings lieder while walking
+  on campus between classes."
 ---
 
 **A Gilded Elsewhere**<br>
@@ -70,7 +82,10 @@ market crusade will lead to anything good.<br>
 </div><br>
 <br>
 
-![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)<br>
+![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)
+*Photo credit: Penny Kline*<br>
+<br>
+<br>
 <br>
 
 **The Coffin**<br>
@@ -132,6 +147,8 @@ us to silently view the coffin.<br>
 
 ![Cemetary-min.jpg](/uploads/Cemetary-min.jpg)
 
-[www.timkahl.com](www.timkahl.com)
+*Cover photo courtesy of Kalynn Ocel*
 
-[www.cladesong.com](www.cladesong.com/)
+[http://www.timkahl.com](www.timkahl.com)
+
+[http://www.cladesong.com](www.cladesong.com/)
