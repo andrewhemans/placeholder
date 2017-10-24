@@ -132,6 +132,8 @@ politely talking until it is time for<br>
 us to silently view the coffin.<br>
 </div><br>
 
+![Cemetary-min.jpg](/uploads/Cemetary-min.jpg)
+
 [http://www.timkahl.com](www.timkahl.com)
 
 [http://www.cladesong.com](www.cladesong.com/)
