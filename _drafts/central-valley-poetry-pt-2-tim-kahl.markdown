@@ -73,7 +73,8 @@ market crusade will lead to anything good.<br>
 </div><br>
 <br>
 
-![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)<br>
+![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)
+*Photo credit: Penny Kline*<br>
 <br>
 
 **The Coffin**<br>
@@ -134,6 +135,9 @@ us to silently view the coffin.<br>
 </div><br>
 
 ![Cemetary-min.jpg](/uploads/Cemetary-min.jpg)
+*"Cemetary" by Kalynn Ocel*
+
+*Cover photo courtesy of Kalynn Ocel*
 
 [www.timkahl.com](www.timkahl.com)
 
