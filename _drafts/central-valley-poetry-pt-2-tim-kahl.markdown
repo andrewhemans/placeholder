@@ -30,6 +30,8 @@ author-bio: "Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The
 
 **A Gilded Elsewhere**<br>
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432031&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
 A hedge fund lobbies against a mid-size company.<br>
 It wants more regulation to drive the stock price<br>
 down. The hedge fund is selling it short<br>
@@ -68,6 +70,8 @@ market crusade will lead to anything good.<br>
 <br>
 <br>
 **The Coffin**<br>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432214&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The ritual burial by jurisprudence<br>
 begins during the process of jury selection<br>
