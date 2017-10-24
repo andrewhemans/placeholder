@@ -1,6 +1,6 @@
 ---
 title: Central Valley Poetry Pt. 2— Tim Kahl
-date: 2017-10-24 08:00:00 -07:00
+date: 2017-10-24 13:00:00 -07:00
 categories:
 - Literature
 - Culture
@@ -12,6 +12,7 @@ tags:
 - placeholder magazine
 - A Gilded Elsewhere
 - The Coffin
+image: "/uploads/Cemetary-min.jpg"
 author: Tim Kahl
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
@@ -73,7 +74,7 @@ market crusade will lead to anything good.<br>
 <br>
 **The Coffin**<br>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432214&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432214&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br>
 
 <div style="margin-left: 160px">
 The ritual burial by jurisprudence<br>
