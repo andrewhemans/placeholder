@@ -14,6 +14,8 @@ tags:
 - featured
 image: "/uploads/Cemetary-min.jpg"
 author: Tim Kahl
+description: Capitalism, coffins, domestic abuse, and life. Sacramento's Tim Kahl
+  prodding poetry.
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
 author-bio: Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
