@@ -1,6 +1,6 @@
 ---
 title: Central Valley Poetry Pt. 2— Tim Kahl
-date: 2017-10-19 18:24:00 -07:00
+date: 2017-10-24 08:00:00 -07:00
 author: Tim Kahl
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
