@@ -481,12 +481,11 @@ a.button, a.button:hover, a.button:focus {
 	margin: 0 auto;
 }
 
-.post-content::first-line {
-	/*font-variant-caps: small-caps;*/
+/*.post-content::first-line {
+	font-variant-caps: titling-caps;
 	font-weight: bolder;
 	font-size: 1.25em;
-
-	}
+	}*/
 
 @media screen and (max-width: 39.9375em) {
 	.post-content {
