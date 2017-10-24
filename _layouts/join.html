@@ -114,30 +114,15 @@ layout: join
           </tr>
         </thead>
         <tbody>
-
+          {% for positions in site.positions %}
           <tr>
-            <td><a href="#">Web Design Intern - Remote in Northern California</a></td>
-            <td>Design</td>
+            <td><a href="{{ positions.url }}">{{ positions.title }} - {{ positions.location }}</a></td>
+            <td>{{ positions.circle }}</td>
           </tr>
-
-          <tr>
-            <td><a href="#">Outreach Contributor - Remote in Northern California</a></td>
-            <td>Outreach</td>
-          </tr>
-          <tr>
-            <td><a href="#">Web Design Intern - Remote in Northern California</a></td>
-            <td>Editorial</td>
-          </tr>
+          {% endfor %}
         </tbody>
       </table>
     </div>
-
-    {% for item in site.positions %}
-  <h2>{{ item.title }}</h2>
-  <p>{{ item.description }}</p>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
-{% endfor %}
-
     <div class="main-title join-title">
     </div>
   {% include footer.html %}
