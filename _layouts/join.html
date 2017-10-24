@@ -131,6 +131,13 @@ layout: join
         </tbody>
       </table>
     </div>
+
+    {% for item in site.positions %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
+
     <div class="main-title join-title">
     </div>
   {% include footer.html %}
