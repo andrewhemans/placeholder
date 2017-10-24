@@ -1,24 +1,39 @@
 ---
-title: Central Valley Poetry Pt. 2— Tim Kahl
-date: 2017-10-24 08:00:00 -07:00
+title: Central Valley Poetry Pt. 2 — Tim Kahl
+date: 2017-10-24 13:00:00 -07:00
+categories:
+- Literature
+tags:
+- Tim Kahl
+- Poetry
+- A Gilded Elsewhere
+- The Coffin
+- Central Valley
+- Sacramento
+- Music
+- featured
+image: "/uploads/Cemetary-min.jpg"
 author: Tim Kahl
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
-author-bio: "Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
+author-bio: Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
   of Travel (CW Books, 2012) and The String of Islands (Dink, 2015). His work has
   been published in Prairie Schooner, Drunken Boat, Mad Hatters' Review, Indiana Review,
-  Metazen, Ninth Letter, Sein und Werden, \nNotre Dame Review, The Really System,
-  Konundrum Engine Literary Magazine, The Journal, The Volta, Parthenon West Review,
-  Caliban and many other journals in the U.S. He is also editor of Clade Song. He
-  is the vice president and events coordinator of The Sacramento Poetry Center. He
-  also has a public installation in Sacramento {In Scarcity We Bare The Teeth}. He
-  plays flutes, guitars, ukuleles, charangos and cavaquinhos. He currently teaches
-  at California State University, Sacramento, where he sings lieder while walking
-  on campus between classes."
+  Metazen, Ninth Letter, Sein und Werden, Notre Dame Review, The Really System, Konundrum
+  Engine Literary Magazine, The Journal, The Volta, Parthenon West Review, Caliban
+  and many other journals in the U.S. He is also editor of Clade Song. He is the vice
+  president and events coordinator of The Sacramento Poetry Center. He also has a
+  public installation in Sacramento {In Scarcity We Bare The Teeth}. He plays flutes,
+  guitars, ukuleles, charangos and cavaquinhos. He currently teaches at California
+  State University, Sacramento, where he sings lieder while walking on campus between
+  classes.
 ---
 
 **A Gilded Elsewhere**<br>
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432031&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br>
+
+<div style="margin-left: 160px">
 A hedge fund lobbies against a mid-size company.<br>
 It wants more regulation to drive the stock price<br>
 down. The hedge fund is selling it short<br>
@@ -53,11 +68,17 @@ who are doling out marching orders to<br>
 a gilded elsewhere. Hurry up! Skedaddle.<br>
 There's no time to waste worrying if this<br>
 market crusade will lead to anything good.<br>
+</div><br>
 <br>
+
+![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)<br>
 <br>
-<br>
+
 **The Coffin**<br>
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432214&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br>
+
+<div style="margin-left: 160px">
 The ritual burial by jurisprudence<br>
 begins during the process of jury selection<br>
 where the letter of the law instructs<br>
@@ -108,3 +129,10 @@ in one man's life or maybe another's<br>
 or maybe everyone's as we stand around<br>
 politely talking until it is time for<br>
 us to silently view the coffin.<br>
+</div><br>
+
+![Cemetary-min.jpg](/uploads/Cemetary-min.jpg)
+
+[www.timkahl.com](www.timkahl.com)
+
+[www.cladesong.com](www.cladesong.com/)
