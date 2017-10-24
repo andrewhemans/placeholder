@@ -480,7 +480,7 @@ a.button, a.button:hover, a.button:focus {
 }
 
 .post-content::first-line {
-	font-variant-caps: small-caps;
+	/*font-variant-caps: small-caps;*/
 	font-weight: bolder;
 	font-size: 1.25em;
 
