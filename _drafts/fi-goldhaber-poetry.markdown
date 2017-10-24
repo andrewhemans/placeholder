@@ -1,14 +1,18 @@
 ---
-title: F.I. Goldhaber Poetry
-date: 2017-10-12 13:29:00 -07:00
+title: Free Speech in a Hostile World
+date: 2017-10-26 13:29:00 -07:00
 categories:
 - Literature
 tags:
 - Poetry
 - F.I. Goldhaber
-- placeholder
-- placeholder magazine
-- placeholder mag
+- Free speech
+- Music
+- white supremacy
+- white
+- sailing
+- commencement bay
+- hate speech
 author: F.I. Goldhaber
 ---
 
