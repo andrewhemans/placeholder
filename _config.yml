@@ -2,6 +2,10 @@
 title: Placeholder Magazine
 timezone: America/Los_Angeles
 collections:
+  positions:
+    title: Open Positions
+    output: true
+    permalink: "/positions/:path/"
   posts:
     title: Posts
     output: true
@@ -11,10 +15,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  positions:
-    title: Open Positions
-    output: true
-    permalink: /positions/:path/
 defaults:
 - scope:
     path: ''
@@ -47,7 +47,7 @@ email: placeholdermag@gmail.com
 description: A fiercely independent critical voice covering contemporary arts, culture
   and literature magazine featuring emerging creatives with featured articles, blogs,
   video, and more.
-baseurl:
+baseurl: 
 url: www.placeholdermag.com
 twitter_username: PlaceholderMag
 github_username: andrewhemans
