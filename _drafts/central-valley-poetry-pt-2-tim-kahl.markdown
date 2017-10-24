@@ -12,8 +12,19 @@ tags:
 - placeholder magazine
 - A Gilded Elsewhere
 - The Coffin
+- Spoken word
+- Music
+- poetry and music
+- featured
+- stock market
+- injustice
+- financial pitfalls
+- moral courage
+- judicial system
 image: "/uploads/Cemetary-min.jpg"
 author: Tim Kahl
+description: Financial pitfalls for millennials, investors come out on top, and moral
+  courage within the judicial system. Original poetry by Tim Kahl.
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
 author-bio: "Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
@@ -71,7 +82,8 @@ market crusade will lead to anything good.<br>
 </div><br>
 <br>
 
-![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)<br>
+![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)
+*Photo credit: Penny Kline*<br>
 <br>
 
 **The Coffin**<br>
@@ -132,6 +144,8 @@ us to silently view the coffin.<br>
 </div><br>
 
 ![Cemetary-min.jpg](/uploads/Cemetary-min.jpg)
+
+*Cover photo courtesy of Kalynn Ocel*
 
 [http://www.timkahl.com](www.timkahl.com)
 
