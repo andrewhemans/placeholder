@@ -15,7 +15,7 @@ author-bio: Author of the short story collections "For the Sake of Soul" and "Cr
   Encounters."
 ---
 
-To Create a Sense of Community
+*## To Create a Sense of Community*
 
 To terrify, shock, and dismay
 
@@ -39,7 +39,7 @@ United we falter, fail, fall into common graves
 
 Beyond horror, disbelief, and despair. 
 
-Charlatan
+*## Charlatan*
 
 Comes now, a swaggering troll 
 ejaculating his heinous history

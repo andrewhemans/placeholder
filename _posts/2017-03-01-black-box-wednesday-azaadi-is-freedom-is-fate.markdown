@@ -2,7 +2,7 @@
 title: 'Black Box Wednesday: Azaadi Is Freedom Is Fate'
 date: 2017-03-01 21:32:00 -08:00
 categories:
-- video
+- Video
 tags:
 - Music
 - bay area

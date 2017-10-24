@@ -2,7 +2,7 @@
 title: "[NSFW] Forage"
 date: 2017-03-06 10:53:00 -08:00
 categories:
-- art
+- Art
 - Culture
 tags:
 - Art
