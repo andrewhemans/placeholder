@@ -1,6 +1,17 @@
 ---
 title: Central Valley Poetry Pt. 2— Tim Kahl
 date: 2017-10-24 08:00:00 -07:00
+categories:
+- Literature
+- Culture
+tags:
+- Tim Kahl
+- Poetry
+- placeholder
+- placeholder mag
+- placeholder magazine
+- A Gilded Elsewhere
+- The Coffin
 author: Tim Kahl
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
