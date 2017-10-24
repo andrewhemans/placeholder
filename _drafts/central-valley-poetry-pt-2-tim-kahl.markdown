@@ -30,8 +30,9 @@ author-bio: "Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The
 
 **A Gilded Elsewhere**<br>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432031&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432031&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br>
 
+<div style="margin-left: 160px">
 A hedge fund lobbies against a mid-size company.<br>
 It wants more regulation to drive the stock price<br>
 down. The hedge fund is selling it short<br>
@@ -66,6 +67,7 @@ who are doling out marching orders to<br>
 a gilded elsewhere. Hurry up! Skedaddle.<br>
 There's no time to waste worrying if this<br>
 market crusade will lead to anything good.<br>
+</div><br>
 <br>
 <br>
 <br>
@@ -73,6 +75,7 @@ market crusade will lead to anything good.<br>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432214&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
+<div style="margin-left: 160px">
 The ritual burial by jurisprudence<br>
 begins during the process of jury selection<br>
 where the letter of the law instructs<br>
@@ -123,3 +126,8 @@ in one man's life or maybe another's<br>
 or maybe everyone's as we stand around<br>
 politely talking until it is time for<br>
 us to silently view the coffin.<br>
+</div><br>
+
+[http://www.timkahl.com](www.timkahl.com)
+
+[http://www.cladesong.com](www.cladesong.com/)
