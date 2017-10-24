@@ -13,6 +13,9 @@ tags:
 - sailing
 - commencement bay
 - hate speech
+- transgender
+- nazi
+- travel
 author: F.I. Goldhaber
 ---
 
