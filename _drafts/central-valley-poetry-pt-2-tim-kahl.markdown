@@ -12,10 +12,18 @@ tags:
 - Sacramento
 - Music
 - featured
+- placeholder
+- placeholder mag
+- placeholder magazine
+- poetry and music
+- financial insecurity
+- moral courage
+- injustice
+- judicial system
 image: "/uploads/Cemetary-min.jpg"
 author: Tim Kahl
-description: Capitalism, coffins, domestic abuse, and life. Sacramento's Tim Kahl
-  prodding poetry.
+description: Financial pitfalls for millennials, investors come out on top, and moral
+  courage within the judicial system. Original poetry by Tim Kahl.
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
 author-bio: Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
