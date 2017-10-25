@@ -1,7 +1,7 @@
 ---
 title: Graphic Design Intern
 permalink: "/design-intern/"
-image: "/uploads/about-min.jpg"
+image: "/uploads/bg.jpg"
 circle: Design
 location: Remote in Northern California
 layout: page
