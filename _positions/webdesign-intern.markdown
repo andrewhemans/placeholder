@@ -1,30 +1,29 @@
 ---
-title: Graphic Design Intern
-permalink: "/design-intern/"
+title: Web Design Intern
+permalink: "/web-intern/"
 image: "/uploads/bg.jpg"
 circle: Design
 location: Remote in Northern California
 layout: position
 ---
 
-## Graphic Design Intern
+## Web Design Intern
 
 Be part of a movement: join a local, innovative and community-driven arts organization! Placeholder Magazine is an independent critical voice covering contemporary arts, culture, and literature. We are a Central Valley based non-profit arts organization led entirely by volunteers. Through print and digital mediums, we provide an accessible forum for diverse voices as well as energize and activate young leaders through artistic practice, collaborative and collective decision making, and community-based projects locally and beyond.
 
 ## What you will do
-* Create graphics to support Placeholder campaigns and events.
+* Create designs for the Placeholder website.
 * Manage and track your own projects and deadlines.
-* Design graphics for print, (e.g., fliers, posters, handbooks, etc.)
-* Design graphics for web, (e.g., infographics, email headers, illustrations for articles, etc.)
+* Work with the design team to develop new features and enhancements for the website.
+
 
 ## Your skills
-* Experience with design programs such as Sketch, Illustrator, and other Adobe Products.
+* Experience with the design programs such as Sketch, or the ability to learn.
 * Knowledge of design fundamentals, layout, typography, color, etc.
 * Ability to make creative decisions independently, as well as take direction from others
 
 ## What you will learn
 * Best practices design for the modern web.
-* How to work with an established brand to support the larger organization.
 * How to work within a multidisciplinary team on combined and independent projects.
 * Initiate and innovate! We encourage ideas and suggestions!
 
@@ -36,4 +35,4 @@ Placeholder Magazine is an all-volunteer not-for-profit organization, this inter
 
 <br>
 <br>
-  <center><a href="https://goo.gl/forms/7l9FMyeCbPxRB8Yj1" class="button join-button">Apply Now</a></center>
+  <center><a href="https://goo.gl/forms/GQuEUBw3F28I88fm2" class="button join-button">Apply Now</a></center>
