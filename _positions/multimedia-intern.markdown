@@ -2,7 +2,7 @@
 title: Multimedia Intern
 permalink: "/multimedia-intern/"
 image: "/uploads/about-min.jpg"
-layout: page
+layout: position
 circle: Editorial
 location: Remote in Northern California
 ---

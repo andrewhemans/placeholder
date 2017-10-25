@@ -2,7 +2,7 @@
 title: Journalism Intern
 permalink: "/journalism-intern/"
 image: "/uploads/about-min.jpg"
-layout: page
+layout: position
 circle: Editorial
 location: Remote in Northern California
 ---
