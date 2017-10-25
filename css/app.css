@@ -1076,3 +1076,33 @@ ul.line-separated
 	a.post-tag {
 		margin-right: 50px;
 	}
+
+	/*Position Content*/
+
+	.position-content {
+	  max-width: 800px;
+	  position: relative;
+	  padding: 80px 50px 50px 50px;
+	  font-size: 20px;
+		margin: 0 auto;
+	}
+
+	.position-content > p {
+		font-family: 'proxima-nova', sans-serif;
+		font-weight: 300;
+		font-size: .85em;
+	}
+
+	.position-content > ul {
+		font-family: 'proxima-nova', sans-serif;
+		font-weight: 300;
+		font-size: .85em;
+	}
+
+
+
+	@media screen and (max-width: 39.9375em) {
+		.position-content {
+			padding: 30px 24px;
+		}
+	}

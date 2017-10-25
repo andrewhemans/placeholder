@@ -4,7 +4,7 @@ permalink: "/design-intern/"
 image: "/uploads/bg.jpg"
 circle: Design
 location: Remote in Northern California
-layout: page
+layout: position
 ---
 
 ## Graphic Design Intern
@@ -14,13 +14,9 @@ Be part of a movement: join a local, innovative and community-driven arts organi
 ## Qualifications:
 
 * Experience with DSLR photography and videography
-
 * Experience with video production and video editing
-
 * Should be proficient in nonlinear video editing software, such as Final Cut Pro or Adobe Premiere Pro (Photoshop and After Effects is a plus)
-
 * Having his/her own DSLR with HD video capabilities is preferred, but not required
-
 * Ability to make creative decisions independently, as well as take direction from others
 
 ## Responsibilities:
@@ -41,8 +37,9 @@ Be part of a movement: join a local, innovative and community-driven arts organi
 
 Placeholder Magazine is an all-volunteer not-for-profit organization, so this internship is unpaid. We highly encourage students who can receive academic credit to apply. You will gain experience in marketing, online content creation, writing, and the operations of an innovative, community-driven organization. You will also get to meet, network, and collaborate with other creatives. We are based in Stockton but have members throughout the state and beyond. *We strongly encourage women and people of color to apply.*
 
-## How to apply:
 
-Send a resume, relevant samples of your work, and a short paragraph introducing yourself and why you’d like to intern with Placeholder to [intern@placeholdermag.com](mailto:intern@placeholdermag.com), with the subject "Multimedia Intern."
+<br>
+<br>
+  <center><a href="https://goo.gl/forms/7l9FMyeCbPxRB8Yj1" class="button join-button">Apply Now</a></center>
 
-  <center><a href="https://goo.gl/forms/7l9FMyeCbPxRB8Yj1" class="button">Apply Now</a></center>
+  
