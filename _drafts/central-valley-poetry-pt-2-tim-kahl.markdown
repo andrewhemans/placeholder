@@ -1,6 +1,6 @@
 ---
 title: Central Valley Poetry Pt. 2 — Tim Kahl
-date: 2017-10-24 13:00:00 -07:00
+date: 2017-10-25 13:00:00 -07:00
 categories:
 - Literature
 tags:
@@ -12,10 +12,18 @@ tags:
 - Sacramento
 - Music
 - featured
+- placeholder
+- placeholder mag
+- placeholder magazine
+- poetry and music
+- financial insecurity
+- moral courage
+- injustice
+- judicial system
 image: "/uploads/Cemetary-min.jpg"
 author: Tim Kahl
-description: Capitalism, coffins, domestic abuse, and life. Sacramento's Tim Kahl
-  prodding poetry.
+description: Financial pitfalls for millennials, investors come out on top, and moral
+  courage within the judicial system. Original poetry by Tim Kahl.
 author-block: true
 author-image: "/uploads/TimAnselmKiefer-min.JPG"
 author-bio: Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The Century
@@ -35,7 +43,7 @@ author-bio: Tim Kahl is the author of Possessing Yourself (CW Books, 2009), The 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432031&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br>
 
-<div style="margin-left: 160px">
+<div style="max-width: 460px; margin: 0 auto;">
 A hedge fund lobbies against a mid-size company.<br>
 It wants more regulation to drive the stock price<br>
 down. The hedge fund is selling it short<br>
@@ -73,14 +81,15 @@ market crusade will lead to anything good.<br>
 </div><br>
 <br>
 
-![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)<br>
+![vernalpool4-min.jpg](/uploads/vernalpool4-min.jpg)
+*Photo credit: Penny Kline*<br>
 <br>
 
 **The Coffin**<br>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347432214&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br>
 
-<div style="margin-left: 160px">
+<div style="max-width: 460px; margin: 0 auto;">
 The ritual burial by jurisprudence<br>
 begins during the process of jury selection<br>
 where the letter of the law instructs<br>
@@ -134,6 +143,9 @@ us to silently view the coffin.<br>
 </div><br>
 
 ![Cemetary-min.jpg](/uploads/Cemetary-min.jpg)
+*"Cemetary" by Kalynn Ocel*
+
+*Cover photo courtesy of Kalynn Ocel*
 
 [www.timkahl.com](www.timkahl.com)
 

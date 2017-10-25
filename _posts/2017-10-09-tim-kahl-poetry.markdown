@@ -44,7 +44,7 @@ author-bio: Tim Kahl [http://www.timkahl.com] is the author of Possessing Yourse
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343775777&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><br>
 
-<div style="margin-left: 160px">
+<div style="max-width: 460px; margin: 0 auto;">
 The night rain intrudes slowly<br>
 like a remote acquaintance offering<br>
 an opportunity from afar. A man arrives<br>
@@ -107,7 +107,7 @@ Those of us who grew up in The Valley always bring our permits wherever we go. W
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344287776&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><br>
 
-<div style="margin-left: 160px">
+<div style="max-width: 460px; margin: 0 auto;">
 It's as though the city center has withstood<br>
 wave after wave of ransacking Visigoths,<br>
 like it has fended off the envy of an angry Folsom,<br>
