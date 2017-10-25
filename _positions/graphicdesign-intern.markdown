@@ -2,9 +2,9 @@
 title: Graphic Design Intern
 permalink: "/design-intern/"
 image: "/uploads/about-min.jpg"
-layout: page
 circle: Design
 location: Remote in Northern California
+layout: page
 ---
 
 ## Graphic Design Intern
@@ -44,3 +44,5 @@ Placeholder Magazine is an all-volunteer not-for-profit organization, so this in
 ## How to apply:
 
 Send a resume, relevant samples of your work, and a short paragraph introducing yourself and why you’d like to intern with Placeholder to [intern@placeholdermag.com](mailto:intern@placeholdermag.com), with the subject "Multimedia Intern."
+
+  <center><a href="https://goo.gl/forms/7l9FMyeCbPxRB8Yj1" class="button">Apply Now</a></center>
