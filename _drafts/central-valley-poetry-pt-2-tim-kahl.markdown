@@ -1,6 +1,6 @@
 ---
 title: Central Valley Poetry Pt. 2 — Tim Kahl
-date: 2017-10-24 13:00:00 -07:00
+date: 2017-10-25 13:00:00 -07:00
 categories:
 - Literature
 tags:
