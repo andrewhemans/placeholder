@@ -12,8 +12,8 @@ tags:
 author: Frederick Foote
 author-block: true
 author-image: "/uploads/FFoote-pic.jpg"
-author-bio: Author of the short story collections "For the Sake of Soul" and "Crossroads
-  Encounters."
+author-bio: Frederick K. Foote Jr. is the author of the short story collections "For
+  the Sake of Soul" and "Crossroads Encounters."
 ---
 
 *## To Create a Sense of Community*
@@ -67,3 +67,6 @@ bringing us
 Face to face
 again.
 
+[For the Sake of Soul](https://www.amazon.com/Sake-Soul-Frederick-Foote-Jr/dp/0984435069/ref=sr_1_1?s=books&ie=UTF8&qid=1478112379&sr=1-1&keywords=For+the+Sake+of+Soul)
+
+[Crossroads Encounters](https://www.amazon.com/Crossroads-Encounters-Frederick-Foote/dp/0692650415/ref=sr_1_1?s=books&ie=UTF8&qid=1509068120&sr=1-1&keywords=Crossroads+Encounters+frederick+foote)
