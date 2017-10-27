@@ -9,8 +9,15 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+- The Ice Machine
+image: "/uploads/ice%20machine%203.jpg"
 author: Teige Weidner
 author-block: true
+author-image: "/uploads/Teige-Weidner-bio-pic.jpg"
+author-bio: 'Teige Weidner lives in Portland, OR with his son and pregnant wife. He
+  is an active member of the Willamette Writers and spends his days working in the
+  Outdoor industry. His other work can be found in the October issue of Perspectives
+  Magazine and the November issue of the Longridge Review. '
 ---
 
 I bet she’s with him right now. I’d bet my life on it. I’m sure she called in sick to work. She never did that for me. She’d always talk about responsibility and all the things that couldn’t wait for our messing around. Now I know the truth. She didn’t want to spend the time with me. The least she could have done was say it. She owed me that. Honesty is a thing of the past. Now we’re all Instagram perfect.  
