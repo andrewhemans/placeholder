@@ -28,7 +28,7 @@ author-bio: F.I. Goldhaber's words capture people, places, and events with a pho
   reviews for newspapers, corporations, governments, and non-profits in five states.
   Now her poetry, fiction, and essays appear in paper, electronic, and audio magazines,
   books, newspapers, calendars, anthologies, and street signs.  Her fourth collection,
-  Food ? Family ? Friends explores how those three things send us feasting, flinching,
+  "Food ? Family ? Friends" explores how those three things send us feasting, flinching,
   and/or frolicking through life.
 ---
 
@@ -133,9 +133,9 @@ until the Gestapo comes for you?<br>
 
 **Lessons from Martin Niemöller**
 
-*Epigraph: 
-	"First they came for the Socialists, and I did not speak out—
-	Because I was not a Socialist."
+*Epigraph:*
+	*"First they came for the Socialists, and I did not speak out—*
+	*Because I was not a Socialist."*
 
 Thousands of unarmed, dark-skinned men shot by police.<br>
 You've done nothing, your skin is white.<br>
@@ -169,7 +169,7 @@ will you do when they come for you?<br>
 <br>
 <br>
 
-[Website](http://www.goldhaber.net/)
+[F.I. Goldhaber Website](http://www.goldhaber.net/)
 
 [Twitter](http://twitter.com/PNWwriting)
 
