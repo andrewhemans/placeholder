@@ -48,7 +48,7 @@ Beyond horror, disbelief, and despair.<br>
 <br>
 <br>
 
-[FFoote-pic2.JPG](/uploads/FFoote-pic2.JPG)
+![FFoote-pic2.JPG](/uploads/FFoote-pic2.JPG)
 
 **Charlatan**
 
