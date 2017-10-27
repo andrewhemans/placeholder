@@ -17,7 +17,7 @@ author-bio: Frederick K. Foote Jr. is the author of the short story collections 
   the Sake of Soul" and "Crossroads Encounters."
 ---
 
-*## To Create a Sense of Community*
+**To Create a Sense of Community**
 
 To terrify, shock, and dismay
 
@@ -41,7 +41,7 @@ United we falter, fail, fall into common graves
 
 Beyond horror, disbelief, and despair. 
 
-*## Charlatan*
+**Charlatan**
 
 Comes now, a swaggering troll 
 ejaculating his heinous history
