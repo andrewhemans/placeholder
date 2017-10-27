@@ -133,8 +133,8 @@ until the Gestapo comes for you?<br>
 
 **Lessons from Martin Niemöller**
 
-*Epigraph:*
-	*"First they came for the Socialists, and I did not speak out—*
+*Epigraph:*<br>
+	*"First they came for the Socialists, and I did not speak out—*<br>
 	*Because I was not a Socialist."*
 
 Thousands of unarmed, dark-skinned men shot by police.<br>
