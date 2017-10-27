@@ -78,13 +78,14 @@ Face to face<br>
 again.
 <br>
 <br>
-<br>
 
 [fkfoote.wordpress.com](//fkfoote.wordpress.com/)
 
 [For the Sake of Soul](https://www.amazon.com/Sake-Soul-Frederick-Foote-Jr/dp/0984435069/ref=sr_1_1?s=books&ie=UTF8&qid=1478112379&sr=1-1&keywords=For+the+Sake+of+Soul)
 
 [Crossroads Encounters](https://www.amazon.com/Crossroads-Encounters-Frederick-Foote/dp/0692650415/ref=sr_1_1?s=books&ie=UTF8&qid=1509068120&sr=1-1&keywords=Crossroads+Encounters+frederick+foote)
+<br>
+<br>
 
 *Photography courtesy of Beth Marie*<br>
 Instagram: [https://www.instagram.com/beth.marie.photo/](https://www.instagram.com/beth.marie.photo/)
