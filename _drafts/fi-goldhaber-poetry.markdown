@@ -32,138 +32,145 @@ author-bio: F.I. Goldhaber's words capture people, places, and events with a pho
   and/or frolicking through life.
 ---
 
-Braving a Hostile World
+**Braving a Hostile World**
 
-Your hands trembled as you handed me 
-the piece of paper, with a recent 
-date, explaining why your state ID 
-incorrectly said you were male. My 
-heart ached for you, in your late fifties, 
-finally able to come to terms 
-with who you are in the face of a 
-hostile world. How brave not to let that 
-condescending letter stop you from 
-enjoying an afternoon sailing, 
-despite security theater 
-forcing you to reveal personal 
-conflicts to a complete stranger. I 
-read the letter, even though I knew 
-what it said, to honor your struggle, 
-knowing how you must have debated 
-whether to forfeit your afternoon 
-adventure rather than share it. But 
-I shushed your whispered explanation, 
-assuring you I understood. I 
-took extra care with your paperwork, 
-so there would be no chance you would have 
-to extricate that missive from your 
-pocketbook again. Handing it back, 
-I complimented your stylish suit, 
-acknowledging the effort you had 
-put into your appearance on this 
-special day, and wished you bon voyage. 
-I was grateful you lucked upon my 
-post, rather than the volunteer at 
-the next table, with the two-inch cross 
-hanging from a chain around his neck, 
-and hoped the sailors would treat you as 
-kindly as they did any of the other 
-older ladies who came aboard. As 
-the world has changed in the decade since, I 
-occasionally wonder how it 
-has treated you. Did your family 
-accept you or turn you away? Did
-you keep the job that allowed you to
-purchase an elegant new wardrobe?
-Have you taken time, now and then, to 
-have fun, to indulge in a few hours
-pleasant diversion, perhaps on a 
-ship sailing across Commencement Bay?
+Your hands trembled as you handed me<br> 
+the piece of paper, with a recent<br> 
+date, explaining why your state ID<br> 
+incorrectly said you were male. My<br> 
+heart ached for you, in your late fifties,<br> 
+finally able to come to terms<br>
+with who you are in the face of a<br> 
+hostile world. How brave not to let that<br> 
+condescending letter stop you from<br>
+enjoying an afternoon sailing,<br>
+despite security theater<br>
+forcing you to reveal personal<br>
+conflicts to a complete stranger. I<br>
+read the letter, even though I knew<br>
+what it said, to honor your struggle,<br>
+knowing how you must have debated<br>
+whether to forfeit your afternoon<br> 
+adventure rather than share it. But<br> 
+I shushed your whispered explanation,<br> 
+assuring you I understood. I<br>
+took extra care with your paperwork,<br>
+so there would be no chance you would have<br>
+to extricate that missive from your<br>
+pocketbook again. Handing it back,<br>
+I complimented your stylish suit,<br> 
+acknowledging the effort you had<br>
+put into your appearance on this<br>
+special day, and wished you bon voyage.<br>
+I was grateful you lucked upon my<br>
+post, rather than the volunteer at<br>
+the next table, with the two-inch cross<br>
+hanging from a chain around his neck,<br> 
+and hoped the sailors would treat you as<br>
+kindly as they did any of the other<br>
+older ladies who came aboard. As<br>
+the world has changed in the decade since, I<br>
+occasionally wonder how it<br>
+has treated you. Did your family<br>
+accept you or turn you away? Did<br>
+you keep the job that allowed you to<br>
+purchase an elegant new wardrobe?<br>
+Have you taken time, now and then, to<br>
+have fun, to indulge in a few hours<br>
+pleasant diversion, perhaps on a<br>
+ship sailing across Commencement Bay?<br>
+<br>
+<br>
 
+**Hate Speech ≠ Free Speech**
 
-Hate Speech ≠ Free Speech
+Hate speech is not free speech when it drowns<br>
+out the voices of others; when it's<br>
+used to harass those with darker skin;<br>
+when it incites violence, murder.<br>
 
-Hate speech is not free speech when it drowns 
-out the voices of others; when it's 
-used to harass those with darker skin;
-when it incites violence, murder. 
+I'd abandoned your institution<br>
+long ago, because you were always<br>
+so eager to defend nazis' and<br>
+white supremacists' right to free speech.<br>
 
-I'd abandoned your institution 
-long ago, because you were always
-so eager to defend nazis' and
-white supremacists' right to free speech.
+Your organization ignores the<br>
+impact of white privilege on the<br>
+conversation; trauma inflicted<br>
+on POC targets of hatred.<br>
 
-Your organization ignores the 
-impact of white privilege on the 
-conversation; trauma inflicted
-on POC targets of hatred.
+But after the election when you<br>
+jumped to fight for immigrants, and geared<br>
+up to oppose the tyrant in the<br>
+White House, I forgave past transgressions.<br>
 
-But after the election when you 
-jumped to fight for immigrants, and geared
-up to oppose the tyrant in the 
-White House, I forgave past transgressions. 
+My mistake. For only weeks after<br>
+I rejoined, you again defended<br>
+the indefensible — the "right" to<br>
+incite violence with hate speech.<br>
 
-My mistake. For only weeks after 
-I rejoined, you again defended 
-the indefensible — the "right" to 
-incite violence with hate speech.
+Just nine days after, one of their own<br>
+slaughtered two men and wounded a third,<br>
+because they dared to stand between him<br>
+and the recipients of his hate.<br>
 
-Just nine days after, one of their own 
-slaughtered two men and wounded a third,
-because they dared to stand between him 
-and the recipients of his hate.
+You stood up to fortify fascist<br>
+falsehoods, sanctioning the lie that their<br>
+rally had anything to do with<br>
+"free speech," when it was all about hate.<br>
 
-You stood up to fortify fascist
-falsehoods, sanctioning the lie that their
-rally had anything to do with 
-"free speech," when it was all about hate.
+Now, you have more blood on your hands, for<br>
+enabling a rally that turned deadly,<br>
+defending nazis' "rights" to hold a<br>
+city hostage, attack its people.<br>
 
-Now, you have more blood on your hands, for
-enabling a rally that turned deadly, 
-defending nazis' "rights" to hold a
-city hostage, attack its people.
+Will you send representatives to<br>
+funerals, compensate families?<br>
+Or will you ignore the hateful truth<br>
+until the Gestapo comes for you?<br>
+<br>
+<br>
 
-Will you send representatives to 
-funerals, compensate families?
-Or will you ignore the hateful truth
-until the Gestapo comes for you?
+**Lessons from Martin Niemöller**
 
-
-
-Lessons from Martin Niemöller
-
-Epigraph: 
+*Epigraph: 
 	"First they came for the Socialists, and I did not speak out—
 	Because I was not a Socialist."
 
-Thousands of unarmed, dark-skinned men shot by police.
-You've done nothing, your skin is white.
+Thousands of unarmed, dark-skinned men shot by police.<br>
+You've done nothing, your skin is white.<br>
 
-Hundreds of mentally ill of all colors killed.
-You've done nothing, your mind is clear.
+Hundreds of mentally ill of all colors killed.<br>
+You've done nothing, your mind is clear.<br>
 
-Police murdered a white woman who called for help.
-You'll do nothing, she's Australian.
+Police murdered a white woman who called for help.<br>
+You'll do nothing, she's Australian.<br>
 
-We demanded police wear body cameras 
-and paid millions to purchase them.
+We demanded police wear body cameras<br> 
+and paid millions to purchase them.<br>
 
-But those cameras always seem to "malfunction"
-when the truth is inconvenient.
+But those cameras always seem to "malfunction"<br>
+when the truth is inconvenient.<br>
 
-Officer Friendly has disappeared, replaced by 
-urban soldiers equipped for war.
+Officer Friendly has disappeared, replaced by<br>
+urban soldiers equipped for war.<br>
 
-When all those in uniform are hammers, 
-the rest of us look just like nails.
+When all those in uniform are hammers,<br>
+the rest of us look just like nails.<br>
 
-You ignored the lessons of history, voted 
-for a madman's fascist regime.
+You ignored the lessons of history, voted<br>
+for a madman's fascist regime.<br>
 
-You chose white supremacy, rather than accept
-cultural change, social progress.
+You chose white supremacy, rather than accept<br>
+cultural change, social progress.<br>
 
-You've remained silent or excused the attacks. What
-will you do when they come for you?
+You've remained silent or excused the attacks. What<br>
+will you do when they come for you?<br>
+<br>
+<br>
 
+[Website](http://www.goldhaber.net/)
 
+[Twitter](http://twitter.com/PNWwriting)
+
+[Facebook](http://www.facebook.com/goldhaber)
