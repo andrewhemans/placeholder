@@ -19,6 +19,7 @@ tags:
 - Braving a Hostile World
 - Hate Speech ≠ Free Speech
 - Lessons from Martin Niemöller
+image: "/uploads/TProtest-1-7.jpg"
 author: F.I. Goldhaber
 author-block: true
 author-image: "/uploads/F.I.%20Goldhaber%20Avatar.jpg"
@@ -81,6 +82,8 @@ pleasant diversion, perhaps on a<br>
 ship sailing across Commencement Bay?<br>
 <br>
 <br>
+
+![TProtest-1-2.jpg](/uploads/TProtest-1-2.jpg)
 
 **Hate Speech ≠ Free Speech**
 
