@@ -1,6 +1,6 @@
 ---
-title: Free Speech in a Hostile World
-date: 2017-10-26 13:29:00 -07:00
+title: F.I. Goldhaber Poetry
+date: 2017-11-02 13:00:00 -07:00
 categories:
 - Literature
 tags:
@@ -16,7 +16,20 @@ tags:
 - transgender
 - nazi
 - travel
+- Braving a Hostile World
+- Hate Speech ≠ Free Speech
+- Lessons from Martin Niemöller
 author: F.I. Goldhaber
+author-block: true
+author-image: "/uploads/F.I.%20Goldhaber%20Avatar.jpg"
+author-bio: F.I. Goldhaber's words capture people, places, and events with a photographer's
+  eye and a poet's soul. As a reporter, editor, business writer, and marketing communications
+  consultant, she produced news stories, feature articles, editorial columns, and
+  reviews for newspapers, corporations, governments, and non-profits in five states.
+  Now her poetry, fiction, and essays appear in paper, electronic, and audio magazines,
+  books, newspapers, calendars, anthologies, and street signs.  Her fourth collection,
+  Food ? Family ? Friends explores how those three things send us feasting, flinching,
+  and/or frolicking through life.
 ---
 
 Braving a Hostile World
