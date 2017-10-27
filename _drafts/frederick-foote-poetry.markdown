@@ -1,6 +1,6 @@
 ---
 title: Frederick Foote Poetry
-date: 2017-09-30 21:16:00 -07:00
+date: 2017-10-28 12:00:00 -07:00
 categories:
 - Literature
 tags:
@@ -9,6 +9,8 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+- To Create a Sense of Community
+- Charlatan
 image: "/uploads/FFoote-pic1.JPG"
 author: Frederick Foote
 author-block: true
