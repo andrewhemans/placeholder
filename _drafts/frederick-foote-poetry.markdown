@@ -15,10 +15,10 @@ image: "/uploads/FFoote-pic1.JPG"
 author: Frederick Foote
 author-block: true
 author-image: "/uploads/FFoote-pic.jpg"
-author-bio: |-
-  Since 2014 Frederick has published over hundred-fifty stories and poems including literary, science fiction, fables, and horror genres. Frederick has published two short story collections, For the Sake of Soul, (2015) and, Crossroads Encounters, (2016).
-
-  To see a list of Frederick’s publications, go to https://fkfoote.wordpress.com/.
+author-bio: Since 2014 Frederick has published over hundred-fifty stories and poems
+  including literary, science fiction, fables, and horror genres. Frederick has published
+  two short story collections, For the Sake of Soul, (2015) and, Crossroads Encounters,
+  (2016). To see a list of Frederick’s publications, go to fkfoote.wordpress.com.
 ---
 
 **To Create a Sense of Community**
@@ -48,7 +48,8 @@ Beyond horror, disbelief, and despair.<br>
 <br>
 <br>
 
-![FFoote-pic2.JPG](/uploads/FFoote-pic2.JPG)
+![FFoote-pic2.JPG](/uploads/FFoote-pic2.JPG)<br>
+<br>
 
 **Charlatan**
 
