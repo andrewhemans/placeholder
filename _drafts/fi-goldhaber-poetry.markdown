@@ -134,8 +134,8 @@ until the Gestapo comes for you?<br>
 **Lessons from Martin Niemöller**
 
 *Epigraph:*<br>
-	*"First they came for the Socialists, and I did not speak out—*<br>
-	*Because I was not a Socialist."*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"First they came for the Socialists, and I did not speak out—*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Because I was not a Socialist."*
 
 Thousands of unarmed, dark-skinned men shot by police.<br>
 You've done nothing, your skin is white.<br>
