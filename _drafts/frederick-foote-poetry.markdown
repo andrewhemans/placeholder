@@ -11,8 +11,11 @@ tags:
 - placeholder magazine
 - To Create a Sense of Community
 - Charlatan
+- Community
 image: "/uploads/FFoote-pic1.JPG"
 author: Frederick Foote
+description: "Poetry by Frederick Foote. Communities full of justified violence, \nor
+  senseless destruction? Alter egos of nightmarish level."
 author-block: true
 author-image: "/uploads/FFoote-pic.jpg"
 author-bio: Since 2014 Frederick has published over hundred-fifty stories and poems
