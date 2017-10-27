@@ -47,6 +47,9 @@ Beyond horror, disbelief, and despair.<br>
 <br>
 <br>
 <br>
+
+[FFoote-pic2.JPG](/uploads/FFoote-pic2.JPG)
+
 **Charlatan**
 
 Comes now, a swaggering troll<br> 
@@ -77,7 +80,7 @@ again.
 <br>
 <br>
 
-[//fkfoote.wordpress.com/](//fkfoote.wordpress.com/)
+[fkfoote.wordpress.com](//fkfoote.wordpress.com/)
 
 [For the Sake of Soul](https://www.amazon.com/Sake-Soul-Frederick-Foote-Jr/dp/0984435069/ref=sr_1_1?s=books&ie=UTF8&qid=1478112379&sr=1-1&keywords=For+the+Sake+of+Soul)
 
