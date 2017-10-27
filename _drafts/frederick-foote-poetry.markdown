@@ -25,51 +25,53 @@ author-bio: |-
 
 To terrify, shock, and dismay
 
-To create landscapes of bleeding corpses 
+To create landscapes of bleeding corpses<br>
 and scarlet fields of mangled body parts
 
 To recreate your homelands in distant places
 
-To unite us all in a web of blood and treachery
+To unite us all in a web of blood and treachery<br>
 To sew tight the threads of death and destruction
 
-To sing the praises of bombs, missiles, and poison gas
+To sing the praises of bombs, missiles, and poison gas<br>
 To shout the patriotic prayers of justification and canonization 
 
-To celebrate in the common language of violence
-To create unsustainable communities
+To celebrate in the common language of violence<br>
+To create unsustainable communities<br>
 of suffering, rage, and fear
 
-To create the ties that bind in communal carnage
+To create the ties that bind in communal carnage<br>
 United we falter, fail, fall into common graves
 
-Beyond horror, disbelief, and despair. 
-
+Beyond horror, disbelief, and despair.<br> 
+<br>
+<br>
+<br>
 **Charlatan**
 
-Comes now, a swaggering troll 
-ejaculating his heinous history
+Comes now, a swaggering troll<br> 
+ejaculating his heinous history<br>
 retold as the hero’s glorious march
 
-An assailant in political cloth
-claiming a lecherous license
+An assailant in political cloth<br>
+claiming a lecherous license<br>
 an ogre of boorish tradition
 
-Our self-impaled 
+Our self-impaled<br> 
 crass concrete cross
 
-Our hypodermic 
+Our hypodermic<br> 
 crown of opiate thorns
 
-Our nightmare 
-reality show 
+Our nightmare<br> 
+reality show<br> 
 revelation
 
-Exposing our Janus
-faced alter egos
+Exposing our Janus<br>
+faced alter egos<br>
 bringing us
 
-Face to face
+Face to face<br>
 again.
 <br>
 <br>
