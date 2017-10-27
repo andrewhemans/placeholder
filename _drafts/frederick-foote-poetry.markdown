@@ -13,8 +13,10 @@ image: "/uploads/FFoote-pic1.JPG"
 author: Frederick Foote
 author-block: true
 author-image: "/uploads/FFoote-pic.jpg"
-author-bio: Frederick K. Foote Jr. is the author of the short story collections "For
-  the Sake of Soul" and "Crossroads Encounters."
+author-bio: |-
+  Since 2014 Frederick has published over hundred-fifty stories and poems including literary, science fiction, fables, and horror genres. Frederick has published two short story collections, For the Sake of Soul, (2015) and, Crossroads Encounters, (2016).
+
+  To see a list of Frederick’s publications, go to https://fkfoote.wordpress.com/.
 ---
 
 **To Create a Sense of Community**
@@ -67,6 +69,11 @@ bringing us
 
 Face to face
 again.
+<br>
+<br>
+<br>
+
+[//fkfoote.wordpress.com/](//fkfoote.wordpress.com/)
 
 [For the Sake of Soul](https://www.amazon.com/Sake-Soul-Frederick-Foote-Jr/dp/0984435069/ref=sr_1_1?s=books&ie=UTF8&qid=1478112379&sr=1-1&keywords=For+the+Sake+of+Soul)
 
