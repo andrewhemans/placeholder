@@ -11,6 +11,7 @@ tags:
 - placeholder magazine
 author: Frederick Foote
 author-block: true
+author-image: "/uploads/FFoote-pic.jpg"
 author-bio: Author of the short story collections "For the Sake of Soul" and "Crossroads
   Encounters."
 ---
