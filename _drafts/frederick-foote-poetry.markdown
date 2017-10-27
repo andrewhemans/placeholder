@@ -9,6 +9,7 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+image: "/uploads/FFoote-pic1.JPG"
 author: Frederick Foote
 author-block: true
 author-image: "/uploads/FFoote-pic.jpg"
