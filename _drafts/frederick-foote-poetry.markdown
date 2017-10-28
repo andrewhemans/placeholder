@@ -12,6 +12,9 @@ tags:
 - To Create a Sense of Community
 - Charlatan
 - Community
+- destruction
+- alter egos
+- social issues
 image: "/uploads/FFoote-pic1.JPG"
 author: Frederick Foote
 description: "Poetry by Frederick Foote. Communities full of justified violence, \nor
