@@ -25,42 +25,42 @@ author-bio: Jonathan Travelstead served in the Air Force National Guard for six 
 The Book of Leah
 
 wants a Les Paul in sunburst mahogany for its cover,<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secured with string, nickel-wound. The Book of Leah 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secured with string, nickel-wound. The Book of Leah 
 
 is sheafed with mosaics, pencilled on napkins like clovers<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pressed smooth between the pages' cream, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pressed smooth between the pages' cream, 
 
 rainbowed in Prismacolor. The Book doesn't say what you<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know, that when Leah climbs out 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know, that when Leah climbs out 
 
 of the book's spine, Leah speaks in the third person.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Leah only laughs when Leah loses herself— 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But Leah only laughs when Leah loses herself— 
 
 & when she's gone for weeks, tears. The Book of Leah<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is missing its pages, documenting the losses 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is missing its pages, documenting the losses 
 
 Leah suffered. If she knew where Leah hid the pages<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;she would never tell you. Leah would 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;she would never tell you. Leah would 
 
 never trust a book or her mother with secrets. Leah's eyes—<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother-of-pearl, spalted maple. A cuttlefish, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother-of-pearl, spalted maple. A cuttlefish, 
 
 or a shark, won't be found that don't want finding. Leah's hair—<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sandalwood bone. Strands mark each chapter. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sandalwood bone. Strands mark each chapter. 
 
 To find Leah you must know braille & if you read braille<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you must analyze dreams & if you read dreams 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you must analyze dreams & if you read dreams 
 
 you need a stethoscope to hear Leah's heart murmur.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The book's back cover: a devil's mask 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The book's back cover: a devil's mask 
 
 with two holes Leah dons before Leah climbs back<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inside herself. No one knows it's Leah when they hear 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inside herself. No one knows it's Leah when they hear 
 
 the first & last words of The Book of Leah sifted through<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;skin's linen: Here sways one whose hips smoke, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;skin's linen: Here sways one whose hips smoke, 
 
 whose sari changes color. Here flutters & dances one whom<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the wind blows through. Here. Find Leah here.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the wind blows through. Here. Find Leah here.
 <br>
 <br>
