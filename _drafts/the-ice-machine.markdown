@@ -16,8 +16,12 @@ tags:
 - Nostalgia
 - jealousy
 - loneliness
+- cold-heartedness
+- featured
 image: "/uploads/Ice-Machine-cover.jpg"
 author: Teige Weidner
+description: 'Teige Weidner''s short-story about reminiscing over the iciness and
+  cold-heartedness of a love that caused heartbreak and loneliness. '
 author-block: true
 author-image: "/uploads/Teige-Weidner-bio-pic.jpg"
 author-bio: 'Teige Weidner lives in Portland, OR with his son and pregnant wife. He
@@ -64,3 +68,7 @@ Maybe she still has it. I bet she doesn’t have room for it in her new place. S
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ll just finish this next chunk of work and then I’ll give her a call.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No, I bet she’s with him right now.<br>
+<br>
+<br>
+*Cover photo courtesy of Jake Torres*
+Instagram: 
