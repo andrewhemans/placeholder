@@ -16,7 +16,7 @@ tags:
 - Nostalgia
 - jealousy
 - loneliness
-image: "/uploads/ice%20machine%203.jpg"
+image: "/uploads/Ice-Machine-cover.jpg"
 author: Teige Weidner
 author-block: true
 author-image: "/uploads/Teige-Weidner-bio-pic.jpg"
