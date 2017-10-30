@@ -13,15 +13,15 @@ tags:
 - Love
 - heartbreak
 - Relationship
-- Nostalgia
 - jealousy
 - loneliness
 - cold-heartedness
 - featured
+- bitterness
 image: "/uploads/Ice-Machine-cover.jpg"
 author: Teige Weidner
-description: 'Teige Weidner''s short-story about reminiscing over the iciness and
-  cold-heartedness of a love that caused heartbreak and loneliness. '
+description: 'Teige Weidner''s short-story about reminiscing over the iciness of a
+  love that caused heartbreak, bitterness, and loneliness. '
 author-block: true
 author-image: "/uploads/Teige-Weidner-bio-pic.jpg"
 author-bio: 'Teige Weidner lives in Portland, OR with his son and pregnant wife. He
