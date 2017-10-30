@@ -1,6 +1,6 @@
 ---
 title: The Ice Machine
-date: 2017-09-30 21:19:00 -07:00
+date: 2017-10-30 13:00:00 -07:00
 categories:
 - Literature
 tags:
@@ -10,6 +10,12 @@ tags:
 - placeholder mag
 - placeholder magazine
 - The Ice Machine
+- Love
+- heartbreak
+- Relationship
+- Nostalgia
+- jealousy
+- loneliness
 image: "/uploads/ice%20machine%203.jpg"
 author: Teige Weidner
 author-block: true
