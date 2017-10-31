@@ -40,7 +40,7 @@ author-bio: 'Teige Weidner lives in Portland, OR with his son and pregnant wife.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I bet she’s wearing the black robe. She loves that thing. I loved that thing, too. I never figured out how you tie a bow like that. It always hung perfectly, like some kind of Barbie doll accessory. Except it was always warm; she was always warm. I wonder if she remembers how I liked to pull it when she least expected it. I’d laugh and she’d slap my hand. Like a spider spinning its web, she’d retie it. I always thought she liked it, but maybe...
 
-![Ice-Machine-cover.jpg](/uploads/Ice-Machine-cover.jpg)
+![Ice-Machine-jake-torres.jpg](/uploads/Ice-Machine-jake-torres.jpg)
 *Photo courtesy of [Jake Torres](https://www.instagram.com/mr.luvly/)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There’s never enough ice in the ice machine. Even in the winter. Too many assholes thinking their coffee is too hot. It’s sludge, not Starbucks. Just wait 30 seconds for it to cool down. People always want stuff right away. They can’t wait for anything, and then I have to drink my water warm. Water only gets warmer, coffee cools. Selfish pricks. I’m going to lose it if it’s all gone.<br>
