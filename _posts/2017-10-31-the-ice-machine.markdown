@@ -74,4 +74,4 @@ Maybe she still has it. I bet she doesn’t have room for it in her new place. S
 <br>
 <br>
 *Cover photo courtesy of Bastien Rossi*<br>
-Instagram: [@bastienrossi](www.instagram.com/bastienrossi)
+[Instagram: @bastienrossi](https://www.instagram.com/bastienrossi/)
