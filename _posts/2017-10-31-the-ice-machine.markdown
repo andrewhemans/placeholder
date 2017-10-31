@@ -17,7 +17,7 @@ tags:
 - featured
 - bitterness
 - Jake Torres
-image: "/uploads/Ice-Machine-cover.jpg"
+image: "/uploads/Rossi-ice-machine-1.jpeg"
 author: Teige Weidner
 description: 'Teige Weidner''s short story about reminiscing over the iciness of a
   love that caused heartbreak, bitterness, and loneliness. '
@@ -38,6 +38,9 @@ author-bio: 'Teige Weidner lives in Portland, OR with his son and pregnant wife.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No! Not Facebook. She’ll be the first thing that pops up there—stupid company won’t stop showing me her face. What did I ever do to Zuckerberg? And nobody puts up a sad picture on Facebook. If I have to see his hands on her one more time, I’m going to smash this computer. My water is empty anyway. The walk to get more will be good, get me out of this rut. Refocus me.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I bet she’s wearing the black robe. She loves that thing. I loved that thing, too. I never figured out how you tie a bow like that. It always hung perfectly, like some kind of Barbie doll accessory. Except it was always warm; she was always warm. I wonder if she remembers how I liked to pull it when she least expected it. I’d laugh and she’d slap my hand. Like a spider spinning its web, she’d retie it. I always thought she liked it, but maybe...<br>
+
+![Ice-Machine-cover.jpg](/uploads/Ice-Machine-cover.jpg)
+*Photo courtesy of [Jake Torres](https://www.instagram.com/mr.luvly/)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There’s never enough ice in the ice machine. Even in the winter. Too many assholes thinking their coffee is too hot. It’s sludge, not Starbucks. Just wait 30 seconds for it to cool down. People always want stuff right away. They can’t wait for anything, and then I have to drink my water warm. Water only gets warmer, coffee cools. Selfish pricks. I’m going to lose it if it’s all gone.<br>
 
@@ -69,5 +72,5 @@ Maybe she still has it. I bet she doesn’t have room for it in her new place. S
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No, I bet she’s with him right now.<br>
 <br>
 <br>
-*Cover photo courtesy of Jake Torres*<br>
-Instagram: [https://www.instagram.com/mr.luvly/](https://www.instagram.com/mr.luvly/)
+*Cover photo courtesy of Bastien Rossi <br>
+Instagram: [@bastienrossi](www.instagram.com/bastienrossi)
