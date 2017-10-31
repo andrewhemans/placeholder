@@ -37,7 +37,7 @@ author-bio: 'Teige Weidner lives in Portland, OR with his son and pregnant wife.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No! Not Facebook. She’ll be the first thing that pops up there—stupid company won’t stop showing me her face. What did I ever do to Zuckerberg? And nobody puts up a sad picture on Facebook. If I have to see his hands on her one more time, I’m going to smash this computer. My water is empty anyway. The walk to get more will be good, get me out of this rut. Refocus me.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I bet she’s wearing the black robe. She loves that thing. I loved that thing, too. I never figured out how you tie a bow like that. It always hung perfectly, like some kind of Barbie doll accessory. Except it was always warm; she was always warm. I wonder if she remembers how I liked to pull it when she least expected it. I’d laugh and she’d slap my hand. Like a spider spinning its web, she’d retie it. I always thought she liked it, but maybe...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I bet she’s wearing the black robe. She loves that thing. I loved that thing, too. I never figured out how you tie a bow like that. It always hung perfectly, like some kind of Barbie doll accessory. Except it was always warm; she was always warm. I wonder if she remembers how I liked to pull it when she least expected it. I’d laugh and she’d slap my hand. Like a spider spinning its web, she’d retie it. I always thought she liked it, but maybe...
 
 ![Ice-Machine-cover.jpg](/uploads/Ice-Machine-cover.jpg)
 *Photo courtesy of [Jake Torres](https://www.instagram.com/mr.luvly/)*
