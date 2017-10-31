@@ -72,5 +72,5 @@ Maybe she still has it. I bet she doesn’t have room for it in her new place. S
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No, I bet she’s with him right now.<br>
 <br>
 <br>
-*Cover photo courtesy of Bastien Rossi <br>
+*Cover photo courtesy of Bastien Rossi*<br>
 Instagram: [@bastienrossi](www.instagram.com/bastienrossi)
