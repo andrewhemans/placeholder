@@ -1,14 +1,12 @@
 ---
 title: The Ice Machine
-date: 2017-10-31 13:00:00 -07:00
+date: 2017-10-31 10:00:00 -07:00
 categories:
 - Literature
 tags:
 - Fiction
 - Teige Weidner
 - placeholder
-- placeholder mag
-- placeholder magazine
 - The Ice Machine
 - Love
 - heartbreak
@@ -18,6 +16,7 @@ tags:
 - cold-heartedness
 - featured
 - bitterness
+- Jake Torres
 image: "/uploads/Ice-Machine-cover.jpg"
 author: Teige Weidner
 description: 'Teige Weidner''s short story about reminiscing over the iciness of a
