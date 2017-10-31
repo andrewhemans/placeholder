@@ -17,6 +17,7 @@ tags:
 - featured
 - bitterness
 - Jake Torres
+- bastien rossi
 image: "/uploads/Rossi-ice-machine-1.jpeg"
 author: Teige Weidner
 description: 'Teige Weidner''s short story about reminiscing over the iciness of a
