@@ -1,6 +1,6 @@
 ---
 title: Frederick Foote Poetry
-date: 2017-10-28 12:00:00 -07:00
+date: 2017-11-02 13:00:00 -07:00
 categories:
 - Literature
 tags:
@@ -95,4 +95,4 @@ again.
 <br>
 
 *Photography courtesy of Beth Marie*<br>
-Instagram: [https://www.instagram.com/beth.marie.photo/](https://www.instagram.com/beth.marie.photo/)
+Instagram: [@beth.marie.photo](https://www.instagram.com/beth.marie.photo/)
