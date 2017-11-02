@@ -1,6 +1,6 @@
 ---
 title: Frederick Foote Poetry
-date: 2017-11-02 12:00:00 -07:00
+date: 2017-11-02 13:00:00 -07:00
 categories:
 - Literature
 tags:
