@@ -53,9 +53,11 @@ It’s a trite and goofy world looking at the games humans play. And reading the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The two pool tables there were perpetually crowded, and the jukebox could only play a few tunes of any relevancy: Johnny Cash’s “Ring of Fire,” the Dave Brubeck Quartet, and the Doors’ “Break on Through.” After these songs had been played an endless amount of time and the bar had closed, we would maraud through the empty town starring in our own brief-bit parts as Edward Hopper characters. We’d scratch, like rained-on cats, at the doors of other bars — George’s or the Deadwood — looking for stimulation in all the wrong places. The girls would look for Prince Charming or Prince Good Lay, because women know that writers don’t get involved with other writers. Us guys looked for a queen of the evening: a female we could write poems for after we had explored her body in a fit of drunken kisses. Mostly, we drank to invent scenarios worthy of writing about. A strategy for failure we followed religiously.<br>
 <br>
 <br>
-<br>
 [Everytime Press](http://www.everytimepress.com/a-taste-of-massilia)
 
 [Philip Kobylarz Website](http://kobylarzauthor.wixsite.com/pkoby)
-
+<br>
+<br>
 *Cover photo courtesy of Javier Padilla Reyes*
+
+*NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
