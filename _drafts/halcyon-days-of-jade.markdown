@@ -21,14 +21,16 @@ tags:
 - ego
 image: "/uploads/library-javier.jpg"
 author: 'Philip Kobylarz '
+author-block: true
+author-image: "/uploads/Philip-Kobylarz-min.jpg"
 author-bio: Philip Kobylarz is a teacher and writer of fiction, poetry, and essays.
   He has worked as a journalist and film critic for newspapers in Memphis. His work
   appears in such publications as "Paris Review" and The Best American Poetry series.
   He is the author of a book of poems concerning life in the south of France, and
   a short story collection titled "Now Leaving Nowheresville." His creative non-fiction
   collection, "All Roads Lead from Massilia," is available from Everytime Press of
-  Adelaide, Australia; A Miscellany of Diverse Things is available from Brooklyn's
-  Lit Riot Press; and Dos Madres Press has published Kanji Amerikana
+  Adelaide, Australia; "A Miscellany of Diverse Things" is available from Brooklyn's
+  Lit Riot Press; and Dos Madres Press has published "Kanji Amerikana."
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attention: this is a flashback. A return to graduate days. There is this mythical place. A writing school. A program everyone in the country wants to get into. It claims a certain amount of fame. Attendance guarantees two years of reality avoidance. Getting in means fun, work, and more fun. It means meeting people and writers and readers so unlike yourself that it’s amazing they even exist. People, who — like adherents to strange new religions — enter a tall, outdated concrete and brick building next to a river. A small river, and behind it these harshly lit rooms — so sterile that surgery might be performed in them — to read words on sheets of cheaply photocopied paper. Words and strings of words that describe the conditions, capabilities, and types of extremely young and non-worldly twenty-something souls.<br>
