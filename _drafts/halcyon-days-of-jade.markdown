@@ -13,14 +13,18 @@ tags:
 - writing
 - fame
 - featured
-- English
 - failure
 - literature
 - writer
 - Halcyon Days of Jade
-- ego
+- starving artist
+- literary
+- creative
 image: "/uploads/library-javier.jpg"
 author: 'Philip Kobylarz '
+description: Literary fame, the ultimate dream for starving artists and writers'  creative
+  writing greatness. But a formula for failure, as "famous" is a romantic myth. Essay
+  by Philip Kobylarz.
 author-block: true
 author-image: "/uploads/Philip-Kobylarz-min.jpg"
 author-bio: Philip Kobylarz is a teacher and writer of fiction, poetry, and essays.
