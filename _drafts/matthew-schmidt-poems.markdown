@@ -11,6 +11,12 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+author: Matthew Schmidt
+author-block: true
+author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
+  Mississippi. His poems have been published or are forthcoming in "3:AM," "CALAMITY,"
+  "Hobart," "Territory," and elsewhere. He is an associate poetry editor at "Fairy
+  Tale Review."
 ---
 
 DISGRACED SPACEMAN<br>
