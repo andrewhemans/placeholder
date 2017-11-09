@@ -66,7 +66,7 @@ It’s a trite and goofy world looking at the games humans play. And reading the
 [Philip Kobylarz Website](http://kobylarzauthor.wixsite.com/pkoby)
 <br>
 <br>
-<br>
 *Cover photo courtesy of Javier Padilla Reyes*
-
+<br>
+<br>
 *NOTE: The views expressed here are those of the authors and do not necessarily represent or reflect the views of Placeholder.*
