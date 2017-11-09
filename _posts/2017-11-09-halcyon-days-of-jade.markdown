@@ -3,6 +3,7 @@ title: Halcyon Days of Jade
 date: 2017-11-09 14:00:00 -08:00
 categories:
 - Culture
+- Literature
 tags:
 - Essay
 - Non-fiction
