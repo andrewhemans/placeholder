@@ -699,11 +699,25 @@ blockquote, blockquote p {
 	}
 
 	.footer-top {
-		height: 210px;
+		height: 140px;
 	}
 
 	.footer-bottom {
-		height: 70px;
+		height: 100px;
+	}
+	.footer-container .columns {
+		padding: 0;
+	}
+
+	.footer-content {
+		padding: 25px!important;
+	}
+
+	.top-middle {
+		height: 0px;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
 	}
 
 	.top-left-child {
@@ -714,9 +728,24 @@ blockquote, blockquote p {
 		text-align: -webkit-center;
 	}
 
-	.bottom-middle > p {
-		font-size: .55em;
+	.bottom-middle {
+		height: 100px;
+		padding: 0 25px;
 	}
+
+	.bottom-middle > p {
+		/*font-size: .55em;*/
+	}
+
+	.footer p {
+		font-size: 1.25rem;
+	}
+
+	.footer h2 {
+		font-size: 1.5rem;
+	}
+
+
 }
 
 .footer-links {
