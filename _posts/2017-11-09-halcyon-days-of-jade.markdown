@@ -1,15 +1,12 @@
 ---
 title: Halcyon Days of Jade
-date: 2017-11-09 14:00:00 -08:00
+date: 2017-11-09 15:19:00 -08:00
 categories:
 - Culture
 - Literature
 tags:
 - Essay
 - Non-fiction
-- placeholder
-- placeholder mag
-- placeholder magazine
 - Philip Kobylarz
 - writing
 - fame
@@ -21,6 +18,9 @@ tags:
 - starving artist
 - literary
 - creative
+- University
+- University of Iowa
+- College
 image: "/uploads/library-javier.jpg"
 author: 'Philip Kobylarz '
 description: Literary fame, the ultimate dream for starving artists and writers'  creative
