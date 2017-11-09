@@ -18,6 +18,7 @@ tags:
 - literature
 - writer
 - Halcyon Days of Jade
+- ego
 image: "/uploads/library-javier.jpg"
 author: 'Philip Kobylarz '
 author-bio: Philip Kobylarz is a teacher and writer of fiction, poetry, and essays.
@@ -53,6 +54,6 @@ It’s a trite and goofy world looking at the games humans play. And reading the
 <br>
 <br>
 <br>
-[http://www.everytimepress.com/a-taste-of-massilia](http://www.everytimepress.com/a-taste-of-massilia)
+[Everytime Press](http://www.everytimepress.com/a-taste-of-massilia)
 
-[http://kobylarzauthor.wix.com/pkoby](http://kobylarzauthor.wixsite.com/pkoby)
+[Philip Kobylarz Website](http://kobylarzauthor.wixsite.com/pkoby)
