@@ -10,6 +10,11 @@ tags:
 - placeholder mag
 - placeholder magazine
 - Philip Kobylarz
+- writing
+- fame
+- featured
+- English
+- failure
 image: "/uploads/library-javier.jpg"
 author: 'Philip Kobylarz '
 author-bio: Philip Kobylarz is a teacher and writer of fiction, poetry, and essays.
@@ -34,7 +39,8 @@ author-bio: Philip Kobylarz is a teacher and writer of fiction, poetry, and essa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We, on the other hand, were scared and over-confident; angry and young; blue-eyed and bushy-tailed; irrational and jaded. We lived the kind of lives books are never written about.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many of us were silver-spooners. We came from good to well-off families and we lived off that as a meal ticket. One of the students was a descendent of a movie star. Equally awed and despised because he was accepted to the program and got funded, he was Mr. Lucky. He also looked like his famous mom. Fame is a sickness that affects all writers. Like the Clinton administration, this great writing school was addicted to the allure of the silver screen.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That was half the story. The other half was being poor and hungry. We lived in studio apartments that slumlords had elevated to the 500 - 600 dollar a month range. Some of us had observable psychoses and shockingly bad grooming habits. Some of us brought histories of neglect and abuse into the classroom for all to see. It wasn’t pretty.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some of us simply brought green-eyed ambition. What was probably the worst thing about the place was how those who kiss ass were, and are, the ones who gained success. Like that’s a big surprise. That was the only big lesson learned: how the world works. >It’s a rude awakening when you pour your heart and soul into pages only to discover that even the quasi-religious calling turns out to be a who-likes-who venue for personal gain. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some of us simply brought green-eyed ambition. What was probably the worst thing about the place was how those who kiss ass were, and are, the ones who gained success. Like that’s a big surprise. That was the only big lesson learned: how the world works. 
+>It’s a rude awakening when you pour your heart and soul into pages only to discover that even the quasi-religious calling turns out to be a who-likes-who venue for personal gain. 
 It’s a trite and goofy world looking at the games humans play. And reading the bad writing that comes from it.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some us had really cool, little loft apartments in gigantic houses, hidden under oak trees that lined brick-paved streets. Small town from another era, quaint and blissful. A river flows through the city, idyllic and absolutely useless, except to drown three-to-five people per year. It wasn’t that people would just topple off the bridge and plop in the water with no struggle to breathe in liquid air, although in a few cases this was true. Mostly it was the manly, outdoor types who floated their boats too close to the power plant’s man-made waterfall drop of only a few feet. The current would twist and bob their boats, causing the fishermen to fall out and get caught in the undertow.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were parties practically every week. Famous and soon-to-be famous writers would fly into town, give a reading to a jam-packed auditorium, and nearly every time there was standing-room-only capacity. Afterwards, a trip to a restaurant, maybe even a bar, and then a party at a student’s abode. Usually, an older student would volunteer — one who had a place large enough — to host other people. The bullshitting would begin, and the beer and wine would flow. Appetizers were sparse and consisted of mainly chips, salsa, and potato chips. The food of young, alcoholic gods.<br>
