@@ -16,6 +16,8 @@ tags:
 - English
 - failure
 - literature
+- writer
+- Halcyon Days of Jade
 image: "/uploads/library-javier.jpg"
 author: 'Philip Kobylarz '
 author-bio: Philip Kobylarz is a teacher and writer of fiction, poetry, and essays.
