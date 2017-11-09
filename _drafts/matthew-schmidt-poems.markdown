@@ -1,6 +1,16 @@
 ---
 title: Matthew Schmidt Poems
 date: 2017-11-08 21:04:00 -08:00
+categories:
+- Literature
+tags:
+- Poetry
+- Matthew Schmidt
+- Disgraced Spaceman 2091
+- Essentials
+- placeholder
+- placeholder mag
+- placeholder magazine
 ---
 
 DISGRACED SPACEMAN<br>
