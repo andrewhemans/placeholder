@@ -57,3 +57,5 @@ It’s a trite and goofy world looking at the games humans play. And reading the
 [Everytime Press](http://www.everytimepress.com/a-taste-of-massilia)
 
 [Philip Kobylarz Website](http://kobylarzauthor.wixsite.com/pkoby)
+
+*Cover photo courtesy of Javier Padilla Reyes*
