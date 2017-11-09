@@ -43,6 +43,6 @@ It’s a trite and goofy world looking at the games humans play. And reading the
 <br>
 <br>
 <br>
+[http://www.everytimepress.com/a-taste-of-massilia](http://www.everytimepress.com/a-taste-of-massilia)
 
-
-http://kobylarzauthor.wix.com/pkoby
+[http://kobylarzauthor.wix.com/pkoby](http://kobylarzauthor.wixsite.com/pkoby)
