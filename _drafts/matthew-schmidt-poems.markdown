@@ -11,7 +11,7 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
-image: "/uploads/disgraced-spaceman.JPG"
+image: "/uploads/disgraced-spaceman-2.jpg"
 author: Matthew Schmidt
 author-block: true
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
@@ -20,35 +20,6 @@ author-bio: Matthew Schmidt is working on a PhD in English at the University of 
   Tale Review."
 ---
 
-DISGRACED SPACEMAN<br>
-&nbsp;&nbsp;&nbsp;*2091*<br>
-
-You can see barn wreckage<br>
-cropping the rise. Great-grandpa<br>
-tilled this sorry soil he slouches<br>
-over. Not looking for jettisoned<br>
-
-reentry scrap; mere roaming.<br>
-You can see a grainy beard, wisps<br>
-surfing the breeze. The first<br>
-commander discharged—hocking<br>
-
-ears of corn without intergalactic<br> 
-tariffs. A little space-oil on the side,<br>
-moon-boot thrusters, rings carved<br>
-from Saturn’s surface. You can<br>
-
-see the rocket cattails<br>
-tower-humped in the swooning dale:<br>
-what excrement provides gratis.<br>
-The cow-trail a mystery no sleuth<br>
-
-hankers after. You can see moonbeams<br>
-cluster on his glass eye. You can see<br>
-how words miss his mouth; lank dome<br>
-of gravity’s arm-bar spidering earth.<br>
-
-![disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
 
 ESSENTIALS<br>
 
@@ -87,4 +58,38 @@ All morning the plankton and I<br>
 tried to empty the sand of its coffer<br>
 moist dollars, to feel and fossil.<br>
 
+![disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
+*Image courtesy of Connie Reyes*
+
+DISGRACED SPACEMAN<br>
+&nbsp;&nbsp;&nbsp;*2091*<br>
+
+You can see barn wreckage<br>
+cropping the rise. Great-grandpa<br>
+tilled this sorry soil he slouches<br>
+over. Not looking for jettisoned<br>
+
+reentry scrap; mere roaming.<br>
+You can see a grainy beard, wisps<br>
+surfing the breeze. The first<br>
+commander discharged—hocking<br>
+
+ears of corn without intergalactic<br> 
+tariffs. A little space-oil on the side,<br>
+moon-boot thrusters, rings carved<br>
+from Saturn’s surface. You can<br>
+
+see the rocket cattails<br>
+tower-humped in the swooning dale:<br>
+what excrement provides gratis.<br>
+The cow-trail a mystery no sleuth<br>
+
+hankers after. You can see moonbeams<br>
+cluster on his glass eye. You can see<br>
+how words miss his mouth; lank dome<br>
+of gravity’s arm-bar spidering earth.<br>
+
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
+
+Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
+
