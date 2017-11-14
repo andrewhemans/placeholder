@@ -11,7 +11,7 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
-image: "/uploads/disgraced-spaceman-2.jpg"
+image: "/uploads/disgraced-spaceman.JPG"
 author: Matthew Schmidt
 author-block: true
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
