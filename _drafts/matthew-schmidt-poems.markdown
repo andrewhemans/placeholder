@@ -11,6 +11,12 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+- Environment
+- elements
+- Christmas
+- Relationship
+- featured
+- surreal
 image: "/uploads/disgraced-spaceman-2.jpg"
 author: Matthew Schmidt
 author-block: true
