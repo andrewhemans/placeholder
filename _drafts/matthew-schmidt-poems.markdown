@@ -1,6 +1,6 @@
 ---
 title: Matthew Schmidt Poems
-date: 2017-11-08 21:04:00 -08:00
+date: 2017-11-14 13:00:00 -08:00
 categories:
 - Literature
 tags:
@@ -11,6 +11,7 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+image: "/uploads/disgraced-spaceman-2.jpg"
 author: Matthew Schmidt
 author-block: true
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
@@ -46,6 +47,8 @@ hankers after. You can see moonbeams<br>
 cluster on his glass eye. You can see<br>
 how words miss his mouth; lank dome<br>
 of gravity’s arm-bar spidering earth.<br>
+
+[disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
 
 ESSENTIALS<br>
 
@@ -83,3 +86,5 @@ All morning the plankton and I<br>
 
 tried to empty the sand of its coffer<br>
 moist dollars, to feel and fossil.<br>
+
+*Cover Photo "Four Eyes" (2015) Courtesy of Aleks Avramova*
