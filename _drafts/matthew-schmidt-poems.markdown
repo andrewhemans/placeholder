@@ -20,7 +20,7 @@ author-bio: Matthew Schmidt is working on a PhD in English at the University of 
   Tale Review."
 ---
 
-ESSENTIALS<br>
+**ESSENTIALS**<br>
 
 I couldn’t have more than one soft drink.<br>
 You weren’t in the mood to dance.<br>
@@ -61,7 +61,7 @@ moist dollars, to feel and fossil.<br>
 ![disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
 *Image courtesy of Connie Reyes*<br>
 <br>
-DISGRACED SPACEMAN<br>
+**DISGRACED SPACEMAN**<br>
 &nbsp;&nbsp;&nbsp;*2091*<br>
 
 You can see barn wreckage<br>
