@@ -48,7 +48,7 @@ cluster on his glass eye. You can see<br>
 how words miss his mouth; lank dome<br>
 of gravity’s arm-bar spidering earth.<br>
 
-[disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
+![disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
 
 ESSENTIALS<br>
 
@@ -74,11 +74,11 @@ The crustaceans croon<br>
 
 for slices of light, for young bare feet<br>
 and what do we do but follow<br>
-the footprints&nbsp;&nbsp;&nbsp;&nbsp;never leaving<br>
+the footprints&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;never leaving<br>
 
 the beach. Cooler of sodas and boom box<br>
 for dancing. It’s Christmas, and the tree is a sand<br>
-castle.I bought the world<br>
+castle. I bought the world<br>
 
 so now it’s my store—my koala<br>
 mimicking itself in the glass pane.<br>
