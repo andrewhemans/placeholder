@@ -93,4 +93,3 @@ of gravity’s arm-bar spidering earth.<br>
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
 
 Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
-
