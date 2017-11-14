@@ -11,6 +11,10 @@ tags:
 - placeholder
 - placeholder mag
 - placeholder magazine
+- elements
+- featured
+- surreal
+- space
 image: "/uploads/disgraced-spaceman-2.jpg"
 author: Matthew Schmidt
 author-block: true
