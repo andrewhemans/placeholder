@@ -74,7 +74,7 @@ The crustaceans croon<br>
 
 for slices of light, for young bare feet<br>
 and what do we do but follow<br>
-the footprints&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;never leaving<br>
+the footprints &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;never leaving<br>
 
 the beach. Cooler of sodas and boom box<br>
 for dancing. It’s Christmas, and the tree is a sand<br>
