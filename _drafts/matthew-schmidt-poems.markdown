@@ -20,7 +20,6 @@ author-bio: Matthew Schmidt is working on a PhD in English at the University of 
   Tale Review."
 ---
 
-
 ESSENTIALS<br>
 
 I couldn’t have more than one soft drink.<br>
