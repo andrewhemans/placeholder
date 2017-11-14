@@ -57,9 +57,10 @@ All morning the plankton and I<br>
 
 tried to empty the sand of its coffer<br>
 moist dollars, to feel and fossil.<br>
-
+<br>
+<br>
 ![disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
-*Image courtesy of Connie Reyes*
+*Image courtesy of Connie Reyes*<br>
 
 DISGRACED SPACEMAN<br>
 &nbsp;&nbsp;&nbsp;*2091*<br>
@@ -88,7 +89,8 @@ hankers after. You can see moonbeams<br>
 cluster on his glass eye. You can see<br>
 how words miss his mouth; lank dome<br>
 of gravity’s arm-bar spidering earth.<br>
-
+<br>
+<br>
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
 
 Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
