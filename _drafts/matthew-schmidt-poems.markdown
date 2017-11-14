@@ -87,4 +87,4 @@ All morning the plankton and I<br>
 tried to empty the sand of its coffer<br>
 moist dollars, to feel and fossil.<br>
 
-*Cover Photo "Four Eyes" (2015) Courtesy of Aleks Avramova*
+*Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
