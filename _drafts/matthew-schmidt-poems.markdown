@@ -60,7 +60,7 @@ moist dollars, to feel and fossil.<br>
 <br>
 ![disgraced-spaceman.JPG](/uploads/disgraced-spaceman.JPG)
 *Image courtesy of Connie Reyes*<br>
-
+<br>
 DISGRACED SPACEMAN<br>
 &nbsp;&nbsp;&nbsp;*2091*<br>
 
