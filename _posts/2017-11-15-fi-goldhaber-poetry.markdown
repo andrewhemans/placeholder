@@ -22,10 +22,10 @@ tags:
 - featured
 image: "/uploads/TProtest-1-7.jpg"
 author: F.I. Goldhaber
-description: Finally coming to terms with their own gender, as a 50 year old, it's
-  better late than never, even if this hostile political climate equates free speech
-  with hate speech. Experience the stirring, emotional prose from F.I. Goldhaber.
-  Photography by Scott Walsh.
+description: Finally coming to terms with their own gender, as a 50 year old, is better
+  late than never, even if the hostile political climate equates free speech with
+  hate speech. Experience the stirring, emotional prose from F.I. Goldhaber. Photography
+  by Scott Walsh.
 author-block: true
 author-image: "/uploads/F.I.%20Goldhaber%20Avatar.jpg"
 author-bio: F.I. Goldhaber's words capture people, places, and events with a photographer's
