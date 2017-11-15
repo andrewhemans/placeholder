@@ -19,6 +19,7 @@ tags:
 - Braving a Hostile World
 - Hate Speech ≠ Free Speech
 - Lessons from Martin Niemöller
+- featured
 image: "/uploads/TProtest-1-7.jpg"
 author: F.I. Goldhaber
 description: Finally coming to terms with their own gender, as a 50 year old, it's
