@@ -1,6 +1,6 @@
 ---
-title: F.I. Goldhaber Poetry
-date: 2017-11-02 13:00:00 -07:00
+title: Hate Speech in a Hostile World
+date: 2017-11-15 13:00:00 -08:00
 categories:
 - Literature
 tags:
@@ -21,6 +21,10 @@ tags:
 - Lessons from Martin Niemöller
 image: "/uploads/TProtest-1-7.jpg"
 author: F.I. Goldhaber
+description: Finally coming to terms with their own gender, as a 50 year old, it's
+  better late than never, even if this hostile political climate equates free speech
+  with hate speech. Experience the stirring, emotional prose from F.I. Goldhaber.
+  Photography by Scott Walsh.
 author-block: true
 author-image: "/uploads/F.I.%20Goldhaber%20Avatar.jpg"
 author-bio: F.I. Goldhaber's words capture people, places, and events with a photographer's
@@ -174,8 +178,8 @@ will you do when they come for you?<br>
 <br>
 <br>
 
-[F.I. Goldhaber Website](http://www.goldhaber.net/)
+[F.I. Goldhaber Website](http://www.goldhaber.net/)  
+[Twitter](http://twitter.com/PNWwriting)  
+[Facebook](http://www.facebook.com/goldhaber)  
 
-[Twitter](http://twitter.com/PNWwriting)
-
-[Facebook](http://www.facebook.com/goldhaber)
+Photography courtesy of [Scott Walsh.](http://www.scottwwalshphotography.com/)
