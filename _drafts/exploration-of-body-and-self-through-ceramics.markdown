@@ -12,7 +12,6 @@ tags:
 - Non-fiction
 - Ceramics
 - Clay
-- Connie Reyes
 - BAMPFA
 - UC Berkeley
 - Art
