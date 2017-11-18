@@ -30,6 +30,8 @@ Back in June, I visited the UC Berkeley Art Museum and Pacific Film Archive (BAM
 
 ![Takming-interview-8.JPG](/uploads/Takming-interview-8.JPG)
 <br>
+<br>
+<br>
 ![Takming-interview-2-b27f00.JPG](/uploads/Takming-interview-2-b27f00.JPG)
 
 Unusual within the art world, Chuang went from a corporate art world—where he was selling pleasure and ever-lasting beauty—to developing a softer and more personal experience with his art. Although he loves his native Manhattan, Chuang sees his home city as materialistic. In New York City, everyone to whom he talked to about making a switch over to the arts was horrified that he would want to move in that direction.
