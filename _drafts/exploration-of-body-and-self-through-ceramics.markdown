@@ -14,8 +14,13 @@ tags:
 - Clay
 - Connie Reyes
 - BAMPFA
+- UC Berkeley
+- Art
+- Exhibit
 image: "/uploads/Takming-interview-2.JPG"
 author: Connie Reyes
+description: Contributor Connie Reyes' interview with ceramic unfired clay artist
+  Takming Chuang and his transition from a corporate career to UC Berkeley art major.
 author-block: true
 author-image: "/uploads/connie-reyes.JPG"
 author-bio: Connie Reyes is currently an undergraduate at California State University,
