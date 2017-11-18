@@ -13,6 +13,7 @@ tags:
 - Ceramics
 - Clay
 - Connie Reyes
+- BAMPFA
 image: "/uploads/Takming-interview-2.JPG"
 author: Connie Reyes
 author-block: true
@@ -39,10 +40,15 @@ Although these opportunities in New York allowed Chaung to find which medium wor
 
 For the MFA exhibition, Chuang drew inspiration from his own body. He explains that clay was the “best placeholder for [his] body, because it performs on its own. When it dries, it shrinks, and just like our body, it has water. When we get older we shrink, and then when [the clay] shrinks, it wrinkles and cracks, same with our bodies...and then it does what you can’t control.” 
 Chuang’s technique of using a plastic skin to encase unfired clay is unique not only because it helps to retain the clay’s shape, but also keep its moisture. My curiosity led me to ask if these shapes take place organically, or whether Chuang works with a preconceived notion of what the sculpture will look like. Chuang replies that he does not have any preconceived notion of his finished work, since the clay is very “weighty." His physical capability to lift a certain amount of clay limits how much he will use for his works. 
+
 <img>
+
 An important and recurring theme among his works is the preconceived notion of our physical selves—how we perceive our bodies in terms of physical beauty. For instance, in addition to  the weight of the clay, Chuang also thinks about the role that “origami plays into it, because the way [he’s] working with [clay] is as if [he’s] folding a sheet of paper, because [the clay] begins as a slab. [He] suppose[s] symmetry plays into it because [he] thinks] about the body and beauty.”
+
 In many of his works, such as “Fiona,” Chuang emphasizes his value towards the  medium of clay itself. He also places value on superficial aspects of his very own body. For instance, as time passes, Chaung questions how his own body is physically aging. He asks himself deep rooted questions—questions that serve a fire to discovering how he goes about molding his outlook on life: “When do you stop caring about the way your body looks? If I am no longer sexually attractive or physically productive, am I economically futile now? Am I a useless member of society? And how does my body function economically?” 
+
 Needless to say, Chuang’s experience with clay has left him quite satisfied; he has been able to explore the body as well as reflect on his own body by using clay and watching its natural state transform before him. He is able to explore the clay’s “weight, its sensuality, its wrinkles and the way it changes daily in its environment.” 
+
 From the materials he uses to the naming of his pieces, Chuang’s personal spiritual beliefs have been a major influence in his work. When referring to his piece “Aquaduct,” Chuang says he believes in “Buddhist philosophy and reincarnation; clay can be reincarnated. Those can be unwrapped and re-used; you just have to re-wet the clay and then you can re-make. And the ‘aqueduct’ was just the idea of it looking like a long thing, running water, how water stops running. A ruin so old, but still appreciated for what it looks like.” 
 
 < Aquaduct image>
