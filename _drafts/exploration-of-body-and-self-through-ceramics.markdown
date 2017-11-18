@@ -26,8 +26,11 @@ author-bio: Connie Reyes is currently an undergraduate at California State Unive
 
 What is beauty? Is it symmetry? Is it mental or physical? When does beauty start and when does it end? Who labels beauty? For years, New York artist Takming Chuang desired a masculine, toned, and youthful body, a perception shared by many, and endorsed by the media, peers, and overall society.... 
 
-Back in June, I visited the UC Berkeley Art Museum and Pacific Film Archive (BAMPFA) and attended The 47th Annual University of California, Berkeley Master of Fine Arts Graduate Exhibition, 3 months agowhere Chaung, a graduating senior, was presenting his artwork. I was excited wanted to see Chaung’s art because of his use of a rare medium: unfired clay, as well as the aesthetic beauty his works contain. 
-<img>
+Back in June, I visited the UC Berkeley Art Museum and Pacific Film Archive (BAMPFA) and attended The 47th Annual University of California, Berkeley Master of Fine Arts Graduate Exhibition, 3 months ago where Chaung, a graduating senior, was presenting his artwork. I was excited wanted to see Chaung’s art because of his use of a rare medium: unfired clay, as well as the aesthetic beauty his works contain.
+
+![Takming-interview-8.JPG](/uploads/Takming-interview-8.JPG)
+![Takming-interview-2-b27f00.JPG](/uploads/Takming-interview-2-b27f00.JPG)
+
 Unusual within the art world, Chuang went from a corporate art world—where he was selling pleasure and ever-lasting beauty—to developing a softer and more personal experience with his art. Although he loves his native Manhattan, Chuang sees his home city as materialistic. In New York City, everyone to whom he talked to about making a switch over to the arts was horrified that he would want to move in that direction.
 
 When he took up painting, Chuang was working as a project manager for Hyatt Hotels in Manhattan. His pleasant paintings were sold to Hyatt and displayed in their hotel lobbies and restaurants. But Chuang eventually went to work for GAP, Inc., during which time the company encouraged him to pursue interests outside of work, including those that allowed him to develop his artistic side. He pursued his love for the arts by exploring mediums aside from paint, including “sculpture, photography, [and] printmaking, [which] all came before ceramics.”
@@ -36,12 +39,12 @@ For Chuang, the stereotype of art majors giving up and going back to college to 
 
 Although these opportunities in New York allowed Chaung to find which medium worked best for him, in many ways, the West Coast seemed more receptive of his decision to swap careers. He became inspired to apply to UC Berkeley’s Master of Fine Arts program, where Chuang decided to use a medium he had never worked with: clay. A new medium for a new life.
 
-<image here>
+![Takming-interview-4.JPG](/uploads/Takming-interview-4.JPG)
 
 For the MFA exhibition, Chuang drew inspiration from his own body. He explains that clay was the “best placeholder for [his] body, because it performs on its own. When it dries, it shrinks, and just like our body, it has water. When we get older we shrink, and then when [the clay] shrinks, it wrinkles and cracks, same with our bodies...and then it does what you can’t control.” 
 Chuang’s technique of using a plastic skin to encase unfired clay is unique not only because it helps to retain the clay’s shape, but also keep its moisture. My curiosity led me to ask if these shapes take place organically, or whether Chuang works with a preconceived notion of what the sculpture will look like. Chuang replies that he does not have any preconceived notion of his finished work, since the clay is very “weighty." His physical capability to lift a certain amount of clay limits how much he will use for his works. 
 
-<img>
+![Takming-interview-6.JPG](/uploads/Takming-interview-6.JPG)
 
 An important and recurring theme among his works is the preconceived notion of our physical selves—how we perceive our bodies in terms of physical beauty. For instance, in addition to  the weight of the clay, Chuang also thinks about the role that “origami plays into it, because the way [he’s] working with [clay] is as if [he’s] folding a sheet of paper, because [the clay] begins as a slab. [He] suppose[s] symmetry plays into it because [he] thinks] about the body and beauty.”
 
@@ -51,7 +54,7 @@ Needless to say, Chuang’s experience with clay has left him quite satisfied; h
 
 From the materials he uses to the naming of his pieces, Chuang’s personal spiritual beliefs have been a major influence in his work. When referring to his piece “Aquaduct,” Chuang says he believes in “Buddhist philosophy and reincarnation; clay can be reincarnated. Those can be unwrapped and re-used; you just have to re-wet the clay and then you can re-make. And the ‘aqueduct’ was just the idea of it looking like a long thing, running water, how water stops running. A ruin so old, but still appreciated for what it looks like.” 
 
-< Aquaduct image>
+![Takming-interview-9.JPG](/uploads/Takming-interview-9.JPG)
 
 I asked Chuang if he was influenced by other artists within the MFA program, and whether he thought he had an influence on any of them. Chuang believes that there was indirect influence that “organically happens [in which] some of our work might bleed into each other with regard to physical process, or maybe with regard to points of view.” He emphasizes that his peers’—as well as his own—perspectives were what influenced his own work, since they discussed art theory and had critique for three hours a week. Having discussions with his peers has shifted Chuang’s perspective on many different levels, especially given that before he “never knew [he] had so many blocks, blind spots.”
 
