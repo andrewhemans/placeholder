@@ -35,7 +35,7 @@ What is beauty? Is it symmetry? Is it mental or physical? When does beauty start
 Back in June, I visited the [UC Berkeley Art Museum and Pacific Film Archive](https://bampfa.org/) (BAMPFA) to attend their [47th Annual Master of Fine Arts Graduate Exhibition](https://bampfa.org/program/47th-annual-university-california-berkeley-master-fine-arts-graduate-exhibition), where Chuang, a graduating senior, was presenting his artwork. I was excited to see Chuang’s art not only because of the aesthetic beauty his works contain, but because of his use of a rare medium: unfired clay. 
 
 ![Takming-interview-8.JPG](/uploads/Takming-interview-8.JPG)
-*"Aquadact" (2017) by Takming Chuang*
+*"Aquaduct" (2017) by Takming Chuang*
 <br>
 <br>
 <br>
