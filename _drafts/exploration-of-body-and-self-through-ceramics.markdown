@@ -68,7 +68,7 @@ Needless to say, Chuang’s experience with clay has left him quite satisfied; h
 From the materials he uses to the naming of his pieces, Chuang’s personal spiritual beliefs have been a major influence in his work. When referring to his piece “Aquaduct,” Chuang says he believes in “Buddhist philosophy and reincarnation; clay can be reincarnated. Those can be unwrapped and re-used; you just have to re-wet the clay and then you can re-make. And the ‘aqueduct’ was just the idea of it looking like a long thing, running water, how water stops running. A ruin so old, but still appreciated for what it looks like.” 
 
 ![Takming-interview-9.JPG](/uploads/Takming-interview-9.JPG)
-* Side view of "Aquaduct" (2017)*
+*Side view of "Aquaduct" (2017)*
 
 I asked Chuang if he was influenced by other artists within the MFA program and whether he thought he had an influence on any of them. Chuang believes that there was indirect influence that “organically happens [in which] some of our work might bleed into each other with regard to physical process, or maybe with regard to points of view.” He emphasizes that his peers’—as well as his own—perspectives were what influenced his own work, since they discussed art theory and had critique for three hours a week. Having discussions with his peers has shifted Chuang’s perspective on many different levels, especially given that before he “never knew [he] had so many blocks, blind spots.”
 
