@@ -29,6 +29,7 @@ What is beauty? Is it symmetry? Is it mental or physical? When does beauty start
 Back in June, I visited the UC Berkeley Art Museum and Pacific Film Archive (BAMPFA) and attended The 47th Annual University of California, Berkeley Master of Fine Arts Graduate Exhibition, 3 months ago where Chaung, a graduating senior, was presenting his artwork. I was excited wanted to see Chaung’s art because of his use of a rare medium: unfired clay, as well as the aesthetic beauty his works contain.
 
 ![Takming-interview-8.JPG](/uploads/Takming-interview-8.JPG)
+<br>
 ![Takming-interview-2-b27f00.JPG](/uploads/Takming-interview-2-b27f00.JPG)
 
 Unusual within the art world, Chuang went from a corporate art world—where he was selling pleasure and ever-lasting beauty—to developing a softer and more personal experience with his art. Although he loves his native Manhattan, Chuang sees his home city as materialistic. In New York City, everyone to whom he talked to about making a switch over to the arts was horrified that he would want to move in that direction.
