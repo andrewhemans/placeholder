@@ -1,6 +1,6 @@
 ---
 title: Exploration of Body and Self Through Ceramics
-date: 2017-11-18 13:00:00 -08:00
+date: 2017-11-18 15:00:00 -08:00
 categories:
 - Art
 tags:
@@ -18,10 +18,11 @@ tags:
 - Art
 - Exhibit
 - unfired clay
+- self-exploration
 image: "/uploads/Takming-interview-2.JPG"
 author: Connie Reyes
-description: Contributor Connie Reyes' interview with ceramic unfired clay artist
-  Takming Chuang and his transition from a corporate career to UC Berkeley art major.
+description: Contributor Connie Reyes' interview with UC Berkeley art major Takming
+  Chuang and his transition from a corporate career to ceramic and unfired clay artist.
 author-block: true
 author-image: "/uploads/connie-reyes.JPG"
 author-bio: Connie Reyes is currently an undergraduate at California State University,
@@ -77,4 +78,4 @@ The fear—or rather the loss of possession—seems to be what Chuang struggles 
 
 With Chuang flourishing with new outlooks on life and exhibitions it is exciting to see what new works he will come up with next.
 
-*Photography courtesy of Takming Chuang*
+*Artwork photography courtesy of Connie Reyes*
