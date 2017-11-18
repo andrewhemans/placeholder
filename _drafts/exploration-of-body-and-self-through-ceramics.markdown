@@ -48,7 +48,7 @@ When he took up painting, Chuang was working as a project manager for Hyatt Hote
 
 For Chuang, the stereotype of art majors giving up and going back to college to study something more lucrative was turned upside down. His undergrad was in business, yet his success in the corporate world made the shift into art all the more shocking and terrifying, but nevertheless exciting.
 
-Although these opportunities in New York allowed Chuang to find which medium worked best for him, in many ways, the West Coast seemed more receptive of his decision to swap careers. He became inspired to apply to UC Berkeley’s Master of Fine Arts program, where Chuang decided to use a medium he had never worked with: unfired clay. A new medium for a new life.
+Although these opportunities in New York allowed Chuang to find which medium worked best for him, in many ways, the West Coast seemed more receptive of his decision to swap careers. He became inspired to apply to UC Berkeley’s Master of Fine Arts program, where Chuang decided to use unfired clay, a medium he had never worked with; a new medium for a new life.
 
 ![Takming-interview-4.JPG](/uploads/Takming-interview-4.JPG)
 *"Pancetta" (2016) by Takming Chuang*
