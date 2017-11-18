@@ -28,7 +28,7 @@ author-image: "/uploads/connie-reyes.JPG"
 author-bio: Connie Reyes is currently an undergraduate at California State University,
   Sacramento majoring in Art History with an emphasis in Modern and Contemporary art.
   She enjoys reading and exploring new artists in Sacramento and the surrounding areas.  In
-  her spare time she likes to read, go to concerts and create art, jewelry and knit.
+  her spare time she likes to read, go to concerts, create art and jewelry, and knit.
 ---
 
 What is beauty? Is it symmetry? Is it mental or physical? When does beauty start and when does it end? Who labels beauty? For years, New York artist Takming Chuang desired a masculine, toned, and youthful body, a perception shared by many, and endorsed by the media, peers, and overall society.... 
