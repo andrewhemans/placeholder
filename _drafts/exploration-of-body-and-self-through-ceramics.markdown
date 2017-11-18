@@ -19,7 +19,7 @@ tags:
 - Exhibit
 - unfired clay
 - self-exploration
-image: "/uploads/Takming-interview-2.JPG"
+image: "/uploads/TAKMING-WITH-FIONA-copy.jpg"
 author: Connie Reyes
 description: Contributor Connie Reyes' interview with UC Berkeley art major Takming
   Chuang and his transition from a corporate career to ceramic and unfired clay artist.
