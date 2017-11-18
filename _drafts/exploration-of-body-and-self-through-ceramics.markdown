@@ -78,4 +78,4 @@ The fear—or rather the loss of possession—seems to be what Chuang struggles 
 
 With Chuang flourishing with new outlooks on life and exhibitions it is exciting to see what new works he will come up with next.
 
-*Artwork photography courtesy of Connie Reyes*
+*Photography courtesy of Connie Reyes*
