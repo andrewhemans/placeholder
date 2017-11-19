@@ -18,6 +18,7 @@ tags:
 - Exhibit
 - unfired clay
 - self-exploration
+- Berkeley Art Museum and Pacific Film Archive
 image: "/uploads/TAKMING%20WITH%20FIONA%20copy-2-min.jpg"
 author: Connie Reyes
 description: Contributor Connie Reyes' interview with UC Berkeley art major Takming
@@ -38,12 +39,14 @@ Back in June, I visited the [UC Berkeley Art Museum and Pacific Film Archive](ht
 *"Aquaduct" (2017) by Takming Chuang*
 <br>
 <br>
+>"When [the clay] shrinks, it wrinkles and cracks, same with our bodies…and then it does what you can’t control."
+<br>
 <br>
 ![Takming-interview-2-b27f00.JPG](/uploads/Takming-interview-2-b27f00.JPG)
 
 Unusual within the art world, Chuang went from a corporate art world—where he was selling pleasure and ever-lasting beauty—to developing a softer and more personal experience with his art. Although he loves his native Manhattan, Chuang sees his home city as materialistic. In New York City, everyone to whom he talked to about making a switch over to the arts was horrified that he would want to move in that direction.
 
-When he took up painting, Chuang was working as a project manager for Hyatt Hotels in Manhattan. His pleasant paintings were sold to Hyatt and displayed in their hotel lobbies and restaurants. But Chuang eventually went to work for GAP, Inc., during which time the company encouraged him to pursue interests outside of work, including those that allowed him to develop his artistic side. He pursued his love for the arts by exploring mediums aside from paint, including “sculpture, photography, [and] printmaking, [which] all came before ceramics.”
+When he took up painting, Chuang was working as a project manager for Hyatt Hotels in Manhattan. His pleasant paintings were sold to Hyatt and displayed in their hotel lobbies and restaurants. But Chuang eventually went to work for GAP, Inc., during which time the company encouraged him to pursue interests outside of work, including those that allowed him to develop his artistic side. He pursued his love for the arts by exploring mediums aside from paint, including sculpture, photography, and printmaking, which all came before ceramics.
 
 For Chuang, the stereotype of art majors giving up and going back to college to study something more lucrative was turned upside down. His undergrad was in business, yet his success in the corporate world made the shift into art all the more shocking and terrifying, but nevertheless exciting.
 
@@ -58,7 +61,7 @@ Chuang’s technique of using a plastic skin to encase unfired clay is unique no
 ![Takming-interview-6.JPG](/uploads/Takming-interview-6.JPG)
 *"Fiona" (2017) by Takming Chuang*
 
-An important and recurring theme among his works is the preconceived notion of our physical selves—how we perceive our bodies in terms of physical beauty. For instance, in addition to  the weight of the clay, Chuang also thinks about the role that “origami plays into it, because the way [he’s] working with [clay] is as if [he’s] folding a sheet of paper, because [the clay] begins as a slab. [He] suppose[s] symmetry plays into it because [he] thinks] about the body and beauty.”
+An important and recurring theme among his works is the preconceived notion of our physical selves—how we perceive our bodies in terms of physical beauty. For instance, in addition to  the weight of the clay, Chuang also thinks about the role that origami plays into it, "because the way I work with is as if [I'm] folding a sheet of paper, because [the clay] begins as a slab." Symmetry plays into it because he thinks about the body and beauty.
 
 In many of his works, such as “Fiona,” Chuang emphasizes his value towards the  medium of clay itself. He also places value on superficial aspects of his very own body. For instance, as time passes, Chaung questions how his own body is physically aging. He asks himself deep rooted questions—questions that serve a fire to discovering how he goes about molding his outlook on life: “When do you stop caring about the way your body looks? If I am no longer sexually attractive or physically productive, am I economically futile now? Am I a useless member of society? And how does my body function economically?”
 
