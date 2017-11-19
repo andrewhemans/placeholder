@@ -8,7 +8,7 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**“I’m wearing my wedding ring,” Tom said with abandon.—anonymous**
 
 “I am Mr. Bish,” Tom said ambitiously.
-“What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a copy editor, flipping through my notebook.
+“What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a [copy editor](http://www.placeholdermag.com/art/2017/11/18/exploration-of-body-and-self-through-ceramics.html), flipping through my notebook.
 
 ![TAKMING-WITH-FIONA-copy.jpg](/uploads/TAKMING-WITH-FIONA-copy.jpg)
 
