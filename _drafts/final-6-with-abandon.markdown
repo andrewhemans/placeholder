@@ -5,10 +5,11 @@ date: 2017-11-18 17:05:00 -08:00
 
 
 With Abandon: A Courtship in Tom Swifties and Flowers<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*“I’m wearing my wedding ring,” Tom said with abandon.—anonymous*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**“I’m wearing my wedding ring,” Tom said with abandon.—anonymous**
 
 “I am Mr. Bish,” Tom said ambitiously.
 “What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a copy editor, flipping through my notebook.
+
 Marc is energetic and funny, scrappy and adventurous, with bright, curious eyes. I knew from the moment I met him that we would be friends. Now, I explain as he reads the list of quotations in my notebook: these are Tom Swifties, a fad that a friend and I have kicked off in the honors program. Every day, people leave new ones on the chalkboard in our lounge. Marc’s eyes light up. He thinks we should publish these as fillers in six-point type in the newspaper. 
 
 I’ve been desperately searching for things to laugh at since Cole broke up with me a few months ago. Most of last spring, I carted around books of Ogden Nash poems, cheered by verses like
