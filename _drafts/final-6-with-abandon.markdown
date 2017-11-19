@@ -4,8 +4,8 @@ date: 2017-11-18 17:05:00 -08:00
 ---
 
 
-With Abandon: A Courtship in Tom Swifties and Flowers
-	“I’m wearing my wedding ring,” Tom said with abandon.—anonymous
+With Abandon: A Courtship in Tom Swifties and Flowers<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*“I’m wearing my wedding ring,” Tom said with abandon.—anonymous*
 
 “I am Mr. Bish,” Tom said ambitiously.
 “What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a copy editor, flipping through my notebook.
