@@ -15,7 +15,7 @@ today is busy         everything is half off      so there’s the line    in ad
 the lady jamming things up today has a voucher<br>
 meaning she is in a pickle and received a voucher from the church aid society to shop here
 most of us      us regulars    come here hunting for treasure     the cashmere scarf   
-the perfect chair for the guest room      the vintage table cloth      just last week I 
+the perfect chair for the guest room      the vintage table cloth      just last week I<br> 
 scored a brand new bialetti moka pot and another cardigan I’ll never wear
 most of us shop here for fun
 but the woman jamming up this line has a voucher   has a heap of stuff on the counter    mostly children’s clothes        by the look of it she has at least an infant and a toddler and a couple school-age kids     
