@@ -12,7 +12,7 @@ despite my rancor for the church I go almost every saturday
 sometimes tuesdays too         for the thrill of the bargain
 the hipness of upcycling        the stories in every cast-off
 today is busy         everything is half off      so there’s the line    in addition to which
-the lady jamming things up today has a voucher
+the lady jamming things up today has a voucher<br>
 meaning she is in a pickle and received a voucher from the church aid society to shop here
 most of us      us regulars    come here hunting for treasure     the cashmere scarf   
 the perfect chair for the guest room      the vintage table cloth      just last week I 
