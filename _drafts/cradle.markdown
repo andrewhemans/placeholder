@@ -60,3 +60,5 @@ Janet and Peg finish the sale are all business again     they sign off on the vo
 she thanks them sheepishly and starts to leave    avoiding eye contact with the line behind her     Peg calls after her      don’t forget your star wars comforter! that’s a prize!   and leans over the counter with the last tote          the one that looks like a big present         she makes a joke      
 may the force be with you! she calls      
 she has no idea
+
+but how ingenious that virgin mother how special that infant how unique and powerful that young man
