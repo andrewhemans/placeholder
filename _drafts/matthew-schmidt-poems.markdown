@@ -15,8 +15,10 @@ tags:
 - featured
 - surreal
 - space
+- Love
 image: "/uploads/disgraced-spaceman-2.jpg"
 author: Matthew Schmidt
+description: 'Poetry by Matthew Schmidt. '
 author-block: true
 author-image: "/uploads/Matthew-Schmidt-bio-pic.jpg"
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
