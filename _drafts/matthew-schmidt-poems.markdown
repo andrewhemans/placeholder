@@ -97,6 +97,7 @@ of gravity’s arm-bar spidering earth.<br>
 <br>
 
 Twitter: [@hambonini](https://twitter.com/hambonini)
+
 Facebook: [Matthew Schmidt](https://www.facebook.com/matthew.schmidt.9803)
 
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
