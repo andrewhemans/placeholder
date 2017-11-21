@@ -18,6 +18,7 @@ tags:
 image: "/uploads/disgraced-spaceman-2.jpg"
 author: Matthew Schmidt
 author-block: true
+author-image: "/uploads/Matthew-Schmidt-bio-pic.jpg"
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
   Mississippi. His poems have been published or are forthcoming in "3:AM," "CALAMITY,"
   "Hobart," "Territory," and elsewhere. He is an associate poetry editor at "Fairy
@@ -94,6 +95,10 @@ how words miss his mouth; lank dome<br>
 of gravity’s arm-bar spidering earth.<br>
 <br>
 <br>
+
+Twitter: [@hambonini](https://twitter.com/hambonini)
+Facebook: [Matthew Schmidt](https://www.facebook.com/matthew.schmidt.9803)
+
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
 
 Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
