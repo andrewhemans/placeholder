@@ -78,6 +78,7 @@ whose sari changes color. Here flutters & dances one whom<br>
 Facebook: [@writerjonathantravelstead](https://www.facebook.com/writerjonathantravelstead?ref=hl)
 <br>
 <br>
+<br>
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
 
 Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
