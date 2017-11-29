@@ -76,4 +76,6 @@ whose sari changes color. Here flutters & dances one whom<br>
 <br>
 
 
-*Cover image "Four Eyes" (2015), courtesy of Aleks Avramova*
+*Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
+
+Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
