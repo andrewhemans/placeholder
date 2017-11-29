@@ -1,6 +1,6 @@
 ---
 title: The Book of Leah
-date: 2017-10-11 13:40:00 -07:00
+date: 2017-11-29 13:40:00 -08:00
 categories:
 - Literature
 tags:
@@ -10,15 +10,25 @@ tags:
 - placeholder magazine
 - Jonathan Travelstead
 - The Book of Leah
+- Love
+- dreams
+- featured
+- literary
+- discovery
+- personal
+- self-exploration
+image: "/uploads/disgraced-spaceman-2.jpg"
 author: Jonathan Travelstead
+description: Jonathan Travelstead unveils poetry of personal discovery, self-exploration,
+  and where to find Leah in "The Book of Leah."
 author-block: true
 author-image: "/uploads/Jonathan-Travelstead-bio.jpg"
 author-bio: Jonathan Travelstead served in the Air Force National Guard for six years
   as a firefighter and currently works as a full-time firefighter for the city of
   Murphysboro, and as co-editor for Cobalt Review. Having finished his MFA at Southern
   Illinois University of Carbondale, he also turns a lathe, crafting pens under the
-  name Scorched Ink Penturning. His first collection “How We Bury Our Dead” by Cobalt
-  Press was released in March, 2015, and "Conflict Tours" (Cobalt Press) was released
+  name Scorched Ink Penturning. His first collection, “How We Bury Our Dead,” by Cobalt
+  Press was released in March 2015, and "Conflict Tours" (Cobalt Press) was released
   in 2017.
 ---
 
@@ -64,3 +74,6 @@ whose sari changes color. Here flutters & dances one whom<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the wind blows through. Here. Find Leah here.
 <br>
 <br>
+
+
+Cover image courtesy of 
