@@ -76,7 +76,7 @@ whose sari changes color. Here flutters & dances one whom<br>
 
 Facebook: [Jonathan Travelstead](https://www.facebook.com/writerjonathantravelstead?ref=hl)
 <br>
-<br>
+For more on the author check out his first collection ["How We Bury Our Dead"](http://www.cobaltreview.com/product/how-we-bury-our-dead-paperback/)<br>
 <br>
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
 
