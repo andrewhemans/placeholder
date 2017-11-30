@@ -1,13 +1,11 @@
 ---
 title: The Book of Leah
-date: 2017-11-29 13:40:00 -08:00
+date: 2017-11-30 13:40:00 -08:00
 categories:
 - Literature
 tags:
 - Poetry
 - placeholder
-- placeholder mag
-- placeholder magazine
 - Jonathan Travelstead
 - The Book of Leah
 - Love
@@ -17,6 +15,7 @@ tags:
 - discovery
 - personal
 - self-exploration
+- prose
 image: "/uploads/disgraced-spaceman-2.jpg"
 author: Jonathan Travelstead
 description: Jonathan Travelstead unveils poetry of personal discovery, self-exploration,
@@ -75,10 +74,10 @@ whose sari changes color. Here flutters & dances one whom<br>
 <br>
 <br>
 
-Facebook: [@writerjonathantravelstead](https://www.facebook.com/writerjonathantravelstead?ref=hl)
+Facebook: [Jonathan Travelstead](https://www.facebook.com/writerjonathantravelstead?ref=hl)
 <br>
 <br>
 <br>
 *Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
 
-Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
+Instagram: [@aleksavart](https://www.instagram.com/aleksavart/?hl=en)
