@@ -37,7 +37,8 @@ This proposal to divert over $500,000 in funds from its original purpose to the 
 A group of community members worked with dozens of volunteers to pass Measure M on the Nov. 8, 2016, ballot. The measure is designed to restore and expand library and recreation services in Stockton that were devastated during Stockton’s bankruptcy through a dedicated ¼ cent sales tax. Measure M was passed by 76% of Stockton voters who went to the polls.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6VIMfshUA8g" frameborder="0" allowfullscreen></iframe>
-_The “Yes on M” campaign was passed by over two-thirds of votes._
+_The “Yes on M” campaign was passed with overwhelming support._
+<br>
 <br>
 **Here’s some quick facts about [why Measure M was needed](http://www.stocktongov.com/government/departments/clerk/measureM.html):**<br>
 * Stockton San Joaquin County Library System spends $15 per resident on library service: The State average is $40 per resident.
@@ -55,6 +56,8 @@ On Monday, the City Council will consider a proposal to use $530,000 in Measure 
 <br>
 Stockton residents who are concerned about this diversion of funds away from library and recreation services should contact their council member or the Mayor, or attend Monday’s City Council meeting [Monday at 5:30pm](http://stockton.granicus.com/GeneratedAgendaViewer.php?view_id=48&event_id=1105) to express their concerns.
 <br><br>
-_Cover image courtesy of Dana Al-Hindi_
+Lets keep our promise to voters.<br>
 <br>
+_Cover image courtesy of Dana Al-Hindi_
+<br><br>
 _NOTE: The views expressed here are those of the author and do not necessarily represent or reflect the views of Placeholder Magazine._
