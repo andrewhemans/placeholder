@@ -1,5 +1,5 @@
 ---
-title: 'OPINION: City pitches Landscaping vs. Libraries'
+title: 'OPINION: City Pits Landscaping vs. Libraries'
 date: 2017-12-03 18:42:00 -08:00
 categories:
 - Culture
