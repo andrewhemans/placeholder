@@ -34,7 +34,7 @@ Last election, Stockton [voters passed Measure M](http://votersedge.org/ca/en/ba
 <br>
 This proposal to divert over $500,000 in funds from its original purpose to the landscape and janitorial contract will be on the City Council agenda on Monday, Dec. 4th, at 5:30 pm.
 <br>  
-A group of community members worked with dozens of volunteers to pass Measure M on the Nov. 8, 2016, ballot. The measure is designed to support and expand library and recreation services in Stockton that were devastated during Stockton’s bankruptcy through a dedicated ¼ cent sales tax. Measure M was passed by 76% of Stockton voters who went to the polls.
+A group of community members worked with dozens of volunteers to pass Measure M on the Nov. 8, 2016, ballot. The measure is designed to restore and expand library and recreation services in Stockton that were devastated during Stockton’s bankruptcy through a dedicated ¼ cent sales tax. Measure M was passed by 76% of Stockton voters who went to the polls.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6VIMfshUA8g" frameborder="0" allowfullscreen></iframe>
 _The “Yes on M” campaign was passed by over two-thirds of votes._
@@ -49,7 +49,7 @@ _The “Yes on M” campaign was passed by over two-thirds of votes._
 In addition, [research](http://www.nrpa.org/uploadedFiles/nrpa.org/Publications_and_Research/Research/Papers/Witt-Caldwell-Full-Research-Paper.pdf) has shown a strong correlation between library and recreation services and reduced crime.<br>
 <br>
 ![MeasureMFAQs.jpg](/uploads/MeasureMFAQs.jpg)
-_A flyer sent to Stocktonians by the City of Stockton that outlines of what the measure would accomplish in more specific detail._<br>
+_A flyer sent to Stocktonians by the City of Stockton that outlines what the measure would accomplish in more specific detail._<br>
 <br>
 On Monday, the City Council will consider a proposal to use $530,000 in Measure M funds (referred to by the City as “Community Services Funds”) for landscape maintenance and janitorial services. $500,000 of this would be an ongoing cost for up to seven years. According to the City’s staff report [(pp. 97-103)](http://www.stocktongov.com/clerk/granicusagendas/citycouncil/20171204.pdf), if this money is used for landscape and janitorial maintenance, it would “preclude the development of the proposed multi-use Sports Complex,” a key element of the Measure M plan. It was not the intention of Measure M to cover landscape maintenance and janitorial costs.<br>
 <br>
