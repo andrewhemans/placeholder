@@ -30,7 +30,7 @@ description: "The City of Stockton is proposing to spend money for youth sports 
   recreation to pay for landscaping for parks through Measure \nM."
 ---
 
-**UPDATE: In an effort to maintain voter confidence and keep the city's promise to voters, Measure M money will not be touched for park maintenance. “We need to find [those] 500,000 dollars from somewhere else and not take it from Measure M.” Vice Mayor Holman, Mayor Tubbs, and the city council agreed on Monday, December 4th, 2017.**
+**UPDATE:** _In an effort to maintain voter confidence and keep the city's promise to voters, Measure M money will not be touched for park maintenance. “We need to find [those] 500,000 dollars from somewhere else and not take it from Measure M.” Vice Mayor Holman, Mayor Tubbs, and the city council agreed on Monday, December 4th, 2017._ 
 
 Last election, Stockton [voters passed Measure M](http://votersedge.org/ca/en/ballot/election/area/42/measures/measure/2154?election_authority_id=39) to fund Library and Recreation services. The City of Stockton administration is now proposing that Measure M funds be diverted for landscape maintenance and janitorial services. 
 <br>
