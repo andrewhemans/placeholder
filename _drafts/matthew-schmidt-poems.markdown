@@ -16,7 +16,6 @@ tags:
 - surreal
 - space
 - Love
-image: "/uploads/disgraced-spaceman-2.jpg"
 author: Matthew Schmidt
 description: 'Poetry by Matthew Schmidt. '
 author-block: true
