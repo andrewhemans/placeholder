@@ -105,5 +105,5 @@ Twitter: [@hambonini](https://twitter.com/hambonini)
 
 Facebook: [Matthew Schmidt](https://www.facebook.com/matthew.schmidt.9803)
 
-*Cover Photo courtesy of Chris Cresci*
+*Cover Photo courtesy of Chris Cresci*<br>
 Website: [www.chriscresci.com](http://www.chriscresci.com/)
