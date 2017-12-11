@@ -1,5 +1,5 @@
 ---
-title: Christmas at the Beach
+title: Winter Wreckage by Sand and Soil
 date: 2017-12-11 13:00:00 -08:00
 categories:
 - Literature
@@ -19,7 +19,8 @@ tags:
 - holidays
 - poetry
 author: Matthew Schmidt
-description: '"It’s Christmas, and the tree is a sand castle." Poetry by Matthew Schmidt '
+description: '"It’s Christmas, and the tree is a sand castle." "You can see a grainy
+  beard, wisps surfing the breeze." Poetry by Matthew Schmidt. '
 author-block: true
 author-image: "/uploads/Matthew-Schmidt-bio-pic.jpg"
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
