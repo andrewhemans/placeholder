@@ -105,6 +105,5 @@ Twitter: [@hambonini](https://twitter.com/hambonini)
 
 Facebook: [Matthew Schmidt](https://www.facebook.com/matthew.schmidt.9803)
 
-*Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
-
-Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
+*Cover Photo courtesy of Chris Cresci*
+Website: [www.chriscresci.com](http://www.chriscresci.com/)
