@@ -1,6 +1,6 @@
 ---
-title: Matthew Schmidt Poems
-date: 2017-11-21 13:00:00 -08:00
+title: Christmas at the Beach
+date: 2017-12-11 13:00:00 -08:00
 categories:
 - Literature
 tags:
@@ -9,15 +9,17 @@ tags:
 - Disgraced Spaceman 2091
 - Essentials
 - placeholder
-- placeholder mag
-- placeholder magazine
 - elements
 - featured
 - surreal
 - space
 - Love
+- beach
+- christmas
+- holidays
+- poetry
 author: Matthew Schmidt
-description: 'Poetry by Matthew Schmidt. '
+description: '"It’s Christmas, and the tree is a sand castle." Poetry by Matthew Schmidt '
 author-block: true
 author-image: "/uploads/Matthew-Schmidt-bio-pic.jpg"
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
