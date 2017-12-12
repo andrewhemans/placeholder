@@ -19,9 +19,11 @@ tags:
 - poetry
 - Environment
 - feature
+image: "/uploads/chris-cresci-beach-mountain.jpg"
 author: Matthew Schmidt
-description: '"It’s Christmas, and the tree is a sand castle." "You can see a grainy
-  beard, wisps surfing the breeze." Poetry by Matthew Schmidt. '
+description: '"It’s Christmas, and the tree is a sand castle." From christmas at the
+  beach to space cosmonauts, Matthew Schmidt presents some vivid atmospheres for his
+  poetry.'
 author-block: true
 author-image: "/uploads/Matthew-Schmidt-bio-pic.jpg"
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
@@ -106,5 +108,5 @@ Twitter: [@hambonini](https://twitter.com/hambonini)
 Facebook: [Matthew Schmidt](https://www.facebook.com/matthew.schmidt.9803)
 <br>
 <br>
-*Cover Photo courtesy of Chris Cresci*<br>
+*Cover Photo courtesy of [Chris Cresci](http://www.chriscresci.com/)*<br>
 Website: [www.chriscresci.com](http://www.chriscresci.com/)
