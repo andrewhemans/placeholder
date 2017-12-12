@@ -8,7 +8,6 @@ tags:
 - Matthew Schmidt
 - Disgraced Spaceman 2091
 - Essentials
-- placeholder
 - elements
 - featured
 - surreal
