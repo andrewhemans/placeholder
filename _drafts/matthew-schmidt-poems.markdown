@@ -1,6 +1,6 @@
 ---
-title: Matthew Schmidt Poems
-date: 2017-11-21 13:00:00 -08:00
+title: Winter Wreckage by Sand and Soil
+date: 2017-12-12 13:00:00 -08:00
 categories:
 - Literature
 tags:
@@ -8,16 +8,20 @@ tags:
 - Matthew Schmidt
 - Disgraced Spaceman 2091
 - Essentials
-- placeholder
-- placeholder mag
-- placeholder magazine
 - elements
 - featured
 - surreal
 - space
 - Love
+- beach
+- christmas
+- holidays
+- poetry
+- Environment
+- feature
 author: Matthew Schmidt
-description: 'Poetry by Matthew Schmidt. '
+description: '"It’s Christmas, and the tree is a sand castle." "You can see a grainy
+  beard, wisps surfing the breeze." Poetry by Matthew Schmidt. '
 author-block: true
 author-image: "/uploads/Matthew-Schmidt-bio-pic.jpg"
 author-bio: Matthew Schmidt is working on a PhD in English at the University of Southern
@@ -100,7 +104,7 @@ of gravity’s arm-bar spidering earth.<br>
 Twitter: [@hambonini](https://twitter.com/hambonini)
 
 Facebook: [Matthew Schmidt](https://www.facebook.com/matthew.schmidt.9803)
-
-*Cover Photo, "Four Eyes" (2015), courtesy of Aleks Avramova*
-
-Instagram: [aleksavart](https://www.instagram.com/aleksavart/?hl=en)
+<br>
+<br>
+*Cover Photo courtesy of Chris Cresci*<br>
+Website: [www.chriscresci.com](http://www.chriscresci.com/)

@@ -5,7 +5,6 @@ categories:
 - Literature
 tags:
 - Poetry
-- placeholder
 - Jonathan Travelstead
 - The Book of Leah
 - Love

@@ -24,6 +24,7 @@ tags:
 - prevention
 - Michael Tubbs
 - sports
+- opinion
 image: "/uploads/books-dalhindi.jpg"
 author: Colleen Foster
 description: "The City of Stockton is proposing to spend money for youth sports and
