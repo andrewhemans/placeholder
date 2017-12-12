@@ -19,7 +19,7 @@ tags:
 - poetry
 - Environment
 - feature
-image: "/uploads/chris-cresci-beach-mountain.jpg"
+image: "/uploads/chris-c-mt-beach.JPG"
 author: Matthew Schmidt
 description: '"It’s Christmas, and the tree is a sand castle." From christmas at the
   beach to space cosmonauts, Matthew Schmidt presents some vivid atmospheres for his
