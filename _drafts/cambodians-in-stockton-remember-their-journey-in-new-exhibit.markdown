@@ -1,5 +1,5 @@
 ---
-title: Cambodians in Stockton remember their journey in new exhibit
+title: Cambodians in Stockton Remember Their Journey in New Exhibit
 date: 2017-12-13 13:37:00 -08:00
 categories:
 - Culture
@@ -34,14 +34,14 @@ author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockto
   Magazine or I'm cycling or climbing somewhere, unless it's raining.
 ---
 
-During a fundraiser in September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community,” I said with a sense of pride. After all, the number of people of color in Stockton went [from 30% to nearly 65% in 30 years](http://nationalequityatlas.org/data-summaries/Stockton,_CA_Metro_Area/). “Stockton is a plurality, not a majority-minority community,” he replied. I think we both had too much to drink, because a community can be both, but one thing is for certain, Stockton is diverse.
+During a fundraiser in September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community” I said, with a sense of pride. After all, the number of people of color in Stockton went from 30% to nearly 65% in 30 years. “Stockton is a plurality, not a majority-minority community,” the reporter replied. I think we both had too much to drink, because a community can be both, but one thing is for certain, Stockton is diverse.
 
-The fundraiser event was BREAD, hosted by Placeholder Magazine at a warehouse-turned furniture studio. The fundraiser was also a mini-grant program, where the ticket sales ($1,000) went to a community arts project presented by artists or organizations. This year’s winner was [The Cambodian Experience: Our Journey to America Exhibit. ](https://www.facebook.com/events/1427384197300264/)
+The fundraiser was B.R.E.A.D., hosted by Placeholder Magazine at a warehouse-turned furniture studio. The fundraiser was also a mini-grant program, where the ticket sales ($1,000) went to a community arts project presented by artists or organizations. This year’s winner was The Cambodian Experience: Our Journey to America Exhibit. 
 
 [bread-candidates.PNG](/uploads/bread-candidates.PNG)
 **The candidates for BREAD, a mini-grant fundraiser project by Placeholder Magazine. The Cambodian Experience won the $1,000 and received additional funding from Stockton Arts Commission and UC Berkeley.**
 
-The Exhibit highlights the great  influx of Cambodian refugees who arrived to the United States due to the mass genocide that took place in Cambodia between 1975-1979. Many of which found a home in Stockton. Today, there are over [10,000 Cambodians living in Stockton](http://khmersalem.blogspot.com/2013/06/what-us-city-has-most-khmer.html). 
+The Exhibit highlights the great  influx of Cambodian refugees who arrived to the United States due to the mass genocide that took place in Cambodia between 1975-1979. Many of which found a home in Stockton. Today, there are over 10,000 Cambodians living in Stockton. 
 
 The Cambodian Experience is an exhibit by United Cambodian-American Network (UCAN) and its purpose is to raise awareness, educate, and revive the Cambodian-American history and culture. Through multiple galleries, the exhibit will showcase the cultural music, dance, and theater forms of the Cambodian people. There will also be a gallery dedicated to the people whose lives were lost in the Cambodian Genocide. 
 
