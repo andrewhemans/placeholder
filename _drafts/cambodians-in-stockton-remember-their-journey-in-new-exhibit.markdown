@@ -38,8 +38,8 @@ During a fundraiser in September, I got to talking with a reporter from Stockton
 
 The fundraiser event was BREAD, hosted by Placeholder Magazine at a warehouse-turned furniture studio. The fundraiser was also a mini-grant program, where the ticket sales ($1,000) went to a community arts project presented by artists or organizations. This year’s winner was The Cambodian Experience: Our Journey to America Exhibit. 
 
-[bread-candidates.PNG](/uploads/bread-candidates.PNG)
-**The candidates for BREAD, a mini-grant fundraiser project by Placeholder Magazine. The Cambodian Experience won the $1,000 and received additional funding from Stockton Arts Commission and UC Berkeley.**
+[bread-candidates.PNG](/uploads/bread-candidates.PNG)<br>
+*The candidates for BREAD, a mini-grant fundraiser project by Placeholder Magazine. The Cambodian Experience won the $1,000 and received additional funding from Stockton Arts Commission and UC Berkeley.*
 
 The Exhibit highlights the great  influx of Cambodian refugees who arrived to the United States due to the mass genocide that took place in Cambodia between 1975-1979. Many of which found a home in Stockton. Today, there are over 10,000 Cambodians living in Stockton. 
 
@@ -47,36 +47,36 @@ The Cambodian Experience is an exhibit by United Cambodian-American Network (UCA
 
 The Cambodian Experience: Our Journey to America is FREE and open to the public. Opens December 16th at the San Joaquin County Office of Education and will run until December 22nd. 
 
-*__Here’s the exhibit program:__*
+**__Here’s the exhibit program:__**
 
-*December 16th:*<br>
+**December 16th:**<br>
 * 1:00-6:00pm: Be the first to view the exhibit which will showcase the history, culture and art of Cambodia.
 * 1:00pm: Opening Ceremony. Seating is limited for this ceremony.
 
-*December 17th*<br>
+**December 17th**<br>
 * 9:30am Dance Performance By Khmer Ballet Of Stockton Khmer Youth of Modesto
 * 11:00am Evolution of Khmer Attire Fashion Show
 * 12:00pm Cooking Demonstration by Elissa Sok
 * 2:00pm Live Music by Audrey Svay and Special Guests
 * 4:00pm Artist Panel 
 
-*December 18th, Monday:*  
+**December 18th, Monday:**  
 * 2:00pm Cambodian Authors Panel
 * 4:00pm Cambodian Americans in Education Panel 
 
-*Decemer 19th, Tuesday:* 
+**Decemer 19th, Tuesday:** 
 * 11:00am-TBD
 
-*December 20th, Wednesday:*
+**December 20th, Wednesday:**
 * 2:00pm Introduction to Khmer Language
 
-*December 21st, Thursday:* 
+**December 21st, Thursday:** 
 * 2:00pm Cambodian Genocide Discussion 
 
-*December 22nd, Friday:* 
+**December 22nd, Friday:** 
 * 2:00pm Closing Ceremony
 
-*Exhibit Location:* 
+**Exhibit Location:**
 San Joaquin County Office of Education<br>
 2707 Transworld Drive<br>
 Stockton, CA 95219<br><br>
