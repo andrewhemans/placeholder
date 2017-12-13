@@ -70,13 +70,13 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 * 11:00am-TBD
 
 *Wednesday, December 20th*
-* 2:00pm Introduction to Khmer Language
+* 2:00pm: Introduction to Khmer Language
 
 *Thursday, December 21st* 
-* 2:00pm Cambodian Genocide Discussion 
+* 2:00pm: Cambodian Genocide Discussion 
 
 *Friday, December 22nd* 
-* 2:00pm Closing Ceremony
+* 2:00pm: Closing Ceremony
 
 *Exhibit Location:* 
 San Joaquin County Office of Education<br>
