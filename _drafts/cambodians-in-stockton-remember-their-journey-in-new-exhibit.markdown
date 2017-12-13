@@ -64,7 +64,7 @@ The Cambodian Experience: Our Journey to America is FREE and open to the public.
 * 2:00pm Cambodian Authors Panel
 * 4:00pm Cambodian Americans in Education Panel 
 
-**Decemer 19th:** 
+**December 19th:** 
 * 11:00am-TBD
 
 **December 20th:**
@@ -74,7 +74,7 @@ The Cambodian Experience: Our Journey to America is FREE and open to the public.
 * 2:00pm Cambodian Genocide Discussion 
 
 **December 22nd:** 
-* 2:00pm Closing Ceremony
+* 2:00pm Closing Ceremony 
 
 **Exhibit Location:**
 San Joaquin County Office of Education<br>
