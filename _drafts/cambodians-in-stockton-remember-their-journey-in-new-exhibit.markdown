@@ -85,4 +85,4 @@ For more info contact: thecambodianexperience@gmail.com
 
 [![24231809_2416443398581078_8215789219208135497_n.jpg](/uploads/24231809_2416443398581078_8215789219208135497_n.jpg)](https://www.facebook.com/TheCambodianExperience/)
 
-**Cover image courtesy of UCAN**
+*Cover image courtesy of UCAN*
