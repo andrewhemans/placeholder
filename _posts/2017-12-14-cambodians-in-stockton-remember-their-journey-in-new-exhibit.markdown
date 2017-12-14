@@ -24,8 +24,9 @@ tags:
 - diaspora
 image: "/uploads/cambodian-exp.png"
 author: Javier Padilla Reyes
-description: The Cambodian Experience Exhibit is open Dec. 16-22 and is FREE. Every
-  day there will be something to do and learn.
+description: Highlighting the journey of Cambodian refugees to the US as well as their
+  culture, The Cambodian Experience Exhibit opens on Dec. 16-22 and is FREE and open
+  to the public.
 author-block: true
 author-image: "/uploads/javier%20bio.JPG"
 author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockton,
