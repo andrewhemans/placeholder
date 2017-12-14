@@ -54,8 +54,7 @@ __Here's the exhibit program__
 *Saturday, December 16th*
 * 1:00-6:00pm: Be the first to view the exhibit, which will showcase the history, culture and art of Cambodia.
 * 1:00pm: **Opening Ceremony.** Seating is limited for this ceremony.
-<br>
-<br>
+
 *Sunday, December 17th*
 * 9:30am: **Dance Performance** by Khmer Ballet Of Stockton & Khmer Youth of Modesto
 * 11:00am: **Evolution of Khmer Attire Fashion Show**
