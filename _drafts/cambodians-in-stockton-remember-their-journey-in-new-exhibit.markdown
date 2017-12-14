@@ -55,12 +55,14 @@ __Here’s the exhibit program:__
 * 1:00-6:00pm: Be the first to view the exhibit, which will showcase the history, culture and art of Cambodia.
 * 1:00pm: **Opening Ceremony.** Seating is limited for this ceremony.
 <br>
+<br>
 *Sunday, December 17th*
 * 9:30am: **Dance Performance** by Khmer Ballet Of Stockton & Khmer Youth of Modesto
 * 11:00am: **Evolution of Khmer Attire Fashion Show**
 * 12:00pm: **Cooking Demonstration** by Elissa Sok
 * 2:00pm: **Live Music** by Audrey Svay and Special Guests
 * 4:00pm: **Artist Panel** 
+<br>
 <br>
 *Monday, December 18th*
 * 2:00pm: **Cambodian Authors Panel**
@@ -87,4 +89,4 @@ For more information contact: thecambodianexperience@gmail.com
 
 [![24231809_2416443398581078_8215789219208135497_n.jpg](/uploads/24231809_2416443398581078_8215789219208135497_n.jpg)](https://www.facebook.com/TheCambodianExperience/)
 
-***Cover image courtesy of UCAN***
+***Cover image courtesy of UCAN.***
