@@ -49,7 +49,7 @@ The exhibit highlights the great influx of Cambodian refugees—many of whom fou
 
 Opens December 16th at the San Joaquin County Office of Education, and will run until December 22nd. 
 
-*__Here’s the exhibit program:__*
+__Here’s the exhibit program:__
 
 *Saturday, December 16th*
 * 1:00-6:00pm: Be the first to view the exhibit, which will showcase the history, culture and art of Cambodia.
@@ -62,8 +62,7 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 * 2:00pm: **Live Music** by Audrey Svay and Special Guests
 * 4:00pm: **Artist Panel** 
 
-
-*Monday, December 18th*  
+*Monday, December 18th*<br>
 * 2:00pm: **Cambodian Authors Panel**
 * 4:00pm: **Cambodian Americans in Education Panel** 
 
