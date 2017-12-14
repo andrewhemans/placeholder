@@ -49,7 +49,7 @@ The exhibit highlights the great influx of Cambodian refugees—many of whom fou
 
 Opens December 16th at the San Joaquin County Office of Education, and will run until December 22nd. 
 
-__Here’s the exhibit program:__
+**Here’s the exhibit program:**
 <br>
 <br>
 *Saturday, December 16th*
