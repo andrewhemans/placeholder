@@ -55,7 +55,6 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 * 1:00-6:00pm: Be the first to view the exhibit, which will showcase the history, culture and art of Cambodia.
 * 1:00pm: **Opening Ceremony.** Seating is limited for this ceremony.<br>
 <br>
-<br>
 *Sunday, December 17th*<br>
 * 9:30am: **Dance Performance** by Khmer Ballet Of Stockton & Khmer Youth of Modesto
 * 11:00am: **Evolution of Khmer Attire Fashion Show**
@@ -64,7 +63,7 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 * 4:00pm: **Artist Panel** 
 <br>
 <br>
-*Monday, December 18th*  
+*Monday, December 18th*<br>  
 * 2:00pm: **Cambodian Authors Panel**
 * 4:00pm: **Cambodian Americans in Education Panel** 
 
