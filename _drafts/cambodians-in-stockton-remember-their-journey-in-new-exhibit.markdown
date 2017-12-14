@@ -34,22 +34,22 @@ author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockto
   Magazine or I'm cycling or climbing somewhere, unless it's raining.
 ---
 
-During a fundraiser this past September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community” I said, with a sense of pride. After all, the city's population of people of color has increased from 30% to nearly 65% within the past 30 years. “Stockton is a plurality, not a majority-minority community,” the reporter replied. I think we both had too much to drink, given that a community can be both, but one thing is for certain: Stockton is diverse.
+During a fundraiser this past September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community” I said, with a sense of pride. After all, the city's population of people of color has increased [from 30% to nearly 65% within the past 30 years](http://nationalequityatlas.org/data-summaries/Stockton,_CA_Metro_Area/). <br>
 
-The fundraiser was B.R.E.A.D., hosted by Placeholder Magazine at a warehouse-turned furniture studio. The fundraiser was also a mini-grant program, in which the ticket sales ($1,000) went towards a community arts project presented by artists or organizations. This year’s winner was "The Cambodian Experience: Our Journey to America" Exhibit. 
+“Stockton is a plurality, not a majority-minority community,” the reporter replied. I think we both had too much to drink, given that a community can be both, but one thing is for certain: Stockton is diverse.
+
+The sold-out fundraiser event was Backing Resources for Emerging Artists Democratically (BREAD), a [mini-grant program](http://www.placeholdermag.com/bread) hosted by Placeholder Magazine, where the ticket sales ($1,000) went to a community arts project presented by artists or organizations. This year’s winner was [__The Cambodian Experience: Our Journey to America Exhibit__](https://www.facebook.com/events/1427384197300264/). 
 
 ![bread-candidates.PNG](/uploads/bread-candidates.PNG)
-**The candidates for B.R.E.A.D., a mini-grant/fundraiser project by Placeholder Magazine. "The Cambodian Experience" was awarded the $1,000 prize and received additional funding from The Stockton Arts Commission and UC Berkeley.**
+*Pictured are the candidates for B.R.E.A.D.; "The Cambodian Experience" was awarded the $1,000 prize and received additional funding from The Stockton Arts Commission and UC Berkeley.*
 
-The exhibit highlights the great influx of Cambodian refugees—many of whom found a home in Stockton—who arrived in the United States as a result of the mass genocide that took place in Cambodia between 1975-1979. Today, there are over 10,000 Cambodians living in Stockton. 
+__The Cambodian Experience__ is an exhibit put on by United Cambodian American Network (UCAN), and its purpose is to raise awareness, educate, and revive Cambodian-American history and culture. Through multiple galleries, the exhibit will showcase the cultural music, dance, and theater forms of the Cambodian people. A gallery will be dedicated to the people whose lives were lost in the Cambodian Genocide. 
 
-"The Cambodian Experience" is an exhibit put on by United Cambodian American Network (UCAN), and its purpose is to raise awareness, educate, and revive Cambodian-American history and culture. Through multiple galleries, the exhibit will showcase the cultural music, dance, and theater forms of the Cambodian people. There will also be a gallery dedicated to the people whose lives were lost in the Cambodian Genocide. 
+In addition, the Cambodian Experience highlights the great influx of Cambodian refugees who arrived to the United States due to the mass genocide that took place in Cambodia between 1975-1979. Many of which found a home in Stockton. Today there are over [10,000 Cambodians living in Stockton](http://khmersalem.blogspot.com/2013/06/what-us-city-has-most-khmer.html). 
 
-"The Cambodian Experience: Our Journey to America" is **FREE** and open to the public. 
+**"__The Cambodian Experience: Our Journey to America__" is FREE.** The event opens on December 16th at the San Joaquin County Office of Education, and will run until December 22nd.
 
-Opens December 16th at the San Joaquin County Office of Education, and will run until December 22nd.
-
-__Here's the exhibit program:__
+__**Here's the exhibit program:**__
 
 *Saturday, December 16th:*
 * 1:00-6:00pm: Be the first to view the exhibit, which will showcase the history, culture and art of Cambodia.
