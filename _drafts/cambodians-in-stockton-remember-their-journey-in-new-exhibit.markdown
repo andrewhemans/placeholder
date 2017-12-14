@@ -34,7 +34,7 @@ author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockto
   Magazine or I'm cycling or climbing somewhere, unless it's raining.
 ---
 
-During a fundraiser this past September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community” I said, with a sense of pride. After all, the city's population of people of color increased from 30% to nearly 65% in just 30 years. “Stockton is a plurality, not a majority-minority community,” the reporter replied. I think we both had too much to drink given that a community can be both, but one thing is for certain: Stockton is diverse.
+During a fundraiser this past September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community” I said, with a sense of pride. After all, the city's population of people of color has increased from 30% to nearly 65% within the past 30 years. “Stockton is a plurality, not a majority-minority community,” the reporter replied. I think we both had too much to drink, given that a community can be both, but one thing is for certain: Stockton is diverse.
 
 The fundraiser was B.R.E.A.D., hosted by Placeholder Magazine at a warehouse-turned furniture studio. The fundraiser was also a mini-grant program, in which the ticket sales ($1,000) went towards a community arts project presented by artists or organizations. This year’s winner was "The Cambodian Experience: Our Journey to America" Exhibit. 
 
