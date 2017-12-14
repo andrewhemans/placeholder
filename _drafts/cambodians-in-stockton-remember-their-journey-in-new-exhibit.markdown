@@ -62,6 +62,7 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 * 2:00pm: **Live Music** by Audrey Svay and Special Guests
 * 4:00pm: **Artist Panel** 
 
+
 *Monday, December 18th*  
 * 2:00pm: **Cambodian Authors Panel**
 * 4:00pm: **Cambodian Americans in Education Panel** 
@@ -78,7 +79,7 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 *Friday, December 22nd* 
 * 2:00pm: **Closing Ceremony**
 
-*Exhibit Location:*<br> 
+Exhibit Location:<br> 
 San Joaquin County Office of Education<br>
 2707 Transworld Drive<br>
 Stockton, CA 95219<br><br>
@@ -87,4 +88,4 @@ For more information contact: thecambodianexperience@gmail.com
 
 [![24231809_2416443398581078_8215789219208135497_n.jpg](/uploads/24231809_2416443398581078_8215789219208135497_n.jpg)](https://www.facebook.com/TheCambodianExperience/)
 
-**Cover image courtesy of UCAN**
+***Cover image courtesy of UCAN***
