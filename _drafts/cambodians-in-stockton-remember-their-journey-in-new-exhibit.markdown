@@ -48,7 +48,8 @@ The exhibit highlights the great influx of Cambodian refugees—many of whom fou
 "The Cambodian Experience: Our Journey to America" is **FREE** and open to the public. 
 
 Opens December 16th at the San Joaquin County Office of Education, and will run until December 22nd.
- 
+<br>
+<br>
 *Saturday, December 16th*
 * 1:00-6:00pm: Be the first to view the exhibit, which will showcase the history, culture and art of Cambodia.
 * 1:00pm: **Opening Ceremony.** Seating is limited for this ceremony.
