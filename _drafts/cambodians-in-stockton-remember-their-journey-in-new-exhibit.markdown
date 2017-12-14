@@ -1,6 +1,6 @@
 ---
 title: Cambodians in Stockton Remember Their Journey in New Exhibit
-date: 2017-12-13 13:37:00 -08:00
+date: 2017-12-14 13:37:00 -08:00
 categories:
 - Culture
 tags:
@@ -34,14 +34,14 @@ author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockto
   Magazine or I'm cycling or climbing somewhere, unless it's raining.
 ---
 
-During a fundraiser this past September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community” I said, with a sense of pride. After all, the city's population of people of color increased from 30% to nearly 65% in just 30 years. “Stockton is a plurality, not a majority-minority community,” the reporter replied. I think we both had too much to drink, because a community can be both, but one thing is for certain: Stockton is diverse.
+During a fundraiser this past September, I got to talking with a reporter from Stockton’s largest newspaper. “Stockton is a majority-minority community” I said, with a sense of pride. After all, the city's population of people of color increased from 30% to nearly 65% in just 30 years. “Stockton is a plurality, not a majority-minority community,” the reporter replied. I think we both had too much to drink given that a community can be both, but one thing is for certain: Stockton is diverse.
 
 The fundraiser was B.R.E.A.D., hosted by Placeholder Magazine at a warehouse-turned furniture studio. The fundraiser was also a mini-grant program, in which the ticket sales ($1,000) went towards a community arts project presented by artists or organizations. This year’s winner was "The Cambodian Experience: Our Journey to America" Exhibit. 
 
 ![bread-candidates.PNG](/uploads/bread-candidates.PNG)
 **The candidates for B.R.E.A.D., a mini-grant/fundraiser project by Placeholder Magazine. "The Cambodian Experience" was awarded the $1,000 prize and received additional funding from The Stockton Arts Commission and UC Berkeley.**
 
-The exhibit highlights the great influx of Cambodian refugees who arrived in the United States as a result of the mass genocide that took place in Cambodia between 1975-1979. Many of these refugees found a home in Stockton, and today, there are over 10,000 Cambodians living in Stockton. 
+The exhibit highlights the great influx of Cambodian refugees—many of whom found a home in Stockton—who arrived in the United States as a result of the mass genocide that took place in Cambodia between 1975-1979. Today, there are over 10,000 Cambodians living in Stockton. 
 
 "The Cambodian Experience" is an exhibit put on by United Cambodian American Network (UCAN), and its purpose is to raise awareness, educate, and revive Cambodian-American history and culture. Through multiple galleries, the exhibit will showcase the cultural music, dance, and theater forms of the Cambodian people. There will also be a gallery dedicated to the people whose lives were lost in the Cambodian Genocide. 
 
@@ -78,7 +78,7 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 *Friday, December 22nd* 
 * 2:00pm: **Closing Ceremony**
 
-*Exhibit Location:* 
+*Exhibit Location:*<br> 
 San Joaquin County Office of Education<br>
 2707 Transworld Drive<br>
 Stockton, CA 95219<br><br>
