@@ -57,6 +57,8 @@ Opens December 16th at the San Joaquin County Office of Education, and will run 
 <br>
 <br>
 *Sunday, December 17th*<br>
+<br>
+<br>
 * 9:30am: **Dance Performance** by Khmer Ballet Of Stockton & Khmer Youth of Modesto
 * 11:00am: **Evolution of Khmer Attire Fashion Show**
 * 12:00pm: **Cooking Demonstration** by Elissa Sok
