@@ -27,7 +27,7 @@ asks the artist.<br>
 
 **No Apologies**
 
-Woman sleeps enfolded 
+Woman sleeps enfolded<br> 
 in stalks of barley&nbsp;&nbsp;&nbsp;&nbsp;yarrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verbena<br>
 her skin a cocoon of her potbelly&nbsp;&nbsp;&nbsp;&nbsp;wrinkles&nbsp;&nbsp;&nbsp;&nbsp;ample waist<br>
 thick dimpled knees—
