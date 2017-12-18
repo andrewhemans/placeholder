@@ -28,9 +28,9 @@ asks the artist.<br>
 **No Apologies**
 
 Woman sleeps enfolded 
-in stalks of barley &nbsp;&nbsp;&nbsp;&nbsp;yarrow &nbsp;&nbsp;&nbsp;&nbsp;verbena
+in stalks of barley&nbsp;&nbsp;&nbsp;&nbsp;yarrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verbena
 her skin a cocoon 
-of her potbelly    wrinkles    ample waist
+of her potbelly&nbsp;&nbsp;&nbsp;&nbsp;wrinkles&nbsp;&nbsp;&nbsp;&nbsp;ample waist
 thick dimpled knees—
 she is her own field
 sometimes sharp like blades of grass
