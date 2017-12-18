@@ -29,8 +29,7 @@ asks the artist.<br>
 
 Woman sleeps enfolded 
 in stalks of barley&nbsp;&nbsp;&nbsp;&nbsp;yarrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verbena<br>
-her skin a cocoon 
-of her potbelly&nbsp;&nbsp;&nbsp;&nbsp;wrinkles&nbsp;&nbsp;&nbsp;&nbsp;ample waist<br>
+her skin a cocoon of her potbelly&nbsp;&nbsp;&nbsp;&nbsp;wrinkles&nbsp;&nbsp;&nbsp;&nbsp;ample waist<br>
 thick dimpled knees—
 she is her own field
 sometimes sharp like blades of grass
