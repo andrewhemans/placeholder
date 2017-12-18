@@ -28,7 +28,7 @@ asks the artist.<br>
 **No Apologies**
 
 Woman sleeps enfolded 
-in stalks of barley    yarrow     verbena
+in stalks of barley &nbsp;&nbsp;&nbsp;&nbsp;yarrow &nbsp;&nbsp;&nbsp;&nbsp;verbena
 her skin a cocoon 
 of her potbelly    wrinkles    ample waist
 thick dimpled knees—
