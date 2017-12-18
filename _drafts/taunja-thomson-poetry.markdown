@@ -30,38 +30,14 @@ asks the artist.<br>
 Woman sleeps enfolded<br> 
 in stalks of barley&nbsp;&nbsp;&nbsp;&nbsp;yarrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verbena<br>
 her skin a cocoon of her potbelly&nbsp;&nbsp;&nbsp;&nbsp;wrinkles&nbsp;&nbsp;&nbsp;&nbsp;ample waist<br>
-thick dimpled knees—
-she is her own field
-sometimes sharp like blades of grass
-at others bent like branches
-or soft as moss
-here pointed and aimed at sky
-there watercolor-vague
-and grounded.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+thick dimpled knees—<br>
+she is her own field<br>
+sometimes sharp like blades of grass<br>
+at others bent like branches<br>
+or soft as moss<br>
+here pointed and aimed at sky<br>
+there watercolor-vague<br>
+and grounded.<br>
 
 
 
@@ -70,57 +46,51 @@ and grounded.
 
 ~inspired by the art of Christine Wu
 
-
 Summer, 1975
 
-We sat in the sunlit field
-that afternoon
-the lovely Spanish boy
-and I.    Heart
-came on the radio
-singing Magic Man—
-I sang along and he strummed
-his guitar
-randomly.
-Spangles of sun danced
-on the ground around us
-leaping from one blade of grass
-to the next like coins 
-thrown at a gypsy caravan
-frenetic reflections 
-in a pool of green.
-His mahogany eyes
-wide with admiration
-one moment    closed smoothly
-the next
-his brown fingers slowing
-but never ceasing.
-My long hair tossed shadows
-brushed grass
-and those fingers
-moved from strings 
-to flesh
-from afternoon
-to end-of-summer 
-crickets with violin legs
-leaning toward two warm bodies
-basking in the sun’s 
-silence. 
-
-
-
-
-
+We sat in the sunlit field<br>
+that afternoon<br>
+the lovely Spanish boy<br>
+and I.&nbsp;&nbsp;&nbsp;&nbsp;Heart<br>
+came on the radio<br>
+singing *Magic Man*—<br>
+I sang along and he strummed<br>
+his guitar<br>
+randomly.<br>
+Spangles of sun danced<br>
+on the ground around us<br>
+leaping from one blade of grass<br>
+to the next like coins<br>
+thrown at a gypsy caravan<br>
+frenetic reflections<br>
+in a pool of green.<br>
+His mahogany eyes<br>
+wide with admiration<br>
+one moment&nbsp;&nbsp;&nbsp;&nbsp;closed smoothly<br>
+the next<br>
+his brown fingers slowing<br>
+but never ceasing.<br>
+My long hair tossed shadows<br>
+brushed grass<br>
+and those fingers<br>
+moved from strings<br>
+to flesh<br>
+from afternoon<br>
+to end-of-summer<br>
+crickets with violin legs<br>
+leaning toward two warm bodies<br>
+basking in the sun’s<br>
+silence.<br>
 
 
 Ecstasy:
 
-vibrating sharp
-sung through teeth--soul notes
-mouths glinting
-honed into questions
-hot skin   shiny bones
-absolute experience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vibrating sharp<br>
+sung through teeth--soul notes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mouths glinting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;honed into questions<br>
+hot skin&nbsp;&nbsp;&nbsp;shiny bones<br>
+absolute experience<br>
 another stage
 residual night: this dark
 calling
