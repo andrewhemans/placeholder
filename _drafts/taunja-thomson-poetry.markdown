@@ -1,6 +1,10 @@
 ---
 title: Taunja Thomson Poetry
 date: 2017-12-18 11:18:00 -08:00
+tags:
+- Taunja Thomson
+- Poet
+- Poetry
 ---
 
 **The Harp**
@@ -91,61 +95,30 @@ sung through teeth--soul notes<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;honed into questions<br>
 hot skin&nbsp;&nbsp;&nbsp;shiny bones<br>
 absolute experience<br>
-another stage
-residual night: this dark
-calling
-humming moon
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+another stage<br>
+residual night: this dark<br>
+calling<br>
+humming moon<br>
 
 
 
 The Conversation
 
-Man with brown hat
-minus one-half 
-of one leg
-props crutch 
-under one armpit
-reaches arms up 
-to remonstrate    to explain    to extol sky
-to goose-necked woman
-with black umbrella
-who holds her head back
-hisses    listens    ripens into awe.
-Four eyes glow like opals
-behind thieves’ masks
-while bodies    crutch    umbrella
-shimmy on rain-swept street.
+Man with brown hat<br>
+minus one-half<br>
+of one leg<br>
+props crutch<br>
+under one armpit<br>
+reaches arms up<br>
+to remonstrate&nbsp;&nbsp;&nbsp;&nbsp;to explain&nbsp;&nbsp;&nbsp;&nbsp;to extol sky<br>
+to goose-necked woman<br>
+with black umbrella<br>
+who holds her head back<br>
+hisses&nbsp;&nbsp;&nbsp;&nbsp;listens&nbsp;&nbsp;&nbsp;&nbsp;   ripens into awe.<br>
+Four eyes glow like opals<br>
+behind thieves’ masks<br>
+while bodies&nbsp;&nbsp;&nbsp;&nbsp;crutch&nbsp;&nbsp;&nbsp;&nbsp;    umbrella<br>
+shimmy on rain-swept street.<br>
 
 
 
