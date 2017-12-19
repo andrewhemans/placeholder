@@ -9,7 +9,7 @@ tags:
 - Poetry
 ---
 
-**The Harp**
+**The Harp**<br>
 **(for Augusta Savage)**
 
 When the hand of God plucks<br>
@@ -49,10 +49,9 @@ and grounded.<br>
 
 
 
+*~inspired by the art of Christine Wu*
 
-~inspired by the art of Christine Wu
-
-Summer, 1975
+**Summer, 1975**
 
 We sat in the sunlit field<br>
 that afternoon<br>
@@ -89,7 +88,7 @@ basking in the sun’s<br>
 silence.<br>
 
 
-Ecstasy:
+**Ecstasy:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vibrating sharp<br>
 sung through teeth--soul notes<br>
@@ -98,13 +97,12 @@ sung through teeth--soul notes<br>
 hot skin&nbsp;&nbsp;&nbsp;shiny bones<br>
 absolute experience<br>
 another stage<br>
-residual night: this dark<br>
-calling<br>
-humming moon<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;residual night: this dark<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;calling<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humming moon<br>
 
 
-
-The Conversation
+**The Conversation**
 
 Man with brown hat<br>
 minus one-half<br>
@@ -125,7 +123,6 @@ shimmy on rain-swept street.<br>
 
 
 ~inspired by Bill Traylor’s painting “Man on Crutch and Woman with Umbrella”
-
 
 **The Briar**
 
