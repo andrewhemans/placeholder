@@ -124,49 +124,23 @@ shimmy on rain-swept street.<br>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ~inspired by Bill Traylor’s painting “Man on Crutch and Woman with Umbrella”
 
 
+**The Briar**
 
-
-
-
-The Briar
-
-Everything is bright    garish    barbed.
-A dry wind spreads 
-horizon like orange waves.
-Trees burn like lamb’s flesh.
-These are dangerous times.  
-The world is roaring
-and numb.  
-Yet I will take Rumi’s lion
-and fan it into flame
-become inside    outside
-fire and balm.
-Now is the time for action—
-let us find our way
-through this blazing briar
-of razors.
-
-
-
+Everything is bright&nbsp;&nbsp;&nbsp;&nbsp;garish&nbsp;&nbsp;&nbsp;&nbsp;barbed.<br>
+A dry wind spreads<br> 
+horizon like orange waves.<br>
+Trees burn like lamb’s flesh.<br>
+These are dangerous times.<br>
+The world is roaring<br>
+and numb.<br>
+Yet I will take Rumi’s lion<br>
+and fan it into flame<br>
+become inside&nbsp;&nbsp;&nbsp;&nbsp;outside
+fire and balm.<br>
+Now is the time for action—<br>
+let us find our way<br>
+through this blazing briar<br>
+of razors.<br>
