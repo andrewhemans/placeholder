@@ -1,6 +1,8 @@
 ---
 title: Taunja Thomson Poetry
-date: 2017-12-18 11:18:00 -08:00
+date: 2017-12-19 11:18:00 -08:00
+categories:
+- Literature
 tags:
 - Taunja Thomson
 - Poet
