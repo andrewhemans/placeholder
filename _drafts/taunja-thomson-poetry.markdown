@@ -86,8 +86,8 @@ crickets with violin legs<br>
 leaning toward two warm bodies<br>
 basking in the sun’s<br>
 silence.<br>
-
-
+<br>
+<br>
 **Ecstasy:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vibrating sharp<br>
@@ -100,8 +100,8 @@ another stage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;residual night: this dark<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;calling<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humming moon<br>
-
-
+<br>
+<br>
 **The Conversation**
 
 Man with brown hat<br>
@@ -119,9 +119,9 @@ Four eyes glow like opals<br>
 behind thieves’ masks<br>
 while bodies&nbsp;&nbsp;&nbsp;&nbsp;crutch&nbsp;&nbsp;&nbsp;&nbsp;    umbrella<br>
 shimmy on rain-swept street.<br>
-
-
-
+<br>
+<br>
+<br>
 ~inspired by Bill Traylor’s painting “Man on Crutch and Woman with Umbrella”
 
 **The Briar**
