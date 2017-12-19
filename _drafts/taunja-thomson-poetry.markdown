@@ -127,7 +127,7 @@ shimmy on rain-swept street.<br>
 **The Briar**
 
 Everything is bright&nbsp;&nbsp;&nbsp;&nbsp;garish&nbsp;&nbsp;&nbsp;&nbsp;barbed.<br>
-A dry wind spreads<br> 
+A dry wind spreads<br>
 horizon like orange waves.<br>
 Trees burn like lamb’s flesh.<br>
 These are dangerous times.<br>
