@@ -7,6 +7,8 @@ tags:
 - Taunja Thomson
 - Poet
 - Poetry
+- prose
+image: "/uploads/woman-with-umbrella.jpg"
 ---
 
 **The Harp**<br>
@@ -141,3 +143,6 @@ Now is the time for action—<br>
 let us find our way<br>
 through this blazing briar<br>
 of razors.<br>
+
+
+**Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7**
