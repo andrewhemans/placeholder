@@ -13,6 +13,7 @@ tags:
 - literary
 - creative
 - college
+author-block: true
 ---
 
 &nbsp;&nbsp;&nbsp;With Abandon: A Courtship in Tom Swifties and Flowers<br>
