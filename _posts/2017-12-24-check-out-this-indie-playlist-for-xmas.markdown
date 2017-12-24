@@ -1,5 +1,5 @@
 ---
-title: Check out this Indie Playlist for Xmas
+title: Check out this Indie Xmas Mixtape from the 209
 date: 2017-12-24 15:04:00 -08:00
 categories:
 - Culture
