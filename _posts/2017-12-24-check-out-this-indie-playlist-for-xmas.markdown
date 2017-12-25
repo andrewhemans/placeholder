@@ -49,7 +49,7 @@ Featuring covers like N*SYNC’s “Merry Christmas, Happy Holidays” and origi
 
 For a more detailed look at the mixtape, check out our friends at [Impose Magazine](http://www.imposemagazine.com/bytes/chatter/week-in-pop-donormaal-209-xmas-adam-lempel-usf-silentshout-mane/3)! (link)
 
-<div class="flex-video"><iframe style="border: 0; width: 550px; height: 986px;" src="https://bandcamp.com/EmbeddedPlayer/album=3628019258/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://merryxmas209.bandcamp.com/album/209-friends-2017-compilation">209 &amp; Friends 2017 Compilation by The 209 &amp; Friends Xmas Compilation</a></iframe></div>
+<iframe style="border: 0; width: 100%; height: 986px;" src="https://bandcamp.com/EmbeddedPlayer/album=3628019258/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://merryxmas209.bandcamp.com/album/209-friends-2017-compilation">209 &amp; Friends 2017 Compilation by The 209 &amp; Friends Xmas Compilation</a></iframe>
 
 ![laurel-saints.jpg](/uploads/laurel-saints.jpg)<br>
 *Laurel Saints gearing up for a smooth and sax-y 
