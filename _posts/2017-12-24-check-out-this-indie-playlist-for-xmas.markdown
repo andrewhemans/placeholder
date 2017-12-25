@@ -35,6 +35,10 @@ description: '209 & Friends 2017 Xmas Compilation gathers musical talent from St
   Bay Area, PNW and Italy. '
 author-block: true
 author-image: "/uploads/javier%20bio.JPG"
+author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockton,
+  CA and currently work on Environmental Justice and Land-Use issues for the City
+  and County of San Francisco. On my free time I'm the Executive Director of Placeholder
+  Magazine or I'm cycling or climbing somewhere, unless it's raining.
 ---
 
 Whether you love it or hate it, Christmas music pours onto stores, offices, homes, and blankets the collective consciousness of America like a snowstorm. Unlike a snowstorm, however, it doesn’t have to be dreadful. 
@@ -45,7 +49,7 @@ Featuring covers like N*SYNC’s “Merry Christmas, Happy Holidays” and origi
 
 For a more detailed look at the mixtape, check out our friends at [Impose Magazine](http://www.imposemagazine.com/bytes/chatter/week-in-pop-donormaal-209-xmas-adam-lempel-usf-silentshout-mane/3)! (link)
 
-<iframe style="border: 0; width: 550px; height: 986px;" src="https://bandcamp.com/EmbeddedPlayer/album=3628019258/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://merryxmas209.bandcamp.com/album/209-friends-2017-compilation">209 &amp; Friends 2017 Compilation by The 209 &amp; Friends Xmas Compilation</a></iframe>
+<div class="flex-video"><iframe style="border: 0; width: 550px; height: 986px;" src="https://bandcamp.com/EmbeddedPlayer/album=3628019258/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://merryxmas209.bandcamp.com/album/209-friends-2017-compilation">209 &amp; Friends 2017 Compilation by The 209 &amp; Friends Xmas Compilation</a></iframe></div>
 
 ![laurel-saints.jpg](/uploads/laurel-saints.jpg)<br>
 *Laurel Saints gearing up for a smooth and sax-y 
