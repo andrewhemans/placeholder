@@ -28,6 +28,7 @@ tags:
 - scene
 - pop
 - winter
+- featured
 image: "/uploads/xmas_2017-casette.jpg"
 author: Javier Padilla Reyes
 description: '209 & Friends 2017 Xmas Compilation gathers musical talent from Stockton,
