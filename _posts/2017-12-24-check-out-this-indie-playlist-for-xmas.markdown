@@ -28,6 +28,7 @@ tags:
 - scene
 - pop
 - winter
+- featured
 image: "/uploads/xmas_2017-casette.jpg"
 author: Javier Padilla Reyes
 description: '209 & Friends 2017 Xmas Compilation gathers musical talent from Stockton,
@@ -46,7 +47,8 @@ For a more detailed look at the mixtape, check out our friends at [Impose Magazi
 
 <iframe style="border: 0; width: 550px; height: 986px;" src="https://bandcamp.com/EmbeddedPlayer/album=3628019258/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://merryxmas209.bandcamp.com/album/209-friends-2017-compilation">209 &amp; Friends 2017 Compilation by The 209 &amp; Friends Xmas Compilation</a></iframe>
 
-![laurel-saints.jpg](/uploads/laurel-saints.jpg)
-*Laurel Saints gearing up for a smooth xmas.*
+![laurel-saints.jpg](/uploads/laurel-saints.jpg)<br>
+*Laurel Saints gearing up for a smooth and sax-y 
+xmas.*
 
 _Cover courtesy of Sam Reagan_
