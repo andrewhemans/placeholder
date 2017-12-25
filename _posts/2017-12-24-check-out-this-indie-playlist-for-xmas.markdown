@@ -43,7 +43,7 @@ author-bio: My name is Javier Padilla and I'm a Geographer. I grew up in Stockto
 
 Whether you love it or hate it, Christmas music pours onto stores, offices, homes, and blankets the collective consciousness of America like a snowstorm. Unlike a snowstorm, however, it doesn’t have to be dreadful. 
 
-For Baseball Gregg’s (link to BG’s article) Sam Reagan and Luca Lovisetto, Christmas is a chance to bring friends together through a holiday mixtape. “[209 & Friends 2017 Xmas Compilation](https://merryxmas209.bandcamp.com/album/209-friends-2017-compilation)” is a mixtape featuring Stockton, Bay Area, Pacific Northwest, and Italian artists capturing the spirit of the holidays. 
+For Baseball Gregg’s Sam Reagan and Luca Lovisetto [(check out their music)](http://www.placeholdermag.com/culture/2017/02/13/catching-up-with-baseball-gregg.html), Christmas is a chance to bring friends together through a holiday mixtape. “[209 & Friends 2017 Xmas Compilation](https://merryxmas209.bandcamp.com/album/209-friends-2017-compilation)” is a mixtape featuring Stockton, Bay Area, Pacific Northwest, and Italian artists capturing the spirit of the holidays. 
 
 Featuring covers like N*SYNC’s “Merry Christmas, Happy Holidays” and originals, such as the smooth sax vibes of Laurel Saints’ “Wish List,” this mixtape is bound to make your holiday experience a little more joyful. 
 
