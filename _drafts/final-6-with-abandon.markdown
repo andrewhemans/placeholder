@@ -2,7 +2,6 @@
 title: Final 6 With Abandon
 date: 2017-12-20 18:16:00 -08:00
 categories:
-- culture
 - literature
 tags:
 - essay
@@ -36,7 +35,7 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Let the lovelorn lover cure insomnia*<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*By murmuring amor vincit omnia.*<br> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading William Espy’s An Almanac of Words at Play, I’d become fascinated by Tom Swifties, which evolved from the series of Tom Swift books created by the Stratemeyer Syndicate in the early twentieth century. Their writers, using the pseudonym Victor Appleton, went to great lengths to avoid repetition of the word said. Instead, characters averred, alleged, chuckled, contended, declared, professed, stated, remarked, observed, noted, rejoined, ejaculated, expostulated, groaned, and quipped. The parodies that had arisen incorporated humor into sentence construction, spoofing the author’s avoidance of said by building in puns on verbs or adverbial words or phrases, as in this recent one from Reddit: “‘Judas, please don’t kiss me. You know where this will lead to,’ Jesus said crossly.”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading William Espy’s *An Almanac of Words at Play*, I’d become fascinated by Tom Swifties, which evolved from the series of Tom Swift books created by the Stratemeyer Syndicate in the early twentieth century. Their writers, using the pseudonym Victor Appleton, went to great lengths to avoid repetition of the word *said*. Instead, characters *averred*, *alleged*, *chuckled*, *contended*, *declared*, *professed*, *stated*, *remarked*, *observed*, *noted*, *rejoined*, *ejaculated*, *expostulated*, *groaned*, and *quipped*. The parodies that had arisen incorporated humor into sentence construction, spoofing the author’s avoidance of *said* by building in puns on verbs or adverbial words or phrases, as in this recent one from Reddit: “‘Judas, please don’t kiss me. You know where this will lead to,’ Jesus said crossly.”<br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such sentences cracked me up during a period when it felt like I hadn’t laughed in a very long time. Now, brainstorming Tom Swifties over lunch in the honors lounge every day with my friends, finding new ones scrawled on the chalkboard, and copying them to take to Marc over at the newspaper have become highlights of my days.<br> 
