@@ -61,7 +61,7 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. *“I am a Communist,” Tom said readily.*<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. \*\M*A*S*H and Chariots of Fire and The Deer Hunter and Reds. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. M\*\A\*\S\*\H and Chariots of Fire and The Deer Hunter and Reds. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br> 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I know that Marc will never quite understand me, but maybe, I think, that’s best. We’re eating dinner in an Italian restaurant when a Bangles song starts playing. Marc says, “Oh, no, you’re not going to like this.” It’s a cover of Simon and Garfunkel’s “Hazy Shade of Winter.” I do like it, actually, but I don’t admit it. Marc is a purist, believing that bands who perform other people’s music are by definition second-rate.<br>
