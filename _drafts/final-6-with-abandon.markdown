@@ -12,6 +12,7 @@ tags:
 - literary
 - creative
 - college
+author: Nancy McCabe
 author-block: true
 ---
 
@@ -30,7 +31,9 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ve been desperately searching for things to laugh at since Cole broke up with me a few months ago. Most of last spring I carted around books of Ogden Nash poems, cheered by verses like:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Let the lovelorn lover cure insomnia*<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Let the lovelorn lover cure insomnia*<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*By murmuring amor vincit omnia.*<br>
 <br>
 
