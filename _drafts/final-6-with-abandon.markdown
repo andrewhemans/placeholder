@@ -65,26 +65,18 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I know that Marc will never quite understand me, but maybe, I think, that’s best. We’re eating dinner in an Italian restaurant when a Bangles song starts playing. Marc says, “Oh, no, you’re not going to like this.” It’s a cover of Simon and Garfunkel’s “Hazy Shade of Winter.” I do like it, actually, but I don’t admit it. Marc is a purist, believing that bands who perform other people’s music are by definition second-rate.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For his advanced reporting class, Marc is working on a story about a nearby convent, spending days shadowing and interviewing nuns.  He tells me he is a lapsed Catholic, traumatized by a nun who thought he’d played a practical joke on her by leaving a grape on her chair. He swears he was innocent, mortified when she made him sit on a grape in front of the whole class. Though he is no longer a believer, it is touching, I think, that he still has some deep desire to understand and please the nuns.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We double-date with coworkers, attending a showing of *A Clockwork Orange*, a movie with rape and murder scenes that I find deeply disturbing. I am still shaken up when the lights come on. “Lighten up,” says the other copy editor. Afterward, Marc keeps humming “Singing in the Rain” under his breath and saying, “Righty right” in a bad British accent. This makes me feel unsettled and vaguely ill, but he thinks it’s funny and won’t stop.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Often I feel like the world has reversed, like I’ve become the Cole in the relationship and Marc is the Nancy. I am now the one with dark layers and inaccessible reaches. “Earth to Nancy,” Marc is always saying. Casually, he whips a bouquet of red tulips out from under his car seat and offers it to me.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. *“I took too many drugs,” Tom said odiously.*<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Often I feel like the world has reversed, like I’ve become the Cole in the relationship and Marc is the Nancy. I am now the one with dark layers and inaccessible reaches. “Earth to Nancy,” Marc is always saying. Casually, he whips a bouquet of red tulips out from under his car seat and offers it to me.<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After this Tom Swiftie appears in the newspaper, the advisor nixes using these as fillers anymore. Drug references in a student newspaper are inappropriate he says. The fad in the honors lounge begins to wind down, but sometimes I still find new ones on the chalkboard when I stop by, which I am doing less often since I’m spending more time at the newspaper, and with Marc.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. *“I took too many drugs,” Tom said odiously.*<br>
+<br>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After late movies, Marc always wants me to come to his apartment. I do, and doze in his big brown naugahyde chair while he heats water for tea and lights candles, the smell of a scorched wooden match hanging in the air for a second before being replaced by the candle’s lavender scent. Marc squishes into the chair next to me. “This is awfully crowded,” he says.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maybe we should go lie down.”<br> 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I’ll just sit on the ottoman,” I reply. Marc’s apartment is decorated in secondhand finds—a neon Budweiser sign, black and white postcards from the 20s and 30s, and funky tables originally intended for other uses—an old Victrola, an antique sewing machine case. There’s hardly anywhere to sit but lots of things to look at.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc pressures me a little longer, but I refuse to lie down with him. Finally he gets mad at me and storms off to take a nap, clearly hoping to guilt me into joining him.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But I sit and watch the candle burn and think about a poem I wrote in high school, comparing a softly-glowing, steadily-burning candle flame to my love for Cole. “Would you like to join the twentieth century, Nancy St. Vincent McCabe?”  my gruff creative writing teacher had asked, who didn’t seem to know that Edna St. Vincent Millay was an early twentieth century poet, and who had insisted I rewrite my poem and take out all the rhyme.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After this Tom Swiftie appears in the newspaper, the advisor nixes using these as fillers anymore. Drug references in a student newspaper are inappropriate he says. The fad in the honors lounge begins to wind down, but sometimes I still find new ones on the chalkboard when I stop by, which I am doing less often since I’m spending more time at the newspaper, and with Marc.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After late movies, Marc always wants me to come to his apartment. I do, and doze in his big brown naugahyde chair while he heats water for tea and lights candles, the smell of a scorched wooden match hanging in the air for a second before being replaced by the candle’s lavender scent. Marc squishes into the chair next to me. “This is awfully crowded,” he says.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maybe we should go lie down.”<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I’ll just sit on the ottoman,” I reply. Marc’s apartment is decorated in secondhand finds—a neon Budweiser sign, black and white postcards from the 20s and 30s, and funky tables originally intended for other uses — an old Victrola, an antique sewing machine case. There’s hardly anywhere to sit but lots of things to look at.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc pressures me a little longer, but I refuse to lie down with him. Finally he gets mad at me and storms off to take a nap, clearly hoping to guilt me into joining him.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But I sit and watch the candle burn and think about a poem I wrote in high school, comparing a softly-glowing, steadily-burning candle flame to my love for Cole. “Would you like to join the twentieth century, Nancy St. Vincent McCabe?”  my gruff creative writing teacher had asked, who didn’t seem to know that Edna St. Vincent Millay was an early twentieth century poet, and who had insisted I rewrite my poem and take out all the rhyme.<br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, a mutual friend stopped me on campus to tell me that Cole’s mother has a year to live. I remember how he used to say sometimes—with a hostility I didn’t understand—“I can’t cope with her erratic moods. I wish we could just put her away.” And he’d run his hands through his hair with a fidgety guilt I’d become accustomed to. Now I’m the one who feels guilty, thinking about Cole while I’m on a date with Marc.<br>
