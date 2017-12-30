@@ -61,7 +61,7 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. *“I am a Communist,” Tom said readily.*<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. M\*A\*S\*\H and *Chariots of Fire* and *The Deer Hunter* and *Reds*. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. *M\*A\*S\*H* and *Chariots of Fire* and *The Deer Hunter* and *Reds*. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I know that Marc will never quite understand me, but maybe, I think, that’s best. We’re eating dinner in an Italian restaurant when a Bangles song starts playing. Marc says, “Oh, no, you’re not going to like this.” It’s a cover of Simon and Garfunkel’s “Hazy Shade of Winter.” I do like it, actually, but I don’t admit it. Marc is a purist, believing that bands who perform other people’s music are by definition second-rate.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For his advanced reporting class, Marc is working on a story about a nearby convent, spending days shadowing and interviewing nuns.  He tells me he is a lapsed Catholic, traumatized by a nun who thought he’d played a practical joke on her by leaving a grape on her chair. He swears he was innocent, mortified when she made him sit on a grape in front of the whole class. Though he is no longer a believer, it is touching, I think, that he still has some deep desire to understand and please the nuns.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We double-date with coworkers, attending a showing of *A Clockwork Orange*, a movie with rape and murder scenes that I find deeply disturbing. I am still shaken up when the lights come on. “Lighten up,” says the other copy editor. Afterward, Marc keeps humming “Singing in the Rain” under his breath and saying, “Righty right” in a bad British accent. This makes me feel unsettled and vaguely ill, but he thinks it’s funny and won’t stop.<br>
@@ -86,25 +86,15 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Christmas, after we’ve been going out less than two months, Marc brings me presents: a Pac-Man balloon and a pair of Pac-Man panties. I remember longingly how, the first Christmas that Cole and I were together, he gave me a sweetheart locket carved with flowers and vines. I’ve read that it’s inappropriate for a man to give a woman lingerie unless they’re intimate, but I’m also not sure if Pac-Man panties qualify as lingerie. I stuff them into the back of a drawer. The balloon, slowly deflating until Pacman turns hollow-cheeked, emaciated, hovers there as a constant uneasy reminder that a man has given me underwear for a present.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Later, in the spring, Marc trades his old car for a new Toyota truck, and everyone in the newsroom treats it as if it’s a big surprise for me. I’m uneasy that he wants my approval about a major purchase, which seems to imply a greater entwining of our lives than I really want. And I have a sneaking suspicion that he dispensed with his car because the bucket seats inhibited makeout sessions.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc pressures me to help him replicate his mother’s pregnancy April fool’s joke, the way she kept planting hints that she was expecting without ever announcing it—prenatal vitamins, a crib in a box in the attic, the phone number of an obstetrician scrawled on a notepad. Word got around, and the neighbors threw her a shower. On April 1, she sent telegrams to all her kids that said, “April Fool.” The neighbors didn’t get telegrams and thought she’d had an abortion; his brother’s message somehow got lost, and so he continued to wait for news of a new baby sibling.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This story makes me uneasy, but his friends and family love it and make him tell it over and over. He wants me to cry a lot and drop a home pregnancy kit out of my purse. He wants to stage mysterious arguments and leave messages from an obstetrician in plain sight in the newsroom. He’ll slip up with a comment about me eating for two, then clap a hand over his mouth. And on April Fool’s Day, we’ll have a big laugh.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I don’t think so,” I say. The whole idea makes me uncomfortable, as if it’s another way to trick me into having sex with him, or at least make people think that we’ve having sex.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But I feel guilty about my resistance, so after we go see To Fly! at the Hutchinson Cosmosphere, as we head home in the dark, still with that feeling of soaring above the earth, Marc stretches out an arm, gathering me to him to rest my head on his shoulder. “Love ya,” he whispers, his breath moist and warm against my ear. I snap awake in a turmoil of confusion and obligation.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc tries to persuade me to come to his place, just for a while, but I insist on going home. We argue. In my driveway, he jerks into park so abruptly that the truck leaps and shudders. I kiss his nose and he smiles grimly. “I love you,” I say before I hop out of the truck to the ground. And I do love him, on some level. He makes me laugh, he is lively and curious, and I know he’ll do anything for me.
-Except wait. I try not to think about that.
-The next day, a florist delivers a dozen red roses to the newsroom.<br> 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Later, in the spring, Marc trades his old car for a new Toyota truck, and everyone in the newsroom treats it as if it’s a big surprise for me. I’m uneasy that he wants my approval about a major purchase, which seems to imply a greater entwining of our lives than I really want. And I have a sneaking suspicion that he dispensed with his car because the bucket seats inhibited makeout sessions.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc pressures me to help him replicate his mother’s pregnancy April fool’s joke, the way she kept planting hints that she was expecting without ever announcing it — prenatal vitamins, a crib in a box in the attic, the phone number of an obstetrician scrawled on a notepad. Word got around, and the neighbors threw her a shower. On April 1, she sent telegrams to all her kids that said, “April Fool.” The neighbors didn’t get telegrams and thought she’d had an abortion; his brother’s message somehow got lost, and so he continued to wait for news of a new baby sibling.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This story makes me uneasy, but his friends and family love it and make him tell it over and over. He wants me to cry a lot and drop a home pregnancy kit out of my purse. He wants to stage mysterious arguments and leave messages from an obstetrician in plain sight in the newsroom. He’ll slip up with a comment about me eating for two, then clap a hand over his mouth. And on April Fool’s Day, we’ll have a big laugh.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I don’t think so,” I say. The whole idea makes me uncomfortable, as if it’s another way to trick me into having sex with him, or at least make people think that we’ve having sex.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But I feel guilty about my resistance, so after we go see *To Fly!* at the Hutchinson Cosmosphere, as we head home in the dark, still with that feeling of soaring above the earth, Marc stretches out an arm, gathering me to him to rest my head on his shoulder. “Love ya,” he whispers, his breath moist and warm against my ear. I snap awake in a turmoil of confusion and obligation.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc tries to persuade me to come to his place, just for a while, but I insist on going home. We argue. In my driveway, he jerks into park so abruptly that the truck leaps and shudders. I kiss his nose and he smiles grimly. “I love you,” I say before I hop out of the truck to the ground. And I do love him, on some level. He makes me laugh, he is lively and curious, and I know he’ll do anything for me.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except wait. I try not to think about that.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next day, a florist delivers a dozen red roses to the newsroom.<br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. *“I believe in action words and words which denote existence,” Tom said proverbially.*<br> 
 <br>
