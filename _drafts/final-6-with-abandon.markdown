@@ -47,26 +47,21 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc laughs. “Some people just don’t think that much of women.” He gives me a meaningful look. *I respect women,* it says. As we leave the union, he stops to buy a pink carnation from a student organization. He presents it to me.<br>  
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. *“I believe in shoveling the earth,” Tom said prodigally.* <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. *“I believe in shoveling the earth,” Tom said prodigally.*<br> 
 <br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think of myself as very deep, unreachable. Since the break-up, I’ve been numb and silent. Sometimes talking seems like too much effort. But Marc is easy to talk to, and it takes so little effort to just go along with him. Sometimes I see Cole on campus. He is polite, but distant.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hang out a lot with Marc and his friend Kirk, who, like Marc, always makes me laugh. One day while I’m editing the honors program newsletter, Marc and Kirk offer to help me fill a white space. They print a picture of bare trees outlined against a white sky. A caption reads, “Following a nuclear blast, the imprints of vaporized freshmen make a scenic design on the east wall of Hubbard Hall.” The honors director condemns this as tasteless and insists I remove it.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirk is cute. He reminds me a little of Cole. But Marc has somehow claimed me, although I don’t see why I can’t be friends with both of them. Still, Kirk is always backing off, while Marc keeps making excuses to talk to me. He bets me a steak dinner that a newspaper story will print out to six-and-a-half column inches. I insist it will be six, and I win the bet. When I get off work, Marc follows me out into the shiny, drizzly dark. “I’ll call you about dinner,” he says.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Marc. I like working at the newspaper. I like the respect I get from other staffers because Marc likes me. But I assume we’re just friends. When he tries to kiss me after the dinner, I turn my head and he misses. Oh, I think. He like likes me. <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next day, he sends me a dozen white roses.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I start to have a recurring dream that I am pushing the same MDT command button over and over: “Delete anxiety.”<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. *“I am a Communist,” Tom said readily.*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hang out a lot with Marc and his friend Kirk, who, like Marc, always makes me laugh. One day while I’m editing the honors program newsletter, Marc and Kirk offer to help me fill a white space. They print a picture of bare trees outlined against a white sky. A caption reads, “Following a nuclear blast, the imprints of vaporized freshmen make a scenic design on the east wall of Hubbard Hall.” The honors director condemns this as tasteless and insists I remove it.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirk is cute. He reminds me a little of Cole. But Marc has somehow claimed me, although I don’t see why I can’t be friends with both of them. Still, Kirk is always backing off, while Marc keeps making excuses to talk to me. He bets me a steak dinner that a newspaper story will print out to six-and-a-half column inches. I insist it will be six, and I win the bet. When I get off work, Marc follows me out into the shiny, drizzly dark. “I’ll call you about dinner,” he says.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Marc. I like working at the newspaper. I like the respect I get from other staffers because Marc likes me. But I assume we’re just friends. When he tries to kiss me after the dinner, I turn my head and he misses. *Oh*, I think. *He* like *likes me*.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next day, he sends me a dozen white roses.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I start to have a recurring dream that I am pushing the same MDT command button over and over: “Delete anxiety.”<br> 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. M*A*S*H and Chariots of Fire and The Deer Hunter and Reds. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. *“I am a Communist,” Tom said readily.*<br>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. \*\M*A*S*H and Chariots of Fire and The Deer Hunter and Reds. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br> 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I know that Marc will never quite understand me, but maybe, I think, that’s best. We’re eating dinner in an Italian restaurant when a Bangles song starts playing. Marc says, “Oh, no, you’re not going to like this.” It’s a cover of Simon and Garfunkel’s “Hazy Shade of Winter.” I do like it, actually, but I don’t admit it. Marc is a purist, believing that bands who perform other people’s music are by definition second-rate.<br>
