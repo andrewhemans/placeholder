@@ -74,7 +74,7 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After this Tom Swiftie appears in the newspaper, the advisor nixes using these as fillers anymore. Drug references in a student newspaper are inappropriate he says. The fad in the honors lounge begins to wind down, but sometimes I still find new ones on the chalkboard when I stop by, which I am doing less often since I’m spending more time at the newspaper, and with Marc.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After late movies, Marc always wants me to come to his apartment. I do, and doze in his big brown naugahyde chair while he heats water for tea and lights candles, the smell of a scorched wooden match hanging in the air for a second before being replaced by the candle’s lavender scent. Marc squishes into the chair next to me. “This is awfully crowded,” he says.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Maybe we should go lie down.”<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I’ll just sit on the ottoman,” I reply. Marc’s apartment is decorated in secondhand finds—a neon Budweiser sign, black and white postcards from the 20s and 30s, and funky tables originally intended for other uses — an old Victrola, an antique sewing machine case. There’s hardly anywhere to sit but lots of things to look at.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I’ll just sit on the ottoman,” I reply. Marc’s apartment is decorated in secondhand finds — a neon Budweiser sign, black and white postcards from the 20s and 30s, and funky tables originally intended for other uses — an old Victrola, an antique sewing machine case. There’s hardly anywhere to sit but lots of things to look at.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc pressures me a little longer, but I refuse to lie down with him. Finally he gets mad at me and storms off to take a nap, clearly hoping to guilt me into joining him.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But I sit and watch the candle burn and think about a poem I wrote in high school, comparing a softly-glowing, steadily-burning candle flame to my love for Cole. “Would you like to join the twentieth century, Nancy St. Vincent McCabe?” my gruff creative writing teacher had asked, who didn’t seem to know that Edna St. Vincent Millay was an early twentieth century poet, and who had insisted I rewrite my poem and take out all the rhyme.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, a mutual friend stopped me on campus to tell me that Cole’s mother has a year to live. I remember how he used to say sometimes — with a hostility I didn’t understand — “I can’t cope with her erratic moods. I wish we could just put her away.” And he’d run his hands through his hair with a fidgety guilt I’d become accustomed to. Now I’m the one who feels guilty, thinking about Cole while I’m on a date with Marc.<br>
@@ -96,22 +96,14 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next day, a florist delivers a dozen red roses to the newsroom.<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. *“I believe in action words and words which denote existence,” Tom said proverbially.*<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. *“I believe in action words and words which denote existence,” Tom said proverbially.*<br> 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More than a year after Cole and I broke up, I still feel like I’m going through the motions every day, pretending to be a normal person instead of the withdrawn, tongue-tied girl I was when I met Marc, pretending to exist when often I feel like a shadow. I think that telling Marc that I love him will make him grateful and less demanding, but instead, our disagreements escalate. He believes that sex should automatically be part of a relationship. My belief that if you’re in love you can wait seems comparatively silly and immature. I do not admit that I am hiding behind this belief, using it as an excuse to not have to face my lack of real physical attraction to Marc, or, I think, anyone but Cole.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Kirk and I have decided that you’re probably a tiger in bed,” Marc tells me, and I’m uncomfortable that he’s been discussing me with his friends in this way. I imagine myself with bared teeth, growling and clawing. I do not aspire to this.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I want to marry you,” Marc starts to say regularly. He seems desperate, wanting me however he can get me, mistaking that wanting as a desire for commitment. And in those moments, I see his motives with a detachment and clarity that will soon be muddied by my growing dependency. Often I wonder: am I hurting him the way Cole hurt me?<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But still I refuse sex, marriage — all of it. Until he blows up and says, “I don’t know what the point of this relationship is,” and storms out of the McDonald’s where we’ve been eating lunch. And stops calling me. Leaves the newspaper for a job editing the yearbook.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I become a staff writer for the paper, covering a speech on social security at the Governor’s Conference on Aging; a state budget cut that results in a loss of merit pay for civil service workers; and a sunrise rally sponsored by NOW the morning after the defeat of the Equal Rights Amendment. There, everyone joins hands and sings<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More than a year after Cole and I broke up, I still feel like I’m going through the motions every day, pretending to be a normal person instead of the withdrawn, tongue-tied girl I was when I met Marc, pretending to exist when often I feel like a shadow. I think that telling Marc that I love him will make him grateful and less demanding, but instead, our disagreements escalate. He believes that sex should automatically be part of a relationship. My belief that if you’re in love you can wait seems comparatively silly and immature. I do not admit that I am hiding behind this belief, using it as an excuse to not have to face my lack of real physical attraction to Marc, or, I think, anyone but Cole.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Kirk and I have decided that you’re probably a tiger in bed,” Marc tells me, and I’m uncomfortable that he’s been discussing me with his friends in this way. I imagine myself with bared teeth, growling and clawing. I do not aspire to this.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I want to marry you,” Marc starts to say regularly. He seems desperate, wanting me however he can get me, mistaking that wanting as a desire for commitment. And in those moments, I see his motives with a detachment and clarity that will soon be muddied by my growing dependency. Often I wonder: am I hurting him the way Cole hurt me?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But still I refuse sex, marriage — all of it. Until he blows up and says, “I don’t know what the point of this relationship is,” and storms out of the McDonald’s where we’ve been eating lunch. And stops calling me. Leaves the newspaper for a job editing the yearbook.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I become a staff writer for the paper, covering a speech on social security at the Governor’s Conference on Aging; a state budget cut that results in a loss of merit pay for civil service workers; and a sunrise rally sponsored by NOW the morning after the defeat of the Equal Rights Amendment. There, everyone joins hands and sings<br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;America, America, your daughters long to see
 
