@@ -26,8 +26,6 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a copy editor, flipping through my notebook.<br>
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc is energetic and funny, scrappy and adventurous with bright, curious eyes. I knew from the moment I met him that we would be friends. Now, I explain as he reads the list of quotations in my notebook: these are Tom Swifties, a fad that a friend and I have kicked-off in the honors program. Every day, people leave new ones on the chalkboard in our lounge. Marc’s eyes light up. He thinks we should publish these as fillers in six-point type in the newspaper.<br> 
 <br>
 
