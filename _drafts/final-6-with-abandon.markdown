@@ -61,15 +61,11 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. *“I am a Communist,” Tom said readily.*<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. M\*\A\*\S\*\H and *Chariots of Fire* and *The Deer Hunter* and *Reds*. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc and I go to see 9:30 movies after he gets off work. M\*A\*S\*\H and *Chariots of Fire* and *The Deer Hunter* and *Reds*. I sleep through many of these, since I get up at 5:30 every morning and have trouble staying up late.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I know that Marc will never quite understand me, but maybe, I think, that’s best. We’re eating dinner in an Italian restaurant when a Bangles song starts playing. Marc says, “Oh, no, you’re not going to like this.” It’s a cover of Simon and Garfunkel’s “Hazy Shade of Winter.” I do like it, actually, but I don’t admit it. Marc is a purist, believing that bands who perform other people’s music are by definition second-rate.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For his advanced reporting class, Marc is working on a story about a nearby convent, spending days shadowing and interviewing nuns.  He tells me he is a lapsed Catholic, traumatized by a nun who thought he’d played a practical joke on her by leaving a grape on her chair. He swears he was innocent, mortified when she made him sit on a grape in front of the whole class. Though he is no longer a believer, it is touching, I think, that he still has some deep desire to understand and please the nuns.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We double-date with coworkers, attending a showing of A Clockwork Orange, a movie with rape and murder scenes that I find deeply disturbing. I am still shaken up when the lights come on. “Lighten up,” says the other copy editor. Afterward, Marc keeps humming “Singing in the Rain” under his breath and saying, “Righty right” in a bad British accent. This makes me feel unsettled and vaguely ill, but he thinks it’s funny and won’t stop.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Often I feel like the world has reversed, like I’ve become the Cole in the relationship and Marc is the Nancy. I am now the one with dark layers and inaccessible reaches. “Earth to Nancy,” Marc is always saying. Casually, he whips a bouquet of red tulips out from under his car seat and offers it to me.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For his advanced reporting class, Marc is working on a story about a nearby convent, spending days shadowing and interviewing nuns.  He tells me he is a lapsed Catholic, traumatized by a nun who thought he’d played a practical joke on her by leaving a grape on her chair. He swears he was innocent, mortified when she made him sit on a grape in front of the whole class. Though he is no longer a believer, it is touching, I think, that he still has some deep desire to understand and please the nuns.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We double-date with coworkers, attending a showing of *A Clockwork Orange*, a movie with rape and murder scenes that I find deeply disturbing. I am still shaken up when the lights come on. “Lighten up,” says the other copy editor. Afterward, Marc keeps humming “Singing in the Rain” under his breath and saying, “Righty right” in a bad British accent. This makes me feel unsettled and vaguely ill, but he thinks it’s funny and won’t stop.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Often I feel like the world has reversed, like I’ve become the Cole in the relationship and Marc is the Nancy. I am now the one with dark layers and inaccessible reaches. “Earth to Nancy,” Marc is always saying. Casually, he whips a bouquet of red tulips out from under his car seat and offers it to me.<br> 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. *“I took too many drugs,” Tom said odiously.*<br> 
