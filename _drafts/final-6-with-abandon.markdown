@@ -22,38 +22,34 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. *“I am Mr. Bish,” Tom said ambitiously.* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. *“I am Mr. Bish,” Tom said ambitiously.* <br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a copy editor, flipping through my notebook.<br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc is energetic and funny, scrappy and adventurous with bright, curious eyes. I knew from the moment I met him that we would be friends. Now, I explain as he reads the list of quotations in my notebook: these are Tom Swifties, a fad that a friend and I have kicked-off in the honors program. Every day, people leave new ones on the chalkboard in our lounge. Marc’s eyes light up. He thinks we should publish these as fillers in six-point type in the newspaper.<br> 
-
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ve been desperately searching for things to laugh at since Cole broke up with me a few months ago. Most of last spring I carted around books of Ogden Nash poems, cheered by verses like:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Let the lovelorn lover cure insomnia*<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*By murmuring amor vincit omnia.*<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*By murmuring amor vincit omnia.*<br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading William Espy’s *An Almanac of Words at Play*, I’d become fascinated by Tom Swifties, which evolved from the series of Tom Swift books created by the Stratemeyer Syndicate in the early twentieth century. Their writers, using the pseudonym Victor Appleton, went to great lengths to avoid repetition of the word *said*. Instead, characters *averred*, *alleged*, *chuckled*, *contended*, *declared*, *professed*, *stated*, *remarked*, *observed*, *noted*, *rejoined*, *ejaculated*, *expostulated*, *groaned*, and *quipped*. The parodies that had arisen incorporated humor into sentence construction, spoofing the author’s avoidance of *said* by building in puns on verbs or adverbial words or phrases, as in this recent one from Reddit: “‘Judas, please don’t kiss me. You know where this will lead to,’ Jesus said crossly.”<br>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such sentences cracked me up during a period when it felt like I hadn’t laughed in a very long time. Now, brainstorming Tom Swifties over lunch in the honors lounge every day with my friends, finding new ones scrawled on the chalkboard, and copying them to take to Marc over at the newspaper have become highlights of my days.<br> 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m a freshman who still lives at home, but Marc is eight years older than me and independent; he’s back in school after a few years away due to illness, with his own apartment and a decent salary at the newspaper. I think of him as worldly, sophisticated. I’m flattered that he likes me so much. He’s everybody’s best friend— we can’t walk across campus without constantly being stopped by people who are eager to talk to him.<br> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secretly, I hope that Cole will see reason and want to get back together, but I’m happy to have this new friend to hang out with — completely platonically, I think — playing Ms. Pac-Man, Marc’s addiction, at the student union. His pockets always jingle with the quarters he saves up for free moments.<br>
-&nbsp;&nbsp;“Why isn’t she called Pac-Woman instead of Ms. Pac-Man?” I ask him. “Why does she turn around three times before she dies? It reminds me of a dog going to sleep.”<br>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc laughs.  “Some people just don’t think that much of women.” He gives me a meaningful look. I respect women, it says. As we leave the union, he stops to buy a pink carnation from a student organization. He presents it to me.<br>  
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.*“I believe in shoveling the earth,” Tom said prodigally.* <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such sentences cracked me up during a period when it felt like I hadn’t laughed in a very long time. Now, brainstorming Tom Swifties over lunch in the honors lounge every day with my friends, finding new ones scrawled on the chalkboard, and copying them to take to Marc over at the newspaper have become highlights of my days.<br>
 <br> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think of myself as very deep, unreachable. Since the break-up, I’ve been numb and silent. Sometimes talking seems like too much effort. But Marc is easy to talk to, and it takes so little effort to just go along with him. Sometimes I see Cole on campus. He is polite, but distant.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m a freshman who still lives at home, but Marc is eight years older than me and independent; he’s back in school after a few years away due to illness, with his own apartment and a decent salary at the newspaper. I think of him as worldly, sophisticated. I’m flattered that he likes me so much. He’s everybody’s best friend — we can’t walk across campus without constantly being stopped by people who are eager to talk to him.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secretly, I hope that Cole will see reason and want to get back together, but I’m happy to have this new friend to hang out with — completely platonically, I think — playing Ms. Pac-Man, Marc’s addiction, at the student union. His pockets always jingle with the quarters he saves up for free moments.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Why isn’t she called Pac-Woman instead of Ms. Pac-Man?” I ask him. “Why does she turn around three times before she dies? It reminds me of a dog going to sleep.”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc laughs. “Some people just don’t think that much of women.” He gives me a meaningful look. *I respect women,* it says. As we leave the union, he stops to buy a pink carnation from a student organization. He presents it to me.<br>  
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. *“I believe in shoveling the earth,” Tom said prodigally.* <br> 
+<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think of myself as very deep, unreachable. Since the break-up, I’ve been numb and silent. Sometimes talking seems like too much effort. But Marc is easy to talk to, and it takes so little effort to just go along with him. Sometimes I see Cole on campus. He is polite, but distant.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hang out a lot with Marc and his friend Kirk, who, like Marc, always makes me laugh. One day while I’m editing the honors program newsletter, Marc and Kirk offer to help me fill a white space. They print a picture of bare trees outlined against a white sky. A caption reads, “Following a nuclear blast, the imprints of vaporized freshmen make a scenic design on the east wall of Hubbard Hall.” The honors director condemns this as tasteless and insists I remove it.<br>
 
