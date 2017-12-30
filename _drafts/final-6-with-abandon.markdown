@@ -12,33 +12,34 @@ tags:
 - literary
 - creative
 - college
+- Final 6 With Abandon
+- Nancy McCabe
 author: Nancy McCabe
 author-block: true
 ---
 
-
 With Abandon: A Courtship in Tom Swifties and Flowers<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*“I’m wearing my wedding ring,” Tom said with abandon.—anonymous* <br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*“I’m wearing my wedding ring,” Tom said with abandon.—anonymous* <br>
+<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. *“I am Mr. Bish,” Tom said ambitiously.* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. *“I am Mr. Bish,” Tom said ambitiously.* <br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a copy editor, flipping through my notebook.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc is energetic and funny, scrappy and adventurous with bright, curious eyes. I knew from the moment I met him that we would be friends. Now, I explain as he reads the list of quotations in my notebook: these are Tom Swifties, a fad that a friend and I have kicked-off in the honors program. Every day, people leave new ones on the chalkboard in our lounge. Marc’s eyes light up. He thinks we should publish these as fillers in six-point type in the newspaper.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What’s this?” asks Marc, my boss, managing editor for the student newspaper where I’m a copy editor, flipping through my notebook.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marc is energetic and funny, scrappy and adventurous with bright, curious eyes. I knew from the moment I met him that we would be friends. Now, I explain as he reads the list of quotations in my notebook: these are Tom Swifties, a fad that a friend and I have kicked-off in the honors program. Every day, people leave new ones on the chalkboard in our lounge. Marc’s eyes light up. He thinks we should publish these as fillers in six-point type in the newspaper.<br> 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ve been desperately searching for things to laugh at since Cole broke up with me a few months ago. Most of last spring I carted around books of Ogden Nash poems, cheered by verses like:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ve been desperately searching for things to laugh at since Cole broke up with me a few months ago. Most of last spring I carted around books of Ogden Nash poems, cheered by verses like:<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Let the lovelorn lover cure insomnia*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Let the lovelorn lover cure insomnia*<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*By murmuring amor vincit omnia.*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*By murmuring amor vincit omnia.*<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading William Espy’s *An Almanac of Words at Play*, I’d become fascinated by Tom Swifties, which evolved from the series of Tom Swift books created by the Stratemeyer Syndicate in the early twentieth century. Their writers, using the pseudonym Victor Appleton, went to great lengths to avoid repetition of the word *said*. Instead, characters *averred*, *alleged*, *chuckled*, *contended*, *declared*, *professed*, *stated*, *remarked*, *observed*, *noted*, *rejoined*, *ejaculated*, *expostulated*, *groaned*, and *quipped*. The parodies that had arisen incorporated humor into sentence construction, spoofing the author’s avoidance of *said* by building in puns on verbs or adverbial words or phrases, as in this recent one from Reddit: “‘Judas, please don’t kiss me. You know where this will lead to,’ Jesus said crossly.”<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such sentences cracked me up during a period when it felt like I hadn’t laughed in a very long time. Now, brainstorming Tom Swifties over lunch in the honors lounge every day with my friends, finding new ones scrawled on the chalkboard, and copying them to take to Marc over at the newspaper have become highlights of my days.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading William Espy’s *An Almanac of Words at Play*, I’d become fascinated by Tom Swifties, which evolved from the series of Tom Swift books created by the Stratemeyer Syndicate in the early twentieth century. Their writers, using the pseudonym Victor Appleton, went to great lengths to avoid repetition of the word *said*. Instead, characters *averred*, *alleged*, *chuckled*, *contended*, *declared*, *professed*, *stated*, *remarked*, *observed*, *noted*, *rejoined*, *ejaculated*, *expostulated*, *groaned*, and *quipped*. The parodies that had arisen incorporated humor into sentence construction, spoofing the author’s avoidance of *said* by building in puns on verbs or adverbial words or phrases, as in this recent one from Reddit: “‘Judas, please don’t kiss me. You know where this will lead to,’ Jesus said crossly.”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such sentences cracked me up during a period when it felt like I hadn’t laughed in a very long time. Now, brainstorming Tom Swifties over lunch in the honors lounge every day with my friends, finding new ones scrawled on the chalkboard, and copying them to take to Marc over at the newspaper have become highlights of my days.<br>
 <br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m a freshman who still lives at home, but Marc is eight years older than me and independent; he’s back in school after a few years away due to illness, with his own apartment and a decent salary at the newspaper. I think of him as worldly, sophisticated. I’m flattered that he likes me so much. He’s everybody’s best friend — we can’t walk across campus without constantly being stopped by people who are eager to talk to him.<br> 
