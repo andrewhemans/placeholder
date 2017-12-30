@@ -7,8 +7,17 @@ tags:
 - Taunja Thomson
 - Poet
 - Poetry
-- prose
+- The Harp
+- Ecstasy
+- The Conversation
+- The Briar
 image: "/uploads/woman-with-umbrella.jpg"
+author-bio: 'Taunja Thomson’s poetry has most recently appeared in "I, Claudius" and
+  "The Peacock Journal Anthology."  Two of her poems have been nominated for Pushcart
+  Awards: “Seahorse and Moon” in 2005 and “I Walked Out in January” in 2016.  She
+  has co-authored a chapbook of ekphrastic poetry entitled Frame and Mount the Sky
+  that was published this year and has a writer’s page at https://www.facebook.com/
+  TaunjaThomsonWriter.'
 ---
 
 **The Harp**<br>
@@ -86,6 +95,8 @@ Now is the time for action—<br>
 let us find our way<br>
 through this blazing briar<br>
 of razors.<br>
+<br>
 
+Taunja Thomson's [Facebook](https://www.facebook.com/TaunjaThomsonWriter/)
 
 **Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7**
