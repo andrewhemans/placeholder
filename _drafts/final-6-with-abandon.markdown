@@ -48,7 +48,7 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. *“I believe in shoveling the earth,” Tom said prodigally.*<br> 
-<br> 
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think of myself as very deep, unreachable. Since the break-up, I’ve been numb and silent. Sometimes talking seems like too much effort. But Marc is easy to talk to, and it takes so little effort to just go along with him. Sometimes I see Cole on campus. He is polite, but distant.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hang out a lot with Marc and his friend Kirk, who, like Marc, always makes me laugh. One day while I’m editing the honors program newsletter, Marc and Kirk offer to help me fill a white space. They print a picture of bare trees outlined against a white sky. A caption reads, “Following a nuclear blast, the imprints of vaporized freshmen make a scenic design on the east wall of Hubbard Hall.” The honors director condemns this as tasteless and insists I remove it.<br>
