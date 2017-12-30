@@ -33,8 +33,8 @@ author-block: true
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’ve been desperately searching for things to laugh at since Cole broke up with me a few months ago. Most of last spring I carted around books of Ogden Nash poems, cheered by verses like:<br>
-*Let the lovelorn lover cure insomnia*<br> 
-*By murmuring amor vincit omnia.*<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Let the lovelorn lover cure insomnia*<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*By murmuring amor vincit omnia.*<br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading William Espy’s An Almanac of Words at Play, I’d become fascinated by Tom Swifties, which evolved from the series of Tom Swift books created by the Stratemeyer Syndicate in the early twentieth century. Their writers, using the pseudonym Victor Appleton, went to great lengths to avoid repetition of the word said. Instead, characters averred, alleged, chuckled, contended, declared, professed, stated, remarked, observed, noted, rejoined, ejaculated, expostulated, groaned, and quipped. The parodies that had arisen incorporated humor into sentence construction, spoofing the author’s avoidance of said by building in puns on verbs or adverbial words or phrases, as in this recent one from Reddit: “‘Judas, please don’t kiss me. You know where this will lead to,’ Jesus said crossly.”<br>
 
