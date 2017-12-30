@@ -1,8 +1,8 @@
 ---
 title: Final 6 With Abandon
-date: 2017-12-20 18:16:00 -08:00
+date: 2018-01-02 14:00:00 -08:00
 categories:
-- literature
+- Literature
 tags:
 - essay
 - nonfiction
@@ -14,8 +14,22 @@ tags:
 - college
 - Final 6 With Abandon
 - Nancy McCabe
+- Love
+- featured
+- Relationship
+- coming of age
+- loneliness
 author: Nancy McCabe
 author-block: true
+author-image: "/uploads/Nancy-McCabe-profile.jpg"
+author-bio: 'Nancy McCabe''s work has appeared in numerous magazines and anthologies,
+  including "Prairie Schooner," "Gulf Coast," "Fourth Genre," "Brain Teen," "Newsweek,"
+  "Every Father''s Daughter: 24 Women Writers Remember Their Fathers," and "Oh Baby!
+  True Stories about Conception, Adoption, Surrogacy, Pregnancy, Labor, and Love."
+  She is the author of five books, most recently the novel "Following Disasters" and
+  the memoir "From Little Houses to Little Women: Revisiting a Literary Childhood."
+  Her work has received a Pushcart, six times made notable lists in Best American
+  anthologies, and been nominated for Best of the Net. '
 ---
 
 With Abandon: A Courtship in Tom Swifties and Flowers<br>
@@ -174,3 +188,5 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the end of the reception, I toss backward my bouquet of cream-colored roses and ivory calla lilies scattered with baby’s breath. The church’s basement has a low ceiling. The bouquet hits it and bounces to the floor.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We all stare at it for a startled second before I retrieve it and throw it again.
+
+Nancy McCabe website: [nancymccabe.net](http://www.nancymccabe.net/)
