@@ -31,63 +31,6 @@ asks the artist.<br>
 *and they shine*<br>
 *like your own star-burnished*<br>
 *skin.*<br>
-
-
-**No Apologies**
-
-Woman sleeps enfolded<br> 
-in stalks of barley&nbsp;&nbsp;&nbsp;&nbsp;yarrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verbena<br>
-her skin a cocoon of her potbelly&nbsp;&nbsp;&nbsp;&nbsp;wrinkles&nbsp;&nbsp;&nbsp;&nbsp;ample waist<br>
-thick dimpled knees—<br>
-she is her own field<br>
-sometimes sharp like blades of grass<br>
-at others bent like branches<br>
-or soft as moss<br>
-here pointed and aimed at sky<br>
-there watercolor-vague<br>
-and grounded.<br>
-
-
-
-
-
-*~inspired by the art of Christine Wu*
-
-**Summer, 1975**
-
-We sat in the sunlit field<br>
-that afternoon<br>
-the lovely Spanish boy<br>
-and I.&nbsp;&nbsp;&nbsp;&nbsp;Heart<br>
-came on the radio<br>
-singing *Magic Man*—<br>
-I sang along and he strummed<br>
-his guitar<br>
-randomly.<br>
-Spangles of sun danced<br>
-on the ground around us<br>
-leaping from one blade of grass<br>
-to the next like coins<br>
-thrown at a gypsy caravan<br>
-frenetic reflections<br>
-in a pool of green.<br>
-His mahogany eyes<br>
-wide with admiration<br>
-one moment&nbsp;&nbsp;&nbsp;&nbsp;closed smoothly<br>
-the next<br>
-his brown fingers slowing<br>
-but never ceasing.<br>
-My long hair tossed shadows<br>
-brushed grass<br>
-and those fingers<br>
-moved from strings<br>
-to flesh<br>
-from afternoon<br>
-to end-of-summer<br>
-crickets with violin legs<br>
-leaning toward two warm bodies<br>
-basking in the sun’s<br>
-silence.<br>
 <br>
 <br>
 **Ecstasy:**
