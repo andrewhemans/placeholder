@@ -55,7 +55,7 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kirk is cute. He reminds me a little of Cole. But Marc has somehow claimed me, although I don’t see why I can’t be friends with both of them. Still, Kirk is always backing off, while Marc keeps making excuses to talk to me. He bets me a steak dinner that a newspaper story will print out to six-and-a-half column inches. I insist it will be six, and I win the bet. When I get off work, Marc follows me out into the shiny, drizzly dark. “I’ll call you about dinner,” he says.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Marc. I like working at the newspaper. I like the respect I get from other staffers because Marc likes me. But I assume we’re just friends. When he tries to kiss me after the dinner, I turn my head and he misses. *Oh*, I think. *He* like *likes me*.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next day, he sends me a dozen white roses.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I start to have a recurring dream that I am pushing the same MDT command button over and over: “Delete anxiety.”<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I start to have a recurring dream that I am pushing the same MDT command button over and over: “Delete anxiety.”<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. *“I am a Communist,” Tom said readily.*<br>
