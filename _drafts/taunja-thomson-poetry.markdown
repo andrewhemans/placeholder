@@ -1,6 +1,6 @@
 ---
 title: Taunja Thomson Poetry
-date: 2017-12-19 11:18:00 -08:00
+date: 2018-01-05 14:00:00 -08:00
 categories:
 - Literature
 tags:
@@ -12,6 +12,9 @@ tags:
 - The Conversation
 - The Briar
 image: "/uploads/woman-with-umbrella.jpg"
+author: Taunja Thomson
+author-block: true
+author-image: "/uploads/Taunja-Thomson-profile.jpg"
 author-bio: 'Taunja Thomson’s poetry has most recently appeared in "I, Claudius" and
   "The Peacock Journal Anthology."  Two of her poems have been nominated for Pushcart
   Awards: “Seahorse and Moon” in 2005 and “I Walked Out in January” in 2016.  She
