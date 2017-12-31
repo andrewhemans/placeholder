@@ -19,6 +19,7 @@ tags:
 - Relationship
 - coming of age
 - loneliness
+image: "/uploads/Nancy-McCabe-profile.jpg"
 author: Nancy McCabe
 author-block: true
 author-image: "/uploads/Nancy-McCabe-profile.jpg"
