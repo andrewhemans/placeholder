@@ -75,7 +75,7 @@ _"Cien Años de Soledad," Image 277, 1966_
 _García Márquez & Subcomandante Marcos, 2001_
 
 ![neruda-y-marquez.png](/uploads/neruda-y-marquez.png)
-_García Márquez and Pablo Neruda 1973_
+_García Márquez and Pablo Neruda, 1973_
 
 While searching the collection I was struck was the hope that Gabriel García Márquez continues influencing Latin American readers of all ages to experience surrealism and realism, and to create artistic identities to share with one another. This inspiration is especially necessary while living in the politically tumultuous times of today, which is comparable to the instability of many Central and South American countries during the 60s, causing authors like García Márquez to leave their homelands. 
 
