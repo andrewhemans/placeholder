@@ -3,7 +3,7 @@ title: The Africa Violet Caper
 date: 2017-12-30 19:09:00 -08:00
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My heart is pounding like a jackhammer.  My Jell-O-like legs are jiggling. My palms are slick with sweat. Standing on top of the file cabinet in my office at 6:30 AM, I pause to catch my breath. I need to steady myself. I’ve never viewed our workspace from this perspective.  There is a peace and quiet that’s not usually present. Minus all the executives, the ego cloud is dissipated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My heart is pounding like a jackhammer. My Jell-O-like legs are jiggling. My palms are slick with sweat. Standing on top of the file cabinet in my office at 6:30 AM, I pause to catch my breath. I need to steady myself. I’ve never viewed our workspace from this perspective.  There is a peace and quiet that’s not usually present. Minus all the executives, the ego cloud is dissipated.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the elite floor of the bank. I realize, from this vantage point, that it looks like a maze. I close my eyes for a moment and imagine us all as superior rats. I’m sure that some of the staff think of us this way. These are the offices of the internal auditor, vice president of operations, human resources, payroll, and others that direct the daily activities of the worker rats.
 
