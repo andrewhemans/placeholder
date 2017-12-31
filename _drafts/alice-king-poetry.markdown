@@ -7,6 +7,11 @@ tags:
 - Alice King
 - Poet
 - Poetry
+author: Alice King
+author-block: true
+author-bio: Alice King is currently a senior at Longwood University and studies under
+  Mary Carroll-Hackett. She enjoys writing short stories and poetry, and is a devoted
+  activist.
 ---
 
 **Raft**<br>
