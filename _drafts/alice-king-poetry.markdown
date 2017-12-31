@@ -9,123 +9,68 @@ tags:
 - Poetry
 ---
 
-Raft
-
-I listen to the sounds 
-I hear words in the long silences
-That stretch and quiver between heartbeats —
-Anyone can write anything down and call it poetry
-You can say any combination of words you like
-And it may still be poetry
-Caught in the silence, caught in the words
-Tangled in the spaces we always ignore
-You're lost for words again
-But they tumble from you
-Faster, like rapids crashing and churning and rippling and growling around a white water raft 
-They threw the ropes for you, when they thought you'd go overboard 
-But miraculously you don't
-And no one can figure out how.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Memory
-
-She smiled her cool smile
-Gold tooth flickering like a beacon
-Hair wild and raving 
-She said, "How you doing?"
-She said, "I got a man in my heart."
-She said, "You got a man in your heart?"
-And I thought about you.
-Without thinking
-Jaw strained with reserve
-Memories spring out of the pandora box
-I can't remember—
-But I can.
-This woman got a sweet touch
-Wild hair and all
-Her eyes remind me of chocolate
-Her eyes look like mirrors 
-And I want to let my heart bleed
-All over her clothes
-So she won't forget either.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-They
-
-They love colors
-Blue pink red purple
-Sunset colors, mashing colors
-Colors that fade and blend and fade again
-Crazy lipstick colors
-Dazzling his face 
-Brightening quiet, angry eyes
-They are “they”
-Not “he”
-“She”
-“It”
-It, like an inhuman being
-An alien to the world beyond his threshold
-He remembers
-Nestled in his mind are the bruises
-Abrasions
-Scraped knees and a sore head
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Raft**<br>
+
+I listen to the sounds<br>
+I hear words in the long silences<br>
+That stretch and quiver between heartbeats —<br>
+Anyone can write anything down and call it poetry<br>
+You can say any combination of words you like<br>
+And it may still be poetry<br>
+Caught in the silence, caught in the words<br>
+Tangled in the spaces we always ignore<br>
+You're lost for words again<br>
+But they tumble from you<br>
+Faster, like rapids crashing and churning and rippling and<br>
+growling around a white water raft<br>
+They threw the ropes for you, when they thought you'd go overboard<br> 
+But miraculously you don't<br>
+And no one can figure out how.<br>
+<br>
+<br>
+
+**Memory**<br>
+
+She smiled her cool smile<br>
+Gold tooth flickering like a beacon<br>
+Hair wild and raving<br>
+She said, "How you doing?"<br>
+She said, "I got a man in my heart."<br>
+She said, "You got a man in your heart?"<br>
+And I thought about you.<br>
+Without thinking<br>
+Jaw strained with reserve<br>
+Memories spring out of the pandora box<br>
+I can't remember—<br>
+But I can.<br>
+This woman got a sweet touch<br>
+Wild hair and all<br>
+Her eyes remind me of chocolate<br>
+Her eyes look like mirrors<br>
+And I want to let my heart bleed<br>
+All over her clothes<br>
+So she won't forget either.<br>
+<br>
+<br>
+
+**They**<br>
+
+They love colors<br>
+Blue pink red purple<br>
+Sunset colors, mashing colors<br>
+Colors that fade and blend and fade again<br>
+Crazy lipstick colors<br>
+Dazzling his face<br>
+Brightening quiet, angry eyes<br>
+They are “they”<br>
+Not “he”<br>
+“She”<br>
+“It”<br>
+It, like an inhuman being<br>
+An alien to the world beyond his threshold<br>
+He remembers<br>
+Nestled in his mind are the bruises<br>
+Abrasions<br>
+Scraped knees and a sore head<br>
+<br>
+<br>
