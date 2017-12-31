@@ -102,4 +102,4 @@ of razors.<br>
 
 Taunja Thomson's [Facebook](https://www.facebook.com/TaunjaThomsonWriter/)
 
-**Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7**
+***Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7***
