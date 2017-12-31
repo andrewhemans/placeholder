@@ -1,14 +1,26 @@
 ---
 title: Taunja Thomson Poetry
-date: 2017-12-19 11:18:00 -08:00
+date: 2018-01-05 14:00:00 -08:00
 categories:
 - Literature
 tags:
 - Taunja Thomson
 - Poet
 - Poetry
-- prose
+- The Harp
+- Ecstasy
+- The Conversation
+- The Briar
 image: "/uploads/woman-with-umbrella.jpg"
+author: Taunja Thomson
+author-block: true
+author-image: "/uploads/Taunja-Thomson-profile.jpg"
+author-bio: 'Taunja Thomson’s poetry has most recently appeared in "I, Claudius" and
+  "The Peacock Journal Anthology."  Two of her poems have been nominated for Pushcart
+  Awards: “Seahorse and Moon” in 2005 and “I Walked Out in January” in 2016.  She
+  has co-authored a chapbook of ekphrastic poetry entitled Frame and Mount the Sky
+  that was published this year and has a writer’s page at https://www.facebook.com/
+  TaunjaThomsonWriter.'
 ---
 
 **The Harp**<br>
@@ -31,63 +43,6 @@ asks the artist.<br>
 *and they shine*<br>
 *like your own star-burnished*<br>
 *skin.*<br>
-
-
-**No Apologies**
-
-Woman sleeps enfolded<br> 
-in stalks of barley&nbsp;&nbsp;&nbsp;&nbsp;yarrow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verbena<br>
-her skin a cocoon of her potbelly&nbsp;&nbsp;&nbsp;&nbsp;wrinkles&nbsp;&nbsp;&nbsp;&nbsp;ample waist<br>
-thick dimpled knees—<br>
-she is her own field<br>
-sometimes sharp like blades of grass<br>
-at others bent like branches<br>
-or soft as moss<br>
-here pointed and aimed at sky<br>
-there watercolor-vague<br>
-and grounded.<br>
-
-
-
-
-
-*~inspired by the art of Christine Wu*
-
-**Summer, 1975**
-
-We sat in the sunlit field<br>
-that afternoon<br>
-the lovely Spanish boy<br>
-and I.&nbsp;&nbsp;&nbsp;&nbsp;Heart<br>
-came on the radio<br>
-singing *Magic Man*—<br>
-I sang along and he strummed<br>
-his guitar<br>
-randomly.<br>
-Spangles of sun danced<br>
-on the ground around us<br>
-leaping from one blade of grass<br>
-to the next like coins<br>
-thrown at a gypsy caravan<br>
-frenetic reflections<br>
-in a pool of green.<br>
-His mahogany eyes<br>
-wide with admiration<br>
-one moment&nbsp;&nbsp;&nbsp;&nbsp;closed smoothly<br>
-the next<br>
-his brown fingers slowing<br>
-but never ceasing.<br>
-My long hair tossed shadows<br>
-brushed grass<br>
-and those fingers<br>
-moved from strings<br>
-to flesh<br>
-from afternoon<br>
-to end-of-summer<br>
-crickets with violin legs<br>
-leaning toward two warm bodies<br>
-basking in the sun’s<br>
-silence.<br>
 <br>
 <br>
 **Ecstasy:**
@@ -143,6 +98,8 @@ Now is the time for action—<br>
 let us find our way<br>
 through this blazing briar<br>
 of razors.<br>
+<br>
 
+Taunja Thomson's [Facebook](https://www.facebook.com/TaunjaThomsonWriter/)
 
-**Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7**
+***Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7***
