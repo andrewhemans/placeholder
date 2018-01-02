@@ -1,6 +1,22 @@
 ---
-title: The Africa Violet Caper
-date: 2017-12-30 19:09:00 -08:00
+title: The African Violet Caper
+date: 2018-01-11 14:00:00 -08:00
+categories:
+- Literature
+tags:
+- The African Violet Caper
+- Linda McKenney
+- essay
+- nonfiction
+author: Linda McKenney
+author-block: true
+author-image: "/uploads/Linda-McKenney-profile.jpg"
+author-bio: 'Linda McKenney is a Personal Life Coach and Motivational Speaker.  Writing
+  creative non-fiction, gives her the opportunity to explore life experiences on her
+  never-ending journey of self-discovery. Linda’s creative non-fiction is published
+  in Silver Birch Press, 101 Word Short Stories, The Survivor’s Review, The Rush,
+  Fiftiness, Number One 2017 and Helen: A Literary Magazine.  She also has an alter
+  ego at Susanbanthony.live.'
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My heart is pounding like a jackhammer. My Jell-O-like legs are jiggling. My palms are slick with sweat. Standing on top of the file cabinet in my office at 6:30 AM, I pause to catch my breath. I need to steady myself. I’ve never viewed our workspace from this perspective.  There is a peace and quiet that’s not usually present. Minus all the executives, the ego cloud is dissipated.

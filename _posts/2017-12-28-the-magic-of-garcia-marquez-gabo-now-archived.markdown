@@ -66,7 +66,7 @@ Following is a section of “Vivir Para Contarla,” in which Fidel Castro is me
 ![vivir-para-contarla.png](/uploads/vivir-para-contarla.png)
 _"Vivir Para Contarla," Image 193, 2001_ 
 
-Below are a few printing proofs of Cien años de Soledad, where Remedios la bella, my favorite character, is talked about. Remedios is one of the most interesting characters made up by García Márquez, she is a beautiful and pure woman whose beauty charms man, but all those who procure her end up tragically dying. The case and personality of Remedios was always seen from another character’s perspective, she was deemed an imbecile, a saint, and a unintentional femme fatale, all because her character set her unfit for domestic life, a man’s love, and even traditional feminine clothing. In the passage below Remedios ascends to heaven without dying while hanging bed sheets out to dry.
+Below are a few printing proofs of "Cien años de Soledad," where Remedios la bella, my favorite character, is talked about. Remedios is one of the most interesting characters made up by García Márquez, she is a beautiful and pure woman whose beauty charms men, but all those who procure her end up tragically dying. The case and personality of Remedios was always seen from another character’s perspective, she was deemed an imbecile, a saint, and a unintentional femme fatale, all because her character set her unfit for domestic life, a man’s love, and even traditional feminine clothing. In the passage below Remedios ascends to heaven without dying while hanging bed sheets out to dry.
 
 ![cien-anos.png](/uploads/cien-anos.png)
 _"Cien Años de Soledad," Image 277, 1966_
