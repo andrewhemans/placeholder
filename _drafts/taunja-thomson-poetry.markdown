@@ -1,6 +1,6 @@
 ---
 title: Taunja Thomson Poetry
-date: 2018-01-05 14:00:00 -08:00
+date: 2018-01-03 14:00:00 -08:00
 categories:
 - Literature
 tags:
