@@ -12,3 +12,7 @@ date: 2018-01-02 18:55:00 -08:00
 * Item 2
   * Item 2a
   * Item 2b
+
+First Header | Second Header | Third Header 
+------------ | ------------- | -------------
+Words are powerful. | Words are here to stay. | Words are fun. 
