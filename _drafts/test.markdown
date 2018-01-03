@@ -20,4 +20,5 @@ Words are powerful. | Words are here to stay. | Words are fun.
 ~~strikethrough~~
 
 >I don't want trepidation to be in control.
+
 :smile:
