@@ -1,5 +1,5 @@
 ---
-title: Taunja Thomson Poetry
+title: Man with Brown Hat Minus One-Half of One Leg
 date: 2018-01-04 14:00:00 -08:00
 categories:
 - Literature
