@@ -1,5 +1,5 @@
 ---
-title: Taunja Thomson Poetry
+title: Man with Brown Hat Minus One-Half of One Leg
 date: 2018-01-04 14:00:00 -08:00
 categories:
 - Literature
@@ -93,7 +93,7 @@ shimmy on rain-swept street.<br>
 <br>
 <br>
 <br>
-~inspired by Bill Traylor’s painting “Man on Crutch and Woman with Umbrella”
+*~ Inspired by Bill Traylor’s painting “Man on Crutch and Woman with Umbrella”*
 
 **The Briar**
 
@@ -120,4 +120,4 @@ Taunja Thomson on [Facebook](https://www.facebook.com/TaunjaThomsonWriter/)
 <br>
 <br>
 
-***Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7***
+*Cover: Photo of Bill Traylor's "Untitled" (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7*
