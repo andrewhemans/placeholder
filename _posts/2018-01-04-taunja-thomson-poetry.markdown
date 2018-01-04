@@ -1,6 +1,6 @@
 ---
 title: Taunja Thomson Poetry
-date: 2018-01-05 14:00:00 -08:00
+date: 2018-01-04 14:00:00 -08:00
 categories:
 - Literature
 tags:
@@ -11,8 +11,17 @@ tags:
 - Ecstasy
 - The Conversation
 - The Briar
+- fiery
+- soul
+- touching
+- creative
+- featured
+- literary
+- Abstract
 image: "/uploads/woman-with-umbrella.jpg"
 author: Taunja Thomson
+description: Read the fiery and soul-touching words of poetry by Taunja Thomson, from
+  a being-begetting harp to a blazing briar.
 author-block: true
 author-image: "/uploads/Taunja-Thomson-profile.jpg"
 author-bio: 'Taunja Thomson’s poetry has most recently appeared in "I, Claudius" and
@@ -45,6 +54,8 @@ asks the artist.<br>
 *skin.*<br>
 <br>
 <br>
+<br>
+<br>
 **Ecstasy:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vibrating sharp<br>
@@ -59,6 +70,9 @@ another stage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humming moon<br>
 <br>
 <br>
+<br>
+<br>
+
 **The Conversation**
 
 Man with brown hat<br>
@@ -99,7 +113,11 @@ let us find our way<br>
 through this blazing briar<br>
 of razors.<br>
 <br>
+<br>
+<br>
 
-Taunja Thomson's [Facebook](https://www.facebook.com/TaunjaThomsonWriter/)
+Taunja Thomson on [Facebook](https://www.facebook.com/TaunjaThomsonWriter/)
+<br>
+<br>
 
 ***Cover: Bill Traylor, Untitled (Woman with Umbrella and Man on Crutch), 1939, pencil and opaque watercolor on paperboard, Smithsonian American Art Museum, Gift of Herbert Waide Hemphill, Jr., 1991.96.7***
