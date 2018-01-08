@@ -189,4 +189,4 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the end of the reception, I toss backward my bouquet of cream-colored roses and ivory calla lilies scattered with baby’s breath. The church’s basement has a low ceiling. The bouquet hits it and bounces to the floor.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We all stare at it for a startled second before I retrieve it and throw it again.
 
-Nancy McCabe website: [nancymccabe.net](http://www.nancymccabe.net/)
+Nancy McCabe's website: [nancymccabe.net](http://www.nancymccabe.net/)
