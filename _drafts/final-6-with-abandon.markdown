@@ -1,6 +1,6 @@
 ---
 title: Final 6 With Abandon
-date: 2018-01-02 14:00:00 -08:00
+date: 2018-01-08 14:00:00 -08:00
 categories:
 - Literature
 tags:
