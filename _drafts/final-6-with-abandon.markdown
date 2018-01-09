@@ -17,10 +17,17 @@ tags:
 - Love
 - featured
 - Relationship
-- coming of age
 - loneliness
+- Tom Swifties
+- identity
+- coming-of-age
+- heartbreak
+- acceptance
 image: "/uploads/Final-6-With-Abandon-BethMarie-1.jpg"
 author: Nancy McCabe
+description: 'Coming-of-age young love, relationship loneliness, and Tom Swifties.
+  Nancy McCabe''s creative nonfiction piece delves into a story of an identity blurred
+  from abandonment, heartbreak, and acceptance. '
 author-block: true
 author-image: "/uploads/Nancy-McCabe-profile.jpg"
 author-bio: 'Nancy McCabe''s work has appeared in numerous magazines and anthologies,
