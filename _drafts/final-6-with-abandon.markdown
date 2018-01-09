@@ -4,7 +4,6 @@ date: 2018-01-09 14:00:00 -08:00
 categories:
 - Literature
 tags:
-- essay
 - nonfiction
 - writing
 - literature
