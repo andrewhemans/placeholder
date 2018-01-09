@@ -19,6 +19,7 @@ tags:
 - Relationship
 - coming of age
 - loneliness
+image: "/uploads/Final-6-With-Abandon-BethMarie-1.jpg"
 author: Nancy McCabe
 author-block: true
 author-image: "/uploads/Nancy-McCabe-profile.jpg"
@@ -110,6 +111,9 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next day, a florist delivers a dozen red roses to the newsroom.<br>
 <br>
 
+![Final-6-With-Abandon-BethMarie-3.jpg](/uploads/Final-6-With-Abandon-BethMarie-3.jpg)<br>
+<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. *“I believe in action words and words which denote existence,” Tom said proverbially.*<br> 
 <br>
 
@@ -153,6 +157,9 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m working to prove my mettle, standing by Marc during the days before and after the funeral. His mother, wearing a blouse shimmering like water in sunlight, is whipping up potato salad in her linen and silk and espadrilles, keeping busy, smoke wafting from an abandoned cigarette in a dish on the counter. The house filling with people, his mother fervently nodding her head, her whole body so that the gin in her glass rocks back and forth until I’m afraid it will slosh out. Everyone’s drunk by the end of the first night, everyone but Marc and me, and I wonder if it is better to shoot straight through the middle of suffering ’til I come out on the other end, or to blunt the edge of grief, escaping it temporarily.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I send Cole a letter, telling him I’m engaged, and he calls to congratulate me. We go out to lunch. Out of habit, I look in his eyes. I think about Marc’s eyes, intense, full of mischief and wide-open brightness. Cole’s are comparatively dark and mysterious, concealing fathoms. I smile at him and he says, “What? Why did you laugh?” But I wasn’t laughing — just falling into a habit of old familiarity. I tell him that I never meant to go out with Marc, that I actually thought Marc was gay when I first met him. Cole’s eyes flick to my face. Then he changes the subject.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My best friend and I go to dinner the next day, and I tell her about my lunch with Cole.  “It sounds like you’re still in love with him,” she says. Losing my appetite, I set my crumpled napkin on the table. The wad loosens, blooming there like a white flower.<br>
+<br>
+
+![Final-6-with-Abandon-BethMarie-2.jpg](/uploads/Final-6-with-Abandon-BethMarie-2.jpg)<br>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. *“You draw circles poorly,” criticized Tom roundly.*<br>
