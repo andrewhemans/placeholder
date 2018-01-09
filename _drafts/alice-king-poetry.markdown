@@ -7,6 +7,9 @@ tags:
 - Alice King
 - Poet
 - Poetry
+- Raft
+- Memory
+- They
 author: Alice King
 author-block: true
 author-bio: Alice King is currently a senior at Longwood University and studies under
@@ -81,3 +84,5 @@ Abrasions<br>
 Scraped knees and a sore head<br>
 <br>
 <br>
+<br>
+Follow Alice King on [Twitter](https://twitter.com/alliewen21)
