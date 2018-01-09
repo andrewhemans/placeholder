@@ -201,5 +201,5 @@ With Abandon: A Courtship in Tom Swifties and Flowers<br>
 Nancy McCabe's website: [nancymccabe.net](http://www.nancymccabe.net/)<br>
 <br>
 
-Photography courtesy of Beth Marie
+*Photography courtesy of Beth Marie*
 Instagram: [@pennyreadwriter](https://www.instagram.com/pennyreadwriter/)
