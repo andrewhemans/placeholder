@@ -3,6 +3,13 @@ title: KJ Hannah Greenberg Poems
 date: 2018-01-10 21:15:00 -08:00
 categories:
 - Literature
+tags:
+- KJ Hannah Greenberg
+- Poet
+- Poetry
+- Tending Her Rows of Perrenials
+- Omitting Sounds
+- Things that Chew
 author: KJ Hannah Greenberg
 author-bio: 'Sometime after the Mesozoic Era, KJ Hannah Greenberg became a Rhetoric
   Professor. She taught writing, speaking, all manner of communication courses, and
