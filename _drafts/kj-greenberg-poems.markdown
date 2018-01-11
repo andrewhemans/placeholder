@@ -1,6 +1,6 @@
 ---
 title: KJ Hannah Greenberg Poems
-date: 2018-01-10 21:15:00 -08:00
+date: 2018-01-13 14:00:00 -08:00
 categories:
 - Literature
 tags:
@@ -11,6 +11,8 @@ tags:
 - Omitting Sounds
 - Things that Chew
 author: KJ Hannah Greenberg
+author-block: true
+author-image: "/uploads/KJ-Hannah-Greenberg-profile.jpg"
 author-bio: 'Sometime after the Mesozoic Era, KJ Hannah Greenberg became a Rhetoric
   Professor. She taught writing, speaking, all manner of communication courses, and
   intermittent courses in sociology. She won National Endowment for the Humanities
