@@ -1,9 +1,20 @@
 ---
-title: "(KJ) Greenberg Poems"
+title: KJ Hannah Greenberg Poems
 date: 2018-01-10 21:15:00 -08:00
 categories:
 - Literature
 author: KJ Hannah Greenberg
+author-bio: 'Sometime after the Mesozoic Era, KJ Hannah Greenberg became a Rhetoric
+  Professor. She taught writing, speaking, all manner of communication courses, and
+  intermittent courses in sociology. She won National Endowment for the Humanities
+  money as well as National Communication Association distinctions. These days, KJ
+  Hannah Greenberg writes across genres and nations. Hannah’s poetry collections are:
+  Mothers Ought to Utter Only Niceties (Unbound CONTENT, 2017),  A Grand Sociology
+  Lesson (Lit Fest Press, 2016), Dancing with Hedgehogs, (Fowlpox Press, 2014), The
+  Little Temple of My Sleeping Bag (Dancing Girl Press, 2014), Citrus-Inspired Ceramics
+  (Aldrich Press, 2013), Intelligence’s Vast Bonfires (Lazarus Media, 2012), Supernal
+  Factors (The Camel Saloon Books on Blog, 2012), Fluid & Crystallized (Fowlpox Press,
+  2012), and A Bank Robber’s Bad Luck with His Ex-Girlfriend (Unbound CONTENT, 2011)'
 ---
 
 
