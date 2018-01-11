@@ -125,3 +125,8 @@ Overweening hegemonies. Elsewise, it’s fine to encourage<br>
 Weird development, mainly of all denumerable, hairy toes.<br>
 <br>
 <br>
+
+Facebook: [KJ Hannah Greenberg](https://www.facebook.com/kjhannah.greenberg.56)<br>
+Twitter: [@KJHannahGreenbe](https://twitter.com/kjhannahgreenbe)<br>
+LinkedIn: [KJ Hannah Greenburg](https://www.linkedin.com/in/kj-hannah-greenberg-37b21718/?ppe=1)<br>
+KJ Hannah Greenberg's [Website](http://www.kjhannahgreenberg.net/)<br>
