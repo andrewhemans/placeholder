@@ -39,8 +39,6 @@ author-bio: 'Nancy McCabe''s work has appeared in numerous magazines and antholo
   anthologies, and been nominated for Best of the Net. '
 ---
 
-With Abandon: A Courtship in Tom Swifties and Flowers<br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*“I’m wearing my wedding ring,” Tom said with abandon.—anonymous* <br>
 <br>
 <br>
