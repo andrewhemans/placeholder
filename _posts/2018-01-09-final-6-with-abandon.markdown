@@ -1,5 +1,5 @@
 ---
-title: With Abandon
+title: 'With Abandon: A Courtship in Tom Swifties and Flowers'
 date: 2018-01-09 14:00:00 -08:00
 categories:
 - Literature
