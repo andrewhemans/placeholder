@@ -42,7 +42,6 @@ author-bio: 'Linda McKenney is a Personal Life Coach and Motivational Speaker.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To mimic a true kidnapper, I had cut up little pieces of paper and glued them on a larger sheet. John’s good at discovery, so I prepared all of this at home — no way to trace it to work materials, which, for John, would have compounded this caper, because I would be misappropriating company supplies.
 The first note says: 
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I place the note in the envelope and scribble John’s name on it with my left hand to disguise my signature. I lock up my office, then the outer door and go for coffee next door. John usually comes in before me, and I don’t want to cast any suspicion by being there when he arrives. On my way to the elevator, I bury the envelope in the receptionist’s inbox. She 	distributes these envelopes throughout the floor.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I return at 8:30 AM to bedlam. John is scurrying from office to office, trying to sniff out where his plant is and who sent the note. As soon as I exit the elevator, he accosts me, describing the details of the situation in his sing-song voice. I feign surprise. He follows me to my office.
