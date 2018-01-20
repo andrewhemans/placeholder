@@ -34,7 +34,11 @@ image: "/uploads/cafeopen-walker.jpg"
 author: Rov Grunsky
 description: Here's the best vegan and vegetarian places in Stockton from a long-time
   vegan.
-author-block: false
+author-block: true
+author-bio: 'Rov Grunsky is a passionate musician, DJ, poet and artist based in Stockton,
+  CA. Rov is the founder of the Crystal Banana Channel podcast, which provides an
+  online platform for emerging DJ’s and electronic musicians to showcase and broadcast
+  their art. '
 ---
 
 Eating out in Stockton, Calif., can often be frustrating for vegans. But do not fear! There are, in fact, places to go to satisfy your cravings without having to travel to far-off, distant lands. From falafel, to pizza, to curry, Stockton has something for everyone.
