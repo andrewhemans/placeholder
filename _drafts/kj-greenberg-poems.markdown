@@ -10,7 +10,17 @@ tags:
 - Tending Her Rows of Perrenials
 - Omitting Sounds
 - Things that Chew
+- Psychiatry
+- mental disorder
+- morality
+- social issues
+- Community
+- failure
+- political
+- political poetry
 author: KJ Hannah Greenberg
+description: Poetic themes of morality, psychiatry, and political and social issues.
+  Original poems by KJ Hannah Greenburg.
 author-block: true
 author-image: "/uploads/KJ-Hannah-Greenberg-profile.jpg"
 author-bio: 'Sometime after the Mesozoic Era, KJ Hannah Greenberg became a Rhetoric
@@ -54,6 +64,7 @@ From holding pens— until the hospital’s warden isolated her on the psych war
 There, bereft of sleep, her delamination, “among posies” was pharmaceutical.
 <br>
 <br>
+<br>
 
 **Omitting Sounds**
 
@@ -83,6 +94,7 @@ Elsewise, atrocities, penological tests, celestial effulgence, get ignored.<br>
 Mislaid.
 <br>
 <br>
+<br>
 
 **Things that Chew**
 
@@ -97,7 +109,7 @@ Sonatas, likewise taking big bites from homemade pasta,<br>
 Who burp freelanced tubas, drum sets, and new knitwear.
 
 No matter their leaders’ rhetoric, those beasts get faulted,<br>
-‘cause our population lacks moral fortitude in small rooms,<br>
+’cause our population lacks moral fortitude in small rooms,<br>
 Can’t be counted on to respond lawfully to baleful antics,<br>
 Lack ready answers, spread disease, cause wrongful deaths.
 
