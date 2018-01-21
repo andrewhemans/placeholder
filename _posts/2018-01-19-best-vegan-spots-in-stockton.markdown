@@ -75,3 +75,5 @@ Royal Siam is an atmospheric Thai restaurant with a multitude of options for veg
 Last, but certainly not least, this hidden gem is tucked away on Dorris Place, branching off the Miracle Mile. This spot is characterized by its family-owned vibes, the absolutely delicious blended mochas and other coffee drinks (many of which can be made vegan!), as well their lunch-time spreads of sandwiches, falafel plates, and salads.  While not open for dinner, House of Shaw’s great customer service and cozy atmosphere makes it the perfect destination for an afternoon pick-me-up. 
 
 Want to explore other places? Check out the [Stockton Vegan/Vegetarian Group](https://www.facebook.com/groups/stocktonveggroup/) on Facebook.
+
+*Images by Haley Walker*
