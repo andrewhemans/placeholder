@@ -32,34 +32,38 @@ author-bio: Javier Padilla and is a Geographer that grew up in Stockton, CA and 
   or climb on things.
 ---
 
-“There nothing to do in [insert Central Valley town].” If you live in Modesto, Stockton, Tracy, Lodi, Merced, Fresno, or any other town that’s not Sacramento, you’ll likely agree with that statement. For the most part, it’s right. As a teenager, going to the theater with friends or drinking at backyard shows seemed like the only things to do, which didn’t always feel safe. 
+If you live in Modesto, Stockton, Tracy, Lodi, Merced, Fresno, or any other town that’s not Sacramento, you have probably said something along the lines that “There nothing to do in [insert Central Valley town].” For the most part, it’s hard to deny. After the recession the few venues that existed were shut down. House parties and backyard shows filled some of the void, but often lacked the sense of intention that would make those events safe and uplifting.
 
-Like many, Modesto natives Andrew Cardoza and Theo Souza eventually moved away from the Central Valley. Andrew and Theo began volunteering in what used to be a large Italian neighborhood center that was converted into a collective event and work space called the [Omni Commons](https://omnicommons.org/). It was there that the pair drew inspiration for a project that they would develop in their hometown years later: [The Shire Community Space](https://www.facebook.com/TheShireCS/) in Modesto.
+Like many, Modesto natives Andrew Cardoza and Theo Souza eventually moved away from the Central Valley. They both saw more opportunities and a greater sense of community outside the valley. Theo moved up to Eureka and connected with that community, while Andrew moved to the Bay Area. In Oakland, Andrew began volunteering in what used to be a large Italian social club that was converted into a collective event and work space called the [Omni Commons.](https://omnicommons.org/)  
 
-## “Build it and they will come”
-Andrew and Theo have known each other since they were four. Growing up in Modesto, they experienced a familiar feeling: boredom. They had nothing to do in the Central Valley. When they returned to their hometown, things were the same, if not slightly worse. All-ages music venues were lacking, and there was still nothing to do.   
+It was through these experiences that the pair drew inspiration for a project that they would develop in their hometown years later: [The Shire Community Space.](https://www.facebook.com/TheShireCS/)  
+   
+## “Build it and they will come”  
+Growing up in Modesto, Andrew and Theo have experienced a familiar feeling: boredom. The pair knew each other since they were four. As teenagers, the Central Valley seemed like a desert of suburban sprawl and big box stores. After moving away from Modesto and getting a taste of the world, they returned to their hometown, were things remained the same, if not slightly worse. The community was less engaged with the arts and some of the last places to see live music had disappeared. According to Andrew, “the social scene was further fragmented by social media and the ‘Netflix and chill’ mindset that many people had fallen into. It was a cultural drought.”   
+   
+This time, however, they realized that they could do something about it.  
   
-This time, however, they could do something about it.  
-  
-Andrew and Theo started without resources. Old neighborhood centers like the Omni Commons aren’t easy to come by and expensive. The house that the pair was renting had a big garage, was in a good location, and they thought, why not here? The family that owned the house was open to the idea of converting the garage into a community space and so were the neighbors.   
-  
-Andrew and Theo solicited the help of their friends to build a stage, paint the walls, and create what became “The Shire Community Space.” Music performances, workshops, meetings, and other community events have been held there monthly since December 2015. In their first year, The Shire hosted over 80 events.  
+With just $800 hundred dollars between Andrew and Theo, they wondered if they could help bring a venue to Modesto. While a project like the Omni-Commons seemed beyond anything the two could replicate, the house that the pair was renting had a big garage and was in a good location. “Why not here?” they thought. To their surprise, the family that owned the house and most of the neighbors were open to the idea of converting the garage into a community space.
+
+Andrew and Theo solicited the help of their friends to build a stage, paint the walls, and create what became “The Shire Community Space.” Music performances, workshops, meetings, and other community events were held there monthly from December 2015 to May 2017. In their first year, The Shire hosted over 80 events.
 
 ![shire2-cardoza.jpg](/uploads/shire2-cardoza.jpg)
-  
-Andrew Cardoza, emphasized The Shire’s diversity in people and events, as well as their collective decision-making model are what have made the space so active. The Shire has garnered overwhelming support by a welcoming community. One community member, Andrew Cain, posted on The Shire’s Facebook page “The Shire has planted the seed in our community...I believe with proper nourishment and encouragement, this organization can make a huge difference.”   
-   
-The Shire’s success led them to seek a non-profit status and a new space. “We started thinking about what it would be like to take our DIY venue into downtown Modesto.”  
-     
-On Dec. 2, 2017, The Shire announced the launch of a crowdfunding campaign to move from Andrew and Theo’s garage to downtown Modesto. They are seeking to raise $35,000 during their [first crowdfunding campaign](https://www.generosity.com/community-fundraising/help-bring-the-shire-community-space-downtown) to pay for insurance, permits, licenses, and building renovations.  
-  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jeGohWSPbpo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
-  
-Andrew hopes to inspire other communities in the Central Valley to open the doors for DIY all ages venues and spaces. In his eyes, The Shire proves the importance of a shared space. When asked for advice on how to replicate the success of The Shire, Andrew shared some advice: “You can start small. Don’t focus on partying but on the community. Be the way you want the community to be and don’t be afraid to experiment or push limits.”
+
+The Shire’s diversity in people and events garnered overwhelming support by a welcoming community. One community member, Andrew Cain, posted on The Shire’s Facebook page “The Shire has planted the seed in our community…I believe with proper nourishment and encouragement, this organization can make a huge difference.”
+The Shire’s success led the growing team of volunteers to seek a non-profit status and a new space. 
+
+“We started thinking about what it would be like to take our DIY venue into downtown Modesto.” Theo recalls.   
+
 
 ![mark-oseau-building.jpg](/uploads/mark-oseau-building.jpg)
-_The Shire's new home. Photo by Mark Oseau._  
-
-![shire-cardoza.jpg](/uploads/shire-cardoza.jpg)  
+_The Shire’s new home. Photo by Mark Oseau._  
+   
+  
+On Dec. 2, 2017, The Shire announced the launch of a crowdfunding campaign to move from Andrew and Theo’s garage to downtown Modesto. They are seeking to raise $35,000 during their [first crowdfunding campaign](https://www.generosity.com/community-fundraising/help-bring-the-shire-community-space-downtown) to pay for insurance, permits, licenses, and building renovations.   
+   
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jeGohWSPbpo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>   
+      
+Andrew hopes the project inspires other communities in the Central Valley to open the doors for DIY all ages venues and spaces. In his eyes, The Shire proves the importance of a shared space. When asked for advice on how to replicate the success of The Shire, Andrew responded: “You can start small and still have a big impact. You have to do more than throw parties, you have to build community. The focus needs to be on inclusiveness, connections, and growth.. Organize in a way that reflects your vision of the ideal community to be and don’t be afraid to experiment or push limits.”   
+   
 
 _All images by Andrew Cardoza unless otherwise noted._
