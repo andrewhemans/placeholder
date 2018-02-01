@@ -22,6 +22,7 @@ tags:
 - crowdfunding
 - Motown
 - Artist Spaces
+- featured
 image: "/uploads/cardoza-modspot.jpg"
 author: Javier Padilla Reyes
 author-block: true
