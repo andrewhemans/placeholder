@@ -40,6 +40,11 @@ If you live in Modesto, Stockton, Tracy, Lodi, Merced, Fresno, or any other town
 Like many, Modesto natives Andrew Cardoza and Theo Souza eventually moved away from the Central Valley. They both saw more opportunities and a greater sense of community outside the valley. Theo moved up to Eureka and connected with that community, while Andrew moved to the Bay Area. In Oakland, Andrew began volunteering in what used to be a large Italian social club that was converted into a collective event and work space called the [Omni Commons.](https://omnicommons.org/)  
 
 It was through these experiences that the pair drew inspiration for a project that they would develop in their hometown years later: [The Shire Community Space.](https://www.facebook.com/TheShireCS/)  
+  
+  
+[![shire2-cardoza.jpg](/uploads/shire2-cardoza.jpg)
+](https://www.theshire.space)  
+  
    
 ## “Build it and they will come”  
 Growing up in Modesto, Andrew and Theo have experienced a familiar feeling: boredom. The pair knew each other since they were four. As teenagers, the Central Valley seemed like a desert of suburban sprawl and big box stores. After moving away from Modesto and getting a taste of the world, they returned to their hometown, were things remained the same, if not slightly worse. The community was less engaged with the arts and some of the last places to see live music had disappeared. According to Andrew, “the social scene was further fragmented by social media and the ‘Netflix and chill’ mindset that many people had fallen into. It was a cultural drought.”   
@@ -49,10 +54,6 @@ This time, however, they realized that they could do something about it.
 With just $800 hundred dollars between Andrew and Theo, they wondered if they could help bring a venue to Modesto. While a project like the Omni-Commons seemed beyond anything the two could replicate, the house that the pair was renting had a big garage and was in a good location. “Why not here?” they thought. To their surprise, the family that owned the house and most of the neighbors were open to the idea of converting the garage into a community space.
 
 Andrew and Theo solicited the help of their friends to build a stage, paint the walls, and create what became “The Shire Community Space.” Music performances, workshops, meetings, and other community events were held there monthly from December 2015 to May 2017. In their first year, The Shire hosted over 80 events.  
-
-  
-[![shire2-cardoza.jpg](/uploads/shire2-cardoza.jpg)
-](https://www.theshire.space)  
   
   
 The Shire’s diversity in people and events garnered overwhelming support by a welcoming community. One community member, Andrew Cain, posted on The Shire’s Facebook page “The Shire has planted the seed in our community…I believe with proper nourishment and encouragement, this organization can make a huge difference.”
