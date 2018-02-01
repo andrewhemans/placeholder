@@ -25,12 +25,14 @@ tags:
 - featured
 image: "/uploads/cardoza-modspot.jpg"
 author: Javier Padilla Reyes
+description: Started by two friends in their garage, this venue became the place to
+  be for years and is now seeking funds to move into Downtown Modesto.
 author-block: true
 author-image: "/uploads/javier%20bio.JPG"
 author-bio: Javier Padilla and is a Geographer that grew up in Stockton, CA and currently
   lives in the East Bay. He's been published by the Sacramento Bee and is the Executive
-  Director of Placeholder Magazine. On his free time he likes to ride his bike, garden,
-  or climb on things.
+  Director of Placeholder Magazine. An advocate for community spaces and environmental
+  justice, Javier spends his free time riding his bike, gardening, or climbing.
 ---
 
 If you live in Modesto, Stockton, Tracy, Lodi, Merced, Fresno, or any other town that’s not Sacramento, you have probably said something along the lines that “There nothing to do in [insert Central Valley town].” For the most part, it’s hard to deny. After the recession the few venues that existed were shut down. House parties and backyard shows filled some of the void, but often lacked the sense of intention that would make those events safe and uplifting.
