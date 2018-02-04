@@ -5,10 +5,10 @@ author: Matthew Woodman
 author-block: true
 author-image: "/uploads/Matthew%20Woodman-c4a06c.jpg"
 author-bio: Matthew Woodman teaches writing at California State University, Bakersfield,
-  and is the founding editor of [Rabid Oak](https://rabidoak.com/). His poems and
-  stories appear in recent issues of Sonora Review, Sierra Nevada Review, The Meadow,
-  The California Journal of Poetics, and Tishman Review. More of his work can be found
-  at [www.matthewwoodman.com](https://matthewwoodman.com/), and he tweets from [@rabidoak1](https://twitter.com/rabidoak1).
+  and is the founding editor of Rabid Oak (rabidoak.com/. His poems and stories appear
+  in recent issues of Sonora Review, Sierra Nevada Review, The Meadow, The California
+  Journal of Poetics, and Tishman Review. More of his work can be found at www.matthewwoodman.com,
+  and he tweets from @rabidoak1.
 ---
 
 ### **High Tension Tower**
