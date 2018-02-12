@@ -21,6 +21,12 @@ author: Melchor Sahagun III
 description: 'Looking for that extra special something for that extra special someone?
   Look no further, because this Placeholder contributor has you covered for Valentine''s
   Day. '
+author-image: "/uploads/MelchorSahagunIII.jpg"
+author-bio: Melchor Sahagun III does stuff; like, Poetry, Skateboarding, Music, Comic
+  Books, that sort of stuff. He is in his early thirties but, somehow, feels simultaneously
+  younger and much older than he is; it's weird. He's weird. You're weird. Life is
+  weird. He really doesn't know what he's doing, to be honest, but that's all right--for
+  the most part, neither do you. He likes his cats, A LOT. He likes you a lot, too
 ---
 
 The day is upon you, lovers, and once again, it's time to show your significant other just  how much they mean to you. Here are three simple gifts that anyone couldn't help but be happy to receive! 
