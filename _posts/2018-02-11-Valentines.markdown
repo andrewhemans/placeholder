@@ -22,6 +22,7 @@ author: Melchor Sahagun III
 description: 'Looking for that extra special something for that extra special someone?
   Look no further, because this Placeholder contributor has you covered for Valentine''s
   Day. '
+author-block: true
 author-image: "/uploads/MelchorSahagunIII.jpg"
 author-bio: Melchor Sahagun III does stuff; like, Poetry, Skateboarding, Music, Comic
   Books, that sort of stuff. He is in his early thirties but, somehow, feels simultaneously
