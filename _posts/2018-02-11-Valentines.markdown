@@ -17,6 +17,7 @@ tags:
 - satire
 - commentary
 - Valentine's Day
+- featured
 image: "/uploads/VDAY-2ccd41.jpeg"
 author: Melchor Sahagun III
 description: 'Looking for that extra special something for that extra special someone?
