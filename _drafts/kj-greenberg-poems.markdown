@@ -18,6 +18,7 @@ tags:
 - failure
 - political
 - political poetry
+image: "/uploads/Beth%20Marie%203%20jpeg.jpg"
 author: KJ Hannah Greenberg
 description: Poetic themes of morality, psychiatry, and political and social issues.
   Original poems by KJ Hannah Greenburg.
