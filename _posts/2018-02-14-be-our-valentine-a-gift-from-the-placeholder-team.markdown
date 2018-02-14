@@ -28,7 +28,7 @@ So we made a playlist for you.
 Okay, so we may not be the best poets, but that’s not why we are here. Whether you are romantically involved, recovering from a breakup, or just want to celebrate with your friends (Galentine’s, anyone?), we’re here for you. Placeholder members have teamed up to create a playlist full of their favorite love-related songs. Pick your favorites, or listen to them all — there’s something for everyone.  
    
    
-Your’s Truly,  
+Yours Truly,  
    
 The Placeholder Crew  
    
