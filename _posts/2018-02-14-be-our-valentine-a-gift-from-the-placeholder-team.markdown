@@ -40,16 +40,16 @@ P.S. Are there any others you would add? Let us know, and your choice may be fea
 
 ## Tracklist:
 
-*“Really Love” - D’Angelo and the Vanguard  
-*“Irene” - Rodrigo Amarante   
-*“That’s How You Know” - Amy Adams  
-*“Can You Stand The Rain” - New Edition  
-*“My Favourite Girl” - The Hit Parade   
-*“Always A Relief” - The Radio Dept.   
-*“A Teenager In Love” - The Pains of Being Pure at Heart  
-*“Live In Dreams” - Wild Nothing   
-*“Feel No Ways” - Drake   
-**“If You Think You’re Lonely Now” - Bobby Womack   
-**“Get You” - Daniel Caesar ft. Kali Uchis   
-*“Married Life” - Michael Giacchino    
-*“Amore” - Ryuichi Sakamoto   
+* “Really Love” - D’Angelo and the Vanguard  
+* “Irene” - Rodrigo Amarante   
+* “That’s How You Know” - Amy Adams  
+* “Can You Stand The Rain” - New Edition  
+* “My Favourite Girl” - The Hit Parade   
+* “Always A Relief” - The Radio Dept.   
+* “A Teenager In Love” - The Pains of Being Pure at Heart  
+* “Live In Dreams” - Wild Nothing   
+* “Feel No Ways” - Drake   
+* “If You Think You’re Lonely Now” - Bobby Womack   
+* “Get You” - Daniel Caesar ft. Kali Uchis   
+* “Married Life” - Michael Giacchino    
+* “Amore” - Ryuichi Sakamoto   
