@@ -12,6 +12,10 @@ tags:
 - mixtape
 - Placeholder
 - ideas
+image: "/uploads/v-day-vector.jpg"
+author: Placeholder Team
+description: 'Whether you''re with your loved ones or your lovely self, here''s some
+  tunes for Valentine''s Day. '
 ---
 
 Dear [your name here],
