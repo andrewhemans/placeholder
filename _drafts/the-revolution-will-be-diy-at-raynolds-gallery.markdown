@@ -37,7 +37,7 @@ All the subjects photographed by Sengstock and Thrasher are white. Porta’s wor
 
 ![therevdiy5.jpg](/uploads/therevdiy5.jpg)
 
-One of the most interesting parts of this exhibition aside from the artwork is the historical material from  the University of the Pacific’s archives from the civil rights struggle for racial social justice in the 60’s and 70’s. Also the student body of UOP and the local music scene, which are often disconnected will be overlapping. The exhibition will conclude with a free, all-ages show of Punk and Metal bands [NDN Giver](http://ndngiver.bandcamp.com), [Cheap Shoes](http://cheapshoes.bandcamp.com), [Knee Deep](http://knewwdeepca.bandcamp.com), and [xMalcolmx](http://xmalcomx.bandcamp.com) on April 13, 7 - 10 p.m. preceded by an art talk by Garrett Daniels at 6pm on the same day. 
+One of the most interesting parts of this exhibition aside from the artwork is the historical material from  the University of the Pacific’s archives from the civil rights struggle for racial social justice in the 60’s and 70’s. Also the student body of UOP and the local music scene, which are often disconnected will be overlapping. The exhibition will conclude with a free, all-ages show of Punk and Metal bands [NDN Giver](http://ndngiver.bandcamp.com), [Cheap Shoes](http://cheapshoes.bandcamp.com), [Knee Deep](http://knewwdeepca.bandcamp.com), and [xMalcolmx](http://xmalcomx.bandcamp.com) on April 13, 7 - 10 p.m. preceded by an art talk by Garrett Daniells at 6pm on the same day. 
 
 ![29664207_10216011879798281_1540165636_n.jpg](/uploads/29664207_10216011879798281_1540165636_n.jpg)
 P.S. This excerpt form Indiana Jones' Raiders of the Lost Arch was filmed at UOP. 
