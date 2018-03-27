@@ -21,7 +21,7 @@ author-bio: Aida Lizalde is a Mexican artist and arts professional based in nort
   Bult Gallery, Verge Center for the Arts, and the Manetti Shrem Museum.
 ---
 
-I had the pleasure of visiting the Reynolds Gallery at the Jeannette Powell Art Center of Pacific University’s Art Department. The gallery is a big open space with lots of natural light, sectioned by two rooms that serve as an art space. The Revolution Will Be D.I.Y is the current exhibition on view. It is a month-long event composed of installations, collaborative projects, and performances organized by Lisa Cooperman, the new University Curator, [Goodstock Productions](http://www.goodstockca.com/), and [Garrett Daniells](http://cargocollective.com/garrettcdaniells/filter/Mural/CV). 
+What do shopping carts, punks and Indiana Jones have in common? Stockton. I had the pleasure of visiting the Reynolds Gallery at the Jeannette Powell Art Center of Pacific University’s Art Department. The gallery is a big open space with lots of natural light, sectioned by two rooms that serve as an art space. The Revolution Will Be D.I.Y is the current exhibition on view. It is a month-long event composed of installations, collaborative projects, and performances organized by Lisa Cooperman, the new University Curator, [Goodstock Productions](http://www.goodstockca.com/), and [Garrett Daniells](http://cargocollective.com/garrettcdaniells/filter/Mural/CV). 
 
 ![therevdiy-min.jpg](/uploads/therevdiy-min.jpg)
 
