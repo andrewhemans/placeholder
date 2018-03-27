@@ -29,15 +29,15 @@ The space is divided modularly by a section with “craftivism” where the publ
 
 ![therevdiy1-min.jpg](/uploads/therevdiy1-min.jpg)
 
-*Desert Cornucopia* is surrounded by several photo series representing different Punk Scenes in and outside the region from the 90’s on. The one that I was most interested on was Jacob Porta’s, because his photographic skill seemed more impressive than the others, but also because his photos are genuine and spontaneous. I saw some familiar faces in there, but also I noticed they represented a much more culturally diverse scene. 
+*Desert Cornucopia* is surrounded by several photo series representing different Punk Scenes in and outside the region from the 90’s on. The one that I was most interested in was Jacob Porta’s, because his photographic compositions were more impressive than the others, but also because his photos are genuine and spontaneous. I saw some familiar faces in there, but also I noticed they represented a much more culturally diverse scene. 
 
 > Porta described his series as connected to the challenging nature of the city of Stockton and the ethos of the Punk D.I.Y scene and its devotion to the community. 
 
-All the subjects photographed by Sengstock and Thrasher are white, yet Porta’s work unintentionally portrayed a more inclusive scene, also a more current one in Stockton. Porta’s work unintentionally portrayed a the more current and diverse Stockton Punk scene. Porta’s work Youth Museum can be found online as well on  [youthmuseum.party](https://youthmuseum.party/) 
+All the subjects photographed by Sengstock and Thrasher are white. Porta’s work unintentionally portrayed the more current and diverse Stockton music scene. Porta’s work can be found online as well on  [youthmuseum.party](https://youthmuseum.party/) 
 
 ![therevdiy5.jpg](/uploads/therevdiy5.jpg)
 
-The most interesting part of this exhibition aside from the visuals is the historical context between the University of the Pacific’s history of civil rights struggle for race social justice in the 60’s and 70’s, and also the seemingly new juxtaposition between an often disconnected student body of UOP and the music scene of the local youth. The exhibition will conclude with a free, all-ages show of Punk and Metal bands [NDN Giver](http://ndngiver.bandcamp.com), [Cheap Shoes](http://cheapshoes.bandcamp.com), [Knee Deep](http://knewwdeepca.bandcamp.com), and [xMalcolmx](http://xmalcomx.bandcamp.com) on April 13, 7 - 10 p.m. preceded by an art talk by Garrett Daniels at 6pm on the same day. 
+One of the most interesting parts of this exhibition aside from the artwork is the historical material from  the University of the Pacific’s archives from the civil rights struggle for racial social justice in the 60’s and 70’s. Also the student body of UOP and the local music scene, which are often disconnected will be overlapping. The exhibition will conclude with a free, all-ages show of Punk and Metal bands [NDN Giver](http://ndngiver.bandcamp.com), [Cheap Shoes](http://cheapshoes.bandcamp.com), [Knee Deep](http://knewwdeepca.bandcamp.com), and [xMalcolmx](http://xmalcomx.bandcamp.com) on April 13, 7 - 10 p.m. preceded by an art talk by Garrett Daniels at 6pm on the same day. 
 
 ![29664207_10216011879798281_1540165636_n.jpg](/uploads/29664207_10216011879798281_1540165636_n.jpg)
 P.S. This excerpt form Indiana Jones' Raiders of the Lost Arch was filmed at UOP. 
