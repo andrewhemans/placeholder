@@ -29,7 +29,11 @@ The space is divided modularly by a section with “craftivism” where the publ
 
 ![therevdiy1-min.jpg](/uploads/therevdiy1-min.jpg)
 
-*Desert Cornucopia* is surrounded by several photo series representing different Punk Scenes in and outside the region from the 90’s on. The one that I was most interested on to was Jacob Porta’s, because his photographic skill was more impressive to the others, but also because his photos were genuine and spontaneous. I saw some familiar faces in there, but also I noticed they represented a much more culturally diverse scene. He described his series as connected to the challenging nature of the city of Stockton and the ethos of the Punk D.I.Y scene and its devotion to the community. All the subjects photographed by Sengstock and Thrasher were white, yet Porta’s work unintentionally portrayed a more inclusive scene, also a more current one in Stockton. Porta’s work Youth Museum can be found online as well on [youthmuseum.party](https://youthmuseum.party/) 
+*Desert Cornucopia* is surrounded by several photo series representing different Punk Scenes in and outside the region from the 90’s on. The one that I was most interested on to was Jacob Porta’s, because his photographic skill was more impressive to the others, but also because his photos were genuine and spontaneous. I saw some familiar faces in there, but also I noticed they represented a much more culturally diverse scene. 
+
+> Porta described his series as connected to the challenging nature of the city of Stockton and the ethos of the Punk D.I.Y scene and its devotion to the community. 
+
+All the subjects photographed by Sengstock and Thrasher were white, yet Porta’s work unintentionally portrayed a more inclusive scene, also a more current one in Stockton. Porta’s work Youth Museum can be found online as well on [youthmuseum.party](https://youthmuseum.party/) 
 
 ![therevdiy5.jpg](/uploads/therevdiy5.jpg)
 
