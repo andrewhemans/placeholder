@@ -1,5 +1,5 @@
 ---
-title: The Revolution Will Be D.I.Y at Raynolds Gallery
+title: The Revolution Will Be D.I.Y at Reynolds Gallery
 date: 2018-03-26 17:15:00 -07:00
 categories:
 - Art
