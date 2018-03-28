@@ -26,6 +26,7 @@ tags:
 - underground
 - music
 - social justice
+- featured
 image: "/uploads/therevdiy2-min.jpg"
 author: Aida Lizalde
 description: 'Review of the current exhibition at the Reynolds Gallery in University
