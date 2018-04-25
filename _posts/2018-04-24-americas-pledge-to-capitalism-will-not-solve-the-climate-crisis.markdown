@@ -1,5 +1,5 @@
 ---
-title: "“America’s Pledge” to capitalism will not solve the climate crisis"
+title: "“America’s Pledge” to Capitalism Will Not Solve the Climate Crisis"
 date: 2018-04-24 19:26:00 -07:00
 categories:
 - Culture
@@ -26,6 +26,7 @@ tags:
 - America's Pledge
 - Trump
 - We are Still In
+- featured
 image: "/uploads/refinery-richmond.jpg"
 author: Ryan Camero
 description: With the Global Climate Summit happening in San Francisco, radical arts
@@ -52,6 +53,8 @@ While he spoke about the need to keep global temperature rise below 2 degrees, t
 
 This is only one example of many in a glaring record for the celebrated governor in “climate championship” that includes [environmental racism in cap and trade](http://no-redd.com/environmental-racism-and-cap-and-trade-in-california/) programs, [pocketing money from agribusiness billionaires](https://www.motherjones.com/environment/2016/08/lynda-stewart-resnick-california-water/) to suck the rivers of the San Francisco Bay dry, and continuing to approve offshore drilling on California’s coasts. When Governor Brown receives [$9.8 million from the fossil fuel](https://popularresistance.org/big-oil-praises-gov-browns-state-of-the-state-address/) industry and receives praise for his policies from the same forces he pledges to fight against, there is an undeniable takeaway to be seen here: he is a climate capitalist saying the right things but making money for doing the wrong ones, under the table.  
 
+![california-sustainus.jpg](/uploads/california-sustainus.jpg)
+
 ## Still In for What?
 I could feel myself swelling with anger at the hypocrisy, getting red as Governor Brown spoke; this time, at COP23 in Germany, the first U.N. climate talks since Trump took office. The U.S. Climate Action Pavilion, in which the America’s Pledge launch event was held, was a red, blue and white conference center filled with people desperately desiring for a solution away from our modern, political American Nightmare. The words We Are Still In adorned tote bags and pins that were handed out, meant to be an affirmation that the United States remained committed to the Paris Agreement. I understood the dread of Trump, and the need to fight back, to come together, to mobilize a resistance.
  
@@ -59,11 +62,14 @@ I could feel myself swelling with anger at the hypocrisy, getting red as Governo
   
 Governor Brown said of the America’s Pledge that it is “a pledge you can cash.” When we look at the Governor’s track record on climate, one that allows capitalism to [continue exploiting limited resources](https://www.fastcompany.com/40439316/are-you-ready-to-consider-that-capitalism-is-the-real-problem), it’s clear that this pledge falls short of what is needed to solve our crises. One of the most esteemed speakers of this event was Laura Phillips, Senior VP of Sustainability at Wal-Mart, a multinational corporation that is widely known for [moving jobs offshore](https://www.fastcompany.com/47593/wal-mart-you-dont-know) and inflicting massive damage to local economies like Stockton's. The dissonance of seeing this corporation paraded as a leader despite its devastating impacts to communities was astounding.  
 
+![refinery-richmond.jpg](/uploads/refinery-richmond.jpg)
+
 Governor Brown declared that “when cities and states join with powerful corporations, that’s when we can get stuff done.” In a political climate that feels like the federal administration has merged with the brand of Trump®, I wondered then if the America’s Pledge was pouring our hopes into another private-sector, corporate colonization. What keeps corporations accountable and altruistic, especially since we have seen that large ones never have been before?  
 
 We interrupted his address to speak for climate justice, chanting “keep it in the ground” to ensure fossil fuels stay in the soil and named real examples of communities like the [refineries in Richmond](http://www.earthisland.org/journal/index.php/elist/eListRead/fifth_anniversary_of_chevron_richmond_refinery_fire/) affected by the governor’s neglect.  Brown revealed for himself his true colors in saying to frontline community members and indigenous activists, “Let’s put you in the ground so we can get along with the show here.”  
 
-America’s Pledge seems to be another brand of more palatable ‘progress’ that folds into the same systems erasing the struggles of indigenous peoples, those impacted on the frontlines and communities of color that, through lived experience, simply cannot see Brown as a climate champion. 
+America’s Pledge seems to be another brand of more palatable ‘progress’ that folds into the same systems erasing the struggles of indigenous peoples, those impacted on the frontlines and communities of color that, through lived experience, simply cannot see Brown as a climate champion.  
+
 The condescension did not stop. As we walked out, the majority of the audience drowned the center with “WE ARE STILL IN! WE ARE STILL IN!,” a demonizing feeling washing over us as the dissenters were painted as just making noise. Governor Brown directly responded to our action as we left, saying, “I think we are gonna need a little more intellectual content than repeating a slogan.” Yet to be honest, there were never any real opportunities for dialogue, and I’m not quite sure there ever was a chance for one.  
 
 The conclusion I gathered was: We Are Still In for capitalism and colonialism.
