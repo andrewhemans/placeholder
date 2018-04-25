@@ -84,3 +84,5 @@ Holding people in positions of power accountable and conscious of the systems of
 In actuality, we have to take a step further and center the voices of those most impacted, and channel power to the grassroots to make societal decisions about our futures informed by the people’s consensus, not elites. Corporations blind to their own crimes cannot be the heroes to solve others. Governor Brown says his coalition is not going anywhere-- and neither are those who are morally compelled to name what is wrong, even at risk of being one-dimensionalized as just “noise.”  
 
 There is no we without us. And we are still in this story, even if you try to put us in the ground to forget our struggle. 
+
+*All images by SustainUs*
