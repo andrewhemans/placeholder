@@ -1,6 +1,5 @@
 ---
-title: "“America’s Pledge” to Colonialism and Capitalism Will Not Solve the Climate
-  Crisis"
+title: "“America’s Pledge” to Capitalism Will Not Solve the Climate Crisis"
 date: 2018-04-24 19:26:00 -07:00
 categories:
 - Culture
