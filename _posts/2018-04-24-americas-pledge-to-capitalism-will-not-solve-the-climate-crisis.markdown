@@ -43,7 +43,7 @@ author-bio: 'Ryan Camero is a queer arts activist who works on climate issues an
 '
 ---
 
-With this year’s [Global Climate Action Summit](https://globalclimateactionsummit.org/) happening in San Francisco, California must take the lead in envisioning new solutions that are not rooted in capitalism and colonialism. Late last year, [America’s Pledge](https://www.americaspledgeonclimate.com/) was unveiled at the COP23 international climate talks in Bonn, Germany. Led by former New York mayor Michael Bloomberg and Governor Jerry Brown of California, the group purports to hold the country accountable to its emissions targets regardless of federal inaction. While the America’s Pledge group, which plays a role in organizing the Summit, position themselves as opposed to the Trump administration, I have to ask: is this what  resistance looks like?  
+With this year’s [Global Climate Action Summit](https://globalclimateactionsummit.org/) happening in San Francisco, it is crucial that California take the lead in envisioning new solutions that are not rooted in capitalism and colonialism. Late last year, [America’s Pledge](https://www.americaspledgeonclimate.com/) was unveiled at the COP23 international climate talks in Bonn, Germany. Led by former New York mayor Michael Bloomberg and Governor Jerry Brown of California, the group purports to hold the country accountable to its emissions targets regardless of federal inaction. While the America’s Pledge group, which plays a role in organizing the Summit, position themselves as opposed to the Trump administration, I have to ask: is this what  resistance looks like?  
 
 If we are to enable real climate action, there must be a deep awareness around the roles of capitalism and colonialism maintaining the status-quo. Instead, we should move toward genuine solutions for climate justice.   
 
@@ -77,12 +77,10 @@ The condescension did not stop. As we walked out, the majority of the audience d
 The conclusion I gathered was: We Are Still In for capitalism and colonialism.
 
 ## We Are Still In This Story
-In September, leaders from around the world will meet in San Francisco for Governor Brown’s Global Climate Action Summit. Meanwhile, a coalition of over 750 environmental and grassroots organizations have launched the [Brown’s Last Chance campaign](http://brownslastchance.org/), in an effort to ensure California leads the nation in ushering the end of fossil fuels.  
+In September, leaders from around the world will meet in San Francisco for Governor Brown’s Global Climate Action Summit. Meanwhile, a coalition of over 750 environmental and grassroots organizations have launched the [Brown’s Last Chance campaign](http://brownslastchance.org/), in an effort to ensure California leads the nation in ushering the end of fossil fuels. Will the governor listen to the demands of the communities he represents, or greenwash over them with an illusion of hollow climate leadership for the world to follow suit?
 
 Holding people in positions of power accountable and conscious of the systems of capitalism and colonialism is crucial for genuine solutions that transcend the status quo. The We Are Still In coalition remains entrenched in the systems of oppression that enabled Trump to take power. The quicker we get to naming that, the sooner the nuanced change the world needs to solve the complex crisis can happen. For all of us that see it. The marginalized, impoverished, disenfranchised, the indigenous, and those of color are still in this story for climate justice and our stories are necessary to consider in the fight for collective liberation.  
 
 In actuality, we have to take a step further and center the voices of those most impacted, and channel power to the grassroots to make societal decisions about our futures informed by the people’s consensus, not elites. Corporations blind to their own crimes cannot be the heroes to solve others. Governor Brown says his coalition is not going anywhere-- and neither are those who are morally compelled to name what is wrong, even at risk of being one-dimensionalized as just “noise.”  
 
 There is no we without us. And we are still in this story, even if you try to put us in the ground to forget our struggle. 
-
-*All images by SustainUs*
