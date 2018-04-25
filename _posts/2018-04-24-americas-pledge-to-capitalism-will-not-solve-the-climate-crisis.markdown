@@ -7,6 +7,7 @@ tags:
 - ryan camero
 - COP21
 - COP22
+- COP23
 - Global Climate Action
 - '2018'
 - San Francisco
@@ -29,8 +30,9 @@ tags:
 - featured
 image: "/uploads/refinery-richmond.jpg"
 author: Ryan Camero
-description: With the Global Climate Summit happening in San Francisco, radical arts
-  activist Ryan Camero urges California to look for solutions not rooted in capitalist.
+description: With the Global Climate Summit happening in San Francisco, arts activist
+  Ryan Camero urges California to look for solutions not rooted in capitalism and
+  colonialism.
 author-block: true
 author-image: "/uploads/Ryan.jpg"
 author-bio: 'Ryan Camero is a queer arts activist who works on climate issues and
