@@ -19,6 +19,7 @@ tags:
 - Central Valley
 - punk
 - free
+- featured
 image: "/uploads/dana-zine.jpg"
 author: Javier Padilla Reyes
 description: 'Stockton first Zine Fest will hold space for art, alternative DIY literature. '
@@ -54,5 +55,7 @@ If you are interested in participating as a zine maker, [click here.](https://ww
 * **2PM - 7PM**
 * **720 E. Weber Ave. Stockton, CA**
 * **FREE**
+  
+*Photography by Natalie Petersen*
 
 ![stkfst18-1.jpg](/uploads/stkfst18-1.jpg)
