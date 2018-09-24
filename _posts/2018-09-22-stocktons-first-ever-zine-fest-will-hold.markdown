@@ -30,7 +30,7 @@ author-bio: Javier Padilla and is a Geographer that grew up in Stockton, CA and 
   justice, Javier spends his free time riding his bike, gardening, or climbing.
 ---
 
-What is a zine? Zines are DIY cultural fragments of media. They come in all types, sizes, and can be about anything or everything. There are no rules; no HTML, drag-and-drop websites, there is no limit to what you can create, and no one to tell you that you can’t. The best part is anyone can make one.   
+What is a zine? Zines (pronounced zeens) are DIY cultural fragments of media. They come in all types, sizes, and can be about anything or everything. There are no rules; no HTML, drag-and-drop websites, there is no limit to what you can create, and no one to tell you that you can’t. The best part is anyone can make one.   
 
 Yes, we have blogs and vlogs and we tend to think of the web as a place for freedom, but with zines, authors control every aspect, from the design to the distribution. In addition, producing zines can offer an unexpected respite from the scrutiny on the internet, which can be as oppressive as it is liberating.  
 
