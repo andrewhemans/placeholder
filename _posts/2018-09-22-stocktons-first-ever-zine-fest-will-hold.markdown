@@ -38,7 +38,7 @@ One could say that zines are almost necessary alternatives to the internet.
 
 >On October 13, Stockton will host its first-ever Zine Fest.  
 
-Zine festivals are becoming more popular, with [San Francisco](www.sfzinefest.org/), [East Bay](https://www.ebabzfest.com), [San Jose](https://www.facebook.com/sbDIYzc/), and most recently [Sacramento](http://www.vergeart.com/attend/sacramento-zine-fest/)hosting yearly gatherings for this DIY hobby.  
+Zine festivals are becoming more popular, with [San Francisco](www.sfzinefest.org/), [East Bay](https://www.ebabzfest.com), [San Jose](https://www.facebook.com/sbDIYzc/), and most recently [Sacramento](http://www.vergeart.com/attend/sacramento-zine-fest/) hosting yearly gatherings for this DIY hobby.  
   
 
 ![timzine.jpg](/uploads/timzine.jpg)   
