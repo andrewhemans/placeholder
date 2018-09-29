@@ -1223,6 +1223,7 @@ ul.line-separated
 		background-blend-mode: lighten;
 	}
 
+
 	.zine-body {
 		background-color: #fff;
 		display: flex;
@@ -1275,4 +1276,26 @@ ul.line-separated
 	img.zine-image {
     max-width: 200px;
     margin: 30px 0;
+}
+
+@media screen and (max-width: 39.9375em) {
+	.zine-logo {
+
+		width: 200px;
+		height: 200px;
+	}
+	.zine-panel {
+		width: calc(100vw - 40px);
+		min-height: calc(100vh - 40px);
+
+		padding: 30px;
+		margin: 20px 0;
+
+	}
+
+	.zine-header-center {
+		width: calc(100vw - 40px);
+		height: calc(100vh - 40px);
+	}
+
 }
