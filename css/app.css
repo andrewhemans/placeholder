@@ -1191,7 +1191,7 @@ ul.line-separated
 	.zine-header {
 		background-color: #fff;
 		width: 100vw;
-		height: 100vh;
+		height: calc(100vh - 40px);
 		display: flex;
 		flex-direction: row;
 		align-items: center;
@@ -1201,6 +1201,7 @@ ul.line-separated
 	.zine-header-center {
 		width: calc(100vw - 80px);
 		height: calc(100vh - 80px);
+		margin-top: 33px;
 
 		display: flex;
 		flex-direction: row;
@@ -1223,7 +1224,9 @@ ul.line-separated
 		background-blend-mode: lighten;
 	}
 
-
+.zine-main {
+	background: #fff;
+}
 	.zine-body {
 		background-color: #fff;
 		display: flex;
@@ -1236,13 +1239,21 @@ ul.line-separated
 		min-height: calc(100vh - 80px);
 
 		padding: 30px;
-		margin: 40px 0;
+		/* margin: 40px 0; */
 
 		display: flex;
 		flex-direction: column;
 		align-items: center;
 		justify-content: center;
 	}
+
+	.zine-container {
+    padding-top: 40px;
+}
+
+.zine-last {
+	padding-bottom: 40px;
+}
 
 	.zine-text {
 		max-width: 600px;
@@ -1316,6 +1327,40 @@ p.zine-center {
     margin: 30px 0;
 }
 
+.zine-menu {
+	height: 40px;
+	border: none;
+	background-color: transparent;
+}
+
+.zine-row {
+	width: 100%;
+}
+
+.zine-ul {
+    display: flex;
+    /* flex-direction: row; */
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.zine-menu-item > a {
+	color: blue;
+	cursor: pointer;
+}
+
+.zine-menu-item > a:hover {
+	color: navy;
+	cursor: pointer;
+}
+
+.zine-menu-item a:hover:after {
+
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
 @media screen and (max-width: 39.9375em) {
 	.zine-logo {
 
@@ -1327,9 +1372,17 @@ p.zine-center {
 		min-height: calc(100vh - 40px);
 
 		padding: 30px;
-		margin: 20px 0;
+		/* margin: 20px 0; */
 
 	}
+
+	.zine-container {
+		padding-top: 20px;
+}
+
+.zine-last {
+	padding-bottom: 20px;
+}
 
 	.zine-header-center {
 		width: calc(100vw - 40px);
