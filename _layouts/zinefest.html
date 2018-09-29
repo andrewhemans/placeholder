@@ -8,7 +8,8 @@ layout: zinefest
 {% include head.html %}
 
 
-<body>
+<body class="zine-main">
+
   <header class="zine-header">
     <div class="zine-header-center zine-background">
       <div class="zine-logo">
@@ -16,7 +17,43 @@ layout: zinefest
       </div>
     </div>
   </header>
-  <div class="zine-body">
+
+  <div class="top-bar-container zine-menu" data-sticky-container>
+    <div class="sticky zine-menu" data-sticky data-options="anchor: zine-page; marginTop:0; stickyOn: small;">
+
+      <!-- <div class="title-bar" data-responsive-toggle="" data-hide-for="medium">
+        <button class="menu-icon" type="button" data-open="mobile-menu"></button>
+      </div> -->
+
+      <div class="top-bar zine-menu">
+        <div class="row main-menu zine-row">
+          <div class="top-bar-center">
+            <ul class="dropdown menu zine-ul" data-dropdown-menu>
+              <li class="menu-item zine-menu-item"><a href="#about">About</a></li>
+              <li class="menu-item zine-menu-item"><a href="#table">Get a Table</a></li>
+              <li class="menu-item zine-menu-item"><a href="#standards">Safe Space</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="mobile-menu reveal full" id="mobile-menu" data-reveal>
+
+      <button class="menu-close-button" data-close aria-label="Close modal" type="button">
+      <span aria-hidden="true">&times;</span>
+      </button>
+
+      <ul class="menu vertical mobile-vertical">
+        <li class=""><a href="#about">About</a></li>
+        <li class=""><a href="#table">Get a Table</a></li>
+        <li class=""><a href="#standards">Safe Space</a></li>
+      </ul>
+    </div> -->
+  </div>
+
+
+
+  <div class="zine-body" id="zine-page">
     <div class="zine-panel zine-background">
 
       <div class="zine-info">
@@ -28,72 +65,88 @@ layout: zinefest
       </div>
 
     </div>
-    <div class="zine-panel bg-grey">
-      <h2>About</h2>
-      <div class="zine-text">
-        <p>The Stockton Zine Fest will be an all ages, free, and open to the public showcase of DIY/alternative press zines as well as other artwork for display, trade, or purchase on Saturday, October 13th, 2018 from 2pm-7pm. It will feature 15-20 participants, live music, and video projections. The event will occur during Stockton Arts Week and is partially funded by Stockton Arts Commission and the California Arts Council.
-          </p>
-          <p>Placeholder Magazine & Tuleburg Press have partnered to create Stockton’s first Zine Festival as a culmination to a series of workshops for youth and adults over the summer. As a network of volunteer up-and-coming artists, educators, and organizers, Placeholder Magazine seeks to help cross-pollinate and promote art, literature, and culture. Tuleburg Press is an independent publishing company that works to mentor and support writers in San Joaquin County and is staffed by experienced professionals. Since 2013, both organizations have promoted literature in all forms.</p>
-      </div>
-      <p class="zine-wave">~~~~~~</p>
-    </div>
 
-
-    <div class="zine-panel zine-background">
-      <h2>Get a Table</h2>
-      <div class="zine-text">
-        <p>You may register based on the size of table you would like to use. We offer 8ft tables for FULL or HALF use. Registration fees will go towards costs and supplies needed for the Stockton Zine Fest. We hope that you understand. Please feel free to contact us if you have any questions or concerns about registration fees.</p>
-        <ul>
-          <li>FULL 8FT TABLE: $15</li>
-          <li>HALF 4FT SHARED TABLE: $10</li>
-          <li>IF $$$ IS AN ISSUE, <a href="mailto:javier@placeholdermag.com">EMAIL US!</a></li>
-        </ul>
-        <p><b>Each participant will keep 100% of their earnings from Zine Fest.</b> It is the sole responsibility each participant to determine the method of payment for any transactions made during the
-        event.</p>
-        <p class="zine-center"><a href="https://www.eventbrite.com/e/stockton-zine-fest-2018-tickets-49965879290" class="button" target="_blank">CLICK HERE TO REGISTER</a></p>
-      </div>
-    </div>
-
-    <div class="zine-panel bg-grey">
-      <h2>Safe Space Standards</h2>
-      <div class="zine-text">
-        <p><b>Attribution of the “Safe Space Policy” courtesy of EBABZ Fest</b></p>
-        <p>
-          Stockton Zine Fest 2018 is a safe space, which means that it is intended to be a welcoming, engaging, and supportive environment free of oppressive actions, behaviors, and language. Participants and attendees are asked to consider how their language and behavior impact others in attendance. This policy extends to materials presented by Zine Fest participants.
-          </p>
-          <p>
-            We will not tolerate racism, sexism, classism, ableism, homophobia, transphobia, and all other forms of discrimination, theft of money or property, or causing participants or attendees to feel distressed or unsafe.
-          </p>
-          <p>
-            The following guidelines will help Stockton Zine Fest be a safe space:
-            <ul>
-              <li>Respect people's physical and emotional boundaries. (Ex: ask before taking a photo) </li>
-              <li>Respect people’s opinions, beliefs, differing states of being, and differing points of view. </li>
-              <li>Be responsible for your actions, and be aware that they may have an effect on others regardless of original intent.</li>
-            </ul>
-          </p>
-          <p>Should an issue arise with a participant or attendee before or during the fest, the Placeholder Magazine & Tuleburg Press team will be available to hear these concerns and find a solution that is in the best interests of the community and the event being a safe space. The Placeholder Magazine & Tuleburg Press team reserves the right to ask any attendees who are violating the safe space policy to address their unsafe behavior or language, or leave the event.</p>
-      </div>
-      <p class="zine-wave">♡ ♡ ♡ ♡ ♡</p>
-    </div>
-
-    <div class="zine-panel zine-background">
-      <div class="zine-presenters">
-        <div class="zine-column large-6 columns">
-          <h2>Presented By</h2>
-          <img class="zine-image" src="/images/ph-logo.png" alt="">
-          <img class="zine-image" src="/images/tuleburg.png" alt="">
-          <img class="zine-image" src="/images/Arts-Week.png" alt="">
+    <div class="zine-container" id="about">
+      <div class="zine-panel bg-grey">
+        <h2>About</h2>
+        <div class="zine-text">
+          <p>The Stockton Zine Fest will be an all ages, free, and open to the public showcase of DIY/alternative press zines as well as other artwork for display, trade, or purchase on Saturday, October 13th, 2018 from 2pm-7pm. It will feature 15-20 participants, live music, and video projections. The event will occur during Stockton Arts Week and is partially funded by Stockton Arts Commission and the California Arts Council.
+            </p>
+            <p>Placeholder Magazine & Tuleburg Press have partnered to create Stockton’s first Zine Festival as a culmination to a series of workshops for youth and adults over the summer. As a network of volunteer up-and-coming artists, educators, and organizers, Placeholder Magazine seeks to help cross-pollinate and promote art, literature, and culture. Tuleburg Press is an independent publishing company that works to mentor and support writers in San Joaquin County and is staffed by experienced professionals. Since 2013, both organizations have promoted literature in all forms.</p>
         </div>
-        <div class="zine-column large-6 columns">
-          <h2>Sponsered By</h2>
-          <img class="zine-image" src="/images/cac.png" alt="">
-          <img class="zine-image" src="/images/sac.jpg" alt="">
+        <p class="zine-wave">~~~~~~</p>
+      </div>
+    </div>
+
+
+    <div class="zine-container"  id="table">
+      <div class="zine-panel zine-background">
+        <h2>Get a Table</h2>
+        <div class="zine-text">
+          <p>You may register based on the size of table you would like to use. We offer 8ft tables for FULL or HALF use. Registration fees will go towards costs and supplies needed for the Stockton Zine Fest. We hope that you understand. Please feel free to contact us if you have any questions or concerns about registration fees.</p>
+          <ul>
+            <li>FULL 8FT TABLE: $15</li>
+            <li>HALF 4FT SHARED TABLE: $10</li>
+            <li>IF $$$ IS AN ISSUE, <a href="mailto:javier@placeholdermag.com">EMAIL US!</a></li>
+          </ul>
+          <p><b>Each participant will keep 100% of their earnings from Zine Fest.</b> It is the sole responsibility each participant to determine the method of payment for any transactions made during the
+          event.</p>
+          <p class="zine-center"><a href="https://www.eventbrite.com/e/stockton-zine-fest-2018-tickets-49965879290" class="button" target="_blank">CLICK HERE TO REGISTER</a></p>
         </div>
       </div>
     </div>
+
+    <div class="zine-container" id="standards">
+      <div class="zine-panel bg-grey">
+        <h2>Safe Space Standards</h2>
+        <div class="zine-text">
+          <p><b>Attribution of the “Safe Space Policy” courtesy of EBABZ Fest</b></p>
+          <p>
+            Stockton Zine Fest 2018 is a safe space, which means that it is intended to be a welcoming, engaging, and supportive environment free of oppressive actions, behaviors, and language. Participants and attendees are asked to consider how their language and behavior impact others in attendance. This policy extends to materials presented by Zine Fest participants.
+            </p>
+            <p>
+              We will not tolerate racism, sexism, classism, ableism, homophobia, transphobia, and all other forms of discrimination, theft of money or property, or causing participants or attendees to feel distressed or unsafe.
+            </p>
+            <p>
+              The following guidelines will help Stockton Zine Fest be a safe space:
+              <ul>
+                <li>Respect people's physical and emotional boundaries. (Ex: ask before taking a photo) </li>
+                <li>Respect people’s opinions, beliefs, differing states of being, and differing points of view. </li>
+                <li>Be responsible for your actions, and be aware that they may have an effect on others regardless of original intent.</li>
+              </ul>
+            </p>
+            <p>Should an issue arise with a participant or attendee before or during the fest, the Placeholder Magazine & Tuleburg Press team will be available to hear these concerns and find a solution that is in the best interests of the community and the event being a safe space. The Placeholder Magazine & Tuleburg Press team reserves the right to ask any attendees who are violating the safe space policy to address their unsafe behavior or language, or leave the event.</p>
+        </div>
+        <p class="zine-wave">♡ ♡ ♡ ♡ ♡</p>
+      </div>
+    </div>
+
+    <div class="zine-container zine-last">
+      <div class="zine-panel zine-background">
+        <div class="zine-presenters">
+          <div class="zine-column large-6 columns">
+            <h2>Presented By</h2>
+            <img class="zine-image" src="/images/ph-logo.png" alt="">
+            <img class="zine-image" src="/images/tuleburg.png" alt="">
+            <img class="zine-image" src="/images/Arts-Week.png" alt="">
+          </div>
+          <div class="zine-column large-6 columns">
+            <h2>Sponsored By</h2>
+            <img class="zine-image" src="/images/cac.png" alt="">
+            <img class="zine-image" src="/images/sac.jpg" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+
 
   </div>
+
+
+  <script src="/js/vendor/jquery.js"></script>
+  <script src="/js/vendor/what-input.js"></script>
+  <script src="/js/vendor/foundation.js"></script>
+  <script src="/js/app.js"></script>
 </body>
 
 </html>
