@@ -1,6 +1,14 @@
 $(document).foundation()
 
-$(document).ready(function(){$('#zineModal').foundation('open')});
+
+if (!sessionStorage.viewed){
+  $(document).ready(function(){$('#zineModal').foundation('open')});
+  sessionStorage.viewed=1
+} else {
+  console.log("should not show modal");
+}
+
+
 
 $(function() {
   $('a[href*="#"]:not([href="#"])').click(function() {
