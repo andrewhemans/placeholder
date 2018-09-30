@@ -8,7 +8,7 @@ layout: zinefest
 {% include head.html %}
 
 
-<body class="zine-main">
+<body class="zine-main" id="top">
 
   <header class="zine-header">
     <div class="zine-header-center zine-background">
@@ -17,6 +17,13 @@ layout: zinefest
       </div>
     </div>
   </header>
+
+  <a href="#top" class="scroll-link hide-for-small-only">
+  <div class="scroll zine-scroll">
+    <p class="up-arrow">↑</p>
+    <p>up</p>
+  </div>
+</a>
 
   <div class="top-bar-container zine-menu" data-sticky-container>
     <div class="sticky zine-menu" data-sticky data-options="anchor: zine-page; marginTop:0; stickyOn: small;">
@@ -32,6 +39,7 @@ layout: zinefest
               <li class="menu-item zine-menu-item"><a href="#about">About</a></li>
               <li class="menu-item zine-menu-item"><a href="#table">Get a Table</a></li>
               <li class="menu-item zine-menu-item"><a href="#standards">Safe Space</a></li>
+              <li class="menu-item zine-menu-item"><a href="/index.html">Back to Placeholder</a></li>
             </ul>
           </div>
         </div>

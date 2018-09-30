@@ -1,5 +1,7 @@
 $(document).foundation()
 
+$(document).ready(function(){$('#zineModal').foundation('open')});
+
 $(function() {
   $('a[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -18,7 +20,7 @@ $(function() {
 
 $(document).scroll(function() {
   var y = $(this).scrollTop();
-  if (y > 800) {
+  if (y > 600) {
     $('.scroll').fadeIn();
   } else {
     $('.scroll').fadeOut();
