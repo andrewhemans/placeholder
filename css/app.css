@@ -1397,31 +1397,38 @@ button.close-button.zine-close:hover, a.zine-link:hover {
 }
 
 @media screen and (max-width: 39.9375em) {
-	.zine-logo {
+		.zine-logo {
 
-		width: 200px;
-		height: 200px;
-	}
-	.zine-panel {
-		width: calc(100vw - 40px);
-		min-height: calc(100vh - 40px);
+			width: 200px;
+			height: 200px;
+		}
+		.zine-panel {
+			width: calc(100vw - 40px);
+			min-height: calc(100vh - 40px);
 
-		padding: 30px;
-		/* margin: 20px 0; */
+			padding: 30px;
+			/* margin: 20px 0; */
 
-	}
+		}
 
-	.zine-container {
-		padding-top: 20px;
-}
+		.zine-container {
+				padding-top: 20px;
+		}
 
-.zine-last {
-	padding-bottom: 20px;
-}
+		.zine-last {
+			padding-bottom: 20px;
+		}
 
-	.zine-header-center {
-		width: calc(100vw - 40px);
-		height: calc(100vh - 40px);
-	}
+		.zine-header-center {
+			width: calc(100vw - 40px);
+			height: calc(100vh - 40px);
+		}
+
+		.splash-logo {
+			width: 60vw;
+			margin: 60px;
+			margin-top: 40%;
+
+		}
 
 }
