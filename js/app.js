@@ -1,5 +1,15 @@
 $(document).foundation()
 
+
+if (!sessionStorage.viewed){
+  $(document).ready(function(){$('#zineModal').foundation('open')});
+  sessionStorage.viewed=1
+} else {
+  console.log("should not show modal");
+}
+
+
+
 $(function() {
   $('a[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -18,7 +28,7 @@ $(function() {
 
 $(document).scroll(function() {
   var y = $(this).scrollTop();
-  if (y > 800) {
+  if (y > 600) {
     $('.scroll').fadeIn();
   } else {
     $('.scroll').fadeOut();
