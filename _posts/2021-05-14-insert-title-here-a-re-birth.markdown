@@ -8,7 +8,7 @@ description: Several years ago, a community of artists brought a grassroots-fund
   magazine into the world, in the midst of a weathered city and a daunting print industry.
   This project was inspired by good friends and good vibes, to create a record of
   a moment in time. Placeholder Magazine.
-author-block: false
+author-block: true
 author-image: "/uploads/32584480_10215255352884407_1038293646429913088_o.jpg"
 author-bio: Orion Camero is the Projects Convener of Placeholder Magazine.
 image: "/uploads/placeholder1.JPG"
