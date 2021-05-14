@@ -10,7 +10,12 @@ description: Several years ago, a community of artists brought a grassroots-fund
   a moment in time. Placeholder Magazine.
 author-block: true
 author-image: "/uploads/32584480_10215255352884407_1038293646429913088_o.jpg"
-author-bio: Orion Camero is the Projects Convener of Placeholder Magazine.
+author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder Magazine.
+  They are a coalition-builder, visual storytelling educator, and community organizer
+  with experience ranging from protecting the Delta waterways from corporate water
+  privatization to global advocacy at the United Nations against the climate crisis.
+  Orion is inspired by epic stories with ensemble casts, the fields of spiritual ecology
+  and emergent strategy, and interdisciplinary thinking.
 image: "/uploads/placeholder1.JPG"
 ---
 
@@ -30,8 +35,13 @@ while simultaneously
 
 \: *holding a fascination in wandering the many mental places we find ourselves in life, whether it’s in a new environment or within ideas of any and every kind*.
 
-So welcome to our re-birth as a born again version of Placeholder. We are both a print magazine and its digital form. We are both an organization and a series of relationships. We are a project unfolding with many more to emerge from within it. We see our work as an active exercise in building skills and an endless exploration of the most visual and sonic kind, originating in a city far too underrepresented—a mirror metaphor in our vision to capture content unseen.
+So welcome to our re-birth as a born again version of Placeholder. We are both a print magazine and its digital form. We are both an organization and a series of relationships. We are a project unfolding with many more to emerge from within it. We see our work as an active exercise in building skills and an endless exploration of the most visual and sonic kind, originating in a city far too underrepresented—a mirror metaphor in our vision to capture content unseen. And while some of us may not live in the Central Valley anymore and others of us do, we ultimately find ourselves committed by a shared vision to hold this place in all of its complexity. 
 
-Explore our archives and you might find some new thoughts, reaffirmations, or inspiration- and celebrate us as we come into a new phase of re-existence! As we close a chapter of our organization’s history through our final print issue, **A Compass in Complexity**- we're stoked to be opening a new one. More details to come soon.
+[placeholder2.JPG](/uploads/placeholder2.JPG)
+*Collage by Orion Camero.*
+
+Explore our archives and you might find some new thoughts, reaffirmations, or inspiration. As we close a chapter of our organization’s history through our final print issue, **A Compass in Complexity**- we're stoked to be opening a new one. More details to come soon.
 
 Call this a placeholder article until a better one comes along. Here’s to hoping that many will.
+
+*Cover image by Ayaana Williams.*
