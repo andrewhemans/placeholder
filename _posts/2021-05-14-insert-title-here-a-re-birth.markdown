@@ -1,6 +1,6 @@
 ---
 title: "[insert title here] : a re-birth"
-date: 2021-01-15 17:06:00 -08:00
+date: 2021-05-14 12:00:00 -07:00
 tags:
 - placeholder
 author: Orion Camero
@@ -32,6 +32,6 @@ while simultaneously
 
 So welcome to our re-birth as a born again version of Placeholder. We are both a print magazine and its digital form. We are both an organization and a series of relationships. We are a project unfolding with many more to emerge from within it. We see our work as an active exercise in building skills and an endless exploration of the most visual and sonic kind, originating in a city far too underrepresented—a mirror metaphor in our vision to capture content unseen.
 
-Explore our archives and you might find some new thoughts, reaffirmations, or inspiration- and celebrate us as we come into a new phase of re-existence! We are closing a chapter of our organization’s history through our final print issue, <b><i>A Compass in Complexity</i></b>- and opening a new one. More details to come soon.
+Explore our archives and you might find some new thoughts, reaffirmations, or inspiration- and celebrate us as we come into a new phase of re-existence! As we close a chapter of our organization’s history through our final print issue, **A Compass in Complexity**- we're stoked to be opening a new one. More details to come soon.
 
 Call this a placeholder article until a better one comes along. Here’s to hoping that many will.
