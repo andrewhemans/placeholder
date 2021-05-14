@@ -1,8 +1,14 @@
 ---
 title: "[insert title here] : a re-birth"
 date: 2021-05-14 12:00:00 -07:00
+categories:
+- Culture
 tags:
 - placeholder
+- featured
+- Community
+- non-profit
+image: "/uploads/placeholder1.JPG"
 author: Orion Camero
 description: Several years ago, a community of artists brought a grassroots-funded
   magazine into the world, in the midst of a weathered city and a daunting print industry.
@@ -16,7 +22,6 @@ author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder M
   privatization to global advocacy at the United Nations against the climate crisis.
   Orion is inspired by epic stories with ensemble casts, the fields of spiritual ecology
   and emergent strategy, and interdisciplinary thinking.
-image: "/uploads/placeholder1.JPG"
 ---
 
 Several years ago, a community of artists brought a grassroots-funded magazine into the world, in the midst of a weathered city and a daunting print industry. This project was inspired by good friends and good vibes, to create a record of a moment in time. **Placeholder Magazine**.
