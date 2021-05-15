@@ -45,7 +45,7 @@ So welcome to our re-birth as a born again version of Placeholder. We are both a
 ![placeholder2.JPG](/uploads/placeholder2.JPG)
 *Collage by Orion Camero.*
 
-Explore our archives and you'll find years worth of thoughts, reaffirmations, or inspiration. In this rebirth, Placeholder is committed to nurturing the community where we are at in real-time-  bringing forward a slate of new stories and perspectives in the coming months. As we close a chapter of our organization’s history through our final print issue, **A Compass in Complexity**- we're stoked to be opening a new one and excited to share what it looks like. More details to come soon.
+Explore our archives and you'll find years worth of thoughts, reaffirmations, or inspiration. But in this rebirth, Placeholder is looking forward to nurturing the community where we are at in real-time-  bringing forward a slate of new stories and perspectives in the coming months. As we close a chapter of our organization’s history through our final print issue, **A Compass in Complexity**- we're stoked to be opening a new one and excited to share what it looks like. More details to come soon.
 
 Call this a placeholder article until a better one comes along. Here’s to hoping that many will.
 
