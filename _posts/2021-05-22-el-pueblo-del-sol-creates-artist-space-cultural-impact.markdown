@@ -1,6 +1,7 @@
 ---
 title: El Pueblo Del Sol
 date: 2021-05-22 10:44:00 -07:00
+image: "/uploads/48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg"
 author: Jada Johnson
 author-image: "/uploads/image_72192707.JPG"
 author-bio: 'Jada is a recent graduate of San Diego State University. Five years in
