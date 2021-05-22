@@ -26,7 +26,7 @@ author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder M
 
 Several years ago, a community of artists brought a grassroots-funded magazine into the world, in the midst of a weathered city and a daunting print industry. This project was inspired by good friends and good vibes, to create a record of a moment in time. **Placeholder Magazine**.
 
-As a word, "*placeholder*" refers to objects or people whose names are temporarily forgotten, irrelevant, or unknown — it felt fitting as a counter-response to the complicated nature of our hometown. In what was known as [the most miserable city](http://time.com/23514/americas-most-miserable-city-emerges-from-bankruptcy/), we got creative — how could we make our days more varied, spark thoughtfulness, share parts of life through art? How could we create an avenue where trains of thought could run freely?
+As a word, "*placeholder*" refers to objects or people whose names are temporarily forgotten, irrelevant, or unknown — it felt fitting as a counter-response to the complicated nature of Stockton, our hometown. In what was known as [the most miserable city](http://time.com/23514/americas-most-miserable-city-emerges-from-bankruptcy/), we got creative — how could we make our days more varied, spark thoughtfulness, share parts of life through art? How could we create an avenue where trains of thought could run freely?
 
 Fast forward to the present, we find ourselves in the realization that beneath our magazine were layers of purpose — we were driven by the need to create, to connect, to communicate together.
 
