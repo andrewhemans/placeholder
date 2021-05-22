@@ -2,6 +2,13 @@
 title: El Pueblo Del Sol creates artist space, cultural impact
 date: 2021-05-22 10:44:00 -07:00
 author: Jada Johnson
+author-image: "/uploads/image_72192707.JPG"
+author-bio: 'Jada is a recent graduate of San Diego State University. Five years in
+  San Diego have been priceless, but returning to the Stockton community means everything
+  to her. She is so thankful to have an opportunity to give back to a city that has
+  given her such a strong sense of self. Jada hopes to continue the momentum already
+  flowing in Stockton so that more college graduates will embody Sankofa – returning,
+  reclaiming, and retelling a narrative that reflects the value of our community. '
 ---
 
 ![E65CBDC2-938C-4203-A84A-6F87B3140A6A.jpeg](/uploads/E65CBDC2-938C-4203-A84A-6F87B3140A6A.jpeg)![B35E69F8-4F50-42A6-B367-4D7C7068EE24.jpeg](/uploads/B35E69F8-4F50-42A6-B367-4D7C7068EE24.jpeg)
