@@ -11,7 +11,7 @@ author-bio: 'Jada is a recent graduate of San Diego State University. Five years
   reclaiming, and retelling a narrative that reflects the value of our community. '
 ---
 
-![E65CBDC2-938C-4203-A84A-6F87B3140A6A.jpeg](/uploads/E65CBDC2-938C-4203-A84A-6F87B3140A6A.jpeg)![B35E69F8-4F50-42A6-B367-4D7C7068EE24.jpeg](/uploads/B35E69F8-4F50-42A6-B367-4D7C7068EE24.jpeg)
+![2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg](/uploads/2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg)![E65CBDC2-938C-4203-A84A-6F87B3140A6A.jpeg](/uploads/E65CBDC2-938C-4203-A84A-6F87B3140A6A.jpeg)![B35E69F8-4F50-42A6-B367-4D7C7068EE24.jpeg](/uploads/B35E69F8-4F50-42A6-B367-4D7C7068EE24.jpeg)
 
 It’s no secret that Stockton, which lies on Yokuts and Miwok territory, has a reputation. For those of us who grew up here, we know what parks to avoid depending on whether the sun is out (or whether to avoid them completely). We know the corners where candles and photos polkadot the ground are in memoriam of lost loved ones (more commonly teens gone too soon). We know Madison Market used to be the spot to kick it but now even walking past the parking lot very easily could be a death sentence (ashè to the countless lives taken and transformed). To us, this is just the way it is; or at least to some of us. 
 For Luna and Luis Mario, it’s only the sun they see. Where some would say danger lurks or thrives even, Luna and Luis Mario find a village of people worthy of healing. They call it El Pueblo del Sol. For years, young creatives have brought one time art shows to the community to showcase the relationship between Stockton and creating. While others have been only one night, “We are not a pop up shop” Luna said. “We are a community, cultural celebration.” One that is mobile.
@@ -31,5 +31,3 @@ However,  “Once the white man sees that there’s no money to make here, they 
 A foundational question finds its way to Luna “Why do I feel such a royal energy here?” While Stockton was a contender for the capital of California, it never became so. Today, the city seems to be wreaking havoc on itself. 
 “Everyone deserves healing,” said Mario. 
 In order to heal, there must first be a light shined on the wounds beckoning closure. It’ll take the sun and the people too. Eventually, where folks may see a city with no purpose, there may be a generation of artists who see Stockton from an omnipotent vantage point; knowing it isn’t the money that matters here but the expression of poems, pictures, and paints which shows our rich culture.  
-
-![2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg](/uploads/2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg)
