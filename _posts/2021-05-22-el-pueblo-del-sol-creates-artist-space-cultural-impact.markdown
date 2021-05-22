@@ -2,14 +2,14 @@
 title: El Pueblo Del Sol
 date: 2021-05-22 10:44:00 -07:00
 image: "/uploads/2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg"
-author: Jada Johnson
-author-image: "/uploads/image_72192707.JPG"
 author-bio: 'Jada is a recent graduate of San Diego State University. Five years in
   San Diego have been priceless, but returning to the Stockton community means everything
   to her. She is so thankful to have an opportunity to give back to a city that has
   given her such a strong sense of self. Jada hopes to continue the momentum already
   flowing in Stockton so that more college graduates will embody Sankofa – returning,
   reclaiming, and retelling a narrative that reflects the value of our community. '
+author-image: "/uploads/image_72192707.JPG"
+author: Jada Johnson
 ---
 
 ![48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg](/uploads/48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg)
