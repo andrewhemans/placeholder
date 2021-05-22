@@ -1,5 +1,5 @@
 ---
-title: El Pueblo Del Sol creates artist space, cultural impact
+title: El Pueblo Del Sol
 date: 2021-05-22 10:44:00 -07:00
 author: Jada Johnson
 author-image: "/uploads/image_72192707.JPG"
