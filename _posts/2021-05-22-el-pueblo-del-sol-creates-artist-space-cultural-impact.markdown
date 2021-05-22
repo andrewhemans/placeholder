@@ -2,18 +2,16 @@
 title: 'El Pueblo Del Sol: Creating, Inspiring, and Celebrating'
 date: 2021-05-22 10:44:00 -07:00
 image: "/uploads/2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg"
+author: Jada Johnson
+author-block: true
+author-image: "/uploads/image_72192707.JPG"
 author-bio: 'Jada is a recent graduate of San Diego State University. Five years in
   San Diego have been priceless, but returning to the Stockton community means everything
   to her. She is so thankful to have an opportunity to give back to a city that has
   given her such a strong sense of self. Jada hopes to continue the momentum already
   flowing in Stockton so that more college graduates will embody Sankofa – returning,
   reclaiming, and retelling a narrative that reflects the value of our community. '
-author-image: "/uploads/image_72192707.JPG"
-author: Jada Johnson
 ---
-
-![48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg](/uploads/48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg)
-*Photo by Jada Johnson*
 
 It’s no secret that Stockton, which lies on Yokuts and Miwok territory, has a reputation. For those of us who grew up here, we know what parks to avoid depending on whether the sun is out (or whether to avoid them completely). We know the corners where candles and photos polkadot the ground are in memoriam of lost loved ones (more commonly teens gone too soon). We know Madison Market used to be the spot to kick it but now even walking past the parking lot very easily could be a death sentence (ashè to the countless lives taken and transformed). To us, this is just the way it is; or at least to some of us. 
 
@@ -32,6 +30,9 @@ Growing up on the decayed streets of the southside, Luis Mario from Filbert St k
 “I want youth to know that graffiti is a form of art,” said Mario. This artisan skill of spray can kaleidoscope is something he wants to perfect. 
 
 “The more you master your skills the more you heal others,” said Mario. “This brings a respectful honor to your life. There’s no reason to master a craft and be selfish by not teaching or not returning to the community.”
+
+![48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg](/uploads/48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg)
+*Photo by Jada Johnson*
 
 While most pieces of Stockton’s art are downtown, many have made their way to the tables of vendors looking to sell the ideas they’ve brought to the eye. Others have spoken them into existence through poetry readings. All of this has occurred at the events Luna and Luis Mario curate. 
 
