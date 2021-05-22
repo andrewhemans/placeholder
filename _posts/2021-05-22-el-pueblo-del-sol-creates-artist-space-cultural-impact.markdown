@@ -1,5 +1,5 @@
 ---
-title: El Pueblo Del Sol
+title: 'El Pueblo Del Sol: Creating, Inspiring, and Celebrating'
 date: 2021-05-22 10:44:00 -07:00
 image: "/uploads/2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg"
 author-bio: 'Jada is a recent graduate of San Diego State University. Five years in
