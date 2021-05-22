@@ -1,7 +1,7 @@
 ---
 title: El Pueblo Del Sol
 date: 2021-05-22 10:44:00 -07:00
-image: "/uploads/48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg"
+image: "/uploads/2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg"
 author: Jada Johnson
 author-image: "/uploads/image_72192707.JPG"
 author-bio: 'Jada is a recent graduate of San Diego State University. Five years in
@@ -12,7 +12,7 @@ author-bio: 'Jada is a recent graduate of San Diego State University. Five years
   reclaiming, and retelling a narrative that reflects the value of our community. '
 ---
 
-![2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg](/uploads/2AA36941-1AC0-4084-A6E0-27FCC9F54C69.jpeg)
+![48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg](/uploads/48C51A42-B038-4F4C-B8AC-9301419862DE.jpeg)
 *Photo by Jada Johnson*
 
 It’s no secret that Stockton, which lies on Yokuts and Miwok territory, has a reputation. For those of us who grew up here, we know what parks to avoid depending on whether the sun is out (or whether to avoid them completely). We know the corners where candles and photos polkadot the ground are in memoriam of lost loved ones (more commonly teens gone too soon). We know Madison Market used to be the spot to kick it but now even walking past the parking lot very easily could be a death sentence (ashè to the countless lives taken and transformed). To us, this is just the way it is; or at least to some of us. 
