@@ -42,7 +42,10 @@ While most pieces of Stockton’s art are downtown, many have made their way to 
 
 Luis Mario is in agreement and too, releases; but this time he expresses his faith in Stockton as a place to harvest health.
 
-“We are practicing group economics. We want our people to know they are appreciated.” said Mario. A small cupid walks by. Would you like to buy a chocolate? The value of group economics is learned young and home grown.
+“We are practicing group economics. We want our people to know they are appreciated.” said Mario. A small cupid walks by. Would you like to buy a chocolate? The value of group economics is learned young and homegrown.
+
+![99E5A765-854C-4148-AF3C-E1980201A819.jpeg](/uploads/99E5A765-854C-4148-AF3C-E1980201A819.jpeg)\
+*At El Pueblo del Sol, many vendors find each other and share stories through their crafts. Photo by Jada Johnson. *
 
 However,  “once the white man sees that there’s no money to make here, they leave,” said Luna.
 
