@@ -111,3 +111,10 @@ The memories of the people of this city matter.
 This city deserves and is worth so much more than copy-paste strip malls and big box stores.
 
 *Unless otherwise noted, photos by Natalie Petersen.*
+
+### Take Action Now:
+TODAY, May 25th is the [City Council](http://www.stocktongov.com/government/oMeetings/councilMeetings.html) meeting.
+THURSDAY, May 27th is the [Planning and Engineering Division](http://www.stocktongov.com/government/departments/communityDevelop/cdPlan.html) meeting.
+We invite you to attend if you can to make public comments highlighting the importance of local economies, public cultural space, and historic preservation. 
+
+Send our [automated mailer](https://act.newmode.net/action/209thymes/stockton-community-call-action) by filling out this form!
