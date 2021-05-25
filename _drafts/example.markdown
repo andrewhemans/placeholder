@@ -39,13 +39,13 @@ Ten-cent movies. First dates. Casual hangouts. Being introduced to Star Wars for
 
 This once magnificent gem of a building first opened its doors on June 16th, 1945. It was later renamed the Stockton Royal in 1976, with three smaller auditoriums being added onto the building. The former movie theater was once arguably Stockton’s best redevelopment project. It was a model of successful preservation and repurposing, housing nine businesses, including a popular coffee house, a bar, and eateries. All infused life into the Miracle Mile commercial district.
 
-The nine businesses within its walls created a community hive. After hanging out at Empresso Coffeehouse for a couple hours, many folks ambled out onto the Miracle Mile to restaurants and bars. The Empire perfectly complemented the Mile’s walkable urban village.\
-\
+The nine businesses within its walls created a community hive. After hanging out at Empresso Coffeehouse for a couple hours, many folks ambled out onto the Miracle Mile to restaurants and bars. The Empire perfectly complemented the Mile’s walkable urban village.
+
 “It was alive and vibrant, the center of central Stockton,” wrote Wendi Maxwell.
 
 Historically, this place was home to many massive moments, including United Farm Workers and Agricultural Workers Organizing Committee meetings and Black Panther protests. It was a venue for bands throughout the years including Fats Domino, Pavement, Green Day and more. In more recent Stockton history, it provided space for student and community organizations to meet and build. Even water rights advocacy group [Restore the Delta](http://restorethedelta.org/) made its beginnings here. When Empresso Coffeehouse was located in the theater, it was home to weekly poetry nights, open mic nights and art shows for local creatives. People of all types flocked day and night to a public space that was cross-cultural, intergenerational, safe, and equal parts quiet and social.
 
-On a more personal note, it formed the interconnective web and relational fabric that inspired Placeholder to exist in the first place- with our community finding ourselves and each other often at the coffeehouse.
+> On a more personal note, it formed the interconnective web and relational fabric that inspired Placeholder to exist in the first place- with our community finding ourselves and each other often at the coffeehouse.
 
 **![](https://lh5.googleusercontent.com/oWX4OPc6Uf9T6dzAvr9hXfthQEkUEojGBMVhsRlhkGvvFPAvJAc5GCwsbCm0F40qzb-YtGtkRul3xSUhIIOqmif3cJrrQtq815cbuC20Vpqc_w7dN340gXHvrIDyusyXlv1DcEpV)**\
 *The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.*
@@ -93,7 +93,7 @@ On May 17th, a group of people gathered as a movement of public support to prese
 
 Across the street during the action, construction was buzzing to build another Starbucks- an irony that hits hard for our town, drained of its uniqueness by the encroaching development of big business and chain stores. While some may think our cause to protect the facade and marquee just chalks up just to nostalgia, our aim and purpose goes deeper than aesthetics.
 
-The bigger lesson to learn here is how this situation speaks to how our city plans for its future, and honors its past.
+> The bigger lesson to learn here is how this situation speaks to how our city plans for its future, and honors its past.
 
 **![](https://lh6.googleusercontent.com/Gx7EGT7fy2x5mQJZqqL91Ru62a19Rce-DnS5aDMQzmEm4mt6pdjjzAyI08eNM4lTtKY0LK2FipuPSfOoTDBq5LUoc8cAckFna1wN9wfcv1teHXwksqC001l3ikANE-SQoTUcAf7Z)**\
 *Local community member Natalie Abanavas protesting to save the façade.*
