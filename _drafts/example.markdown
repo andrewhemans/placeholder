@@ -18,7 +18,7 @@ author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder M
   and emergent strategy, and interdisciplinary thinking.
 ---
 
-![Screen Shot 2021-05-24 at 10.56.12 PM.png](/uploads/Screen%20Shot%202021-05-24%20at%2010.56.12%20PM.png)\
+![Photo credit: Bank of Stockton Photo Archive.](/uploads/Screen%20Shot%202021-05-24%20at%2010.56.12%20PM.png)
 *Photo credit: Bank of Stockton Photo Archive.*
 
 Since its creation in 1945, the historic building at the edge of the Miracle Mile on 1825 Pacific Avenue has been called many names. The Stockton Theatre. The Stockton Royal. The Empire Theatre. The Promenade Building. Most recently, it was the primary location of the Empresso Coffeehouse. And for nearly 100 years, this hub of community, connection and culture served as the setting for generations of people and their memories.
@@ -35,7 +35,7 @@ Thousands of Stocktonians enjoyed memorable experiences in the Empire. Many expe
 
 Ten-cent movies. First dates. Casual hangouts. Being introduced to Star Wars for the first time. Drawing and drinking coffee together. Imagining all of the roles this place played in people’s lives made my heart even heavier when I heard about the fire.
 
-![Screen Shot 2021-05-20 at 2.35.45 PM.png](/uploads/Screen%20Shot%202021-05-20%20at%202.35.45%20PM.png)\
+![The interior of the amphitheatre in the Stockton Royal’s heyday. Photo sourced by Floyd Perry Jr.](/uploads/Screen%20Shot%202021-05-20%20at%202.35.45%20PM.png)
 *The interior of the amphitheatre in the Stockton Royal’s heyday. Photo sourced by [Floyd Perry Jr.](https://bobwilkinsthemanbehindthecigar.blogspot.com/2007/04/history-and-pictures-of-stockton-royal.html?m=1&fbclid=IwAR3Lo_bRV_620aod7KpMuanPNt5neAznmjyQWeUaCnHDemuH7aMaLyChjtE)*
 
 This once magnificent gem of a building first opened its doors on June 16th, 1945. It was later renamed the Stockton Royal in 1976, with three smaller auditoriums being added onto the building. The former movie theater was once arguably Stockton’s best redevelopment project. It was a model of successful preservation and repurposing, housing nine businesses, including a popular coffee house, a bar, and eateries. All infused life into the Miracle Mile commercial district.
@@ -48,7 +48,7 @@ Historically, this place was home to many massive moments, including United Farm
 
 > On a more personal note, it formed the interconnective web and relational fabric that inspired Placeholder to exist in the first place- with our community finding ourselves and each other often at the coffeehouse.
 
-![__8_00068.jpeg](/uploads/__8_00068.jpeg)
+![The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.](/uploads/__8_00068.jpeg)
 *The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.*
 
 On May 14th, the Empire Theatre caught ablaze in a five-alarm fire- taking with it the ancient amphitheater in the backside of the space that used to hold concerts, panels, performances and film screenings. The only story happening there that fateful Friday morning were thick and smoky tendrils drifting towards the sky, the crackling flames erasing more than the walls.
@@ -71,7 +71,7 @@ To be fair to Bennitt, the City of Stockton has been unable to secure many of it
 
 Calls to Bennitt’s attorney were not returned.
 
-![_31_00066.jpeg](/uploads/_31_00066.jpeg)
+![Local musician Cheyenne Wells protesting to save the façade.](/uploads/_31_00066.jpeg)
 *Local musician Cheyenne Wells protesting to save the façade.*
 
 > There’s a widespread hope in the community that the façade of the beloved building, including a 35-foot, Art Deco neon sign tower, can be preserved.
@@ -88,7 +88,7 @@ The building is not a total loss, Swanson pointed out.
 
 Daniells is willing to volunteer to help restore the sign. When his family’s company C.R. Glow was commissioned to restore the neon tower in the early 2000’s, it was Daniells who helped fish wire into the old sign as a little kid. For him, it’s both a sentimental and collective effort. Many community members would contribute toward that effort. But that is up to Bennitt, who for now is not responding. Perhaps, like the Empire Theatre building, he is burned out.
 
-![_32_00067.jpeg](/uploads/_32_00067.jpeg)\
+![Placeholder contributor Orion Camero being interviewed by CBS13 News while protesting to preserve the iconic facade of the theater.](/uploads/_32_00067.jpeg)\
 *Placeholder contributor Orion Camero being interviewed by [CBS13 News](https://sacramento.cbslocal.com/video/5594829-group-gathers-to-save-empire-theater-in-stockton/) while protesting to preserve the iconic facade of the theater.*
 
 On May 17th, a group of people gathered as a movement of public support to preserve the sign. While it is clear that the theatre may not be fully salvageable, it is the vision and values behind this cultural space that is activating the community to come together. The Empire Theatre and how it was held represents local business, cultural expression, and historical preservation.
@@ -97,7 +97,7 @@ Across the street during the action, construction was buzzing to build another S
 
 > The bigger lesson to learn here is how this situation speaks to how our city plans for its future, and honors its past.
 
-![_25_00060.jpeg](/uploads/_25_00060.jpeg)\
+![Local community member Natalie Abanavas protesting to save the façade.](/uploads/_25_00060.jpeg)
 *Local community member Natalie Abanavas protesting to save the façade.*
 
 Preserving part of this historic building is a metaphorical step towards a larger vision. Saving it would go a long way towards signaling three critical values we want to uplift for Stockton’s future:
@@ -106,7 +106,7 @@ Preserving part of this historic building is a metaphorical step towards a large
 
 **2) Policies that nurture local economies and businesses are vital to support our citizens, rather than caving to big business that often have no investment in our regional wellness.**
 
-**3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of [Little Manila](https://www.kqed.org/news/11872593/how-a-new-generation-of-filipinx-organizers-are-building-on-the-legacy-of-stocktons-little-manila?fbclid=IwAR0IgKy0j57HHvW4Mvwr1wduFiGirwTCYk3RSZzIXSWe0WoxaQwUygkr1M4). **
+\*\*3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of [Little Manila](https://www.kqed.org/news/11872593/how-a-new-generation-of-filipinx-organizers-are-building-on-the-legacy-of-stocktons-little-manila?fbclid=IwAR0IgKy0j57HHvW4Mvwr1wduFiGirwTCYk3RSZzIXSWe0WoxaQwUygkr1M4). \*\*
 
 The memories of the people of this city matter.
 
