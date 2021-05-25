@@ -49,7 +49,7 @@ Historically, this place was home to many massive moments, including United Farm
 
 > On a more personal note, it formed the interconnective web and relational fabric that inspired Placeholder to exist in the first place- with our community finding ourselves and each other often at the coffeehouse.
 
-![The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.](/uploads/__8_00068.jpeg)
+![__8_00068-503c80.jpeg](/uploads/__8_00068-503c80.jpeg)
 *The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.*
 
 On May 14th, the Empire Theatre caught ablaze in a five-alarm fire- taking with it the ancient amphitheater in the backside of the space that used to hold concerts, panels, performances and film screenings. The only story happening there that fateful Friday morning were thick and smoky tendrils drifting towards the sky, the crackling flames erasing more than the walls.
@@ -72,7 +72,7 @@ To be fair to Bennitt, the City of Stockton has been unable to secure many of it
 
 Calls to Bennitt’s attorney were not returned.
 
-![Local musician Cheyenne Wells protesting to save the façade.](/uploads/_31_00066.jpeg)
+![_31_00066-ed8b4b.jpeg](/uploads/_31_00066-ed8b4b.jpeg)
 *Local musician Cheyenne Wells protesting to save the façade.*
 
 > There’s a widespread hope in the community that the façade of the beloved building, including a 35-foot, Art Deco neon sign tower, can be preserved.
@@ -89,7 +89,7 @@ The building is not a total loss, Swanson pointed out.
 
 Daniells is willing to volunteer to help restore the sign. When his family’s company C.R. Glow was commissioned to restore the neon tower in the early 2000’s, it was Daniells who helped fish wire into the old sign as a little kid. For him, it’s both a sentimental and collective effort. Many community members would contribute toward that effort. But that is up to Bennitt, who for now is not responding. Perhaps, like the Empire Theatre building, he is burned out.
 
-![Placeholder contributor Orion Camero being interviewed by CBS13 News while protesting to preserve the iconic facade of the theater.](/uploads/_32_00067.jpeg)\
+![_32_00067-da26af.jpeg](/uploads/_32_00067-da26af.jpeg)\
 *Placeholder contributor Orion Camero being interviewed by [CBS13 News](https://sacramento.cbslocal.com/video/5594829-group-gathers-to-save-empire-theater-in-stockton/) while protesting to preserve the iconic facade of the theater.*
 
 On May 17th, a group of people gathered as a movement of public support to preserve the sign. While it is clear that the theatre may not be fully salvageable, it is the vision and values behind this cultural space that is activating the community to come together. The Empire Theatre and how it was held represents local business, cultural expression, and historical preservation.
@@ -98,7 +98,7 @@ Across the street during the action, construction was buzzing to build another S
 
 > The bigger lesson to learn here is how this situation speaks to how our city plans for its future, and honors its past.
 
-![Local community member Natalie Abanavas protesting to save the façade.](/uploads/_25_00060.jpeg)
+![_25_00060-9cf592.jpeg](/uploads/_25_00060-9cf592.jpeg)
 *Local community member Natalie Abanavas protesting to save the façade.*
 
 Preserving part of this historic building is a metaphorical step towards a larger vision. Saving it would go a long way towards signaling three critical values we want to uplift for Stockton’s future:
