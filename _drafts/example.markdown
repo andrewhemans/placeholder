@@ -35,6 +35,7 @@ Thousands of Stocktonians enjoyed memorable experiences in the Empire. Many expe
 Ten-cent movies. First dates. Casual hangouts. Being introduced to Star Wars for the first time. Drawing and drinking coffee together. Imagining all of the roles this place played in people’s lives made my heart even heavier when I heard about the fire.
 
 **![](https://lh4.googleusercontent.com/ecxrhc9Rz-12JpjUtxwebzicHnPFoFigdO5lyjHfLAfn_rNdAYXBKXYv-uRiBaIpPVnjG32Z5QyBNvkjLYfyvU3zgEjNnRl_oHFuL2nAZzIoIwRT6ii1vX_uebCRPmHdZS2LsU3N)**
+
 *The interior of the amphitheatre in the Stockton Royal’s heyday. Photo sourced by [Floyd Perry Jr.](https://bobwilkinsthemanbehindthecigar.blogspot.com/2007/04/history-and-pictures-of-stockton-royal.html?m=1&fbclid=IwAR3Lo_bRV_620aod7KpMuanPNt5neAznmjyQWeUaCnHDemuH7aMaLyChjtE)*
 
 This once magnificent gem of a building first opened its doors on June 16th, 1945. It was later renamed the Stockton Royal in 1976, with three smaller auditoriums being added onto the building. The former movie theater was once arguably Stockton’s best redevelopment project. It was a model of successful preservation and repurposing, housing nine businesses, including a popular coffee house, a bar, and eateries. All infused life into the Miracle Mile commercial district.
@@ -104,7 +105,7 @@ Preserving part of this historic building is a metaphorical step towards a large
 
 **2) Policies that nurture local economies and businesses are vital to support our citizens, rather than caving to big business that often have no investment in our regional wellness.**
 
-**3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of [Little Manila](https://www.kqed.org/news/11872593/how-a-new-generation-of-filipinx-organizers-are-building-on-the-legacy-of-stocktons-little-manila?fbclid=IwAR0IgKy0j57HHvW4Mvwr1wduFiGirwTCYk3RSZzIXSWe0WoxaQwUygkr1M4). **
+\*\*3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of [Little Manila](https://www.kqed.org/news/11872593/how-a-new-generation-of-filipinx-organizers-are-building-on-the-legacy-of-stocktons-little-manila?fbclid=IwAR0IgKy0j57HHvW4Mvwr1wduFiGirwTCYk3RSZzIXSWe0WoxaQwUygkr1M4). \*\*
 
 The memories of the people of this city matter.
 
@@ -113,8 +114,9 @@ This city deserves and is worth so much more than copy-paste strip malls and big
 *Unless otherwise noted, photos by Natalie Petersen.*
 
 ### Take Action Now:
+
 TODAY, May 25th is the [City Council](http://www.stocktongov.com/government/oMeetings/councilMeetings.html) meeting.
 THURSDAY, May 27th is the [Planning and Engineering Division](http://www.stocktongov.com/government/departments/communityDevelop/cdPlan.html) meeting.
-We invite you to attend if you can to make public comments highlighting the importance of local economies, public cultural space, and historic preservation. 
+We invite you to attend if you can to make public comments highlighting the importance of local economies, public cultural space, and historic preservation.
 
 Send our [automated mailer](https://act.newmode.net/action/209thymes/stockton-community-call-action) by filling out this form!
