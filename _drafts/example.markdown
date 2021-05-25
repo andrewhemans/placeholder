@@ -4,10 +4,10 @@ date: 2021-05-25 08:00:00 -07:00
 image: "/uploads/001.png"
 author: Orion Camero
 description: 'On May 17th, a group of people gathered to show there is a movement
-  of public support to preserve the sign. While it is clear that the theatre may not
-  be fully salvageable, it is the vision and values behind this cultural space that
-  is activating the community to come together. The Empire Theatre and how it was
-  held represents local business, cultural expression, and historical preservation. '
+  of public support to preserve the Empire Theatre sign. While it is clear that the
+  theatre may not be fully salvageable, it is the vision and values behind this cultural
+  space that is activating the community to come together. The Empire Theatre and
+  how it was held represents local business, cultural expression, and historical preservation. '
 author-block: true
 author-image: "/uploads/32584480_10215255352884407_1038293646429913088_o.jpg"
 author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder Magazine.
@@ -18,8 +18,7 @@ author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder M
   and emergent strategy, and interdisciplinary thinking.
 ---
 
-**![](https://lh3.googleusercontent.com/3JwTw1UNc5yCibeK9Uvlr1H8MkjuNeCq5NKffzM5WBpUa05chWK5-7dL1bCB3NuCKk_tdXALxntAYVM4KW-dps5NMbxK3a1q97DFwfwSvzZlcs_QG8JIKXMOlYi-QfnMMs6DTKSw)**\
-*Photo credit: Bank of Stockton Photo Archive.*
+**![](https://lh3.googleusercontent.com/3JwTw1UNc5yCibeK9Uvlr1H8MkjuNeCq5NKffzM5WBpUa05chWK5-7dL1bCB3NuCKk_tdXALxntAYVM4KW-dps5NMbxK3a1q97DFwfwSvzZlcs_QG8JIKXMOlYi-QfnMMs6DTKSw)***Photo credit: Bank of Stockton Photo Archive.*
 
 Since its creation in 1945, the historic building at the edge of the Miracle Mile on 1825 Pacific Avenue has been called many names. The Stockton Theatre. The Stockton Royal. The Empire Theatre. The Promenade Building. Most recently, it was the primary location of the Empresso Coffeehouse. And for nearly 100 years, this hub of community, connection and culture served as the setting for generations of people and their memories.
 
