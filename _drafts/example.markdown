@@ -73,31 +73,31 @@ Calls to Bennitt’s attorney were not returned.
 **![](https://lh5.googleusercontent.com/YEj1czhnx037q_lVclXMyPk0CGuNB561eAG2Ee1EuCGV8wdvStJoRsemQ6ALxMMp6SfpIoko4u5QbshPgrR9zM57tfxS06nt8_t8QmJeS4jxR8otRIvScJb1X97fNWk64_BlgEcZ)**\
 *Local musician Cheyenne Wells protesting to save the façade.*
 
-There’s a widespread hope in the community that the façade of the beloved building, including a 35-foot, Art Deco neon sign tower, can be preserved.\
-\
-Wes Swanson, the longtime head of the Cultural Heritage Board and still a passionate preservationist, said the façade should be preserved.\
-\
-“The building was beloved on many levels for a long time, and what else do you want from a historic building?” Swanson asked.\
-\
-The building is not a total loss, Swanson pointed out.\
-\
-“These buildings are essentially documents,” Swanson said. “You’ve burned half the contents of the last remaining Gutenberg Bible, so you throw the rest away? No, you preserve what remains.”\
-\
-“It would take two cranes and cost around $5,000 to take down the Stockton neon sign, then another $30,000 or so to restore it,” said Garrett Daniells, the Vice President of C.R. Glow sign company.\
-\
-Daniells is willing to volunteer to help restore the sign. When his family’s company C.R. Glow was commissioned to restore the neon tower in the early 2000’s, it was Daniells who helped fish wire into the old sign as a little kid. For him, it’s both a sentimental and collective effort. Many community members would contribute toward that effort. But that is up to Bennitt, who for now is not responding. Perhaps, like the Empire Theatre building, he is burned out.\
-\
+There’s a widespread hope in the community that the façade of the beloved building, including a 35-foot, Art Deco neon sign tower, can be preserved.
+
+Wes Swanson, the longtime head of the Cultural Heritage Board and still a passionate preservationist, said the façade should be preserved.
+
+“The building was beloved on many levels for a long time, and what else do you want from a historic building?” Swanson asked.
+
+The building is not a total loss, Swanson pointed out.
+
+“These buildings are essentially documents,” Swanson said. “You’ve burned half the contents of the last remaining Gutenberg Bible, so you throw the rest away? No, you preserve what remains.”
+
+“It would take two cranes and cost around $5,000 to take down the Stockton neon sign, then another $30,000 or so to restore it,” said Garrett Daniells, the Vice President of C.R. Glow sign company.
+
+Daniells is willing to volunteer to help restore the sign. When his family’s company C.R. Glow was commissioned to restore the neon tower in the early 2000’s, it was Daniells who helped fish wire into the old sign as a little kid. For him, it’s both a sentimental and collective effort. Many community members would contribute toward that effort. But that is up to Bennitt, who for now is not responding. Perhaps, like the Empire Theatre building, he is burned out.
+
 ![](https://lh6.googleusercontent.com/fCRxuPnAGvFM3gQG7nBHAfMsBV66Scs5KeoCVAHe3tL_SCMzGSQri0Dd_HkZ8WzDT0-_WlOYnnCuzDa7W1neR-AwZJWp7fQmH3HFpr0tZOOI8h3vzFx33vZlpd0pIJs5l-ZuIFi5)*Placeholder contributor Orion Camero being interviewed by [CBS13 News](https://sacramento.cbslocal.com/video/5594829-group-gathers-to-save-empire-theater-in-stockton/) while protesting to preserve the iconic facade of the theater.*\
-\
+
 On May 17th, a group of people gathered to show there is a movement of public support to preserve the sign. While it is clear that the theatre may not be fully salvageable, it is the vision and values behind this cultural space that is activating the community to come together. The Empire Theatre and how it was held represents local business, cultural expression, and historical preservation.
 
-Across the street during the action, construction was buzzing to build another Starbucks in our city- an irony that hits hard for our town, drained of its uniqueness by the encroaching development of big business and chain stores. While some may think our cause to protect the facade and marquee just chalks up just to nostalgia, our aim and purpose goes deeper than aesthetics.\
-\
-The bigger lesson to learn here is how this situation speaks to how our city plans for its future, and honors its past.\
-\
+Across the street during the action, construction was buzzing to build another Starbucks in our city- an irony that hits hard for our town, drained of its uniqueness by the encroaching development of big business and chain stores. While some may think our cause to protect the facade and marquee just chalks up just to nostalgia, our aim and purpose goes deeper than aesthetics.
+
+The bigger lesson to learn here is how this situation speaks to how our city plans for its future, and honors its past.
+
 **![](https://lh6.googleusercontent.com/Gx7EGT7fy2x5mQJZqqL91Ru62a19Rce-DnS5aDMQzmEm4mt6pdjjzAyI08eNM4lTtKY0LK2FipuPSfOoTDBq5LUoc8cAckFna1wN9wfcv1teHXwksqC001l3ikANE-SQoTUcAf7Z)**\
-*Local community member Natalie Abanavas protesting to save the façade.*\
-\
+*Local community member Natalie Abanavas protesting to save the façade.*
+
 Preserving part of this historic building is a metaphorical step towards a larger vision. Saving it would go a long way towards signaling three critical values we want to uplift for Stockton’s future:
 
 **1) Public cultural spaces that serve the community, like the Empire Theatre, are essential to the health of a city and are necessary.**
