@@ -104,7 +104,7 @@ Preserving part of this historic building is a metaphorical step towards a large
 
 **2) Policies that nurture local economies and businesses are vital to support our citizens, rather than caving to big business that often have no investment in our regional wellness.**
 
-**3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of Little Manila. **
+**3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of [Little Manila](https://www.kqed.org/news/11872593/how-a-new-generation-of-filipinx-organizers-are-building-on-the-legacy-of-stocktons-little-manila?fbclid=IwAR0IgKy0j57HHvW4Mvwr1wduFiGirwTCYk3RSZzIXSWe0WoxaQwUygkr1M4). **
 
 The memories of the people of this city matter. 
 
