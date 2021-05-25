@@ -109,3 +109,5 @@ Preserving part of this historic building is a metaphorical step towards a large
 The memories of the people of this city matter.
 
 This city deserves and is worth so much more than copy-paste strip malls and big box stores.
+
+*Unless otherwise noted, photos by Natalie Petersen.*
