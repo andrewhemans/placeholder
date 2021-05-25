@@ -1,6 +1,6 @@
 ---
 title: Stockton and the Façade of Progress
-date: 2021-05-17 18:59:00 -07:00
+date: 2021-05-25 08:00:00 -07:00
 image: "/uploads/001.png"
 author: Orion Camero
 description: 'On May 17th, a group of people gathered to show there is a movement
