@@ -3,11 +3,11 @@ title: Stockton and the Façade of Progress
 date: 2021-05-25 08:00:00 -07:00
 image: "/uploads/001.png"
 author: Orion Camero
-description: 'On May 17th, a group of people gathered to show there is a movement
-  of public support to preserve the Empire Theatre sign. While it is clear that the
-  theatre may not be fully salvageable, it is the vision and values behind this cultural
-  space that is activating the community to come together. The Empire Theatre and
-  how it was held represents local business, cultural expression, and historical preservation. '
+description: 'On May 17th, a group of people gathered as a movement of public support
+  to preserve the Empire Theatre sign. While it is clear that the theatre may not
+  be fully salvageable, it is the vision and values behind this cultural space that
+  is activating the community to come together. The Empire Theatre and how it was
+  held represents local business, cultural expression, and historical preservation. '
 author-block: true
 author-image: "/uploads/32584480_10215255352884407_1038293646429913088_o.jpg"
 author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder Magazine.
@@ -89,9 +89,9 @@ Daniells is willing to volunteer to help restore the sign. When his family’s c
 
 ![](https://lh6.googleusercontent.com/fCRxuPnAGvFM3gQG7nBHAfMsBV66Scs5KeoCVAHe3tL_SCMzGSQri0Dd_HkZ8WzDT0-_WlOYnnCuzDa7W1neR-AwZJWp7fQmH3HFpr0tZOOI8h3vzFx33vZlpd0pIJs5l-ZuIFi5)*Placeholder contributor Orion Camero being interviewed by [CBS13 News](https://sacramento.cbslocal.com/video/5594829-group-gathers-to-save-empire-theater-in-stockton/) while protesting to preserve the iconic facade of the theater.*\
 
-On May 17th, a group of people gathered to show there is a movement of public support to preserve the sign. While it is clear that the theatre may not be fully salvageable, it is the vision and values behind this cultural space that is activating the community to come together. The Empire Theatre and how it was held represents local business, cultural expression, and historical preservation.
+On May 17th, a group of people gathered as a movement of public support to preserve the sign. While it is clear that the theatre may not be fully salvageable, it is the vision and values behind this cultural space that is activating the community to come together. The Empire Theatre and how it was held represents local business, cultural expression, and historical preservation.
 
-Across the street during the action, construction was buzzing to build another Starbucks in our city- an irony that hits hard for our town, drained of its uniqueness by the encroaching development of big business and chain stores. While some may think our cause to protect the facade and marquee just chalks up just to nostalgia, our aim and purpose goes deeper than aesthetics.
+Across the street during the action, construction was buzzing to build another Starbucks- an irony that hits hard for our town, drained of its uniqueness by the encroaching development of big business and chain stores. While some may think our cause to protect the facade and marquee just chalks up just to nostalgia, our aim and purpose goes deeper than aesthetics.
 
 The bigger lesson to learn here is how this situation speaks to how our city plans for its future, and honors its past.
 
