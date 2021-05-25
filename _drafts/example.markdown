@@ -1,7 +1,7 @@
 ---
 title: Stockton and the Façade of Progress
 date: 2021-05-25 08:00:00 -07:00
-image: "/uploads/001.png"
+image: "/uploads/_18_00078.jpeg"
 author: Orion Camero
 description: 'On May 17th, a group of people gathered as a movement of public support
   to preserve the Empire Theatre sign. While it is clear that the theatre may not
