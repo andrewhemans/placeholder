@@ -3,11 +3,10 @@ title: Stockton and the Façade of Progress
 date: 2021-05-25 08:00:00 -07:00
 image: "/uploads/001.png"
 author: Orion Camero
-description: 'On May 17th, a group of people gathered as a movement of public support
-  to preserve the Empire Theatre sign. While it is clear that the theatre may not
-  be fully salvageable, it is the vision and values behind this cultural space that
-  is activating the community to come together. The Empire Theatre and how it was
-  held represents local business, cultural expression, and historical preservation. '
+description: While it is clear that the theatre may not be fully salvageable, it is
+  the vision and values behind this cultural space that is activating the community
+  to come together. The Empire Theatre and how it was held represents local business,
+  cultural expression, and historical preservation.
 author-block: true
 author-image: "/uploads/32584480_10215255352884407_1038293646429913088_o.jpg"
 author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder Magazine.
@@ -24,11 +23,11 @@ author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder M
 
 *Photo credit: Bank of Stockton Photo Archive.*
 
-Since its creation in 1945, the historic building at the edge of the Miracle Mile on 1825 Pacific Avenue has been called many names. The Stockton Theatre. The Stockton Royal. The Empire Theatre. The Promenade Building. Most recently, it was the primary location of the Empresso Coffeehouse. And for nearly 100 years, this hub of community, connection and culture served as the setting for generations of people and their memories.
+Since its creation in 1945, the historic building on the Miracle Mile on 1825 Pacific Avenue has been called many names. The Stockton Theatre. The Stockton Royal. The Empire Theatre. The Promenade Building. Most recently, it was the primary location of the Empresso Coffeehouse. And for nearly 90 years, this hub of community and culture served as the setting for generations of people and their memories.
 
 Public cultural space is essential to the health of a city. That became clear when Alyssa Leiva spoke at the demonstration to preserve whatever we could of the beloved Empire Theatre, about how the coffeehouse was an essential place to study in order to juggle graduating with multiple jobs. It was obvious when streams of comments flooded the [Stockton History](https://www.facebook.com/groups/stocktonhistory) and [Memories of Stockton](https://www.facebook.com/groups/225948760841919) pages, with loving tributes and moments that space held for generations of people dating back to 1945.
 
-Thousands of Stocktonians enjoyed memorable experiences in the Empire. Many experienced their first movie magic there when the building went by its first name, Stockton Theatre.
+Thousands of Stocktonians enjoyed memorable experiences in the Empire. Many experienced their first movie magic there.
 
 “Seen this movie (“Rebel Without a Cause”) here in 1955,” L.P. Jones posted on social media. “My first time in the theater.”
 
@@ -48,9 +47,9 @@ The nine businesses within its walls created a community hive. After hanging out
 
 “It was alive and vibrant, the center of central Stockton,” wrote Wendi Maxwell.
 
-Historically, this place was home to many massive moments, including United Farm Workers and Agricultural Workers Organizing Committee meetings and Black Panther protests. It was a venue for bands throughout the years including Fats Domino, Pavement, Green Day and more. In more recent Stockton history, it provided space for student and community organizations to meet and build. Even water rights advocacy group [Restore the Delta](http://restorethedelta.org/) made its beginnings here. When Empresso Coffeehouse was located in the theater, it was home to weekly poetry nights, open mic nights and art shows for local creatives. People of all types flocked day and night to a public space that was cross-cultural, intergenerational, safe, and equal parts quiet and social.
+Historically, this place was home to many important moments, including United Farm Workers and Agricultural Workers Organizing Committee meetings and Black Panther protests. It was a venue for bands throughout the years including Fats Domino, Pavement, Green Day and others. More recently, it provided space for student and community organizations to meet and build. Even water rights advocacy group [Restore the Delta](http://restorethedelta.org/) made its beginnings here. When Empresso Coffeehouse was located in the theater, it was home to weekly poetry nights, open mic nights and art shows for local creatives. People of all types flocked day and night to a public space that was cross-cultural, intergenerational, safe, and equal parts quiet and social.
 
-> On a more personal note, it formed the interconnective web and relational fabric that inspired Placeholder to exist in the first place- with our community finding ourselves and each other often at the coffeehouse.
+> On a more personal note, it formed the web and relational fabric that inspired Placeholder to exist in the first place- with our community finding ourselves and each other often at the coffeehouse.
 
 ![The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.](/uploads/0empresso2.jpeg)
 *The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.*
@@ -88,7 +87,7 @@ The building is not a total loss, Swanson pointed out.
 
 “These buildings are essentially documents,” Swanson said. “You’ve burned half the contents of the last remaining Gutenberg Bible, so you throw the rest away? No, you preserve what remains.”
 
-“It would take two cranes and cost around $5,000 to take down the Stockton neon sign, then another $30,000 or so to restore it,” said Garrett Daniells, the Vice President of C.R. Glow sign company.
+It would take two cranes and cost around $5,000 to take down the Stockton neon sign, then another $30,000 or so to restore it, said Garrett Daniells, the Vice President of C.R. Glow sign company.
 
 Daniells is willing to volunteer to help restore the sign. When his family’s company C.R. Glow was commissioned to restore the neon tower in the early 2000’s, it was Daniells who helped fish wire into the old sign as a little kid. For him, it’s both a sentimental and collective effort. Many community members would contribute toward that effort. But that is up to Bennitt, who for now is not responding. Perhaps, like the Empire Theatre building, he is burned out.
 
@@ -106,7 +105,7 @@ Across the street during the action, construction was buzzing to build another S
 
 Preserving part of this historic building is a metaphorical step towards a larger vision. Saving it would go a long way towards signaling three critical values we want to uplift for Stockton’s future:
 
-1. *Public cultural spaces that serve the community, like the Empire Theatre, are essential to the health of a city and are necessary.*
+1. *Public spaces that serve the community, like the Empire Theatre, are essential to the health of a city.*
 
 2. *Policies that nurture local economies and businesses are vital to support our citizens, rather than caving to big business that often have no investment in our regional wellness.*
 
