@@ -18,9 +18,10 @@ author-bio: Orion Camero (they/he/she) is the Projects Convener of Placeholder M
   and emergent strategy, and interdisciplinary thinking.
 ---
 
-*Unless otherwise noted, photos by Natalie Petersen.*\
-\
+*Unless otherwise noted, photos by Natalie Petersen.*
+
 ![Photo credit: Bank of Stockton Photo Archive.](/uploads/Screen%20Shot%202021-05-24%20at%2010.56.12%20PM.png)
+
 *Photo credit: Bank of Stockton Photo Archive.*
 
 Since its creation in 1945, the historic building at the edge of the Miracle Mile on 1825 Pacific Avenue has been called many names. The Stockton Theatre. The Stockton Royal. The Empire Theatre. The Promenade Building. Most recently, it was the primary location of the Empresso Coffeehouse. And for nearly 100 years, this hub of community, connection and culture served as the setting for generations of people and their memories.
@@ -91,7 +92,7 @@ The building is not a total loss, Swanson pointed out.
 
 Daniells is willing to volunteer to help restore the sign. When his family’s company C.R. Glow was commissioned to restore the neon tower in the early 2000’s, it was Daniells who helped fish wire into the old sign as a little kid. For him, it’s both a sentimental and collective effort. Many community members would contribute toward that effort. But that is up to Bennitt, who for now is not responding. Perhaps, like the Empire Theatre building, he is burned out.
 
-![Placeholder contributor Orion Camero being interviewed by CBS13 News while protesting to preserve the iconic façade of the theater.](/uploads/0empresso.jpeg)\
+![Placeholder contributor Orion Camero being interviewed by CBS13 News while protesting to preserve the iconic façade of the theater.](/uploads/0empresso.jpeg)
 *Placeholder contributor Orion Camero being interviewed by [CBS13 News](https://sacramento.cbslocal.com/video/5594829-group-gathers-to-save-empire-theater-in-stockton/) while protesting to preserve the iconic facade of the theater.*
 
 On May 17th, a group of people gathered as a movement of public support to preserve the sign. While it is clear that the theatre may not be fully salvageable, it is the vision and values behind this cultural space that is activating the community to come together. The Empire Theatre and how it was held represents local business, cultural expression, and historical preservation.
@@ -105,11 +106,11 @@ Across the street during the action, construction was buzzing to build another S
 
 Preserving part of this historic building is a metaphorical step towards a larger vision. Saving it would go a long way towards signaling three critical values we want to uplift for Stockton’s future:
 
-**1) Public cultural spaces that serve the community, like the Empire Theatre, are essential to the health of a city and are necessary.**
+*1) Public cultural spaces that serve the community, like the Empire Theatre, are essential to the health of a city and are necessary.
 
-**2) Policies that nurture local economies and businesses are vital to support our citizens, rather than caving to big business that often have no investment in our regional wellness.**
+2) Policies that nurture local economies and businesses are vital to support our citizens, rather than caving to big business that often have no investment in our regional wellness.
 
-**3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of [Little Manila](https://www.kqed.org/news/11872593/how-a-new-generation-of-filipinx-organizers-are-building-on-the-legacy-of-stocktons-little-manila?fbclid=IwAR0IgKy0j57HHvW4Mvwr1wduFiGirwTCYk3RSZzIXSWe0WoxaQwUygkr1M4). **
+3) Historical preservation of the spaces that hold the stories of this place is necessary to keep the unique character of Stockton intact, like the downtown neighborhood of [Little Manila](https://www.kqed.org/news/11872593/how-a-new-generation-of-filipinx-organizers-are-building-on-the-legacy-of-stocktons-little-manila?fbclid=IwAR0IgKy0j57HHvW4Mvwr1wduFiGirwTCYk3RSZzIXSWe0WoxaQwUygkr1M4). *
 
 The memories of the people of this city matter.
 
