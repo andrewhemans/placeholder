@@ -122,4 +122,4 @@ TODAY, May 25th is the Stockton [City Council](http://www.stocktongov.com/govern
 THURSDAY, May 27th is the [Planning and Engineering Division](http://www.stocktongov.com/government/departments/communityDevelop/cdPlan.html) meeting.
 We invite you to attend if you can to make public comments highlighting the Empire Theatre and the underlying importance of public cultural space, nurturing local economies, and historic preservation.
 
-Send this [automated mailer](https://act.newmode.net/action/209thymes/stockton-community-call-action) by filling out this form!
+ACT: Send this super easy-to-fill-out [automated mailer!](https://act.newmode.net/action/209thymes/stockton-community-call-action)
