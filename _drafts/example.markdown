@@ -70,7 +70,7 @@ To be fair to Bennitt, the City of Stockton has been unable to secure many of it
 
 Calls to Bennitt’s attorney were not returned.
 
-**![](https://lh5.googleusercontent.com/YEj1czhnx037q_lVclXMyPk0CGuNB561eAG2Ee1EuCGV8wdvStJoRsemQ6ALxMMp6SfpIoko4u5QbshPgrR9zM57tfxS06nt8_t8QmJeS4jxR8otRIvScJb1X97fNWk64_BlgEcZ)**\
+**![](https://lh5.googleusercontent.com/YEj1czhnx037q_lVclXMyPk0CGuNB561eAG2Ee1EuCGV8wdvStJoRsemQ6ALxMMp6SfpIoko4u5QbshPgrR9zM57tfxS06nt8_t8QmJeS4jxR8otRIvScJb1X97fNWk64_BlgEcZ)**
 *Local musician Cheyenne Wells protesting to save the façade.*
 
 There’s a widespread hope in the community that the façade of the beloved building, including a 35-foot, Art Deco neon sign tower, can be preserved.
@@ -87,7 +87,7 @@ The building is not a total loss, Swanson pointed out.
 
 Daniells is willing to volunteer to help restore the sign. When his family’s company C.R. Glow was commissioned to restore the neon tower in the early 2000’s, it was Daniells who helped fish wire into the old sign as a little kid. For him, it’s both a sentimental and collective effort. Many community members would contribute toward that effort. But that is up to Bennitt, who for now is not responding. Perhaps, like the Empire Theatre building, he is burned out.
 
-![](https://lh6.googleusercontent.com/fCRxuPnAGvFM3gQG7nBHAfMsBV66Scs5KeoCVAHe3tL_SCMzGSQri0Dd_HkZ8WzDT0-_WlOYnnCuzDa7W1neR-AwZJWp7fQmH3HFpr0tZOOI8h3vzFx33vZlpd0pIJs5l-ZuIFi5)*Placeholder contributor Orion Camero being interviewed by [CBS13 News](https://sacramento.cbslocal.com/video/5594829-group-gathers-to-save-empire-theater-in-stockton/) while protesting to preserve the iconic facade of the theater.*\
+![](https://lh6.googleusercontent.com/fCRxuPnAGvFM3gQG7nBHAfMsBV66Scs5KeoCVAHe3tL_SCMzGSQri0Dd_HkZ8WzDT0-_WlOYnnCuzDa7W1neR-AwZJWp7fQmH3HFpr0tZOOI8h3vzFx33vZlpd0pIJs5l-ZuIFi5)*Placeholder contributor Orion Camero being interviewed by [CBS13 News](https://sacramento.cbslocal.com/video/5594829-group-gathers-to-save-empire-theater-in-stockton/) while protesting to preserve the iconic facade of the theater.*
 
 On May 17th, a group of people gathered as a movement of public support to preserve the sign. While it is clear that the theatre may not be fully salvageable, it is the vision and values behind this cultural space that is activating the community to come together. The Empire Theatre and how it was held represents local business, cultural expression, and historical preservation.
 
