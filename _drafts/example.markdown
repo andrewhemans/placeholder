@@ -47,7 +47,7 @@ Historically, this place was home to many massive moments, including United Farm
 
 > On a more personal note, it formed the interconnective web and relational fabric that inspired Placeholder to exist in the first place- with our community finding ourselves and each other often at the coffeehouse.
 
-**![](https://lh5.googleusercontent.com/oWX4OPc6Uf9T6dzAvr9hXfthQEkUEojGBMVhsRlhkGvvFPAvJAc5GCwsbCm0F40qzb-YtGtkRul3xSUhIIOqmif3cJrrQtq815cbuC20Vpqc_w7dN340gXHvrIDyusyXlv1DcEpV)**\
+**![](https://lh5.googleusercontent.com/oWX4OPc6Uf9T6dzAvr9hXfthQEkUEojGBMVhsRlhkGvvFPAvJAc5GCwsbCm0F40qzb-YtGtkRul3xSUhIIOqmif3cJrrQtq815cbuC20Vpqc_w7dN340gXHvrIDyusyXlv1DcEpV)**
 *The aftermath of the amphitheatre, in the most recent fire to grace the former Empire Theatre.*
 
 On May 14th, the Empire Theatre caught ablaze in a five-alarm fire- taking with it the ancient amphitheater in the backside of the space that used to hold concerts, panels, performances and film screenings. The only story happening there that fateful Friday morning were thick and smoky tendrils drifting towards the sky, the crackling flames erasing more than the walls.
