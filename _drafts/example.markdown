@@ -54,7 +54,7 @@ On May 14th, the Empire Theatre caught ablaze in a five-alarm fire- taking with 
 
 It wasn’t the first time this beloved theater found tragedy.
 
-Spooked by the Ghost Ship Fire, the city took property owner Christopher “Kit” Bennitt to court, saying it was the only way to force him to play by fire safety rules he long ignored. As part of the action, the city evicted the nine businesses and a resident with no warning in 2017.
+Spooked by Oakland's Ghost Ship Fire, the city took property owner Christopher “Kit” Bennitt to court, saying it was the only way to force him to play by fire safety rules he long ignored. As part of the action, the city evicted the nine businesses and a resident with no warning in 2017.
 
 Bennitt says he spent a small fortune on safety improvements, but the city was impossible to satisfy. He has counter-sued. Both suits were filed in 2017, but they have barely gotten rolling. A hearing on the city’s motion for summary judgement is scheduled for Aug. 27.
 
