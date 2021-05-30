@@ -52,7 +52,7 @@ Haynes puts in lots of work for her products before she even begins to shop for 
 
 ![D5535627-00E5-40E0-8825-601EBAFB56FA.jpeg](/uploads/D5535627-00E5-40E0-8825-601EBAFB56FA.jpeg)
 ![9EB94064-0160-4B5C-AB8A-C4B90497893F.jpeg](/uploads/9EB94064-0160-4B5C-AB8A-C4B90497893F.jpeg)
-Photos by Vivienne Aguilar
+*Photos by Vivienne Aguilar*
 
 She is her first customer when it comes to her products. Najja began making skin care products for herself and continuously holds herself to her own standards.
 
@@ -61,7 +61,7 @@ Her products can easily be found on Instagram and Etsy by searching “Naturals 
 When it comes to parties, consider hitting up Leticia Paniagua, or @cakes_byleti on Instagram. She hopes to change her moniker in the future. Commission her to make you a beautiful cake to wow all your guests. 
 
 ![A994C187-78C4-4BA1-B84D-D9AD8E1A4F0C.jpeg](/uploads/A994C187-78C4-4BA1-B84D-D9AD8E1A4F0C.jpeg)
-Photo by Vivienne Aguilar
+*Photo by Vivienne Aguilar*
 
 Leticia works with ideas that customers have to present to her. Think of it like Cake Boss on TLC. Be prepared with the idea, size and details of the cake, and she will let you know the price. There is no price list for this kind of creativity.
 
