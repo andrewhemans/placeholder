@@ -3,6 +3,12 @@ title: Stocktonians Turn to Creative Entrepreneurship During the Pandemic
 date: 2021-05-30 16:33:00 -07:00
 image: "/uploads/E85ABDB4-9F38-46B4-BB2D-A445A6E58E19.jpeg"
 author: 'Vivienne Aguilar '
+author-block: true
+author-image: "/uploads/8047FC64-AACF-4275-86A0-1499A635E863.jpeg"
+author-bio: Vivienne Aguilar is a senior at CSU Monterey Bay. She had worked in journalism
+  for the past 3 years and looks forward to serving the Central Valley/Stockton community.
+  She is excited to work with Placeholder Magazine as they continue work share the
+  art and creativity we find in the city of Stockton.
 ---
 
 Renaissance revival for Stockton’s artists. Many small shops have popped up ready to fill consumer demands with the help of social media trends and entrepreneurs. 
