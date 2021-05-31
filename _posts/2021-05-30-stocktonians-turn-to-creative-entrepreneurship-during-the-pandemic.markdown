@@ -83,6 +83,6 @@ Initially, there was some concern over whether or not she wanted to be interview
 
 While seeking attention for a small business is important, it is most important that entrepreneurs, like Paniagua, are savvy and surrounded by advisors who can spot potential risks.  
 
-Paniagua has lots of advisors and supporters. She is able to turn to her mother and aunt when it comes to making and designing cakes. They have even sent her to cake decorating classes so that she could hone her skills.
+Paniagua is able to turn to her mother and aunt when it comes to making and designing cakes. They have even sent her to cake decorating classes so that she could hone her skills.
 
 These three hard working women embody what happens when creativity, drive, and brainpower can do when combined. Be on the lookout for their work. And as always SUPPORT LOCAL SMALL BUSINESS!
