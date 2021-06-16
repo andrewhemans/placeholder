@@ -59,14 +59,14 @@ In order to heal, there must first be a light shined on the wounds beckoning clo
 
 Check out [El Pueblo del Sol on Instagram](https://www.instagram.com/elpueblodelsol/?utm_medium=copy_link) to keep up with their events, with the latest below:
 
-**WHAT:** Dance Festival
-El Verano es Azul 
+**WHAT:** Dance Festival,
+El Verano es Azul
 
-[Dance and Drum Circle
-Live Music + Performances 
-Graffiti
-Art + Crafts
-Vegan Food and More]
+\[Dance and Drum Circle,
+Live Music \+ Performances,
+Graffiti,
+Art \+ Crafts,
+Vegan Food and More\]
 
 **WHEN:** Sunday, June 27th
 11am-4pm
