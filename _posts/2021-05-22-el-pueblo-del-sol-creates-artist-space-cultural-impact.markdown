@@ -45,7 +45,7 @@ Luis Mario is in agreement and too, releases; but this time he expresses his fai
 “We are practicing group economics. We want our people to know they are appreciated.” said Mario. A small cupid walks by. Would you like to buy a chocolate? The value of group economics is learned young and homegrown.
 
 ![99E5A765-854C-4148-AF3C-E1980201A819.jpeg](/uploads/99E5A765-854C-4148-AF3C-E1980201A819.jpeg)\
-*At El Pueblo del Sol, many vendors find each other and share stories through their crafts. Photo by Jada Johnson. *
+*At El Pueblo del Sol, many vendors find each other and share stories through their crafts. Photo by Jada Johnson.*
 
 However,  “once the white man sees that there’s no money to make here, they leave,” said Luna.
 
@@ -56,3 +56,21 @@ A foundational question finds its way to Luna “Why do I feel such a royal ener
 “Everyone deserves healing,” said Mario.
 
 In order to heal, there must first be a light shined on the wounds beckoning closure. It’ll take the sun and the people too. Eventually, where folks may see a city with no purpose, there may be a generation of artists who see Stockton from an omnipotent vantage point; knowing it isn’t the money that matters here but the expression of poems, pictures, and paints which shows our rich culture.
+
+Check out [El Pueblo del Sol on Instagram](https://www.instagram.com/elpueblodelsol/?utm_medium=copy_link) to keep up with their events, with the latest below:
+
+**WHAT:** Dance Festival
+El Verano es Azul 
+
+[Dance and Drum Circle
+Live Music + Performances 
+Graffiti
+Art + Crafts
+Vegan Food and More]
+
+**WHEN:** Sunday, June 27th
+11am-4pm
+
+**WHERE:** 1760 E. Sonora Street
+Stockton, CA 95205
+Free Outside Event at Stribley Park
