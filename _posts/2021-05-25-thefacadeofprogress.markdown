@@ -1,6 +1,8 @@
 ---
 title: Stockton and the Façade of Progress
 date: 2021-05-25 08:00:00 -07:00
+tags:
+- featured
 image: "/uploads/001.png"
 author: Orion Camero
 description: While it is clear that the theatre may not be fully salvageable, it is
