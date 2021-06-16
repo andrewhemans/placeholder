@@ -1,5 +1,5 @@
 ---
-title: Stocktonians Turn to Creative Entrepreneurship During the Pandemic
+title: Creative Entrepreneurship During the Pandemic
 date: 2021-05-30 16:33:00 -07:00
 image: "/uploads/E85ABDB4-9F38-46B4-BB2D-A445A6E58E19.jpeg"
 author: 'Vivienne Aguilar '
