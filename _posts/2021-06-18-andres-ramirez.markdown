@@ -3,6 +3,14 @@ title: Andres Ramirez’s moments through film
 date: 2021-06-18 10:28:00 -07:00
 image: "/uploads/E3D1BAC0-705B-4FB6-A3D0-332781CE778D.jpeg"
 author: Daniela Andrade
+author-block: true
+author-image: "/uploads/267E1ED6-435E-4B62-9041-8167219F4381.png"
+author-bio: My name is Daniela ‘Dani’ Andrade. Born and raised in Stockton, CA by
+  two wonderful Mexican parents along with my three other siblings. Proud to be Latina
+  and in a position to give back to my community. When I’m not working you can find
+  me enjoying the outdoors, taking pictures of the sky, discovering food places, wandering
+  around museums, planning my next vacation, or creating music playlists based on
+  my moods.
 ---
 
 Stockton Film Photographer Andres ‘Slum Funk’ Ramirez is an advocate for shooting film for street photography and documenting life on the South Side of Stockton; a neighborhood that is known for its high rates of crime and problematic youth culture. 
