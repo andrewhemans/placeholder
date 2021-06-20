@@ -1,16 +1,8 @@
 ---
-title: Capturing local moments through film
+title: Andres Ramirez’s moments through film
 date: 2021-06-18 10:28:00 -07:00
 image: "/uploads/E3D1BAC0-705B-4FB6-A3D0-332781CE778D.jpeg"
 author: Daniela Andrade
-author-block: true
-author-image: "/uploads/267E1ED6-435E-4B62-9041-8167219F4381.png"
-author-bio: My name is Daniela ‘Dani’ Andrade. Born and raised in Stockton, CA by
-  two wonderful Mexican parents along with my three other siblings. Proud to be Latina
-  and in a position to give back to my community. When I’m not working you can find
-  me enjoying the outdoors, taking pictures of the sky, discovering food places, wandering
-  around museums, planning my next vacation, or creating music playlists based on
-  my moods.
 ---
 
 Stockton Film Photographer Andres ‘Slum Funk’ Ramirez is an advocate for shooting film for street photography and documenting life on the South Side of Stockton; a neighborhood that is known for its high rates of crime and problematic youth culture. 
@@ -18,6 +10,7 @@ Stockton Film Photographer Andres ‘Slum Funk’ Ramirez is an advocate for sho
 Andres’ work is characterized by soft tones, black and white features with lots of vibrant colors which he largely attributes to the use of professional film. As a film lover, Andres’ work was “something” that truthfully needed to be shared with the City of Stockton. 
 
 “My first camera was literally a disposable camera from Walmart. A good friend of mine gave me my first professional film camera - Canon AE-1. It has to be one of my favorites by far.” said Ramirez. “It began when my dad took me to this lady’s yard sale when I was 10 years old and saw this old film camera that was still running. At the time, I was taking pictures of trains and getting them developed at Walgreens. I’ve always had the vision but I didn’t follow through until years later.” 
+
 ![489F11D4-63C0-418A-B400-71418AACA7F4.jpeg](/uploads/489F11D4-63C0-418A-B400-71418AACA7F4.jpeg)
 *Photos by Andres Ramirez*
 
@@ -31,4 +24,4 @@ Andres created “Slum Funk'' because it relates to his genre of film. He gives 
 
 “Taking a shot in the street could be difficult at times; dealing with people’s reaction is part of the work. It’s not always easy and can be risky. I’ve been yelled at and constantly threatened. I usually come across the same people again and have been able to hash things out. Being a street photographer you really get a kick out of Stockton, but you have to understand there is a territory to it.”
 
-So far, Stockton has been a rewarding city to photograph. To get more of Andres’ work you can follow the artist via Instagram @Slumfunk, where the local photographer shares his images, paintings, music, and more. Ramirez shares a key value for those who are interested or pursuing photography and that is “staying true to your character.” He adds “be inspired, but don’t copy the next man.” 
+So far, Stockton has been a rewarding city to photograph. To get more of Andres’ work you can follow the artist via Instagram [@Slumfunk](http://https://instagram.com/slumfunk?utm_medium=copy_link), where the local photographer shares his images, paintings, music, and more. Ramirez shares a key value for those who are interested or pursuing photography and that is “staying true to your character.” He adds “be inspired, but don’t copy the next man.” 
