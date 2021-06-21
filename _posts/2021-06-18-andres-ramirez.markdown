@@ -1,5 +1,5 @@
 ---
-title: Andres Ramirez’s moments through film
+title: Shots of Slum Funk
 date: 2021-06-18 10:28:00 -07:00
 image: "/uploads/E3D1BAC0-705B-4FB6-A3D0-332781CE778D.jpeg"
 author: Daniela Andrade
