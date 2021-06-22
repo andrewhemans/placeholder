@@ -71,6 +71,6 @@ Vegan Food and More\]
 **WHEN:** Sunday, June 27th
 11am-4pm
 
-**WHERE:** 1760 E. Sonora Street
-Stockton, CA 95205
-Free Outside Event at Stribley Park
+**WHERE:** 1562 S. El Dorado Street\
+Stockton, CA 95206\
+Free Outside Event at Michelaguas la Gordita Muniz
