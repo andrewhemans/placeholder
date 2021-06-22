@@ -13,7 +13,7 @@ author-bio: My name is Daniela ‘Dani’ Andrade. Born and raised in Stockton, 
   my moods.
 ---
 
-Stockton film photographer Andres ‘Slum Funk’ Ramirez is an advocate for shooting film for street photography and documenting life on the South Side of Stockton; a neighborhood that is known for its high rates of crime and problematic youth culture.
+Stockton film photographer, Andres ‘Slum Funk’ Ramirez, is an advocate for shooting film for street photography and documenting life on the South Side of Stockton; a neighborhood that is known for its high rates of crime and problematic youth culture.
 
 Andres’ work is characterized by soft tones, black and white features with lots of vibrant colors which he largely attributes to the use of professional film. As a film lover, Andres’ work was “something” that truthfully needed to be shared with the City of Stockton.
 
@@ -24,7 +24,7 @@ Andres’ work is characterized by soft tones, black and white features with lot
 
 The photographer ‘Slum Funk’ pursued his childhood interest and now has captured the essence of Stockton through his inspired vision from 35mm lenses. As a Stockton native, born and raised in the South Side of Stockton, he understands the local problems that often plague the city.
 
-“I’m from the slums and I grew up on funk music,” said Ramirez. “Slum Funk stuck right away and my long term goal is to keep shooting the realness that is happening in urban cities. I love to capture people because they look weird. We all look different. I like when we look raggedy and I love taking random pictures of people by surprise. I don’t ask for permission. I’m just out in public and yell out “Ayyy!” to capture the photo.”
+“I’m from the slums and I grew up on funk music,” said Ramirez. “Slum Funk stuck right away and my long term goal is to keep shooting the realness that is happening in urban cities. I love to capture people because they look weird. We all look different. I like when we look raggedy and I love taking random pictures of people by surprise. I don’t ask for permission. I’m just out in public and yell out 'Ayyy!' to capture the photo.”
 
 Andres created “Slum Funk'' because it relates to his genre of film. He gives back to his community in a way that highlights it’s dynamic issues through his candid shots. Most of his work is captured are the neighborhoods where he grew up on such as Charter Way, now known as MLK Street, Downtown, B St, and more. The historic buildings in downtown representing the city’s perseverance are simultaneously captured as well as the problematic issues that can surface along the way.
 
