@@ -72,7 +72,7 @@ City officials blame Bennitt not only for failing to secure the building from de
 
 “It’s depressing what he’s doing to other business owners on the Mile,” said District 4 Council member Susan Lenz. “He is not a good property owner.”
 
-To be fair to Bennitt, the City of Stockton has been unable to secure many of its properties from homeless people and thieves, too. As to why Bennitt has not rebuilt and reopened, that’s anybody’s guess.
+To be fair to Bennitt, the City of Stockton has been unable to secure many of its properties, too. As to why Bennitt has not rebuilt and reopened, that’s anybody’s guess.
 
 Calls to Bennitt’s attorney were not returned.
 
